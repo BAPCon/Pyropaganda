@@ -1,0 +1,15 @@
+{
+    "language": "en",
+    "initialize": true,
+    "indent_exports": true,
+    "news": {
+        "ignore_duplicate_articles": true,
+        "ignored_categories": [
+            "health",
+            "sports",
+            "travel",
+            "opinion",
+            "tech"
+        ]
+    }
+}

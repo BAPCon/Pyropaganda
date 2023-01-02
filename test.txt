@@ -1,0 +1,195 @@
+{
+    "rss": {
+        "@version": "2.0",
+        "channel": {
+            "title": "Top stories - European Parliament",
+            "link": "https://www.europarl.europa.eu/news/en",
+            "description": null,
+            "language": "EN",
+            "copyright": "\u00a9 European Union, 2023 - EP",
+            "pubDate": "Mon, 02 Jan 2023 03:00:16 GMT",
+            "item": [
+                {
+                    "title": "Top story - European Parliament\u2019s Sakharov Prize 2022 - The brave Ukrainian people honoured",
+                    "link": "https://www.europarl.europa.eu/news/en/headlines/priorities/sakharov-2022",
+                    "description": "<img src=\"https://www.europarl.europa.eu/resources/library/images/20221020PHT45211/20221020PHT45211-ms.jpg\" align=\"left\" width=\"125\" hspace=\"5\" vspace=\"0\" />The European Parliament's 2022 Sakharov Prize for Freedom of Thought has been awarded to the brave people of Ukraine, represented by their president, elected leaders and civil society.<br /> <br />Source : <a href=\"https://www.europarl.europa.eu/privacy-policy/en\">\u00a9 European Union, 2022 - EP</a>",
+                    "source": {
+                        "@url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml",
+                        "#text": "Top stories - European Parliament"
+                    },
+                    "category": {
+                        "@domain": "type",
+                        "#text": "Top story"
+                    },
+                    "pubDate": "Fri, 21 Oct 2022 08:35:08 GMT",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "TST_TST-2022-10-13-43022_EN"
+                    }
+                },
+                {
+                    "title": "Top story - This is Europe: plenary debates with EU leaders - How do EU heads of state and government see the current state of the EU?",
+                    "link": "https://www.europarl.europa.eu/news/en/headlines/priorities/this-is-europe-debates",
+                    "description": "<img src=\"https://www.europarl.europa.eu/resources/library/images/20220720PHT36004/20220720PHT36004-ms.jpg\" align=\"left\" width=\"125\" hspace=\"5\" vspace=\"0\" />In a series of plenary debates, the European Parliament invites EU leaders to share their views and solutions to the challenges facing Europe.<br /> <br />Source : <a href=\"https://www.europarl.europa.eu/privacy-policy/en\">\u00a9 European Union, 2022 - EP</a>",
+                    "source": {
+                        "@url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml",
+                        "#text": "Top stories - European Parliament"
+                    },
+                    "category": {
+                        "@domain": "type",
+                        "#text": "Top story"
+                    },
+                    "pubDate": "Fri, 09 Sep 2022 13:37:42 GMT",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "TST_TST-2022-08-04-37001_EN"
+                    }
+                },
+                {
+                    "title": "Top story - Conference on the Future of Europe: follow-up - Meeting people\u2019s expectations for the EU",
+                    "link": "https://www.europarl.europa.eu/news/en/headlines/priorities/eu-future-conference-follow-up",
+                    "description": "<img src=\"https://www.europarl.europa.eu/resources/library/images/20220613PHT32809/20220613PHT32809-ms.jpg\" align=\"left\" width=\"125\" hspace=\"5\" vspace=\"0\" />The European Parliament is working to create a more effective and democratic EU, in line with citizens\u2019 proposals at the Conference on the Future of Europe.<br /> <br />Source : <a href=\"https://www.europarl.europa.eu/privacy-policy/en\">\u00a9 European Union, 2022 - EP</a>",
+                    "source": {
+                        "@url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml",
+                        "#text": "Top stories - European Parliament"
+                    },
+                    "category": {
+                        "@domain": "type",
+                        "#text": "Top story"
+                    },
+                    "pubDate": "Mon, 13 Jun 2022 13:28:22 GMT",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "TST_TST-2022-06-10-32719_EN"
+                    }
+                },
+                {
+                    "title": "Top story - Gender equality in the EU - The EU fight for women\u2019s rights",
+                    "link": "https://www.europarl.europa.eu/news/en/headlines/priorities/gender-equality",
+                    "description": "<img src=\"https://www.europarl.europa.eu/resources/library/images/20220406PHT26807/20220406PHT26807-ms.jpg\" align=\"left\" width=\"125\" hspace=\"5\" vspace=\"0\" />Gender equality has always been a  priority for the EU. Discover the main issues and what the Parliament does to tackle them.<br /> <br />Source : <a href=\"https://www.europarl.europa.eu/privacy-policy/en\">\u00a9 European Union, 2022 - EP</a>",
+                    "source": {
+                        "@url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml",
+                        "#text": "Top stories - European Parliament"
+                    },
+                    "category": {
+                        "@domain": "type",
+                        "#text": "Top story"
+                    },
+                    "pubDate": "Wed, 13 Apr 2022 17:14:22 GMT",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "TST_TST-2022-04-08-26914_EN"
+                    }
+                },
+                {
+                    "title": "Top story - Covid-19 recovery plan - How Parliament scrutinises EU support for overcoming the crisis",
+                    "link": "https://www.europarl.europa.eu/news/en/headlines/priorities/covid-19-recovery",
+                    "description": "<img src=\"https://www.europarl.europa.eu/resources/library/images/20220316PHT25607/20220316PHT25607-ms.jpg\" align=\"left\" width=\"125\" hspace=\"5\" vspace=\"0\" />The EU\u2019s recovery plan supports the way out of the Covid-19 crisis and builds resilience for the future. Learn how the European Parliament scrutinises the plan.<br /> <br />Source : <a href=\"https://www.europarl.europa.eu/privacy-policy/en\">\u00a9 European Union, 2022 - EP</a>",
+                    "source": {
+                        "@url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml",
+                        "#text": "Top stories - European Parliament"
+                    },
+                    "category": {
+                        "@domain": "type",
+                        "#text": "Top story"
+                    },
+                    "pubDate": "Thu, 17 Mar 2022 16:33:07 GMT",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "TST_TST-2022-03-11-25321_EN"
+                    }
+                },
+                {
+                    "title": "Top story - LUX Audience Award 2022 - The best of European cinema",
+                    "link": "https://www.europarl.europa.eu/news/en/headlines/priorities/lux-award-2022",
+                    "description": "<img src=\"https://www.europarl.europa.eu/resources/library/images/20220315PHT25512/20220315PHT25512-ms.jpg\" align=\"left\" width=\"125\" hspace=\"5\" vspace=\"0\" />Quo Vadis, Aida? won the 2022 LUX Audience Award<br /> <br />Source : <a href=\"https://www.europarl.europa.eu/privacy-policy/en\">\u00a9 European Union, 2022 - EP</a>",
+                    "source": {
+                        "@url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml",
+                        "#text": "Top stories - European Parliament"
+                    },
+                    "category": {
+                        "@domain": "type",
+                        "#text": "Top story"
+                    },
+                    "pubDate": "Tue, 15 Mar 2022 15:37:09 GMT",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "TST_TST-2022-02-18-23626_EN"
+                    }
+                },
+                {
+                    "title": "Top story - International Women\u2019s Day 2022 - Ambitious future for Europe's women after Covid-19",
+                    "link": "https://www.europarl.europa.eu/news/en/headlines/priorities/international-women-s-day-2022",
+                    "description": "<img src=\"https://www.europarl.europa.eu/resources/library/images/20220303PHT24606/20220303PHT24606-ms.jpg\" align=\"left\" width=\"125\" hspace=\"5\" vspace=\"0\" />Teleworking, gender equality, mental health and unpaid care work are the focus of events around International Women\u2019s Day on 8 March.<br /> <br />Source : <a href=\"https://www.europarl.europa.eu/privacy-policy/en\">\u00a9 European Union, 2022 - EP</a>",
+                    "source": {
+                        "@url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml",
+                        "#text": "Top stories - European Parliament"
+                    },
+                    "category": {
+                        "@domain": "type",
+                        "#text": "Top story"
+                    },
+                    "pubDate": "Thu, 03 Mar 2022 14:37:03 GMT",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "TST_TST-2022-02-28-24217_EN"
+                    }
+                },
+                {
+                    "title": "Top story - Transparent taxation - The fight for a fair and transparent tax system",
+                    "link": "https://www.europarl.europa.eu/news/en/headlines/priorities/taxation",
+                    "description": "<img src=\"https://www.europarl.europa.eu/resources/library/images/20170522PHT75926/20170522PHT75926-ms.jpg\" align=\"left\" width=\"125\" hspace=\"5\" vspace=\"0\" />The European Parliament urges the EU to lead global efforts against tax evasion, tax avoidance and money laundering.<br /> <br />Source : <a href=\"https://www.europarl.europa.eu/privacy-policy/en\">\u00a9 European Union, 2022 - EP</a>",
+                    "source": {
+                        "@url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml",
+                        "#text": "Top stories - European Parliament"
+                    },
+                    "category": {
+                        "@domain": "type",
+                        "#text": "Top story"
+                    },
+                    "pubDate": "Tue, 16 Nov 2021 08:43:57 GMT",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "TST_TST-2021-11-15-17321_EN"
+                    }
+                },
+                {
+                    "title": "Top story - Culture - How the EU supports culture",
+                    "link": "https://www.europarl.europa.eu/news/en/headlines/priorities/culture-in-the-eu",
+                    "description": "<img src=\"https://www.europarl.europa.eu/resources/library/images/20211028PHT16104/20211028PHT16104-ms.jpg\" align=\"left\" width=\"125\" hspace=\"5\" vspace=\"0\" />Find out more about the EU's cultural and creative sectors  and how the European Parliament is supporting them.<br /> <br />Source : <a href=\"https://www.europarl.europa.eu/privacy-policy/en\">\u00a9 European Union, 2021 - EP</a>",
+                    "source": {
+                        "@url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml",
+                        "#text": "Top stories - European Parliament"
+                    },
+                    "category": {
+                        "@domain": "type",
+                        "#text": "Top story"
+                    },
+                    "pubDate": "Wed, 03 Nov 2021 12:33:16 GMT",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "TST_TST-2021-10-28-16103_EN"
+                    }
+                },
+                {
+                    "title": "Top story - European Parliament\u2019s Sakharov Prize 2021 - Alexei Navalny",
+                    "link": "https://www.europarl.europa.eu/news/en/headlines/priorities/sakharov-2021",
+                    "description": "<img src=\"https://www.europarl.europa.eu/resources/library/images/20211021PHT15528/20211021PHT15528-ms.jpg\" align=\"left\" width=\"125\" hspace=\"5\" vspace=\"0\" />The European Parliament's 2021 Sakharov Prize for Freedom of Thought has been awarded to Russian opposition politician and anti-corruption activist Alexei Navalny.<br /> <br />Source : <a href=\"https://www.europarl.europa.eu/privacy-policy/en\">\u00a9 European Union, 2022 - EP</a>",
+                    "source": {
+                        "@url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml",
+                        "#text": "Top stories - European Parliament"
+                    },
+                    "category": {
+                        "@domain": "type",
+                        "#text": "Top story"
+                    },
+                    "pubDate": "Wed, 20 Oct 2021 13:33:17 GMT",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "TST_TST-2021-10-14-14942_EN"
+                    }
+                }
+            ]
+        }
+    }
+}

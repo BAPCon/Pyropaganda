@@ -1,0 +1,277 @@
+[
+    {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/rss",
+        "website_title": "RSS Feeds - The New York Times"
+    },
+    {
+        "name": "Wall Street Journal",
+        "url": "https://www.wsj.com/news/rss-news-and-feeds",
+        "website_title": "RSS Feeds for World News, Business, Markets, Opinion, and ..."
+    },
+    {
+        "name": "HuffPost",
+        "url": "https://support.itesmedia.tv/en/flux-rss-disponibles",
+        "website_title": "Available RSS Feeds - Huffington Post - ITESLIVE"
+    },
+    {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/discussions/2018/10/12/washington-post-rss-feeds/",
+        "website_title": "Washington Post RSS feeds"
+    },
+    {
+        "name": "Los Angeles Times",
+        "url": "https://www.latimes.com/feeds",
+        "website_title": "RSS Feeds - Los Angeles Times"
+    },
+    {
+        "name": "Reuters",
+        "url": "https://www.reutersagency.com/en/reutersbest/reuters-best-rss-feeds/",
+        "website_title": "Best RSS Feeds | Reuters News Agency"
+    },
+    {
+        "name": "ABC News",
+        "url": "https://abcnews.go.com/Technology/story?id=97486&page=1",
+        "website_title": "RSS Feeds from ABC News"
+    },
+    {
+        "name": "USA Today",
+        "url": "https://blog.feedspot.com/usa_today_rss_feeds/",
+        "website_title": "Top 20 USA Today RSS Feeds - Feedspot Blog"
+    },
+    {
+        "name": "Bloomberg Business",
+        "url": "https://blog.feedspot.com/bloomberg_rss_feeds/",
+        "website_title": "Top 15 Bloomberg RSS Feeds - Feedspot Blog"
+    },
+    {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/id/wbna5216556",
+        "website_title": "RSS feeds on NBCNews.com"
+    },
+    {
+        "name": "Daily Mail",
+        "url": "https://blog.feedspot.com/dailymail_rss_feeds/",
+        "website_title": "Top 20 Daily Mail Online RSS Feeds - Feedspot Blog"
+    },
+    {
+        "name": "Guardian",
+        "url": "https://www.theguardian.com/help/feeds",
+        "website_title": "Stay up to date with our RSS feeds | Help"
+    },
+    {
+        "name": "The Sun",
+        "url": "https://www.thesundaily.my/services/rss-the-sun",
+        "website_title": "RSS - The Sun Daily"
+    },
+    {
+        "name": "Mirror",
+        "url": "https://blog.feedspot.com/daily_mirror_rss_feeds/",
+        "website_title": "Top 15 Daily Mirror RSS Feeds - Feedspot Blog"
+    },
+    {
+        "name": "Mirror",
+        "url": "https://blog.feedspot.com/daily_mirror_rss_feeds/",
+        "website_title": "Top 15 Daily Mirror RSS Feeds - Feedspot Blog"
+    },
+    {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/10628494",
+        "website_title": "News feeds from the BBC"
+    },
+    {
+        "name": "Star",
+        "url": "https://www.thestar.com.my/rss",
+        "website_title": "RSS | The Star"
+    },
+    {
+        "name": "Globe and Mail",
+        "url": "https://globeandmail.force.com/helpcentre/s/article/New-RSS-feed-URL-structure-introduced?nocache=https%3A%2F%2Fglobeandmail.force.com%2Fhelpcentre%2Fs%2Farticle%2FNew-RSS-feed-URL-structure-introduced",
+        "website_title": "New RSS feed URL structure introduced"
+    },
+    {
+        "name": "news.com.au",
+        "url": "https://www.news.com.au/help/rss-feeds",
+        "website_title": "RSS Feeds | news.com.au \u2014 Australia's leading news site"
+    },
+    {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/static_html/rss/rsshelp_header.html",
+        "website_title": "Forbes.com RSS Feeds"
+    },
+    {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/rss-feeds/",
+        "website_title": "RSS Feeds - CNBC"
+    },
+    {
+        "name": "China Daily",
+        "url": "http://www.chinadaily.com.cn/rss/index.html",
+        "website_title": "Rss - China Daily"
+    },
+    {
+        "name": "Houston Chronicle",
+        "url": "https://blog.feedspot.com/houston_chronicle_rss_feeds/",
+        "website_title": "Top 10 Houston Chronicle RSS Feeds - Feedspot Blog"
+    },
+    {
+        "name": "New York Post",
+        "url": "https://nypost.com/rssfeeds/",
+        "website_title": "RSS Feeds | New York Post"
+    },
+    {
+        "name": "U.S.News",
+        "url": "https://www.usnews.com/info/features/rss-feeds",
+        "website_title": "RSS Feeds - USNews.com"
+    },
+    {
+        "name": "Deutsche Welle",
+        "url": "https://corporate.dw.com/en/rss/s-31500",
+        "website_title": "Deutsche Welle's English RSS feeds at a glance - DW"
+    },
+    {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/rss.cms",
+        "website_title": "Times of India RSS Feeds"
+    },
+    {
+        "name": "The Hindu",
+        "url": "https://www.thehindu.com/rssfeeds/",
+        "website_title": "Latest Rss Feeds News - The Hindu"
+    },
+    {
+        "name": "Indian Express",
+        "url": "https://indianexpress.com/syndication/",
+        "website_title": "syndication - IndianExpress.com RSS Feeds"
+    },
+    {
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/rss",
+        "website_title": "Rss - Hindustan Times"
+    },
+    {
+        "name": "CBS NEWS",
+        "url": "https://www.cbsnews.com/rss/",
+        "website_title": "RSS Feeds - CBS News"
+    },
+    {
+        "name": "TIME",
+        "url": "https://content.time.com/time/business/article/0,8599,1111467,00.html",
+        "website_title": "RSS Feeds for TIME Online"
+    },
+    {
+        "name": "SFGATE",
+        "url": "https://www.sfgate.com/rss/",
+        "website_title": "SFGate RSS Feeds"
+    },
+    {
+        "name": "The Hill",
+        "url": "https://thehill.com/resources/rss-feeds/",
+        "website_title": "RSS Feeds | The Hill"
+    },
+    {
+        "name": "Daily Beast",
+        "url": "https://www.thedailybeast.com/company/help",
+        "website_title": "Help - The Daily Beast<!-- --> something"
+    },
+    {
+        "name": "Newsweek",
+        "url": "https://www.newsweek.com/newsfeed",
+        "website_title": "News Feed - Newsweek"
+    },
+    {
+        "name": "The Atlantic",
+        "url": "https://www.theatlantic.com/author/r-s-s/",
+        "website_title": "All Stories by R. S. S. - The Atlantic"
+    },
+    {
+        "name": "New Zealand Herald",
+        "url": "https://www.nzherald.co.nz/technology/nz-herald-news-rss-feeds/SOA2EBUD5L72DYXMP3A267XOKI/",
+        "website_title": "NZ Herald News RSS Feeds"
+    },
+    {
+        "name": "The Herald",
+        "url": "https://blog.feedspot.com/daily_herald_rss_feeds/",
+        "website_title": "Top 15 Daily Herald RSS Feeds - Feedspot Blog"
+    },
+    {
+        "name": "Vanguard",
+        "url": "https://institutional.vanguard.com/VGApp/iip/site/institutional/rsschannels",
+        "website_title": "RSS subscribe - Vanguard Institutional"
+    },
+    {
+        "name": "Daily Sun",
+        "url": "https://www.thesundaily.my/services/rss-the-sun",
+        "website_title": "RSS - The Sun Daily"
+    },
+    {
+        "name": "Jakarta Post",
+        "url": "https://blog.feedspot.com/indonesian_news_rss_feeds/",
+        "website_title": "Top 20 Indonesian News RSS Feeds - Feedspot Blog"
+    },
+    {
+        "name": "Star",
+        "url": "https://www.thestar.com.my/rss",
+        "website_title": "RSS"
+    },
+    {
+        "name": "Straits Times",
+        "url": "https://www.straitstimes.com/RSS-Feeds",
+        "website_title": "Breaking News, Lifestyle & Multimedia News - The Straits Times"
+    },
+    {
+        "name": "Bangkok Post",
+        "url": "https://www.bangkokpost.com/rss/",
+        "website_title": "RSS can get your news delivered and organised - Bangkok Post"
+    },
+    {
+        "name": "Japan Times",
+        "url": "https://blog.feedspot.com/japanese_news_rss_feeds/",
+        "website_title": "Top 25 Japanese News RSS Feeds - Feedspot Blog"
+    },
+    {
+        "name": "Daily Star",
+        "url": "https://www.dailystar.co.uk/rss-feeds/",
+        "website_title": "RSS feeds - Daily Star"
+    },
+    {
+        "name": "Dawn",
+        "url": "http://dawnsci.org/news/rss/",
+        "website_title": "RSS Feeds/Mailing List - DAWN"
+    },
+    {
+        "name": "Al Arabiya",
+        "url": "https://english.alarabiya.net/tools/mrss",
+        "website_title": "MRSS - Al Arabiya"
+    },
+    {
+        "name": "Hollywood Reporter",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/rss-feed-live-feed-50422/",
+        "website_title": "RSS feed for Live Feed? - The Hollywood Reporter"
+    },
+    {
+        "name": "South China Morning Post",
+        "url": "https://www.scmp.com/rss",
+        "website_title": "RSS | South China Morning Post"
+    },
+    {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/program/newsfeed/",
+        "website_title": "NewsFeed | Programs Site Menu Title - Al Jazeera"
+    },
+    {
+        "name": "Voice of America",
+        "url": "https://www.voanews.com/rssfeeds",
+        "website_title": "Rss - Voice of America"
+    },
+    {
+        "name": "Yahoo! News",
+        "url": "https://blog.feedspot.com/yahoo_rss_feeds/",
+        "website_title": "Top 15 Yahoo News RSS Feeds - Feedspot Blog"
+    },
+    {
+        "name": "Google News",
+        "url": "https://rss.app/rss-feed/google-news-rss-feed",
+        "website_title": "Google News RSS Feed"
+    }
+]

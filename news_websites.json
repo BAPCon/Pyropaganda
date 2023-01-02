@@ -1,0 +1,277 @@
+[
+    {
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/",
+        "website_title": "The New York Times - Breaking News, US News, World News ..."
+    },
+    {
+        "name": "Wall Street Journal",
+        "url": "https://www.wsj.com/",
+        "website_title": "The Wall Street Journal & Breaking News, Business, Financial ..."
+    },
+    {
+        "name": "HuffPost",
+        "url": "https://www.huffpost.com/",
+        "website_title": "HuffPost - Breaking News, U.S. and World News | HuffPost"
+    },
+    {
+        "name": "Washington Post",
+        "url": "https://www.washingtonpost.com/",
+        "website_title": "The Washington Post - Breaking news and latest headlines ..."
+    },
+    {
+        "name": "Los Angeles Times",
+        "url": "https://www.latimes.com/",
+        "website_title": "Los Angeles Times: News from California, the nation and world"
+    },
+    {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/",
+        "website_title": "Reuters | Breaking International News & Views"
+    },
+    {
+        "name": "ABC News",
+        "url": "https://abcnews.go.com/",
+        "website_title": "ABC News \u2013 Breaking News, Latest News, Headlines ..."
+    },
+    {
+        "name": "USA Today",
+        "url": "https://www.usatoday.com/",
+        "website_title": "USA TODAY - Today's Breaking News, US & World News"
+    },
+    {
+        "name": "Bloomberg Business",
+        "url": "https://www.bloomberg.com/",
+        "website_title": "Bloomberg.com"
+    },
+    {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/",
+        "website_title": "NBC News - Breaking News & Top Stories - Latest World, US ..."
+    },
+    {
+        "name": "Daily Mail",
+        "url": "https://www.dailymail.co.uk/news/index.html",
+        "website_title": "News Headlines | Today's UK & World News | Daily Mail Online"
+    },
+    {
+        "name": "Guardian",
+        "url": "https://www.theguardian.com/us",
+        "website_title": "News, sport and opinion from the Guardian's US edition | The ..."
+    },
+    {
+        "name": "The Sun",
+        "url": "https://www.the-sun.com/",
+        "website_title": "The US Sun: News, sport, celebrities and gossip"
+    },
+    {
+        "name": "Mirror",
+        "url": "https://www.mirror.co.uk/",
+        "website_title": "The Mirror: The Heart of Britain"
+    },
+    {
+        "name": "Mirror",
+        "url": "https://www.mirror.co.uk/",
+        "website_title": "The Mirror: The Heart of Britain"
+    },
+    {
+        "name": "BBC News",
+        "url": "https://www.bbc.com/news",
+        "website_title": "BBC News"
+    },
+    {
+        "name": "Star",
+        "url": "https://www.starnewsonline.com/",
+        "website_title": "Wilmington Star-News: Local News, Politics & Sports in ..."
+    },
+    {
+        "name": "Globe and Mail",
+        "url": "https://www.theglobeandmail.com/",
+        "website_title": "The Globe and Mail: Canadian, World, Politics and Business ..."
+    },
+    {
+        "name": "news.com.au",
+        "url": "https://www.news.com.au/",
+        "website_title": "news.com.au \u2014 Australia's leading news site"
+    },
+    {
+        "name": "Forbes",
+        "url": "https://www.forbes.com/news/",
+        "website_title": "Breaking News - Forbes"
+    },
+    {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/",
+        "website_title": "CNBC: Stock Markets, Business News, Financials, Earnings"
+    },
+    {
+        "name": "China Daily",
+        "url": "https://www.chinadaily.com.cn/",
+        "website_title": "China Daily Website - Connecting China Connecting the World"
+    },
+    {
+        "name": "Houston Chronicle",
+        "url": "https://www.houstonchronicle.com/",
+        "website_title": "Houston Chronicle | Breaking News, Houston, Texas, US ..."
+    },
+    {
+        "name": "New York Post",
+        "url": "https://nypost.com/news/",
+        "website_title": "Breaking News, Latest US & World Headlines - New York Post"
+    },
+    {
+        "name": "U.S.News",
+        "url": "https://www.usnews.com/",
+        "website_title": "U.S. News & World Report: News, Rankings and Analysis on ..."
+    },
+    {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/",
+        "website_title": "DW: News and current affairs from Germany and around the ..."
+    },
+    {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/",
+        "website_title": "Times of India: News - Latest News, Breaking News ..."
+    },
+    {
+        "name": "The Hindu",
+        "url": "https://www.thehindu.com/",
+        "website_title": "The Hindu : Breaking News, India News, Sports News and ..."
+    },
+    {
+        "name": "Indian Express",
+        "url": "https://indianexpress.com/",
+        "website_title": "Latest News Today: Breaking News in India, Entertainment ..."
+    },
+    {
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/",
+        "website_title": "Hindustan Times: News Headlines, English News, Today ..."
+    },
+    {
+        "name": "CBS NEWS",
+        "url": "https://www.cbsnews.com/",
+        "website_title": "CBS News - Breaking news, 24/7 live streaming news & top ..."
+    },
+    {
+        "name": "TIME",
+        "url": "https://time.com/",
+        "website_title": "TIME | Current & Breaking News | National & World Updates"
+    },
+    {
+        "name": "SFGATE",
+        "url": "https://www.sfgate.com/news/",
+        "website_title": "Breaking Bay Area news, U.S. and World News, California News"
+    },
+    {
+        "name": "The Hill",
+        "url": "https://thehill.com/",
+        "website_title": "The Hill - covering Congress, Politics, Political Campaigns ..."
+    },
+    {
+        "name": "Daily Beast",
+        "url": "https://www.thedailybeast.com/",
+        "website_title": "The Daily Beast"
+    },
+    {
+        "name": "Newsweek",
+        "url": "https://www.newsweek.com/",
+        "website_title": "Newsweek - News, Analysis, Politics, Business, Technology"
+    },
+    {
+        "name": "The Atlantic",
+        "url": "https://www.theatlantic.com/news/",
+        "website_title": "News - The Atlantic"
+    },
+    {
+        "name": "New Zealand Herald",
+        "url": "https://www.nzherald.co.nz/",
+        "website_title": "NZ Herald - Breaking news, latest news, business, sport and ..."
+    },
+    {
+        "name": "The Herald",
+        "url": "https://www.heraldnews.com/",
+        "website_title": "Fall River Herald News: Local News, Politics & Sports in Fall ..."
+    },
+    {
+        "name": "Vanguard",
+        "url": "https://www.vanguardngr.com/",
+        "website_title": "Vanguard News: Nigerian News,Politics, Sports and Business ..."
+    },
+    {
+        "name": "Daily Sun",
+        "url": "https://www.thevillagesdailysun.com/",
+        "website_title": "The Villages Daily Sun"
+    },
+    {
+        "name": "Jakarta Post",
+        "url": "https://www.thejakartapost.com/",
+        "website_title": "The Jakarta Post - Still bold, fiercely independent"
+    },
+    {
+        "name": "Star",
+        "url": "https://www.starnewsonline.com/",
+        "website_title": "Wilmington Star-News: Local News, Politics & Sports in ..."
+    },
+    {
+        "name": "Straits Times",
+        "url": "https://www.straitstimes.com/",
+        "website_title": "The Straits Times - Breaking News, Lifestyle & Multimedia News"
+    },
+    {
+        "name": "Bangkok Post",
+        "url": "https://www.bangkokpost.com/",
+        "website_title": "Bangkok Post - The world's window on Thailand | Breaking ..."
+    },
+    {
+        "name": "Japan Times",
+        "url": "https://www.japantimes.co.jp/",
+        "website_title": "The Japan Times - News on Japan, Business News, Opinion ..."
+    },
+    {
+        "name": "Daily Star",
+        "url": "https://www.dailystar.co.uk/news/",
+        "website_title": "Breaking News UK, World News and Headlines - Daily Star"
+    },
+    {
+        "name": "Dawn",
+        "url": "https://www.dawn.com/",
+        "website_title": "Home - DAWN.COM"
+    },
+    {
+        "name": "Al Arabiya",
+        "url": "https://english.alarabiya.net/",
+        "website_title": "Al Arabiya | Breaking News From Around The World"
+    },
+    {
+        "name": "Hollywood Reporter",
+        "url": "https://www.hollywoodreporter.com/",
+        "website_title": "The Hollywood Reporter"
+    },
+    {
+        "name": "South China Morning Post",
+        "url": "https://www.scmp.com/",
+        "website_title": "South China Morning Post: HK, China, Asia news & opinion ..."
+    },
+    {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/",
+        "website_title": "Breaking News, World News and Video from Al Jazeera"
+    },
+    {
+        "name": "Voice of America",
+        "url": "https://www.voanews.com/",
+        "website_title": "VOA - Voice of America English News"
+    },
+    {
+        "name": "Yahoo! News",
+        "url": "https://news.yahoo.com/",
+        "website_title": "Yahoo News - Latest News & Headlines"
+    },
+    {
+        "name": "Google News",
+        "url": "https://news.google.com/",
+        "website_title": "Google News"
+    }
+]
