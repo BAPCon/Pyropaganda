@@ -1,0 +1,4160 @@
+[
+    {
+        "name": "AIA",
+        "code": "1299.HK",
+        "country": "Hong Kong",
+        "rank": 1
+    },
+    {
+        "name": "Hong Kong Exchanges & Clearing",
+        "code": "0388.HK",
+        "country": "Hong Kong",
+        "rank": 2
+    },
+    {
+        "name": "Budweiser APAC",
+        "code": "1876.HK",
+        "country": "Hong Kong",
+        "rank": 3
+    },
+    {
+        "name": "Sun Hung Kai Properties",
+        "code": "0016.HK",
+        "country": "Hong Kong",
+        "rank": 4
+    },
+    {
+        "name": "Jardine Matheson",
+        "code": "J36.SI",
+        "country": "Hong Kong",
+        "rank": 5
+    },
+    {
+        "name": "Bank of China (Hong Kong)",
+        "code": "2388.HK",
+        "country": "Hong Kong",
+        "rank": 6
+    },
+    {
+        "name": "MTR Corporation",
+        "code": "0066.HK",
+        "country": "Hong Kong",
+        "rank": 7
+    },
+    {
+        "name": "Hang Seng Bank",
+        "code": "0011.HK",
+        "country": "Hong Kong",
+        "rank": 8
+    },
+    {
+        "name": "China Overseas Land & Investment",
+        "code": "0688.HK",
+        "country": "Hong Kong",
+        "rank": 9
+    },
+    {
+        "name": "Galaxy Entertainment",
+        "code": "0027.HK",
+        "country": "Hong Kong",
+        "rank": 10
+    },
+    {
+        "name": "CK Hutchison Holdings",
+        "code": "0001.HK",
+        "country": "Hong Kong",
+        "rank": 11
+    },
+    {
+        "name": "China Resources Beer",
+        "code": "0291.HK",
+        "country": "Hong Kong",
+        "rank": 12
+    },
+    {
+        "name": "CK Asset Holdings",
+        "code": "1113.HK",
+        "country": "Hong Kong",
+        "rank": 13
+    },
+    {
+        "name": "Techtronic Industries",
+        "code": "TIB1.F",
+        "country": "Hong Kong",
+        "rank": 14
+    },
+    {
+        "name": "Chow Tai Fook",
+        "code": "1929.HK",
+        "country": "Hong Kong",
+        "rank": 15
+    },
+    {
+        "name": "China Unicom",
+        "code": "0762.HK",
+        "country": "Hong Kong",
+        "rank": 16
+    },
+    {
+        "name": "CLP Group",
+        "code": "0002.HK",
+        "country": "Hong Kong",
+        "rank": 17
+    },
+    {
+        "name": "Hong Kong and China Gas",
+        "code": "0003.HK",
+        "country": "Hong Kong",
+        "rank": 18
+    },
+    {
+        "name": "Wharf REIC",
+        "code": "1997.HK",
+        "country": "Hong Kong",
+        "rank": 19
+    },
+    {
+        "name": "Henderson Land Development",
+        "code": "0012.HK",
+        "country": "Hong Kong",
+        "rank": 20
+    },
+    {
+        "name": "Link REIT",
+        "code": "0823.HK",
+        "country": "Hong Kong",
+        "rank": 21
+    },
+    {
+        "name": "Swire Properties",
+        "code": "1972.HK",
+        "country": "Hong Kong",
+        "rank": 22
+    },
+    {
+        "name": "CK Infrastructure",
+        "code": "1038.HK",
+        "country": "Hong Kong",
+        "rank": 23
+    },
+    {
+        "name": "Orient Overseas Container Line",
+        "code": "0316.HK",
+        "country": "Hong Kong",
+        "rank": 24
+    },
+    {
+        "name": "Power Assets",
+        "code": "0006.HK",
+        "country": "Hong Kong",
+        "rank": 25
+    },
+    {
+        "name": "Swire Pacific",
+        "code": "0019.HK",
+        "country": "Hong Kong",
+        "rank": 26
+    },
+    {
+        "name": "Hongkong Land",
+        "code": "H78.SI",
+        "country": "Hong Kong",
+        "rank": 27
+    },
+    {
+        "name": "Sino Land",
+        "code": "0083.HK",
+        "country": "Hong Kong",
+        "rank": 28
+    },
+    {
+        "name": "Lenovo",
+        "code": "0992.HK",
+        "country": "Hong Kong",
+        "rank": 29
+    },
+    {
+        "name": "Hong Kong Telecom",
+        "code": "6823.HK",
+        "country": "Hong Kong",
+        "rank": 30
+    },
+    {
+        "name": "ESR",
+        "code": "1821.HK",
+        "country": "Hong Kong",
+        "rank": 31
+    },
+    {
+        "name": "Wharf Holdings",
+        "code": "0004.HK",
+        "country": "Hong Kong",
+        "rank": 32
+    },
+    {
+        "name": "Hang Lung Properties",
+        "code": "0101.HK",
+        "country": "Hong Kong",
+        "rank": 33
+    },
+    {
+        "name": "Want Want China",
+        "code": "0151.HK",
+        "country": "Hong Kong",
+        "rank": 34
+    },
+    {
+        "name": "WH Group",
+        "code": "0288.HK",
+        "country": "Hong Kong",
+        "rank": 35
+    },
+    {
+        "name": "New World Development Company",
+        "code": "0017.HK",
+        "country": "Hong Kong",
+        "rank": 36
+    },
+    {
+        "name": "Cathay Pacific",
+        "code": "0293.HK",
+        "country": "Hong Kong",
+        "rank": 37
+    },
+    {
+        "name": "HK Electric Investments",
+        "code": "2638.HK",
+        "country": "Hong Kong",
+        "rank": 38
+    },
+    {
+        "name": "Futu Holdings",
+        "code": "FUTU",
+        "country": "Hong Kong",
+        "rank": 39
+    },
+    {
+        "name": "Melco Resorts & Entertainment",
+        "code": "MLCO",
+        "country": "Hong Kong",
+        "rank": 40
+    },
+    {
+        "name": "SJM Holdings",
+        "code": "0880.HK",
+        "country": "Hong Kong",
+        "rank": 41
+    },
+    {
+        "name": "Dairy Farm",
+        "code": "D01.SI",
+        "country": "Hong Kong",
+        "rank": 42
+    },
+    {
+        "name": "PCCW",
+        "code": "0008.HK",
+        "country": "Hong Kong",
+        "rank": 43
+    },
+    {
+        "name": "NWS holdings",
+        "code": "0659.HK",
+        "country": "Hong Kong",
+        "rank": 44
+    },
+    {
+        "name": "Hysan Development",
+        "code": "0014.HK",
+        "country": "Hong Kong",
+        "rank": 45
+    },
+    {
+        "name": "Bank of East Asia",
+        "code": "0023.HK",
+        "country": "Hong Kong",
+        "rank": 46
+    },
+    {
+        "name": "Kerry Properties",
+        "code": "0683.HK",
+        "country": "Hong Kong",
+        "rank": 47
+    },
+    {
+        "name": "ASM Pacific Technology",
+        "code": "0522.HK",
+        "country": "Hong Kong",
+        "rank": 48
+    },
+    {
+        "name": "Shangri-La",
+        "code": "0069.HK",
+        "country": "Hong Kong",
+        "rank": 49
+    },
+    {
+        "name": "Guoco",
+        "code": "0053.HK",
+        "country": "Hong Kong",
+        "rank": 50
+    },
+    {
+        "name": "HUTCHMED",
+        "code": "HCM",
+        "country": "Hong Kong",
+        "rank": 51
+    },
+    {
+        "name": "Hang Lung Group",
+        "code": "0010.HK",
+        "country": "Hong Kong",
+        "rank": 52
+    },
+    {
+        "name": "Mandarin Oriental",
+        "code": "M04.SI",
+        "country": "Hong Kong",
+        "rank": 53
+    },
+    {
+        "name": "Champion REIT",
+        "code": "2778.HK",
+        "country": "Hong Kong",
+        "rank": 54
+    },
+    {
+        "name": "Silicon Motion",
+        "code": "SIMO",
+        "country": "Hong Kong",
+        "rank": 55
+    },
+    {
+        "name": "Shimao Property",
+        "code": "0813.HK",
+        "country": "Hong Kong",
+        "rank": 56
+    },
+    {
+        "name": "Hongkong and Shanghai Hotels",
+        "code": "0045.HK",
+        "country": "Hong Kong",
+        "rank": 57
+    },
+    {
+        "name": "Melco International Development",
+        "code": "0200.HK",
+        "country": "Hong Kong",
+        "rank": 58
+    },
+    {
+        "name": "Great Eagle",
+        "code": "0041.HK",
+        "country": "Hong Kong",
+        "rank": 59
+    },
+    {
+        "name": "Vtech",
+        "code": "0303.HK",
+        "country": "Hong Kong",
+        "rank": 60
+    },
+    {
+        "name": "Fortune REIT",
+        "code": "0778.HK",
+        "country": "Hong Kong",
+        "rank": 61
+    },
+    {
+        "name": "Miramar Hotel and Investment",
+        "code": "0071.HK",
+        "country": "Hong Kong",
+        "rank": 62
+    },
+    {
+        "name": "Dah Sing Banking Group",
+        "code": "2356.HK",
+        "country": "Hong Kong",
+        "rank": 63
+    },
+    {
+        "name": "Dah Sing Financial",
+        "code": "0440.HK",
+        "country": "Hong Kong",
+        "rank": 64
+    },
+    {
+        "name": "Sunlight REIT",
+        "code": "0435.HK",
+        "country": "Hong Kong",
+        "rank": 65
+    },
+    {
+        "name": "AMTD Digital",
+        "code": "AMTD",
+        "country": "Hong Kong",
+        "rank": 66
+    },
+    {
+        "name": "Global Cord Blood",
+        "code": "CO",
+        "country": "Hong Kong",
+        "rank": 67
+    },
+    {
+        "name": "Regal Hotels International",
+        "code": "0078.HK",
+        "country": "Hong Kong",
+        "rank": 68
+    },
+    {
+        "name": "Hong Kong Ferry",
+        "code": "0050.HK",
+        "country": "Hong Kong",
+        "rank": 69
+    },
+    {
+        "name": "Giordano",
+        "code": "0709.HK",
+        "country": "Hong Kong",
+        "rank": 70
+    },
+    {
+        "name": "Prenetics",
+        "code": "PRE",
+        "country": "Hong Kong",
+        "rank": 71
+    },
+    {
+        "name": "Troops",
+        "code": "TROO",
+        "country": "Hong Kong",
+        "rank": 72
+    },
+    {
+        "name": "Digital Domain",
+        "code": "0547.HK",
+        "country": "Hong Kong",
+        "rank": 73
+    },
+    {
+        "name": "Graphex Group",
+        "code": "GRFX",
+        "country": "Hong Kong",
+        "rank": 74
+    },
+    {
+        "name": "Magic Empire Global (Giraffe Capital)",
+        "code": "MEGL",
+        "country": "Hong Kong",
+        "rank": 75
+    },
+    {
+        "name": "Aptorum Group",
+        "code": "APM",
+        "country": "Hong Kong",
+        "rank": 76
+    },
+    {
+        "name": "Gameone",
+        "code": "8282.HK",
+        "country": "Hong Kong",
+        "rank": 77
+    },
+    {
+        "name": "AIA",
+        "code": "1299.HK",
+        "country": "Hong Kong",
+        "rank": 78
+    },
+    {
+        "name": "Hong Kong Exchanges & Clearing",
+        "code": "0388.HK",
+        "country": "Hong Kong",
+        "rank": 79
+    },
+    {
+        "name": "Budweiser APAC",
+        "code": "1876.HK",
+        "country": "Hong Kong",
+        "rank": 80
+    },
+    {
+        "name": "Sun Hung Kai Properties",
+        "code": "0016.HK",
+        "country": "Hong Kong",
+        "rank": 81
+    },
+    {
+        "name": "Jardine Matheson",
+        "code": "J36.SI",
+        "country": "Hong Kong",
+        "rank": 82
+    },
+    {
+        "name": "Bank of China (Hong Kong)",
+        "code": "2388.HK",
+        "country": "Hong Kong",
+        "rank": 83
+    },
+    {
+        "name": "MTR Corporation",
+        "code": "0066.HK",
+        "country": "Hong Kong",
+        "rank": 84
+    },
+    {
+        "name": "Hang Seng Bank",
+        "code": "0011.HK",
+        "country": "Hong Kong",
+        "rank": 85
+    },
+    {
+        "name": "China Overseas Land & Investment",
+        "code": "0688.HK",
+        "country": "Hong Kong",
+        "rank": 86
+    },
+    {
+        "name": "Galaxy Entertainment",
+        "code": "0027.HK",
+        "country": "Hong Kong",
+        "rank": 87
+    },
+    {
+        "name": "CK Hutchison Holdings",
+        "code": "0001.HK",
+        "country": "Hong Kong",
+        "rank": 88
+    },
+    {
+        "name": "China Resources Beer",
+        "code": "0291.HK",
+        "country": "Hong Kong",
+        "rank": 89
+    },
+    {
+        "name": "CK Asset Holdings",
+        "code": "1113.HK",
+        "country": "Hong Kong",
+        "rank": 90
+    },
+    {
+        "name": "Techtronic Industries",
+        "code": "TIB1.F",
+        "country": "Hong Kong",
+        "rank": 91
+    },
+    {
+        "name": "Chow Tai Fook",
+        "code": "1929.HK",
+        "country": "Hong Kong",
+        "rank": 92
+    },
+    {
+        "name": "China Unicom",
+        "code": "0762.HK",
+        "country": "Hong Kong",
+        "rank": 93
+    },
+    {
+        "name": "CLP Group",
+        "code": "0002.HK",
+        "country": "Hong Kong",
+        "rank": 94
+    },
+    {
+        "name": "Hong Kong and China Gas",
+        "code": "0003.HK",
+        "country": "Hong Kong",
+        "rank": 95
+    },
+    {
+        "name": "Wharf REIC",
+        "code": "1997.HK",
+        "country": "Hong Kong",
+        "rank": 96
+    },
+    {
+        "name": "Henderson Land Development",
+        "code": "0012.HK",
+        "country": "Hong Kong",
+        "rank": 97
+    },
+    {
+        "name": "Link REIT",
+        "code": "0823.HK",
+        "country": "Hong Kong",
+        "rank": 98
+    },
+    {
+        "name": "Swire Properties",
+        "code": "1972.HK",
+        "country": "Hong Kong",
+        "rank": 99
+    },
+    {
+        "name": "CK Infrastructure",
+        "code": "1038.HK",
+        "country": "Hong Kong",
+        "rank": 100
+    },
+    {
+        "name": "Orient Overseas Container Line",
+        "code": "0316.HK",
+        "country": "Hong Kong",
+        "rank": 101
+    },
+    {
+        "name": "Power Assets",
+        "code": "0006.HK",
+        "country": "Hong Kong",
+        "rank": 102
+    },
+    {
+        "name": "Swire Pacific",
+        "code": "0019.HK",
+        "country": "Hong Kong",
+        "rank": 103
+    },
+    {
+        "name": "Hongkong Land",
+        "code": "H78.SI",
+        "country": "Hong Kong",
+        "rank": 104
+    },
+    {
+        "name": "Sino Land",
+        "code": "0083.HK",
+        "country": "Hong Kong",
+        "rank": 105
+    },
+    {
+        "name": "Lenovo",
+        "code": "0992.HK",
+        "country": "Hong Kong",
+        "rank": 106
+    },
+    {
+        "name": "Hong Kong Telecom",
+        "code": "6823.HK",
+        "country": "Hong Kong",
+        "rank": 107
+    },
+    {
+        "name": "ESR",
+        "code": "1821.HK",
+        "country": "Hong Kong",
+        "rank": 108
+    },
+    {
+        "name": "Wharf Holdings",
+        "code": "0004.HK",
+        "country": "Hong Kong",
+        "rank": 109
+    },
+    {
+        "name": "Hang Lung Properties",
+        "code": "0101.HK",
+        "country": "Hong Kong",
+        "rank": 110
+    },
+    {
+        "name": "Want Want China",
+        "code": "0151.HK",
+        "country": "Hong Kong",
+        "rank": 111
+    },
+    {
+        "name": "WH Group",
+        "code": "0288.HK",
+        "country": "Hong Kong",
+        "rank": 112
+    },
+    {
+        "name": "New World Development Company",
+        "code": "0017.HK",
+        "country": "Hong Kong",
+        "rank": 113
+    },
+    {
+        "name": "Cathay Pacific",
+        "code": "0293.HK",
+        "country": "Hong Kong",
+        "rank": 114
+    },
+    {
+        "name": "HK Electric Investments",
+        "code": "2638.HK",
+        "country": "Hong Kong",
+        "rank": 115
+    },
+    {
+        "name": "Futu Holdings",
+        "code": "FUTU",
+        "country": "Hong Kong",
+        "rank": 116
+    },
+    {
+        "name": "Melco Resorts & Entertainment",
+        "code": "MLCO",
+        "country": "Hong Kong",
+        "rank": 117
+    },
+    {
+        "name": "SJM Holdings",
+        "code": "0880.HK",
+        "country": "Hong Kong",
+        "rank": 118
+    },
+    {
+        "name": "Dairy Farm",
+        "code": "D01.SI",
+        "country": "Hong Kong",
+        "rank": 119
+    },
+    {
+        "name": "PCCW",
+        "code": "0008.HK",
+        "country": "Hong Kong",
+        "rank": 120
+    },
+    {
+        "name": "NWS holdings",
+        "code": "0659.HK",
+        "country": "Hong Kong",
+        "rank": 121
+    },
+    {
+        "name": "Hysan Development",
+        "code": "0014.HK",
+        "country": "Hong Kong",
+        "rank": 122
+    },
+    {
+        "name": "Bank of East Asia",
+        "code": "0023.HK",
+        "country": "Hong Kong",
+        "rank": 123
+    },
+    {
+        "name": "Kerry Properties",
+        "code": "0683.HK",
+        "country": "Hong Kong",
+        "rank": 124
+    },
+    {
+        "name": "ASM Pacific Technology",
+        "code": "0522.HK",
+        "country": "Hong Kong",
+        "rank": 125
+    },
+    {
+        "name": "Shangri-La",
+        "code": "0069.HK",
+        "country": "Hong Kong",
+        "rank": 126
+    },
+    {
+        "name": "Guoco",
+        "code": "0053.HK",
+        "country": "Hong Kong",
+        "rank": 127
+    },
+    {
+        "name": "HUTCHMED",
+        "code": "HCM",
+        "country": "Hong Kong",
+        "rank": 128
+    },
+    {
+        "name": "Hang Lung Group",
+        "code": "0010.HK",
+        "country": "Hong Kong",
+        "rank": 129
+    },
+    {
+        "name": "Mandarin Oriental",
+        "code": "M04.SI",
+        "country": "Hong Kong",
+        "rank": 130
+    },
+    {
+        "name": "Champion REIT",
+        "code": "2778.HK",
+        "country": "Hong Kong",
+        "rank": 131
+    },
+    {
+        "name": "Silicon Motion",
+        "code": "SIMO",
+        "country": "Hong Kong",
+        "rank": 132
+    },
+    {
+        "name": "Shimao Property",
+        "code": "0813.HK",
+        "country": "Hong Kong",
+        "rank": 133
+    },
+    {
+        "name": "Hongkong and Shanghai Hotels",
+        "code": "0045.HK",
+        "country": "Hong Kong",
+        "rank": 134
+    },
+    {
+        "name": "Melco International Development",
+        "code": "0200.HK",
+        "country": "Hong Kong",
+        "rank": 135
+    },
+    {
+        "name": "Great Eagle",
+        "code": "0041.HK",
+        "country": "Hong Kong",
+        "rank": 136
+    },
+    {
+        "name": "Vtech",
+        "code": "0303.HK",
+        "country": "Hong Kong",
+        "rank": 137
+    },
+    {
+        "name": "Fortune REIT",
+        "code": "0778.HK",
+        "country": "Hong Kong",
+        "rank": 138
+    },
+    {
+        "name": "Miramar Hotel and Investment",
+        "code": "0071.HK",
+        "country": "Hong Kong",
+        "rank": 139
+    },
+    {
+        "name": "Dah Sing Banking Group",
+        "code": "2356.HK",
+        "country": "Hong Kong",
+        "rank": 140
+    },
+    {
+        "name": "Dah Sing Financial",
+        "code": "0440.HK",
+        "country": "Hong Kong",
+        "rank": 141
+    },
+    {
+        "name": "Sunlight REIT",
+        "code": "0435.HK",
+        "country": "Hong Kong",
+        "rank": 142
+    },
+    {
+        "name": "AMTD Digital",
+        "code": "AMTD",
+        "country": "Hong Kong",
+        "rank": 143
+    },
+    {
+        "name": "Global Cord Blood",
+        "code": "CO",
+        "country": "Hong Kong",
+        "rank": 144
+    },
+    {
+        "name": "Regal Hotels International",
+        "code": "0078.HK",
+        "country": "Hong Kong",
+        "rank": 145
+    },
+    {
+        "name": "Hong Kong Ferry",
+        "code": "0050.HK",
+        "country": "Hong Kong",
+        "rank": 146
+    },
+    {
+        "name": "Giordano",
+        "code": "0709.HK",
+        "country": "Hong Kong",
+        "rank": 147
+    },
+    {
+        "name": "Prenetics",
+        "code": "PRE",
+        "country": "Hong Kong",
+        "rank": 148
+    },
+    {
+        "name": "Troops",
+        "code": "TROO",
+        "country": "Hong Kong",
+        "rank": 149
+    },
+    {
+        "name": "Digital Domain",
+        "code": "0547.HK",
+        "country": "Hong Kong",
+        "rank": 150
+    },
+    {
+        "name": "Graphex Group",
+        "code": "GRFX",
+        "country": "Hong Kong",
+        "rank": 151
+    },
+    {
+        "name": "Magic Empire Global (Giraffe Capital)",
+        "code": "MEGL",
+        "country": "Hong Kong",
+        "rank": 152
+    },
+    {
+        "name": "Aptorum Group",
+        "code": "APM",
+        "country": "Hong Kong",
+        "rank": 153
+    },
+    {
+        "name": "Gameone",
+        "code": "8282.HK",
+        "country": "Hong Kong",
+        "rank": 154
+    },
+    {
+        "name": "AIA",
+        "code": "1299.HK",
+        "country": "Hong Kong",
+        "rank": 155
+    },
+    {
+        "name": "Hong Kong Exchanges & Clearing",
+        "code": "0388.HK",
+        "country": "Hong Kong",
+        "rank": 156
+    },
+    {
+        "name": "Budweiser APAC",
+        "code": "1876.HK",
+        "country": "Hong Kong",
+        "rank": 157
+    },
+    {
+        "name": "Sun Hung Kai Properties",
+        "code": "0016.HK",
+        "country": "Hong Kong",
+        "rank": 158
+    },
+    {
+        "name": "Jardine Matheson",
+        "code": "J36.SI",
+        "country": "Hong Kong",
+        "rank": 159
+    },
+    {
+        "name": "Bank of China (Hong Kong)",
+        "code": "2388.HK",
+        "country": "Hong Kong",
+        "rank": 160
+    },
+    {
+        "name": "MTR Corporation",
+        "code": "0066.HK",
+        "country": "Hong Kong",
+        "rank": 161
+    },
+    {
+        "name": "Hang Seng Bank",
+        "code": "0011.HK",
+        "country": "Hong Kong",
+        "rank": 162
+    },
+    {
+        "name": "China Overseas Land & Investment",
+        "code": "0688.HK",
+        "country": "Hong Kong",
+        "rank": 163
+    },
+    {
+        "name": "Galaxy Entertainment",
+        "code": "0027.HK",
+        "country": "Hong Kong",
+        "rank": 164
+    },
+    {
+        "name": "CK Hutchison Holdings",
+        "code": "0001.HK",
+        "country": "Hong Kong",
+        "rank": 165
+    },
+    {
+        "name": "China Resources Beer",
+        "code": "0291.HK",
+        "country": "Hong Kong",
+        "rank": 166
+    },
+    {
+        "name": "CK Asset Holdings",
+        "code": "1113.HK",
+        "country": "Hong Kong",
+        "rank": 167
+    },
+    {
+        "name": "Techtronic Industries",
+        "code": "TIB1.F",
+        "country": "Hong Kong",
+        "rank": 168
+    },
+    {
+        "name": "Chow Tai Fook",
+        "code": "1929.HK",
+        "country": "Hong Kong",
+        "rank": 169
+    },
+    {
+        "name": "China Unicom",
+        "code": "0762.HK",
+        "country": "Hong Kong",
+        "rank": 170
+    },
+    {
+        "name": "CLP Group",
+        "code": "0002.HK",
+        "country": "Hong Kong",
+        "rank": 171
+    },
+    {
+        "name": "Hong Kong and China Gas",
+        "code": "0003.HK",
+        "country": "Hong Kong",
+        "rank": 172
+    },
+    {
+        "name": "Wharf REIC",
+        "code": "1997.HK",
+        "country": "Hong Kong",
+        "rank": 173
+    },
+    {
+        "name": "Henderson Land Development",
+        "code": "0012.HK",
+        "country": "Hong Kong",
+        "rank": 174
+    },
+    {
+        "name": "Link REIT",
+        "code": "0823.HK",
+        "country": "Hong Kong",
+        "rank": 175
+    },
+    {
+        "name": "Swire Properties",
+        "code": "1972.HK",
+        "country": "Hong Kong",
+        "rank": 176
+    },
+    {
+        "name": "CK Infrastructure",
+        "code": "1038.HK",
+        "country": "Hong Kong",
+        "rank": 177
+    },
+    {
+        "name": "Orient Overseas Container Line",
+        "code": "0316.HK",
+        "country": "Hong Kong",
+        "rank": 178
+    },
+    {
+        "name": "Power Assets",
+        "code": "0006.HK",
+        "country": "Hong Kong",
+        "rank": 179
+    },
+    {
+        "name": "Swire Pacific",
+        "code": "0019.HK",
+        "country": "Hong Kong",
+        "rank": 180
+    },
+    {
+        "name": "Hongkong Land",
+        "code": "H78.SI",
+        "country": "Hong Kong",
+        "rank": 181
+    },
+    {
+        "name": "Sino Land",
+        "code": "0083.HK",
+        "country": "Hong Kong",
+        "rank": 182
+    },
+    {
+        "name": "Lenovo",
+        "code": "0992.HK",
+        "country": "Hong Kong",
+        "rank": 183
+    },
+    {
+        "name": "Hong Kong Telecom",
+        "code": "6823.HK",
+        "country": "Hong Kong",
+        "rank": 184
+    },
+    {
+        "name": "ESR",
+        "code": "1821.HK",
+        "country": "Hong Kong",
+        "rank": 185
+    },
+    {
+        "name": "Wharf Holdings",
+        "code": "0004.HK",
+        "country": "Hong Kong",
+        "rank": 186
+    },
+    {
+        "name": "Hang Lung Properties",
+        "code": "0101.HK",
+        "country": "Hong Kong",
+        "rank": 187
+    },
+    {
+        "name": "Want Want China",
+        "code": "0151.HK",
+        "country": "Hong Kong",
+        "rank": 188
+    },
+    {
+        "name": "WH Group",
+        "code": "0288.HK",
+        "country": "Hong Kong",
+        "rank": 189
+    },
+    {
+        "name": "New World Development Company",
+        "code": "0017.HK",
+        "country": "Hong Kong",
+        "rank": 190
+    },
+    {
+        "name": "Cathay Pacific",
+        "code": "0293.HK",
+        "country": "Hong Kong",
+        "rank": 191
+    },
+    {
+        "name": "HK Electric Investments",
+        "code": "2638.HK",
+        "country": "Hong Kong",
+        "rank": 192
+    },
+    {
+        "name": "Futu Holdings",
+        "code": "FUTU",
+        "country": "Hong Kong",
+        "rank": 193
+    },
+    {
+        "name": "Melco Resorts & Entertainment",
+        "code": "MLCO",
+        "country": "Hong Kong",
+        "rank": 194
+    },
+    {
+        "name": "SJM Holdings",
+        "code": "0880.HK",
+        "country": "Hong Kong",
+        "rank": 195
+    },
+    {
+        "name": "Dairy Farm",
+        "code": "D01.SI",
+        "country": "Hong Kong",
+        "rank": 196
+    },
+    {
+        "name": "PCCW",
+        "code": "0008.HK",
+        "country": "Hong Kong",
+        "rank": 197
+    },
+    {
+        "name": "NWS holdings",
+        "code": "0659.HK",
+        "country": "Hong Kong",
+        "rank": 198
+    },
+    {
+        "name": "Hysan Development",
+        "code": "0014.HK",
+        "country": "Hong Kong",
+        "rank": 199
+    },
+    {
+        "name": "Bank of East Asia",
+        "code": "0023.HK",
+        "country": "Hong Kong",
+        "rank": 200
+    },
+    {
+        "name": "Kerry Properties",
+        "code": "0683.HK",
+        "country": "Hong Kong",
+        "rank": 201
+    },
+    {
+        "name": "ASM Pacific Technology",
+        "code": "0522.HK",
+        "country": "Hong Kong",
+        "rank": 202
+    },
+    {
+        "name": "Shangri-La",
+        "code": "0069.HK",
+        "country": "Hong Kong",
+        "rank": 203
+    },
+    {
+        "name": "Guoco",
+        "code": "0053.HK",
+        "country": "Hong Kong",
+        "rank": 204
+    },
+    {
+        "name": "HUTCHMED",
+        "code": "HCM",
+        "country": "Hong Kong",
+        "rank": 205
+    },
+    {
+        "name": "Hang Lung Group",
+        "code": "0010.HK",
+        "country": "Hong Kong",
+        "rank": 206
+    },
+    {
+        "name": "Mandarin Oriental",
+        "code": "M04.SI",
+        "country": "Hong Kong",
+        "rank": 207
+    },
+    {
+        "name": "Champion REIT",
+        "code": "2778.HK",
+        "country": "Hong Kong",
+        "rank": 208
+    },
+    {
+        "name": "Silicon Motion",
+        "code": "SIMO",
+        "country": "Hong Kong",
+        "rank": 209
+    },
+    {
+        "name": "Shimao Property",
+        "code": "0813.HK",
+        "country": "Hong Kong",
+        "rank": 210
+    },
+    {
+        "name": "Hongkong and Shanghai Hotels",
+        "code": "0045.HK",
+        "country": "Hong Kong",
+        "rank": 211
+    },
+    {
+        "name": "Melco International Development",
+        "code": "0200.HK",
+        "country": "Hong Kong",
+        "rank": 212
+    },
+    {
+        "name": "Great Eagle",
+        "code": "0041.HK",
+        "country": "Hong Kong",
+        "rank": 213
+    },
+    {
+        "name": "Vtech",
+        "code": "0303.HK",
+        "country": "Hong Kong",
+        "rank": 214
+    },
+    {
+        "name": "Fortune REIT",
+        "code": "0778.HK",
+        "country": "Hong Kong",
+        "rank": 215
+    },
+    {
+        "name": "Miramar Hotel and Investment",
+        "code": "0071.HK",
+        "country": "Hong Kong",
+        "rank": 216
+    },
+    {
+        "name": "Dah Sing Banking Group",
+        "code": "2356.HK",
+        "country": "Hong Kong",
+        "rank": 217
+    },
+    {
+        "name": "Dah Sing Financial",
+        "code": "0440.HK",
+        "country": "Hong Kong",
+        "rank": 218
+    },
+    {
+        "name": "Sunlight REIT",
+        "code": "0435.HK",
+        "country": "Hong Kong",
+        "rank": 219
+    },
+    {
+        "name": "AMTD Digital",
+        "code": "AMTD",
+        "country": "Hong Kong",
+        "rank": 220
+    },
+    {
+        "name": "Global Cord Blood",
+        "code": "CO",
+        "country": "Hong Kong",
+        "rank": 221
+    },
+    {
+        "name": "Regal Hotels International",
+        "code": "0078.HK",
+        "country": "Hong Kong",
+        "rank": 222
+    },
+    {
+        "name": "Hong Kong Ferry",
+        "code": "0050.HK",
+        "country": "Hong Kong",
+        "rank": 223
+    },
+    {
+        "name": "Giordano",
+        "code": "0709.HK",
+        "country": "Hong Kong",
+        "rank": 224
+    },
+    {
+        "name": "Prenetics",
+        "code": "PRE",
+        "country": "Hong Kong",
+        "rank": 225
+    },
+    {
+        "name": "Troops",
+        "code": "TROO",
+        "country": "Hong Kong",
+        "rank": 226
+    },
+    {
+        "name": "Digital Domain",
+        "code": "0547.HK",
+        "country": "Hong Kong",
+        "rank": 227
+    },
+    {
+        "name": "Graphex Group",
+        "code": "GRFX",
+        "country": "Hong Kong",
+        "rank": 228
+    },
+    {
+        "name": "Magic Empire Global (Giraffe Capital)",
+        "code": "MEGL",
+        "country": "Hong Kong",
+        "rank": 229
+    },
+    {
+        "name": "Aptorum Group",
+        "code": "APM",
+        "country": "Hong Kong",
+        "rank": 230
+    },
+    {
+        "name": "Gameone",
+        "code": "8282.HK",
+        "country": "Hong Kong",
+        "rank": 231
+    },
+    {
+        "name": "AIA",
+        "code": "1299.HK",
+        "country": "Hong Kong",
+        "rank": 232
+    },
+    {
+        "name": "Hong Kong Exchanges & Clearing",
+        "code": "0388.HK",
+        "country": "Hong Kong",
+        "rank": 233
+    },
+    {
+        "name": "Budweiser APAC",
+        "code": "1876.HK",
+        "country": "Hong Kong",
+        "rank": 234
+    },
+    {
+        "name": "Sun Hung Kai Properties",
+        "code": "0016.HK",
+        "country": "Hong Kong",
+        "rank": 235
+    },
+    {
+        "name": "Jardine Matheson",
+        "code": "J36.SI",
+        "country": "Hong Kong",
+        "rank": 236
+    },
+    {
+        "name": "Bank of China (Hong Kong)",
+        "code": "2388.HK",
+        "country": "Hong Kong",
+        "rank": 237
+    },
+    {
+        "name": "MTR Corporation",
+        "code": "0066.HK",
+        "country": "Hong Kong",
+        "rank": 238
+    },
+    {
+        "name": "Hang Seng Bank",
+        "code": "0011.HK",
+        "country": "Hong Kong",
+        "rank": 239
+    },
+    {
+        "name": "China Overseas Land & Investment",
+        "code": "0688.HK",
+        "country": "Hong Kong",
+        "rank": 240
+    },
+    {
+        "name": "Galaxy Entertainment",
+        "code": "0027.HK",
+        "country": "Hong Kong",
+        "rank": 241
+    },
+    {
+        "name": "CK Hutchison Holdings",
+        "code": "0001.HK",
+        "country": "Hong Kong",
+        "rank": 242
+    },
+    {
+        "name": "China Resources Beer",
+        "code": "0291.HK",
+        "country": "Hong Kong",
+        "rank": 243
+    },
+    {
+        "name": "CK Asset Holdings",
+        "code": "1113.HK",
+        "country": "Hong Kong",
+        "rank": 244
+    },
+    {
+        "name": "Techtronic Industries",
+        "code": "TIB1.F",
+        "country": "Hong Kong",
+        "rank": 245
+    },
+    {
+        "name": "Chow Tai Fook",
+        "code": "1929.HK",
+        "country": "Hong Kong",
+        "rank": 246
+    },
+    {
+        "name": "China Unicom",
+        "code": "0762.HK",
+        "country": "Hong Kong",
+        "rank": 247
+    },
+    {
+        "name": "CLP Group",
+        "code": "0002.HK",
+        "country": "Hong Kong",
+        "rank": 248
+    },
+    {
+        "name": "Hong Kong and China Gas",
+        "code": "0003.HK",
+        "country": "Hong Kong",
+        "rank": 249
+    },
+    {
+        "name": "Wharf REIC",
+        "code": "1997.HK",
+        "country": "Hong Kong",
+        "rank": 250
+    },
+    {
+        "name": "Henderson Land Development",
+        "code": "0012.HK",
+        "country": "Hong Kong",
+        "rank": 251
+    },
+    {
+        "name": "Link REIT",
+        "code": "0823.HK",
+        "country": "Hong Kong",
+        "rank": 252
+    },
+    {
+        "name": "Swire Properties",
+        "code": "1972.HK",
+        "country": "Hong Kong",
+        "rank": 253
+    },
+    {
+        "name": "CK Infrastructure",
+        "code": "1038.HK",
+        "country": "Hong Kong",
+        "rank": 254
+    },
+    {
+        "name": "Orient Overseas Container Line",
+        "code": "0316.HK",
+        "country": "Hong Kong",
+        "rank": 255
+    },
+    {
+        "name": "Power Assets",
+        "code": "0006.HK",
+        "country": "Hong Kong",
+        "rank": 256
+    },
+    {
+        "name": "Swire Pacific",
+        "code": "0019.HK",
+        "country": "Hong Kong",
+        "rank": 257
+    },
+    {
+        "name": "Hongkong Land",
+        "code": "H78.SI",
+        "country": "Hong Kong",
+        "rank": 258
+    },
+    {
+        "name": "Sino Land",
+        "code": "0083.HK",
+        "country": "Hong Kong",
+        "rank": 259
+    },
+    {
+        "name": "Lenovo",
+        "code": "0992.HK",
+        "country": "Hong Kong",
+        "rank": 260
+    },
+    {
+        "name": "Hong Kong Telecom",
+        "code": "6823.HK",
+        "country": "Hong Kong",
+        "rank": 261
+    },
+    {
+        "name": "ESR",
+        "code": "1821.HK",
+        "country": "Hong Kong",
+        "rank": 262
+    },
+    {
+        "name": "Wharf Holdings",
+        "code": "0004.HK",
+        "country": "Hong Kong",
+        "rank": 263
+    },
+    {
+        "name": "Hang Lung Properties",
+        "code": "0101.HK",
+        "country": "Hong Kong",
+        "rank": 264
+    },
+    {
+        "name": "Want Want China",
+        "code": "0151.HK",
+        "country": "Hong Kong",
+        "rank": 265
+    },
+    {
+        "name": "WH Group",
+        "code": "0288.HK",
+        "country": "Hong Kong",
+        "rank": 266
+    },
+    {
+        "name": "New World Development Company",
+        "code": "0017.HK",
+        "country": "Hong Kong",
+        "rank": 267
+    },
+    {
+        "name": "Cathay Pacific",
+        "code": "0293.HK",
+        "country": "Hong Kong",
+        "rank": 268
+    },
+    {
+        "name": "HK Electric Investments",
+        "code": "2638.HK",
+        "country": "Hong Kong",
+        "rank": 269
+    },
+    {
+        "name": "Futu Holdings",
+        "code": "FUTU",
+        "country": "Hong Kong",
+        "rank": 270
+    },
+    {
+        "name": "Melco Resorts & Entertainment",
+        "code": "MLCO",
+        "country": "Hong Kong",
+        "rank": 271
+    },
+    {
+        "name": "SJM Holdings",
+        "code": "0880.HK",
+        "country": "Hong Kong",
+        "rank": 272
+    },
+    {
+        "name": "Dairy Farm",
+        "code": "D01.SI",
+        "country": "Hong Kong",
+        "rank": 273
+    },
+    {
+        "name": "PCCW",
+        "code": "0008.HK",
+        "country": "Hong Kong",
+        "rank": 274
+    },
+    {
+        "name": "NWS holdings",
+        "code": "0659.HK",
+        "country": "Hong Kong",
+        "rank": 275
+    },
+    {
+        "name": "Hysan Development",
+        "code": "0014.HK",
+        "country": "Hong Kong",
+        "rank": 276
+    },
+    {
+        "name": "Bank of East Asia",
+        "code": "0023.HK",
+        "country": "Hong Kong",
+        "rank": 277
+    },
+    {
+        "name": "Kerry Properties",
+        "code": "0683.HK",
+        "country": "Hong Kong",
+        "rank": 278
+    },
+    {
+        "name": "ASM Pacific Technology",
+        "code": "0522.HK",
+        "country": "Hong Kong",
+        "rank": 279
+    },
+    {
+        "name": "Shangri-La",
+        "code": "0069.HK",
+        "country": "Hong Kong",
+        "rank": 280
+    },
+    {
+        "name": "Guoco",
+        "code": "0053.HK",
+        "country": "Hong Kong",
+        "rank": 281
+    },
+    {
+        "name": "HUTCHMED",
+        "code": "HCM",
+        "country": "Hong Kong",
+        "rank": 282
+    },
+    {
+        "name": "Hang Lung Group",
+        "code": "0010.HK",
+        "country": "Hong Kong",
+        "rank": 283
+    },
+    {
+        "name": "Mandarin Oriental",
+        "code": "M04.SI",
+        "country": "Hong Kong",
+        "rank": 284
+    },
+    {
+        "name": "Champion REIT",
+        "code": "2778.HK",
+        "country": "Hong Kong",
+        "rank": 285
+    },
+    {
+        "name": "Silicon Motion",
+        "code": "SIMO",
+        "country": "Hong Kong",
+        "rank": 286
+    },
+    {
+        "name": "Shimao Property",
+        "code": "0813.HK",
+        "country": "Hong Kong",
+        "rank": 287
+    },
+    {
+        "name": "Hongkong and Shanghai Hotels",
+        "code": "0045.HK",
+        "country": "Hong Kong",
+        "rank": 288
+    },
+    {
+        "name": "Melco International Development",
+        "code": "0200.HK",
+        "country": "Hong Kong",
+        "rank": 289
+    },
+    {
+        "name": "Great Eagle",
+        "code": "0041.HK",
+        "country": "Hong Kong",
+        "rank": 290
+    },
+    {
+        "name": "Vtech",
+        "code": "0303.HK",
+        "country": "Hong Kong",
+        "rank": 291
+    },
+    {
+        "name": "Fortune REIT",
+        "code": "0778.HK",
+        "country": "Hong Kong",
+        "rank": 292
+    },
+    {
+        "name": "Miramar Hotel and Investment",
+        "code": "0071.HK",
+        "country": "Hong Kong",
+        "rank": 293
+    },
+    {
+        "name": "Dah Sing Banking Group",
+        "code": "2356.HK",
+        "country": "Hong Kong",
+        "rank": 294
+    },
+    {
+        "name": "Dah Sing Financial",
+        "code": "0440.HK",
+        "country": "Hong Kong",
+        "rank": 295
+    },
+    {
+        "name": "Sunlight REIT",
+        "code": "0435.HK",
+        "country": "Hong Kong",
+        "rank": 296
+    },
+    {
+        "name": "AMTD Digital",
+        "code": "AMTD",
+        "country": "Hong Kong",
+        "rank": 297
+    },
+    {
+        "name": "Global Cord Blood",
+        "code": "CO",
+        "country": "Hong Kong",
+        "rank": 298
+    },
+    {
+        "name": "Regal Hotels International",
+        "code": "0078.HK",
+        "country": "Hong Kong",
+        "rank": 299
+    },
+    {
+        "name": "Hong Kong Ferry",
+        "code": "0050.HK",
+        "country": "Hong Kong",
+        "rank": 300
+    },
+    {
+        "name": "Giordano",
+        "code": "0709.HK",
+        "country": "Hong Kong",
+        "rank": 301
+    },
+    {
+        "name": "Prenetics",
+        "code": "PRE",
+        "country": "Hong Kong",
+        "rank": 302
+    },
+    {
+        "name": "Troops",
+        "code": "TROO",
+        "country": "Hong Kong",
+        "rank": 303
+    },
+    {
+        "name": "Digital Domain",
+        "code": "0547.HK",
+        "country": "Hong Kong",
+        "rank": 304
+    },
+    {
+        "name": "Graphex Group",
+        "code": "GRFX",
+        "country": "Hong Kong",
+        "rank": 305
+    },
+    {
+        "name": "Magic Empire Global (Giraffe Capital)",
+        "code": "MEGL",
+        "country": "Hong Kong",
+        "rank": 306
+    },
+    {
+        "name": "Aptorum Group",
+        "code": "APM",
+        "country": "Hong Kong",
+        "rank": 307
+    },
+    {
+        "name": "Gameone",
+        "code": "8282.HK",
+        "country": "Hong Kong",
+        "rank": 308
+    },
+    {
+        "name": "AIA",
+        "code": "1299.HK",
+        "country": "Hong Kong",
+        "rank": 309
+    },
+    {
+        "name": "Hong Kong Exchanges & Clearing",
+        "code": "0388.HK",
+        "country": "Hong Kong",
+        "rank": 310
+    },
+    {
+        "name": "Budweiser APAC",
+        "code": "1876.HK",
+        "country": "Hong Kong",
+        "rank": 311
+    },
+    {
+        "name": "Sun Hung Kai Properties",
+        "code": "0016.HK",
+        "country": "Hong Kong",
+        "rank": 312
+    },
+    {
+        "name": "Jardine Matheson",
+        "code": "J36.SI",
+        "country": "Hong Kong",
+        "rank": 313
+    },
+    {
+        "name": "Bank of China (Hong Kong)",
+        "code": "2388.HK",
+        "country": "Hong Kong",
+        "rank": 314
+    },
+    {
+        "name": "MTR Corporation",
+        "code": "0066.HK",
+        "country": "Hong Kong",
+        "rank": 315
+    },
+    {
+        "name": "Hang Seng Bank",
+        "code": "0011.HK",
+        "country": "Hong Kong",
+        "rank": 316
+    },
+    {
+        "name": "China Overseas Land & Investment",
+        "code": "0688.HK",
+        "country": "Hong Kong",
+        "rank": 317
+    },
+    {
+        "name": "Galaxy Entertainment",
+        "code": "0027.HK",
+        "country": "Hong Kong",
+        "rank": 318
+    },
+    {
+        "name": "CK Hutchison Holdings",
+        "code": "0001.HK",
+        "country": "Hong Kong",
+        "rank": 319
+    },
+    {
+        "name": "China Resources Beer",
+        "code": "0291.HK",
+        "country": "Hong Kong",
+        "rank": 320
+    },
+    {
+        "name": "CK Asset Holdings",
+        "code": "1113.HK",
+        "country": "Hong Kong",
+        "rank": 321
+    },
+    {
+        "name": "Techtronic Industries",
+        "code": "TIB1.F",
+        "country": "Hong Kong",
+        "rank": 322
+    },
+    {
+        "name": "Chow Tai Fook",
+        "code": "1929.HK",
+        "country": "Hong Kong",
+        "rank": 323
+    },
+    {
+        "name": "China Unicom",
+        "code": "0762.HK",
+        "country": "Hong Kong",
+        "rank": 324
+    },
+    {
+        "name": "CLP Group",
+        "code": "0002.HK",
+        "country": "Hong Kong",
+        "rank": 325
+    },
+    {
+        "name": "Hong Kong and China Gas",
+        "code": "0003.HK",
+        "country": "Hong Kong",
+        "rank": 326
+    },
+    {
+        "name": "Wharf REIC",
+        "code": "1997.HK",
+        "country": "Hong Kong",
+        "rank": 327
+    },
+    {
+        "name": "Henderson Land Development",
+        "code": "0012.HK",
+        "country": "Hong Kong",
+        "rank": 328
+    },
+    {
+        "name": "Link REIT",
+        "code": "0823.HK",
+        "country": "Hong Kong",
+        "rank": 329
+    },
+    {
+        "name": "Swire Properties",
+        "code": "1972.HK",
+        "country": "Hong Kong",
+        "rank": 330
+    },
+    {
+        "name": "CK Infrastructure",
+        "code": "1038.HK",
+        "country": "Hong Kong",
+        "rank": 331
+    },
+    {
+        "name": "Orient Overseas Container Line",
+        "code": "0316.HK",
+        "country": "Hong Kong",
+        "rank": 332
+    },
+    {
+        "name": "Power Assets",
+        "code": "0006.HK",
+        "country": "Hong Kong",
+        "rank": 333
+    },
+    {
+        "name": "Swire Pacific",
+        "code": "0019.HK",
+        "country": "Hong Kong",
+        "rank": 334
+    },
+    {
+        "name": "Hongkong Land",
+        "code": "H78.SI",
+        "country": "Hong Kong",
+        "rank": 335
+    },
+    {
+        "name": "Sino Land",
+        "code": "0083.HK",
+        "country": "Hong Kong",
+        "rank": 336
+    },
+    {
+        "name": "Lenovo",
+        "code": "0992.HK",
+        "country": "Hong Kong",
+        "rank": 337
+    },
+    {
+        "name": "Hong Kong Telecom",
+        "code": "6823.HK",
+        "country": "Hong Kong",
+        "rank": 338
+    },
+    {
+        "name": "ESR",
+        "code": "1821.HK",
+        "country": "Hong Kong",
+        "rank": 339
+    },
+    {
+        "name": "Wharf Holdings",
+        "code": "0004.HK",
+        "country": "Hong Kong",
+        "rank": 340
+    },
+    {
+        "name": "Hang Lung Properties",
+        "code": "0101.HK",
+        "country": "Hong Kong",
+        "rank": 341
+    },
+    {
+        "name": "Want Want China",
+        "code": "0151.HK",
+        "country": "Hong Kong",
+        "rank": 342
+    },
+    {
+        "name": "WH Group",
+        "code": "0288.HK",
+        "country": "Hong Kong",
+        "rank": 343
+    },
+    {
+        "name": "New World Development Company",
+        "code": "0017.HK",
+        "country": "Hong Kong",
+        "rank": 344
+    },
+    {
+        "name": "Cathay Pacific",
+        "code": "0293.HK",
+        "country": "Hong Kong",
+        "rank": 345
+    },
+    {
+        "name": "HK Electric Investments",
+        "code": "2638.HK",
+        "country": "Hong Kong",
+        "rank": 346
+    },
+    {
+        "name": "Futu Holdings",
+        "code": "FUTU",
+        "country": "Hong Kong",
+        "rank": 347
+    },
+    {
+        "name": "Melco Resorts & Entertainment",
+        "code": "MLCO",
+        "country": "Hong Kong",
+        "rank": 348
+    },
+    {
+        "name": "SJM Holdings",
+        "code": "0880.HK",
+        "country": "Hong Kong",
+        "rank": 349
+    },
+    {
+        "name": "Dairy Farm",
+        "code": "D01.SI",
+        "country": "Hong Kong",
+        "rank": 350
+    },
+    {
+        "name": "PCCW",
+        "code": "0008.HK",
+        "country": "Hong Kong",
+        "rank": 351
+    },
+    {
+        "name": "NWS holdings",
+        "code": "0659.HK",
+        "country": "Hong Kong",
+        "rank": 352
+    },
+    {
+        "name": "Hysan Development",
+        "code": "0014.HK",
+        "country": "Hong Kong",
+        "rank": 353
+    },
+    {
+        "name": "Bank of East Asia",
+        "code": "0023.HK",
+        "country": "Hong Kong",
+        "rank": 354
+    },
+    {
+        "name": "Kerry Properties",
+        "code": "0683.HK",
+        "country": "Hong Kong",
+        "rank": 355
+    },
+    {
+        "name": "ASM Pacific Technology",
+        "code": "0522.HK",
+        "country": "Hong Kong",
+        "rank": 356
+    },
+    {
+        "name": "Shangri-La",
+        "code": "0069.HK",
+        "country": "Hong Kong",
+        "rank": 357
+    },
+    {
+        "name": "Guoco",
+        "code": "0053.HK",
+        "country": "Hong Kong",
+        "rank": 358
+    },
+    {
+        "name": "HUTCHMED",
+        "code": "HCM",
+        "country": "Hong Kong",
+        "rank": 359
+    },
+    {
+        "name": "Hang Lung Group",
+        "code": "0010.HK",
+        "country": "Hong Kong",
+        "rank": 360
+    },
+    {
+        "name": "Mandarin Oriental",
+        "code": "M04.SI",
+        "country": "Hong Kong",
+        "rank": 361
+    },
+    {
+        "name": "Champion REIT",
+        "code": "2778.HK",
+        "country": "Hong Kong",
+        "rank": 362
+    },
+    {
+        "name": "Silicon Motion",
+        "code": "SIMO",
+        "country": "Hong Kong",
+        "rank": 363
+    },
+    {
+        "name": "Shimao Property",
+        "code": "0813.HK",
+        "country": "Hong Kong",
+        "rank": 364
+    },
+    {
+        "name": "Hongkong and Shanghai Hotels",
+        "code": "0045.HK",
+        "country": "Hong Kong",
+        "rank": 365
+    },
+    {
+        "name": "Melco International Development",
+        "code": "0200.HK",
+        "country": "Hong Kong",
+        "rank": 366
+    },
+    {
+        "name": "Great Eagle",
+        "code": "0041.HK",
+        "country": "Hong Kong",
+        "rank": 367
+    },
+    {
+        "name": "Vtech",
+        "code": "0303.HK",
+        "country": "Hong Kong",
+        "rank": 368
+    },
+    {
+        "name": "Fortune REIT",
+        "code": "0778.HK",
+        "country": "Hong Kong",
+        "rank": 369
+    },
+    {
+        "name": "Miramar Hotel and Investment",
+        "code": "0071.HK",
+        "country": "Hong Kong",
+        "rank": 370
+    },
+    {
+        "name": "Dah Sing Banking Group",
+        "code": "2356.HK",
+        "country": "Hong Kong",
+        "rank": 371
+    },
+    {
+        "name": "Dah Sing Financial",
+        "code": "0440.HK",
+        "country": "Hong Kong",
+        "rank": 372
+    },
+    {
+        "name": "Sunlight REIT",
+        "code": "0435.HK",
+        "country": "Hong Kong",
+        "rank": 373
+    },
+    {
+        "name": "AMTD Digital",
+        "code": "AMTD",
+        "country": "Hong Kong",
+        "rank": 374
+    },
+    {
+        "name": "Global Cord Blood",
+        "code": "CO",
+        "country": "Hong Kong",
+        "rank": 375
+    },
+    {
+        "name": "Regal Hotels International",
+        "code": "0078.HK",
+        "country": "Hong Kong",
+        "rank": 376
+    },
+    {
+        "name": "Hong Kong Ferry",
+        "code": "0050.HK",
+        "country": "Hong Kong",
+        "rank": 377
+    },
+    {
+        "name": "Giordano",
+        "code": "0709.HK",
+        "country": "Hong Kong",
+        "rank": 378
+    },
+    {
+        "name": "Prenetics",
+        "code": "PRE",
+        "country": "Hong Kong",
+        "rank": 379
+    },
+    {
+        "name": "Troops",
+        "code": "TROO",
+        "country": "Hong Kong",
+        "rank": 380
+    },
+    {
+        "name": "Digital Domain",
+        "code": "0547.HK",
+        "country": "Hong Kong",
+        "rank": 381
+    },
+    {
+        "name": "Graphex Group",
+        "code": "GRFX",
+        "country": "Hong Kong",
+        "rank": 382
+    },
+    {
+        "name": "Magic Empire Global (Giraffe Capital)",
+        "code": "MEGL",
+        "country": "Hong Kong",
+        "rank": 383
+    },
+    {
+        "name": "Aptorum Group",
+        "code": "APM",
+        "country": "Hong Kong",
+        "rank": 384
+    },
+    {
+        "name": "Gameone",
+        "code": "8282.HK",
+        "country": "Hong Kong",
+        "rank": 385
+    },
+    {
+        "name": "AIA",
+        "code": "1299.HK",
+        "country": "Hong Kong",
+        "rank": 386
+    },
+    {
+        "name": "Hong Kong Exchanges & Clearing",
+        "code": "0388.HK",
+        "country": "Hong Kong",
+        "rank": 387
+    },
+    {
+        "name": "Budweiser APAC",
+        "code": "1876.HK",
+        "country": "Hong Kong",
+        "rank": 388
+    },
+    {
+        "name": "Sun Hung Kai Properties",
+        "code": "0016.HK",
+        "country": "Hong Kong",
+        "rank": 389
+    },
+    {
+        "name": "Jardine Matheson",
+        "code": "J36.SI",
+        "country": "Hong Kong",
+        "rank": 390
+    },
+    {
+        "name": "Bank of China (Hong Kong)",
+        "code": "2388.HK",
+        "country": "Hong Kong",
+        "rank": 391
+    },
+    {
+        "name": "MTR Corporation",
+        "code": "0066.HK",
+        "country": "Hong Kong",
+        "rank": 392
+    },
+    {
+        "name": "Hang Seng Bank",
+        "code": "0011.HK",
+        "country": "Hong Kong",
+        "rank": 393
+    },
+    {
+        "name": "China Overseas Land & Investment",
+        "code": "0688.HK",
+        "country": "Hong Kong",
+        "rank": 394
+    },
+    {
+        "name": "Galaxy Entertainment",
+        "code": "0027.HK",
+        "country": "Hong Kong",
+        "rank": 395
+    },
+    {
+        "name": "CK Hutchison Holdings",
+        "code": "0001.HK",
+        "country": "Hong Kong",
+        "rank": 396
+    },
+    {
+        "name": "China Resources Beer",
+        "code": "0291.HK",
+        "country": "Hong Kong",
+        "rank": 397
+    },
+    {
+        "name": "CK Asset Holdings",
+        "code": "1113.HK",
+        "country": "Hong Kong",
+        "rank": 398
+    },
+    {
+        "name": "Techtronic Industries",
+        "code": "TIB1.F",
+        "country": "Hong Kong",
+        "rank": 399
+    },
+    {
+        "name": "Chow Tai Fook",
+        "code": "1929.HK",
+        "country": "Hong Kong",
+        "rank": 400
+    },
+    {
+        "name": "China Unicom",
+        "code": "0762.HK",
+        "country": "Hong Kong",
+        "rank": 401
+    },
+    {
+        "name": "CLP Group",
+        "code": "0002.HK",
+        "country": "Hong Kong",
+        "rank": 402
+    },
+    {
+        "name": "Hong Kong and China Gas",
+        "code": "0003.HK",
+        "country": "Hong Kong",
+        "rank": 403
+    },
+    {
+        "name": "Wharf REIC",
+        "code": "1997.HK",
+        "country": "Hong Kong",
+        "rank": 404
+    },
+    {
+        "name": "Henderson Land Development",
+        "code": "0012.HK",
+        "country": "Hong Kong",
+        "rank": 405
+    },
+    {
+        "name": "Link REIT",
+        "code": "0823.HK",
+        "country": "Hong Kong",
+        "rank": 406
+    },
+    {
+        "name": "Swire Properties",
+        "code": "1972.HK",
+        "country": "Hong Kong",
+        "rank": 407
+    },
+    {
+        "name": "CK Infrastructure",
+        "code": "1038.HK",
+        "country": "Hong Kong",
+        "rank": 408
+    },
+    {
+        "name": "Orient Overseas Container Line",
+        "code": "0316.HK",
+        "country": "Hong Kong",
+        "rank": 409
+    },
+    {
+        "name": "Power Assets",
+        "code": "0006.HK",
+        "country": "Hong Kong",
+        "rank": 410
+    },
+    {
+        "name": "Swire Pacific",
+        "code": "0019.HK",
+        "country": "Hong Kong",
+        "rank": 411
+    },
+    {
+        "name": "Hongkong Land",
+        "code": "H78.SI",
+        "country": "Hong Kong",
+        "rank": 412
+    },
+    {
+        "name": "Sino Land",
+        "code": "0083.HK",
+        "country": "Hong Kong",
+        "rank": 413
+    },
+    {
+        "name": "Lenovo",
+        "code": "0992.HK",
+        "country": "Hong Kong",
+        "rank": 414
+    },
+    {
+        "name": "Hong Kong Telecom",
+        "code": "6823.HK",
+        "country": "Hong Kong",
+        "rank": 415
+    },
+    {
+        "name": "ESR",
+        "code": "1821.HK",
+        "country": "Hong Kong",
+        "rank": 416
+    },
+    {
+        "name": "Wharf Holdings",
+        "code": "0004.HK",
+        "country": "Hong Kong",
+        "rank": 417
+    },
+    {
+        "name": "Hang Lung Properties",
+        "code": "0101.HK",
+        "country": "Hong Kong",
+        "rank": 418
+    },
+    {
+        "name": "Want Want China",
+        "code": "0151.HK",
+        "country": "Hong Kong",
+        "rank": 419
+    },
+    {
+        "name": "WH Group",
+        "code": "0288.HK",
+        "country": "Hong Kong",
+        "rank": 420
+    },
+    {
+        "name": "New World Development Company",
+        "code": "0017.HK",
+        "country": "Hong Kong",
+        "rank": 421
+    },
+    {
+        "name": "Cathay Pacific",
+        "code": "0293.HK",
+        "country": "Hong Kong",
+        "rank": 422
+    },
+    {
+        "name": "HK Electric Investments",
+        "code": "2638.HK",
+        "country": "Hong Kong",
+        "rank": 423
+    },
+    {
+        "name": "Futu Holdings",
+        "code": "FUTU",
+        "country": "Hong Kong",
+        "rank": 424
+    },
+    {
+        "name": "Melco Resorts & Entertainment",
+        "code": "MLCO",
+        "country": "Hong Kong",
+        "rank": 425
+    },
+    {
+        "name": "SJM Holdings",
+        "code": "0880.HK",
+        "country": "Hong Kong",
+        "rank": 426
+    },
+    {
+        "name": "Dairy Farm",
+        "code": "D01.SI",
+        "country": "Hong Kong",
+        "rank": 427
+    },
+    {
+        "name": "PCCW",
+        "code": "0008.HK",
+        "country": "Hong Kong",
+        "rank": 428
+    },
+    {
+        "name": "NWS holdings",
+        "code": "0659.HK",
+        "country": "Hong Kong",
+        "rank": 429
+    },
+    {
+        "name": "Hysan Development",
+        "code": "0014.HK",
+        "country": "Hong Kong",
+        "rank": 430
+    },
+    {
+        "name": "Bank of East Asia",
+        "code": "0023.HK",
+        "country": "Hong Kong",
+        "rank": 431
+    },
+    {
+        "name": "Kerry Properties",
+        "code": "0683.HK",
+        "country": "Hong Kong",
+        "rank": 432
+    },
+    {
+        "name": "ASM Pacific Technology",
+        "code": "0522.HK",
+        "country": "Hong Kong",
+        "rank": 433
+    },
+    {
+        "name": "Shangri-La",
+        "code": "0069.HK",
+        "country": "Hong Kong",
+        "rank": 434
+    },
+    {
+        "name": "Guoco",
+        "code": "0053.HK",
+        "country": "Hong Kong",
+        "rank": 435
+    },
+    {
+        "name": "HUTCHMED",
+        "code": "HCM",
+        "country": "Hong Kong",
+        "rank": 436
+    },
+    {
+        "name": "Hang Lung Group",
+        "code": "0010.HK",
+        "country": "Hong Kong",
+        "rank": 437
+    },
+    {
+        "name": "Mandarin Oriental",
+        "code": "M04.SI",
+        "country": "Hong Kong",
+        "rank": 438
+    },
+    {
+        "name": "Champion REIT",
+        "code": "2778.HK",
+        "country": "Hong Kong",
+        "rank": 439
+    },
+    {
+        "name": "Silicon Motion",
+        "code": "SIMO",
+        "country": "Hong Kong",
+        "rank": 440
+    },
+    {
+        "name": "Shimao Property",
+        "code": "0813.HK",
+        "country": "Hong Kong",
+        "rank": 441
+    },
+    {
+        "name": "Hongkong and Shanghai Hotels",
+        "code": "0045.HK",
+        "country": "Hong Kong",
+        "rank": 442
+    },
+    {
+        "name": "Melco International Development",
+        "code": "0200.HK",
+        "country": "Hong Kong",
+        "rank": 443
+    },
+    {
+        "name": "Great Eagle",
+        "code": "0041.HK",
+        "country": "Hong Kong",
+        "rank": 444
+    },
+    {
+        "name": "Vtech",
+        "code": "0303.HK",
+        "country": "Hong Kong",
+        "rank": 445
+    },
+    {
+        "name": "Fortune REIT",
+        "code": "0778.HK",
+        "country": "Hong Kong",
+        "rank": 446
+    },
+    {
+        "name": "Miramar Hotel and Investment",
+        "code": "0071.HK",
+        "country": "Hong Kong",
+        "rank": 447
+    },
+    {
+        "name": "Dah Sing Banking Group",
+        "code": "2356.HK",
+        "country": "Hong Kong",
+        "rank": 448
+    },
+    {
+        "name": "Dah Sing Financial",
+        "code": "0440.HK",
+        "country": "Hong Kong",
+        "rank": 449
+    },
+    {
+        "name": "Sunlight REIT",
+        "code": "0435.HK",
+        "country": "Hong Kong",
+        "rank": 450
+    },
+    {
+        "name": "AMTD Digital",
+        "code": "AMTD",
+        "country": "Hong Kong",
+        "rank": 451
+    },
+    {
+        "name": "Global Cord Blood",
+        "code": "CO",
+        "country": "Hong Kong",
+        "rank": 452
+    },
+    {
+        "name": "Regal Hotels International",
+        "code": "0078.HK",
+        "country": "Hong Kong",
+        "rank": 453
+    },
+    {
+        "name": "Hong Kong Ferry",
+        "code": "0050.HK",
+        "country": "Hong Kong",
+        "rank": 454
+    },
+    {
+        "name": "Giordano",
+        "code": "0709.HK",
+        "country": "Hong Kong",
+        "rank": 455
+    },
+    {
+        "name": "Prenetics",
+        "code": "PRE",
+        "country": "Hong Kong",
+        "rank": 456
+    },
+    {
+        "name": "Troops",
+        "code": "TROO",
+        "country": "Hong Kong",
+        "rank": 457
+    },
+    {
+        "name": "Digital Domain",
+        "code": "0547.HK",
+        "country": "Hong Kong",
+        "rank": 458
+    },
+    {
+        "name": "Graphex Group",
+        "code": "GRFX",
+        "country": "Hong Kong",
+        "rank": 459
+    },
+    {
+        "name": "Magic Empire Global (Giraffe Capital)",
+        "code": "MEGL",
+        "country": "Hong Kong",
+        "rank": 460
+    },
+    {
+        "name": "Aptorum Group",
+        "code": "APM",
+        "country": "Hong Kong",
+        "rank": 461
+    },
+    {
+        "name": "Gameone",
+        "code": "8282.HK",
+        "country": "Hong Kong",
+        "rank": 462
+    },
+    {
+        "name": "AIA",
+        "code": "1299.HK",
+        "country": "Hong Kong",
+        "rank": 463
+    },
+    {
+        "name": "Hong Kong Exchanges & Clearing",
+        "code": "0388.HK",
+        "country": "Hong Kong",
+        "rank": 464
+    },
+    {
+        "name": "Budweiser APAC",
+        "code": "1876.HK",
+        "country": "Hong Kong",
+        "rank": 465
+    },
+    {
+        "name": "Sun Hung Kai Properties",
+        "code": "0016.HK",
+        "country": "Hong Kong",
+        "rank": 466
+    },
+    {
+        "name": "Jardine Matheson",
+        "code": "J36.SI",
+        "country": "Hong Kong",
+        "rank": 467
+    },
+    {
+        "name": "Bank of China (Hong Kong)",
+        "code": "2388.HK",
+        "country": "Hong Kong",
+        "rank": 468
+    },
+    {
+        "name": "MTR Corporation",
+        "code": "0066.HK",
+        "country": "Hong Kong",
+        "rank": 469
+    },
+    {
+        "name": "Hang Seng Bank",
+        "code": "0011.HK",
+        "country": "Hong Kong",
+        "rank": 470
+    },
+    {
+        "name": "China Overseas Land & Investment",
+        "code": "0688.HK",
+        "country": "Hong Kong",
+        "rank": 471
+    },
+    {
+        "name": "Galaxy Entertainment",
+        "code": "0027.HK",
+        "country": "Hong Kong",
+        "rank": 472
+    },
+    {
+        "name": "CK Hutchison Holdings",
+        "code": "0001.HK",
+        "country": "Hong Kong",
+        "rank": 473
+    },
+    {
+        "name": "China Resources Beer",
+        "code": "0291.HK",
+        "country": "Hong Kong",
+        "rank": 474
+    },
+    {
+        "name": "CK Asset Holdings",
+        "code": "1113.HK",
+        "country": "Hong Kong",
+        "rank": 475
+    },
+    {
+        "name": "Techtronic Industries",
+        "code": "TIB1.F",
+        "country": "Hong Kong",
+        "rank": 476
+    },
+    {
+        "name": "Chow Tai Fook",
+        "code": "1929.HK",
+        "country": "Hong Kong",
+        "rank": 477
+    },
+    {
+        "name": "China Unicom",
+        "code": "0762.HK",
+        "country": "Hong Kong",
+        "rank": 478
+    },
+    {
+        "name": "CLP Group",
+        "code": "0002.HK",
+        "country": "Hong Kong",
+        "rank": 479
+    },
+    {
+        "name": "Hong Kong and China Gas",
+        "code": "0003.HK",
+        "country": "Hong Kong",
+        "rank": 480
+    },
+    {
+        "name": "Wharf REIC",
+        "code": "1997.HK",
+        "country": "Hong Kong",
+        "rank": 481
+    },
+    {
+        "name": "Henderson Land Development",
+        "code": "0012.HK",
+        "country": "Hong Kong",
+        "rank": 482
+    },
+    {
+        "name": "Link REIT",
+        "code": "0823.HK",
+        "country": "Hong Kong",
+        "rank": 483
+    },
+    {
+        "name": "Swire Properties",
+        "code": "1972.HK",
+        "country": "Hong Kong",
+        "rank": 484
+    },
+    {
+        "name": "CK Infrastructure",
+        "code": "1038.HK",
+        "country": "Hong Kong",
+        "rank": 485
+    },
+    {
+        "name": "Orient Overseas Container Line",
+        "code": "0316.HK",
+        "country": "Hong Kong",
+        "rank": 486
+    },
+    {
+        "name": "Power Assets",
+        "code": "0006.HK",
+        "country": "Hong Kong",
+        "rank": 487
+    },
+    {
+        "name": "Swire Pacific",
+        "code": "0019.HK",
+        "country": "Hong Kong",
+        "rank": 488
+    },
+    {
+        "name": "Hongkong Land",
+        "code": "H78.SI",
+        "country": "Hong Kong",
+        "rank": 489
+    },
+    {
+        "name": "Sino Land",
+        "code": "0083.HK",
+        "country": "Hong Kong",
+        "rank": 490
+    },
+    {
+        "name": "Lenovo",
+        "code": "0992.HK",
+        "country": "Hong Kong",
+        "rank": 491
+    },
+    {
+        "name": "Hong Kong Telecom",
+        "code": "6823.HK",
+        "country": "Hong Kong",
+        "rank": 492
+    },
+    {
+        "name": "ESR",
+        "code": "1821.HK",
+        "country": "Hong Kong",
+        "rank": 493
+    },
+    {
+        "name": "Wharf Holdings",
+        "code": "0004.HK",
+        "country": "Hong Kong",
+        "rank": 494
+    },
+    {
+        "name": "Hang Lung Properties",
+        "code": "0101.HK",
+        "country": "Hong Kong",
+        "rank": 495
+    },
+    {
+        "name": "Want Want China",
+        "code": "0151.HK",
+        "country": "Hong Kong",
+        "rank": 496
+    },
+    {
+        "name": "WH Group",
+        "code": "0288.HK",
+        "country": "Hong Kong",
+        "rank": 497
+    },
+    {
+        "name": "New World Development Company",
+        "code": "0017.HK",
+        "country": "Hong Kong",
+        "rank": 498
+    },
+    {
+        "name": "Cathay Pacific",
+        "code": "0293.HK",
+        "country": "Hong Kong",
+        "rank": 499
+    },
+    {
+        "name": "HK Electric Investments",
+        "code": "2638.HK",
+        "country": "Hong Kong",
+        "rank": 500
+    },
+    {
+        "name": "Futu Holdings",
+        "code": "FUTU",
+        "country": "Hong Kong",
+        "rank": 501
+    },
+    {
+        "name": "Melco Resorts & Entertainment",
+        "code": "MLCO",
+        "country": "Hong Kong",
+        "rank": 502
+    },
+    {
+        "name": "SJM Holdings",
+        "code": "0880.HK",
+        "country": "Hong Kong",
+        "rank": 503
+    },
+    {
+        "name": "Dairy Farm",
+        "code": "D01.SI",
+        "country": "Hong Kong",
+        "rank": 504
+    },
+    {
+        "name": "PCCW",
+        "code": "0008.HK",
+        "country": "Hong Kong",
+        "rank": 505
+    },
+    {
+        "name": "NWS holdings",
+        "code": "0659.HK",
+        "country": "Hong Kong",
+        "rank": 506
+    },
+    {
+        "name": "Hysan Development",
+        "code": "0014.HK",
+        "country": "Hong Kong",
+        "rank": 507
+    },
+    {
+        "name": "Bank of East Asia",
+        "code": "0023.HK",
+        "country": "Hong Kong",
+        "rank": 508
+    },
+    {
+        "name": "Kerry Properties",
+        "code": "0683.HK",
+        "country": "Hong Kong",
+        "rank": 509
+    },
+    {
+        "name": "ASM Pacific Technology",
+        "code": "0522.HK",
+        "country": "Hong Kong",
+        "rank": 510
+    },
+    {
+        "name": "Shangri-La",
+        "code": "0069.HK",
+        "country": "Hong Kong",
+        "rank": 511
+    },
+    {
+        "name": "Guoco",
+        "code": "0053.HK",
+        "country": "Hong Kong",
+        "rank": 512
+    },
+    {
+        "name": "HUTCHMED",
+        "code": "HCM",
+        "country": "Hong Kong",
+        "rank": 513
+    },
+    {
+        "name": "Hang Lung Group",
+        "code": "0010.HK",
+        "country": "Hong Kong",
+        "rank": 514
+    },
+    {
+        "name": "Mandarin Oriental",
+        "code": "M04.SI",
+        "country": "Hong Kong",
+        "rank": 515
+    },
+    {
+        "name": "Champion REIT",
+        "code": "2778.HK",
+        "country": "Hong Kong",
+        "rank": 516
+    },
+    {
+        "name": "Silicon Motion",
+        "code": "SIMO",
+        "country": "Hong Kong",
+        "rank": 517
+    },
+    {
+        "name": "Shimao Property",
+        "code": "0813.HK",
+        "country": "Hong Kong",
+        "rank": 518
+    },
+    {
+        "name": "Hongkong and Shanghai Hotels",
+        "code": "0045.HK",
+        "country": "Hong Kong",
+        "rank": 519
+    },
+    {
+        "name": "Melco International Development",
+        "code": "0200.HK",
+        "country": "Hong Kong",
+        "rank": 520
+    },
+    {
+        "name": "Great Eagle",
+        "code": "0041.HK",
+        "country": "Hong Kong",
+        "rank": 521
+    },
+    {
+        "name": "Vtech",
+        "code": "0303.HK",
+        "country": "Hong Kong",
+        "rank": 522
+    },
+    {
+        "name": "Fortune REIT",
+        "code": "0778.HK",
+        "country": "Hong Kong",
+        "rank": 523
+    },
+    {
+        "name": "Miramar Hotel and Investment",
+        "code": "0071.HK",
+        "country": "Hong Kong",
+        "rank": 524
+    },
+    {
+        "name": "Dah Sing Banking Group",
+        "code": "2356.HK",
+        "country": "Hong Kong",
+        "rank": 525
+    },
+    {
+        "name": "Dah Sing Financial",
+        "code": "0440.HK",
+        "country": "Hong Kong",
+        "rank": 526
+    },
+    {
+        "name": "Sunlight REIT",
+        "code": "0435.HK",
+        "country": "Hong Kong",
+        "rank": 527
+    },
+    {
+        "name": "AMTD Digital",
+        "code": "AMTD",
+        "country": "Hong Kong",
+        "rank": 528
+    },
+    {
+        "name": "Global Cord Blood",
+        "code": "CO",
+        "country": "Hong Kong",
+        "rank": 529
+    },
+    {
+        "name": "Regal Hotels International",
+        "code": "0078.HK",
+        "country": "Hong Kong",
+        "rank": 530
+    },
+    {
+        "name": "Hong Kong Ferry",
+        "code": "0050.HK",
+        "country": "Hong Kong",
+        "rank": 531
+    },
+    {
+        "name": "Giordano",
+        "code": "0709.HK",
+        "country": "Hong Kong",
+        "rank": 532
+    },
+    {
+        "name": "Prenetics",
+        "code": "PRE",
+        "country": "Hong Kong",
+        "rank": 533
+    },
+    {
+        "name": "Troops",
+        "code": "TROO",
+        "country": "Hong Kong",
+        "rank": 534
+    },
+    {
+        "name": "Digital Domain",
+        "code": "0547.HK",
+        "country": "Hong Kong",
+        "rank": 535
+    },
+    {
+        "name": "Graphex Group",
+        "code": "GRFX",
+        "country": "Hong Kong",
+        "rank": 536
+    },
+    {
+        "name": "Magic Empire Global (Giraffe Capital)",
+        "code": "MEGL",
+        "country": "Hong Kong",
+        "rank": 537
+    },
+    {
+        "name": "Aptorum Group",
+        "code": "APM",
+        "country": "Hong Kong",
+        "rank": 538
+    },
+    {
+        "name": "Gameone",
+        "code": "8282.HK",
+        "country": "Hong Kong",
+        "rank": 539
+    },
+    {
+        "name": "AIA",
+        "code": "1299.HK",
+        "country": "Hong Kong",
+        "rank": 540
+    },
+    {
+        "name": "Hong Kong Exchanges & Clearing",
+        "code": "0388.HK",
+        "country": "Hong Kong",
+        "rank": 541
+    },
+    {
+        "name": "Budweiser APAC",
+        "code": "1876.HK",
+        "country": "Hong Kong",
+        "rank": 542
+    },
+    {
+        "name": "Sun Hung Kai Properties",
+        "code": "0016.HK",
+        "country": "Hong Kong",
+        "rank": 543
+    },
+    {
+        "name": "Jardine Matheson",
+        "code": "J36.SI",
+        "country": "Hong Kong",
+        "rank": 544
+    },
+    {
+        "name": "Bank of China (Hong Kong)",
+        "code": "2388.HK",
+        "country": "Hong Kong",
+        "rank": 545
+    },
+    {
+        "name": "MTR Corporation",
+        "code": "0066.HK",
+        "country": "Hong Kong",
+        "rank": 546
+    },
+    {
+        "name": "Hang Seng Bank",
+        "code": "0011.HK",
+        "country": "Hong Kong",
+        "rank": 547
+    },
+    {
+        "name": "China Overseas Land & Investment",
+        "code": "0688.HK",
+        "country": "Hong Kong",
+        "rank": 548
+    },
+    {
+        "name": "Galaxy Entertainment",
+        "code": "0027.HK",
+        "country": "Hong Kong",
+        "rank": 549
+    },
+    {
+        "name": "CK Hutchison Holdings",
+        "code": "0001.HK",
+        "country": "Hong Kong",
+        "rank": 550
+    },
+    {
+        "name": "China Resources Beer",
+        "code": "0291.HK",
+        "country": "Hong Kong",
+        "rank": 551
+    },
+    {
+        "name": "CK Asset Holdings",
+        "code": "1113.HK",
+        "country": "Hong Kong",
+        "rank": 552
+    },
+    {
+        "name": "Techtronic Industries",
+        "code": "TIB1.F",
+        "country": "Hong Kong",
+        "rank": 553
+    },
+    {
+        "name": "Chow Tai Fook",
+        "code": "1929.HK",
+        "country": "Hong Kong",
+        "rank": 554
+    },
+    {
+        "name": "China Unicom",
+        "code": "0762.HK",
+        "country": "Hong Kong",
+        "rank": 555
+    },
+    {
+        "name": "CLP Group",
+        "code": "0002.HK",
+        "country": "Hong Kong",
+        "rank": 556
+    },
+    {
+        "name": "Hong Kong and China Gas",
+        "code": "0003.HK",
+        "country": "Hong Kong",
+        "rank": 557
+    },
+    {
+        "name": "Wharf REIC",
+        "code": "1997.HK",
+        "country": "Hong Kong",
+        "rank": 558
+    },
+    {
+        "name": "Henderson Land Development",
+        "code": "0012.HK",
+        "country": "Hong Kong",
+        "rank": 559
+    },
+    {
+        "name": "Link REIT",
+        "code": "0823.HK",
+        "country": "Hong Kong",
+        "rank": 560
+    },
+    {
+        "name": "Swire Properties",
+        "code": "1972.HK",
+        "country": "Hong Kong",
+        "rank": 561
+    },
+    {
+        "name": "CK Infrastructure",
+        "code": "1038.HK",
+        "country": "Hong Kong",
+        "rank": 562
+    },
+    {
+        "name": "Orient Overseas Container Line",
+        "code": "0316.HK",
+        "country": "Hong Kong",
+        "rank": 563
+    },
+    {
+        "name": "Power Assets",
+        "code": "0006.HK",
+        "country": "Hong Kong",
+        "rank": 564
+    },
+    {
+        "name": "Swire Pacific",
+        "code": "0019.HK",
+        "country": "Hong Kong",
+        "rank": 565
+    },
+    {
+        "name": "Hongkong Land",
+        "code": "H78.SI",
+        "country": "Hong Kong",
+        "rank": 566
+    },
+    {
+        "name": "Sino Land",
+        "code": "0083.HK",
+        "country": "Hong Kong",
+        "rank": 567
+    },
+    {
+        "name": "Lenovo",
+        "code": "0992.HK",
+        "country": "Hong Kong",
+        "rank": 568
+    },
+    {
+        "name": "Hong Kong Telecom",
+        "code": "6823.HK",
+        "country": "Hong Kong",
+        "rank": 569
+    },
+    {
+        "name": "ESR",
+        "code": "1821.HK",
+        "country": "Hong Kong",
+        "rank": 570
+    },
+    {
+        "name": "Wharf Holdings",
+        "code": "0004.HK",
+        "country": "Hong Kong",
+        "rank": 571
+    },
+    {
+        "name": "Hang Lung Properties",
+        "code": "0101.HK",
+        "country": "Hong Kong",
+        "rank": 572
+    },
+    {
+        "name": "Want Want China",
+        "code": "0151.HK",
+        "country": "Hong Kong",
+        "rank": 573
+    },
+    {
+        "name": "WH Group",
+        "code": "0288.HK",
+        "country": "Hong Kong",
+        "rank": 574
+    },
+    {
+        "name": "New World Development Company",
+        "code": "0017.HK",
+        "country": "Hong Kong",
+        "rank": 575
+    },
+    {
+        "name": "Cathay Pacific",
+        "code": "0293.HK",
+        "country": "Hong Kong",
+        "rank": 576
+    },
+    {
+        "name": "HK Electric Investments",
+        "code": "2638.HK",
+        "country": "Hong Kong",
+        "rank": 577
+    },
+    {
+        "name": "Futu Holdings",
+        "code": "FUTU",
+        "country": "Hong Kong",
+        "rank": 578
+    },
+    {
+        "name": "Melco Resorts & Entertainment",
+        "code": "MLCO",
+        "country": "Hong Kong",
+        "rank": 579
+    },
+    {
+        "name": "SJM Holdings",
+        "code": "0880.HK",
+        "country": "Hong Kong",
+        "rank": 580
+    },
+    {
+        "name": "Dairy Farm",
+        "code": "D01.SI",
+        "country": "Hong Kong",
+        "rank": 581
+    },
+    {
+        "name": "PCCW",
+        "code": "0008.HK",
+        "country": "Hong Kong",
+        "rank": 582
+    },
+    {
+        "name": "NWS holdings",
+        "code": "0659.HK",
+        "country": "Hong Kong",
+        "rank": 583
+    },
+    {
+        "name": "Hysan Development",
+        "code": "0014.HK",
+        "country": "Hong Kong",
+        "rank": 584
+    },
+    {
+        "name": "Bank of East Asia",
+        "code": "0023.HK",
+        "country": "Hong Kong",
+        "rank": 585
+    },
+    {
+        "name": "Kerry Properties",
+        "code": "0683.HK",
+        "country": "Hong Kong",
+        "rank": 586
+    },
+    {
+        "name": "ASM Pacific Technology",
+        "code": "0522.HK",
+        "country": "Hong Kong",
+        "rank": 587
+    },
+    {
+        "name": "Shangri-La",
+        "code": "0069.HK",
+        "country": "Hong Kong",
+        "rank": 588
+    },
+    {
+        "name": "Guoco",
+        "code": "0053.HK",
+        "country": "Hong Kong",
+        "rank": 589
+    },
+    {
+        "name": "HUTCHMED",
+        "code": "HCM",
+        "country": "Hong Kong",
+        "rank": 590
+    },
+    {
+        "name": "Hang Lung Group",
+        "code": "0010.HK",
+        "country": "Hong Kong",
+        "rank": 591
+    },
+    {
+        "name": "Mandarin Oriental",
+        "code": "M04.SI",
+        "country": "Hong Kong",
+        "rank": 592
+    },
+    {
+        "name": "Champion REIT",
+        "code": "2778.HK",
+        "country": "Hong Kong",
+        "rank": 593
+    },
+    {
+        "name": "Silicon Motion",
+        "code": "SIMO",
+        "country": "Hong Kong",
+        "rank": 594
+    },
+    {
+        "name": "Shimao Property",
+        "code": "0813.HK",
+        "country": "Hong Kong",
+        "rank": 595
+    },
+    {
+        "name": "Hongkong and Shanghai Hotels",
+        "code": "0045.HK",
+        "country": "Hong Kong",
+        "rank": 596
+    },
+    {
+        "name": "Melco International Development",
+        "code": "0200.HK",
+        "country": "Hong Kong",
+        "rank": 597
+    },
+    {
+        "name": "Great Eagle",
+        "code": "0041.HK",
+        "country": "Hong Kong",
+        "rank": 598
+    },
+    {
+        "name": "Vtech",
+        "code": "0303.HK",
+        "country": "Hong Kong",
+        "rank": 599
+    },
+    {
+        "name": "Fortune REIT",
+        "code": "0778.HK",
+        "country": "Hong Kong",
+        "rank": 600
+    },
+    {
+        "name": "Miramar Hotel and Investment",
+        "code": "0071.HK",
+        "country": "Hong Kong",
+        "rank": 601
+    },
+    {
+        "name": "Dah Sing Banking Group",
+        "code": "2356.HK",
+        "country": "Hong Kong",
+        "rank": 602
+    },
+    {
+        "name": "Dah Sing Financial",
+        "code": "0440.HK",
+        "country": "Hong Kong",
+        "rank": 603
+    },
+    {
+        "name": "Sunlight REIT",
+        "code": "0435.HK",
+        "country": "Hong Kong",
+        "rank": 604
+    },
+    {
+        "name": "AMTD Digital",
+        "code": "AMTD",
+        "country": "Hong Kong",
+        "rank": 605
+    },
+    {
+        "name": "Global Cord Blood",
+        "code": "CO",
+        "country": "Hong Kong",
+        "rank": 606
+    },
+    {
+        "name": "Regal Hotels International",
+        "code": "0078.HK",
+        "country": "Hong Kong",
+        "rank": 607
+    },
+    {
+        "name": "Hong Kong Ferry",
+        "code": "0050.HK",
+        "country": "Hong Kong",
+        "rank": 608
+    },
+    {
+        "name": "Giordano",
+        "code": "0709.HK",
+        "country": "Hong Kong",
+        "rank": 609
+    },
+    {
+        "name": "Prenetics",
+        "code": "PRE",
+        "country": "Hong Kong",
+        "rank": 610
+    },
+    {
+        "name": "Troops",
+        "code": "TROO",
+        "country": "Hong Kong",
+        "rank": 611
+    },
+    {
+        "name": "Digital Domain",
+        "code": "0547.HK",
+        "country": "Hong Kong",
+        "rank": 612
+    },
+    {
+        "name": "Graphex Group",
+        "code": "GRFX",
+        "country": "Hong Kong",
+        "rank": 613
+    },
+    {
+        "name": "Magic Empire Global (Giraffe Capital)",
+        "code": "MEGL",
+        "country": "Hong Kong",
+        "rank": 614
+    },
+    {
+        "name": "Aptorum Group",
+        "code": "APM",
+        "country": "Hong Kong",
+        "rank": 615
+    },
+    {
+        "name": "Gameone",
+        "code": "8282.HK",
+        "country": "Hong Kong",
+        "rank": 616
+    },
+    {
+        "name": "AIA",
+        "code": "1299.HK",
+        "country": "Hong Kong",
+        "rank": 617
+    },
+    {
+        "name": "Hong Kong Exchanges & Clearing",
+        "code": "0388.HK",
+        "country": "Hong Kong",
+        "rank": 618
+    },
+    {
+        "name": "Budweiser APAC",
+        "code": "1876.HK",
+        "country": "Hong Kong",
+        "rank": 619
+    },
+    {
+        "name": "Sun Hung Kai Properties",
+        "code": "0016.HK",
+        "country": "Hong Kong",
+        "rank": 620
+    },
+    {
+        "name": "Jardine Matheson",
+        "code": "J36.SI",
+        "country": "Hong Kong",
+        "rank": 621
+    },
+    {
+        "name": "Bank of China (Hong Kong)",
+        "code": "2388.HK",
+        "country": "Hong Kong",
+        "rank": 622
+    },
+    {
+        "name": "MTR Corporation",
+        "code": "0066.HK",
+        "country": "Hong Kong",
+        "rank": 623
+    },
+    {
+        "name": "Hang Seng Bank",
+        "code": "0011.HK",
+        "country": "Hong Kong",
+        "rank": 624
+    },
+    {
+        "name": "China Overseas Land & Investment",
+        "code": "0688.HK",
+        "country": "Hong Kong",
+        "rank": 625
+    },
+    {
+        "name": "Galaxy Entertainment",
+        "code": "0027.HK",
+        "country": "Hong Kong",
+        "rank": 626
+    },
+    {
+        "name": "CK Hutchison Holdings",
+        "code": "0001.HK",
+        "country": "Hong Kong",
+        "rank": 627
+    },
+    {
+        "name": "China Resources Beer",
+        "code": "0291.HK",
+        "country": "Hong Kong",
+        "rank": 628
+    },
+    {
+        "name": "CK Asset Holdings",
+        "code": "1113.HK",
+        "country": "Hong Kong",
+        "rank": 629
+    },
+    {
+        "name": "Techtronic Industries",
+        "code": "TIB1.F",
+        "country": "Hong Kong",
+        "rank": 630
+    },
+    {
+        "name": "Chow Tai Fook",
+        "code": "1929.HK",
+        "country": "Hong Kong",
+        "rank": 631
+    },
+    {
+        "name": "China Unicom",
+        "code": "0762.HK",
+        "country": "Hong Kong",
+        "rank": 632
+    },
+    {
+        "name": "CLP Group",
+        "code": "0002.HK",
+        "country": "Hong Kong",
+        "rank": 633
+    },
+    {
+        "name": "Hong Kong and China Gas",
+        "code": "0003.HK",
+        "country": "Hong Kong",
+        "rank": 634
+    },
+    {
+        "name": "Wharf REIC",
+        "code": "1997.HK",
+        "country": "Hong Kong",
+        "rank": 635
+    },
+    {
+        "name": "Henderson Land Development",
+        "code": "0012.HK",
+        "country": "Hong Kong",
+        "rank": 636
+    },
+    {
+        "name": "Link REIT",
+        "code": "0823.HK",
+        "country": "Hong Kong",
+        "rank": 637
+    },
+    {
+        "name": "Swire Properties",
+        "code": "1972.HK",
+        "country": "Hong Kong",
+        "rank": 638
+    },
+    {
+        "name": "CK Infrastructure",
+        "code": "1038.HK",
+        "country": "Hong Kong",
+        "rank": 639
+    },
+    {
+        "name": "Orient Overseas Container Line",
+        "code": "0316.HK",
+        "country": "Hong Kong",
+        "rank": 640
+    },
+    {
+        "name": "Power Assets",
+        "code": "0006.HK",
+        "country": "Hong Kong",
+        "rank": 641
+    },
+    {
+        "name": "Swire Pacific",
+        "code": "0019.HK",
+        "country": "Hong Kong",
+        "rank": 642
+    },
+    {
+        "name": "Hongkong Land",
+        "code": "H78.SI",
+        "country": "Hong Kong",
+        "rank": 643
+    },
+    {
+        "name": "Sino Land",
+        "code": "0083.HK",
+        "country": "Hong Kong",
+        "rank": 644
+    },
+    {
+        "name": "Lenovo",
+        "code": "0992.HK",
+        "country": "Hong Kong",
+        "rank": 645
+    },
+    {
+        "name": "Hong Kong Telecom",
+        "code": "6823.HK",
+        "country": "Hong Kong",
+        "rank": 646
+    },
+    {
+        "name": "ESR",
+        "code": "1821.HK",
+        "country": "Hong Kong",
+        "rank": 647
+    },
+    {
+        "name": "Wharf Holdings",
+        "code": "0004.HK",
+        "country": "Hong Kong",
+        "rank": 648
+    },
+    {
+        "name": "Hang Lung Properties",
+        "code": "0101.HK",
+        "country": "Hong Kong",
+        "rank": 649
+    },
+    {
+        "name": "Want Want China",
+        "code": "0151.HK",
+        "country": "Hong Kong",
+        "rank": 650
+    },
+    {
+        "name": "WH Group",
+        "code": "0288.HK",
+        "country": "Hong Kong",
+        "rank": 651
+    },
+    {
+        "name": "New World Development Company",
+        "code": "0017.HK",
+        "country": "Hong Kong",
+        "rank": 652
+    },
+    {
+        "name": "Cathay Pacific",
+        "code": "0293.HK",
+        "country": "Hong Kong",
+        "rank": 653
+    },
+    {
+        "name": "HK Electric Investments",
+        "code": "2638.HK",
+        "country": "Hong Kong",
+        "rank": 654
+    },
+    {
+        "name": "Futu Holdings",
+        "code": "FUTU",
+        "country": "Hong Kong",
+        "rank": 655
+    },
+    {
+        "name": "Melco Resorts & Entertainment",
+        "code": "MLCO",
+        "country": "Hong Kong",
+        "rank": 656
+    },
+    {
+        "name": "SJM Holdings",
+        "code": "0880.HK",
+        "country": "Hong Kong",
+        "rank": 657
+    },
+    {
+        "name": "Dairy Farm",
+        "code": "D01.SI",
+        "country": "Hong Kong",
+        "rank": 658
+    },
+    {
+        "name": "PCCW",
+        "code": "0008.HK",
+        "country": "Hong Kong",
+        "rank": 659
+    },
+    {
+        "name": "NWS holdings",
+        "code": "0659.HK",
+        "country": "Hong Kong",
+        "rank": 660
+    },
+    {
+        "name": "Hysan Development",
+        "code": "0014.HK",
+        "country": "Hong Kong",
+        "rank": 661
+    },
+    {
+        "name": "Bank of East Asia",
+        "code": "0023.HK",
+        "country": "Hong Kong",
+        "rank": 662
+    },
+    {
+        "name": "Kerry Properties",
+        "code": "0683.HK",
+        "country": "Hong Kong",
+        "rank": 663
+    },
+    {
+        "name": "ASM Pacific Technology",
+        "code": "0522.HK",
+        "country": "Hong Kong",
+        "rank": 664
+    },
+    {
+        "name": "Shangri-La",
+        "code": "0069.HK",
+        "country": "Hong Kong",
+        "rank": 665
+    },
+    {
+        "name": "Guoco",
+        "code": "0053.HK",
+        "country": "Hong Kong",
+        "rank": 666
+    },
+    {
+        "name": "HUTCHMED",
+        "code": "HCM",
+        "country": "Hong Kong",
+        "rank": 667
+    },
+    {
+        "name": "Hang Lung Group",
+        "code": "0010.HK",
+        "country": "Hong Kong",
+        "rank": 668
+    },
+    {
+        "name": "Mandarin Oriental",
+        "code": "M04.SI",
+        "country": "Hong Kong",
+        "rank": 669
+    },
+    {
+        "name": "Champion REIT",
+        "code": "2778.HK",
+        "country": "Hong Kong",
+        "rank": 670
+    },
+    {
+        "name": "Silicon Motion",
+        "code": "SIMO",
+        "country": "Hong Kong",
+        "rank": 671
+    },
+    {
+        "name": "Shimao Property",
+        "code": "0813.HK",
+        "country": "Hong Kong",
+        "rank": 672
+    },
+    {
+        "name": "Hongkong and Shanghai Hotels",
+        "code": "0045.HK",
+        "country": "Hong Kong",
+        "rank": 673
+    },
+    {
+        "name": "Melco International Development",
+        "code": "0200.HK",
+        "country": "Hong Kong",
+        "rank": 674
+    },
+    {
+        "name": "Great Eagle",
+        "code": "0041.HK",
+        "country": "Hong Kong",
+        "rank": 675
+    },
+    {
+        "name": "Vtech",
+        "code": "0303.HK",
+        "country": "Hong Kong",
+        "rank": 676
+    },
+    {
+        "name": "Fortune REIT",
+        "code": "0778.HK",
+        "country": "Hong Kong",
+        "rank": 677
+    },
+    {
+        "name": "Miramar Hotel and Investment",
+        "code": "0071.HK",
+        "country": "Hong Kong",
+        "rank": 678
+    },
+    {
+        "name": "Dah Sing Banking Group",
+        "code": "2356.HK",
+        "country": "Hong Kong",
+        "rank": 679
+    },
+    {
+        "name": "Dah Sing Financial",
+        "code": "0440.HK",
+        "country": "Hong Kong",
+        "rank": 680
+    },
+    {
+        "name": "Sunlight REIT",
+        "code": "0435.HK",
+        "country": "Hong Kong",
+        "rank": 681
+    },
+    {
+        "name": "AMTD Digital",
+        "code": "AMTD",
+        "country": "Hong Kong",
+        "rank": 682
+    },
+    {
+        "name": "Global Cord Blood",
+        "code": "CO",
+        "country": "Hong Kong",
+        "rank": 683
+    },
+    {
+        "name": "Regal Hotels International",
+        "code": "0078.HK",
+        "country": "Hong Kong",
+        "rank": 684
+    },
+    {
+        "name": "Hong Kong Ferry",
+        "code": "0050.HK",
+        "country": "Hong Kong",
+        "rank": 685
+    },
+    {
+        "name": "Giordano",
+        "code": "0709.HK",
+        "country": "Hong Kong",
+        "rank": 686
+    },
+    {
+        "name": "Prenetics",
+        "code": "PRE",
+        "country": "Hong Kong",
+        "rank": 687
+    },
+    {
+        "name": "Troops",
+        "code": "TROO",
+        "country": "Hong Kong",
+        "rank": 688
+    },
+    {
+        "name": "Digital Domain",
+        "code": "0547.HK",
+        "country": "Hong Kong",
+        "rank": 689
+    },
+    {
+        "name": "Graphex Group",
+        "code": "GRFX",
+        "country": "Hong Kong",
+        "rank": 690
+    },
+    {
+        "name": "Magic Empire Global (Giraffe Capital)",
+        "code": "MEGL",
+        "country": "Hong Kong",
+        "rank": 691
+    },
+    {
+        "name": "Aptorum Group",
+        "code": "APM",
+        "country": "Hong Kong",
+        "rank": 692
+    },
+    {
+        "name": "Gameone",
+        "code": "8282.HK",
+        "country": "Hong Kong",
+        "rank": 693
+    }
+]

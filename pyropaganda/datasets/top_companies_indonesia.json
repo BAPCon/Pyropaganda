@@ -1,0 +1,2378 @@
+[
+    {
+        "name": "Bank Central Asia",
+        "code": "BBCA.JK",
+        "country": "Indonesia",
+        "rank": 1
+    },
+    {
+        "name": "Bank Rakyat Indonesia",
+        "code": "BYRA.F",
+        "country": "Indonesia",
+        "rank": 2
+    },
+    {
+        "name": "Bayan Resources",
+        "code": "BYAN.JK",
+        "country": "Indonesia",
+        "rank": 3
+    },
+    {
+        "name": "Bank Mandiri",
+        "code": "PPERF",
+        "country": "Indonesia",
+        "rank": 4
+    },
+    {
+        "name": "Telkom Indonesia",
+        "code": "TLK",
+        "country": "Indonesia",
+        "rank": 5
+    },
+    {
+        "name": "Astra International",
+        "code": "ASII.JK",
+        "country": "Indonesia",
+        "rank": 6
+    },
+    {
+        "name": "Chandra Asri Petrochemical",
+        "code": "TPIA.JK",
+        "country": "Indonesia",
+        "rank": 7
+    },
+    {
+        "name": "Unilever Indonesia",
+        "code": "UNVR.JK",
+        "country": "Indonesia",
+        "rank": 8
+    },
+    {
+        "name": "Bank Negara Indonesia",
+        "code": "BBNI.JK",
+        "country": "Indonesia",
+        "rank": 9
+    },
+    {
+        "name": "Indofood CBP",
+        "code": "ICBP.JK",
+        "country": "Indonesia",
+        "rank": 10
+    },
+    {
+        "name": "Alfamart",
+        "code": "AMRT.JK",
+        "country": "Indonesia",
+        "rank": 11
+    },
+    {
+        "name": "Adaro Energy",
+        "code": "ADRO.JK",
+        "country": "Indonesia",
+        "rank": 12
+    },
+    {
+        "name": "Merdeka Copper Gold",
+        "code": "MDKA.JK",
+        "country": "Indonesia",
+        "rank": 13
+    },
+    {
+        "name": "United Tractors",
+        "code": "UTY.F",
+        "country": "Indonesia",
+        "rank": 14
+    },
+    {
+        "name": "Sampoerna",
+        "code": "HSZ.F",
+        "country": "Indonesia",
+        "rank": 15
+    },
+    {
+        "name": "GoTo",
+        "code": "GOTO.JK",
+        "country": "Indonesia",
+        "rank": 16
+    },
+    {
+        "name": "Charoen Pokphand Indonesia",
+        "code": "CPIN.JK",
+        "country": "Indonesia",
+        "rank": 17
+    },
+    {
+        "name": "Barito Pacific",
+        "code": "OB8.F",
+        "country": "Indonesia",
+        "rank": 18
+    },
+    {
+        "name": "Vale Indonesia",
+        "code": "INCO.JK",
+        "country": "Indonesia",
+        "rank": 19
+    },
+    {
+        "name": "Bank Mega",
+        "code": "MEGA.JK",
+        "country": "Indonesia",
+        "rank": 20
+    },
+    {
+        "name": "Elang Mahkota Teknologi",
+        "code": "EMTK.JK",
+        "country": "Indonesia",
+        "rank": 21
+    },
+    {
+        "name": "Indofood",
+        "code": "INDF.JK",
+        "country": "Indonesia",
+        "rank": 22
+    },
+    {
+        "name": "Indoritel",
+        "code": "DNET.JK",
+        "country": "Indonesia",
+        "rank": 23
+    },
+    {
+        "name": "Sarana Menara Nusantara",
+        "code": "TOWR.JK",
+        "country": "Indonesia",
+        "rank": 24
+    },
+    {
+        "name": "Mayora",
+        "code": "D7V.F",
+        "country": "Indonesia",
+        "rank": 25
+    },
+    {
+        "name": "Tower Bersama Infrastructure",
+        "code": "TBIG.JK",
+        "country": "Indonesia",
+        "rank": 26
+    },
+    {
+        "name": "Bank Jago",
+        "code": "ARTO.JK",
+        "country": "Indonesia",
+        "rank": 27
+    },
+    {
+        "name": "Indosat",
+        "code": "ISAT.JK",
+        "country": "Indonesia",
+        "rank": 28
+    },
+    {
+        "name": "Indah Kiat Pulp & Paper",
+        "code": "INKP.JK",
+        "country": "Indonesia",
+        "rank": 29
+    },
+    {
+        "name": "SIG (Semen Indonesia)",
+        "code": "SMS2.F",
+        "country": "Indonesia",
+        "rank": 30
+    },
+    {
+        "name": "Mitra Keluarga",
+        "code": "MIKA.JK",
+        "country": "Indonesia",
+        "rank": 31
+    },
+    {
+        "name": "Permata Bank",
+        "code": "BNLI.JK",
+        "country": "Indonesia",
+        "rank": 32
+    },
+    {
+        "name": "Gudang Garam",
+        "code": "GGG.F",
+        "country": "Indonesia",
+        "rank": 33
+    },
+    {
+        "name": "Bukalapak.com",
+        "code": "BUKA.JK",
+        "country": "Indonesia",
+        "rank": 34
+    },
+    {
+        "name": "Bank Danamon",
+        "code": "BDMN.JK",
+        "country": "Indonesia",
+        "rank": 35
+    },
+    {
+        "name": "XL Axiata",
+        "code": "E5F.F",
+        "country": "Indonesia",
+        "rank": 36
+    },
+    {
+        "name": "Jasa Marga",
+        "code": "JSMR.JK",
+        "country": "Indonesia",
+        "rank": 37
+    },
+    {
+        "name": "Astra Agro Lestari",
+        "code": "AALI.JK",
+        "country": "Indonesia",
+        "rank": 38
+    },
+    {
+        "name": "Ace Hardware Indonesia",
+        "code": "ACES.JK",
+        "country": "Indonesia",
+        "rank": 39
+    },
+    {
+        "name": "Tunas Ridean",
+        "code": "TURI.JK",
+        "country": "Indonesia",
+        "rank": 40
+    },
+    {
+        "name": "Bank Mayapada Internasional",
+        "code": "MAYA.JK",
+        "country": "Indonesia",
+        "rank": 41
+    },
+    {
+        "name": "Nusantara Pelabuhan Handal",
+        "code": "PORT.JK",
+        "country": "Indonesia",
+        "rank": 42
+    },
+    {
+        "name": "Pollux Properti Indonesia",
+        "code": "POLL.JK",
+        "country": "Indonesia",
+        "rank": 43
+    },
+    {
+        "name": "Indonesia Energy",
+        "code": "INDO",
+        "country": "Indonesia",
+        "rank": 44
+    },
+    {
+        "name": "Bank Central Asia",
+        "code": "BBCA.JK",
+        "country": "Indonesia",
+        "rank": 45
+    },
+    {
+        "name": "Bank Rakyat Indonesia",
+        "code": "BYRA.F",
+        "country": "Indonesia",
+        "rank": 46
+    },
+    {
+        "name": "Bayan Resources",
+        "code": "BYAN.JK",
+        "country": "Indonesia",
+        "rank": 47
+    },
+    {
+        "name": "Bank Mandiri",
+        "code": "PPERF",
+        "country": "Indonesia",
+        "rank": 48
+    },
+    {
+        "name": "Telkom Indonesia",
+        "code": "TLK",
+        "country": "Indonesia",
+        "rank": 49
+    },
+    {
+        "name": "Astra International",
+        "code": "ASII.JK",
+        "country": "Indonesia",
+        "rank": 50
+    },
+    {
+        "name": "Chandra Asri Petrochemical",
+        "code": "TPIA.JK",
+        "country": "Indonesia",
+        "rank": 51
+    },
+    {
+        "name": "Unilever Indonesia",
+        "code": "UNVR.JK",
+        "country": "Indonesia",
+        "rank": 52
+    },
+    {
+        "name": "Bank Negara Indonesia",
+        "code": "BBNI.JK",
+        "country": "Indonesia",
+        "rank": 53
+    },
+    {
+        "name": "Indofood CBP",
+        "code": "ICBP.JK",
+        "country": "Indonesia",
+        "rank": 54
+    },
+    {
+        "name": "Alfamart",
+        "code": "AMRT.JK",
+        "country": "Indonesia",
+        "rank": 55
+    },
+    {
+        "name": "Adaro Energy",
+        "code": "ADRO.JK",
+        "country": "Indonesia",
+        "rank": 56
+    },
+    {
+        "name": "Merdeka Copper Gold",
+        "code": "MDKA.JK",
+        "country": "Indonesia",
+        "rank": 57
+    },
+    {
+        "name": "United Tractors",
+        "code": "UTY.F",
+        "country": "Indonesia",
+        "rank": 58
+    },
+    {
+        "name": "Sampoerna",
+        "code": "HSZ.F",
+        "country": "Indonesia",
+        "rank": 59
+    },
+    {
+        "name": "GoTo",
+        "code": "GOTO.JK",
+        "country": "Indonesia",
+        "rank": 60
+    },
+    {
+        "name": "Charoen Pokphand Indonesia",
+        "code": "CPIN.JK",
+        "country": "Indonesia",
+        "rank": 61
+    },
+    {
+        "name": "Barito Pacific",
+        "code": "OB8.F",
+        "country": "Indonesia",
+        "rank": 62
+    },
+    {
+        "name": "Vale Indonesia",
+        "code": "INCO.JK",
+        "country": "Indonesia",
+        "rank": 63
+    },
+    {
+        "name": "Bank Mega",
+        "code": "MEGA.JK",
+        "country": "Indonesia",
+        "rank": 64
+    },
+    {
+        "name": "Elang Mahkota Teknologi",
+        "code": "EMTK.JK",
+        "country": "Indonesia",
+        "rank": 65
+    },
+    {
+        "name": "Indofood",
+        "code": "INDF.JK",
+        "country": "Indonesia",
+        "rank": 66
+    },
+    {
+        "name": "Indoritel",
+        "code": "DNET.JK",
+        "country": "Indonesia",
+        "rank": 67
+    },
+    {
+        "name": "Sarana Menara Nusantara",
+        "code": "TOWR.JK",
+        "country": "Indonesia",
+        "rank": 68
+    },
+    {
+        "name": "Mayora",
+        "code": "D7V.F",
+        "country": "Indonesia",
+        "rank": 69
+    },
+    {
+        "name": "Tower Bersama Infrastructure",
+        "code": "TBIG.JK",
+        "country": "Indonesia",
+        "rank": 70
+    },
+    {
+        "name": "Bank Jago",
+        "code": "ARTO.JK",
+        "country": "Indonesia",
+        "rank": 71
+    },
+    {
+        "name": "Indosat",
+        "code": "ISAT.JK",
+        "country": "Indonesia",
+        "rank": 72
+    },
+    {
+        "name": "Indah Kiat Pulp & Paper",
+        "code": "INKP.JK",
+        "country": "Indonesia",
+        "rank": 73
+    },
+    {
+        "name": "SIG (Semen Indonesia)",
+        "code": "SMS2.F",
+        "country": "Indonesia",
+        "rank": 74
+    },
+    {
+        "name": "Mitra Keluarga",
+        "code": "MIKA.JK",
+        "country": "Indonesia",
+        "rank": 75
+    },
+    {
+        "name": "Permata Bank",
+        "code": "BNLI.JK",
+        "country": "Indonesia",
+        "rank": 76
+    },
+    {
+        "name": "Gudang Garam",
+        "code": "GGG.F",
+        "country": "Indonesia",
+        "rank": 77
+    },
+    {
+        "name": "Bukalapak.com",
+        "code": "BUKA.JK",
+        "country": "Indonesia",
+        "rank": 78
+    },
+    {
+        "name": "Bank Danamon",
+        "code": "BDMN.JK",
+        "country": "Indonesia",
+        "rank": 79
+    },
+    {
+        "name": "XL Axiata",
+        "code": "E5F.F",
+        "country": "Indonesia",
+        "rank": 80
+    },
+    {
+        "name": "Jasa Marga",
+        "code": "JSMR.JK",
+        "country": "Indonesia",
+        "rank": 81
+    },
+    {
+        "name": "Astra Agro Lestari",
+        "code": "AALI.JK",
+        "country": "Indonesia",
+        "rank": 82
+    },
+    {
+        "name": "Ace Hardware Indonesia",
+        "code": "ACES.JK",
+        "country": "Indonesia",
+        "rank": 83
+    },
+    {
+        "name": "Tunas Ridean",
+        "code": "TURI.JK",
+        "country": "Indonesia",
+        "rank": 84
+    },
+    {
+        "name": "Bank Mayapada Internasional",
+        "code": "MAYA.JK",
+        "country": "Indonesia",
+        "rank": 85
+    },
+    {
+        "name": "Nusantara Pelabuhan Handal",
+        "code": "PORT.JK",
+        "country": "Indonesia",
+        "rank": 86
+    },
+    {
+        "name": "Pollux Properti Indonesia",
+        "code": "POLL.JK",
+        "country": "Indonesia",
+        "rank": 87
+    },
+    {
+        "name": "Indonesia Energy",
+        "code": "INDO",
+        "country": "Indonesia",
+        "rank": 88
+    },
+    {
+        "name": "Bank Central Asia",
+        "code": "BBCA.JK",
+        "country": "Indonesia",
+        "rank": 89
+    },
+    {
+        "name": "Bank Rakyat Indonesia",
+        "code": "BYRA.F",
+        "country": "Indonesia",
+        "rank": 90
+    },
+    {
+        "name": "Bayan Resources",
+        "code": "BYAN.JK",
+        "country": "Indonesia",
+        "rank": 91
+    },
+    {
+        "name": "Bank Mandiri",
+        "code": "PPERF",
+        "country": "Indonesia",
+        "rank": 92
+    },
+    {
+        "name": "Telkom Indonesia",
+        "code": "TLK",
+        "country": "Indonesia",
+        "rank": 93
+    },
+    {
+        "name": "Astra International",
+        "code": "ASII.JK",
+        "country": "Indonesia",
+        "rank": 94
+    },
+    {
+        "name": "Chandra Asri Petrochemical",
+        "code": "TPIA.JK",
+        "country": "Indonesia",
+        "rank": 95
+    },
+    {
+        "name": "Unilever Indonesia",
+        "code": "UNVR.JK",
+        "country": "Indonesia",
+        "rank": 96
+    },
+    {
+        "name": "Bank Negara Indonesia",
+        "code": "BBNI.JK",
+        "country": "Indonesia",
+        "rank": 97
+    },
+    {
+        "name": "Indofood CBP",
+        "code": "ICBP.JK",
+        "country": "Indonesia",
+        "rank": 98
+    },
+    {
+        "name": "Alfamart",
+        "code": "AMRT.JK",
+        "country": "Indonesia",
+        "rank": 99
+    },
+    {
+        "name": "Adaro Energy",
+        "code": "ADRO.JK",
+        "country": "Indonesia",
+        "rank": 100
+    },
+    {
+        "name": "Merdeka Copper Gold",
+        "code": "MDKA.JK",
+        "country": "Indonesia",
+        "rank": 101
+    },
+    {
+        "name": "United Tractors",
+        "code": "UTY.F",
+        "country": "Indonesia",
+        "rank": 102
+    },
+    {
+        "name": "Sampoerna",
+        "code": "HSZ.F",
+        "country": "Indonesia",
+        "rank": 103
+    },
+    {
+        "name": "GoTo",
+        "code": "GOTO.JK",
+        "country": "Indonesia",
+        "rank": 104
+    },
+    {
+        "name": "Charoen Pokphand Indonesia",
+        "code": "CPIN.JK",
+        "country": "Indonesia",
+        "rank": 105
+    },
+    {
+        "name": "Barito Pacific",
+        "code": "OB8.F",
+        "country": "Indonesia",
+        "rank": 106
+    },
+    {
+        "name": "Vale Indonesia",
+        "code": "INCO.JK",
+        "country": "Indonesia",
+        "rank": 107
+    },
+    {
+        "name": "Bank Mega",
+        "code": "MEGA.JK",
+        "country": "Indonesia",
+        "rank": 108
+    },
+    {
+        "name": "Elang Mahkota Teknologi",
+        "code": "EMTK.JK",
+        "country": "Indonesia",
+        "rank": 109
+    },
+    {
+        "name": "Indofood",
+        "code": "INDF.JK",
+        "country": "Indonesia",
+        "rank": 110
+    },
+    {
+        "name": "Indoritel",
+        "code": "DNET.JK",
+        "country": "Indonesia",
+        "rank": 111
+    },
+    {
+        "name": "Sarana Menara Nusantara",
+        "code": "TOWR.JK",
+        "country": "Indonesia",
+        "rank": 112
+    },
+    {
+        "name": "Mayora",
+        "code": "D7V.F",
+        "country": "Indonesia",
+        "rank": 113
+    },
+    {
+        "name": "Tower Bersama Infrastructure",
+        "code": "TBIG.JK",
+        "country": "Indonesia",
+        "rank": 114
+    },
+    {
+        "name": "Bank Jago",
+        "code": "ARTO.JK",
+        "country": "Indonesia",
+        "rank": 115
+    },
+    {
+        "name": "Indosat",
+        "code": "ISAT.JK",
+        "country": "Indonesia",
+        "rank": 116
+    },
+    {
+        "name": "Indah Kiat Pulp & Paper",
+        "code": "INKP.JK",
+        "country": "Indonesia",
+        "rank": 117
+    },
+    {
+        "name": "SIG (Semen Indonesia)",
+        "code": "SMS2.F",
+        "country": "Indonesia",
+        "rank": 118
+    },
+    {
+        "name": "Mitra Keluarga",
+        "code": "MIKA.JK",
+        "country": "Indonesia",
+        "rank": 119
+    },
+    {
+        "name": "Permata Bank",
+        "code": "BNLI.JK",
+        "country": "Indonesia",
+        "rank": 120
+    },
+    {
+        "name": "Gudang Garam",
+        "code": "GGG.F",
+        "country": "Indonesia",
+        "rank": 121
+    },
+    {
+        "name": "Bukalapak.com",
+        "code": "BUKA.JK",
+        "country": "Indonesia",
+        "rank": 122
+    },
+    {
+        "name": "Bank Danamon",
+        "code": "BDMN.JK",
+        "country": "Indonesia",
+        "rank": 123
+    },
+    {
+        "name": "XL Axiata",
+        "code": "E5F.F",
+        "country": "Indonesia",
+        "rank": 124
+    },
+    {
+        "name": "Jasa Marga",
+        "code": "JSMR.JK",
+        "country": "Indonesia",
+        "rank": 125
+    },
+    {
+        "name": "Astra Agro Lestari",
+        "code": "AALI.JK",
+        "country": "Indonesia",
+        "rank": 126
+    },
+    {
+        "name": "Ace Hardware Indonesia",
+        "code": "ACES.JK",
+        "country": "Indonesia",
+        "rank": 127
+    },
+    {
+        "name": "Tunas Ridean",
+        "code": "TURI.JK",
+        "country": "Indonesia",
+        "rank": 128
+    },
+    {
+        "name": "Bank Mayapada Internasional",
+        "code": "MAYA.JK",
+        "country": "Indonesia",
+        "rank": 129
+    },
+    {
+        "name": "Nusantara Pelabuhan Handal",
+        "code": "PORT.JK",
+        "country": "Indonesia",
+        "rank": 130
+    },
+    {
+        "name": "Pollux Properti Indonesia",
+        "code": "POLL.JK",
+        "country": "Indonesia",
+        "rank": 131
+    },
+    {
+        "name": "Indonesia Energy",
+        "code": "INDO",
+        "country": "Indonesia",
+        "rank": 132
+    },
+    {
+        "name": "Bank Central Asia",
+        "code": "BBCA.JK",
+        "country": "Indonesia",
+        "rank": 133
+    },
+    {
+        "name": "Bank Rakyat Indonesia",
+        "code": "BYRA.F",
+        "country": "Indonesia",
+        "rank": 134
+    },
+    {
+        "name": "Bayan Resources",
+        "code": "BYAN.JK",
+        "country": "Indonesia",
+        "rank": 135
+    },
+    {
+        "name": "Bank Mandiri",
+        "code": "PPERF",
+        "country": "Indonesia",
+        "rank": 136
+    },
+    {
+        "name": "Telkom Indonesia",
+        "code": "TLK",
+        "country": "Indonesia",
+        "rank": 137
+    },
+    {
+        "name": "Astra International",
+        "code": "ASII.JK",
+        "country": "Indonesia",
+        "rank": 138
+    },
+    {
+        "name": "Chandra Asri Petrochemical",
+        "code": "TPIA.JK",
+        "country": "Indonesia",
+        "rank": 139
+    },
+    {
+        "name": "Unilever Indonesia",
+        "code": "UNVR.JK",
+        "country": "Indonesia",
+        "rank": 140
+    },
+    {
+        "name": "Bank Negara Indonesia",
+        "code": "BBNI.JK",
+        "country": "Indonesia",
+        "rank": 141
+    },
+    {
+        "name": "Indofood CBP",
+        "code": "ICBP.JK",
+        "country": "Indonesia",
+        "rank": 142
+    },
+    {
+        "name": "Alfamart",
+        "code": "AMRT.JK",
+        "country": "Indonesia",
+        "rank": 143
+    },
+    {
+        "name": "Adaro Energy",
+        "code": "ADRO.JK",
+        "country": "Indonesia",
+        "rank": 144
+    },
+    {
+        "name": "Merdeka Copper Gold",
+        "code": "MDKA.JK",
+        "country": "Indonesia",
+        "rank": 145
+    },
+    {
+        "name": "United Tractors",
+        "code": "UTY.F",
+        "country": "Indonesia",
+        "rank": 146
+    },
+    {
+        "name": "Sampoerna",
+        "code": "HSZ.F",
+        "country": "Indonesia",
+        "rank": 147
+    },
+    {
+        "name": "GoTo",
+        "code": "GOTO.JK",
+        "country": "Indonesia",
+        "rank": 148
+    },
+    {
+        "name": "Charoen Pokphand Indonesia",
+        "code": "CPIN.JK",
+        "country": "Indonesia",
+        "rank": 149
+    },
+    {
+        "name": "Barito Pacific",
+        "code": "OB8.F",
+        "country": "Indonesia",
+        "rank": 150
+    },
+    {
+        "name": "Vale Indonesia",
+        "code": "INCO.JK",
+        "country": "Indonesia",
+        "rank": 151
+    },
+    {
+        "name": "Bank Mega",
+        "code": "MEGA.JK",
+        "country": "Indonesia",
+        "rank": 152
+    },
+    {
+        "name": "Elang Mahkota Teknologi",
+        "code": "EMTK.JK",
+        "country": "Indonesia",
+        "rank": 153
+    },
+    {
+        "name": "Indofood",
+        "code": "INDF.JK",
+        "country": "Indonesia",
+        "rank": 154
+    },
+    {
+        "name": "Indoritel",
+        "code": "DNET.JK",
+        "country": "Indonesia",
+        "rank": 155
+    },
+    {
+        "name": "Sarana Menara Nusantara",
+        "code": "TOWR.JK",
+        "country": "Indonesia",
+        "rank": 156
+    },
+    {
+        "name": "Mayora",
+        "code": "D7V.F",
+        "country": "Indonesia",
+        "rank": 157
+    },
+    {
+        "name": "Tower Bersama Infrastructure",
+        "code": "TBIG.JK",
+        "country": "Indonesia",
+        "rank": 158
+    },
+    {
+        "name": "Bank Jago",
+        "code": "ARTO.JK",
+        "country": "Indonesia",
+        "rank": 159
+    },
+    {
+        "name": "Indosat",
+        "code": "ISAT.JK",
+        "country": "Indonesia",
+        "rank": 160
+    },
+    {
+        "name": "Indah Kiat Pulp & Paper",
+        "code": "INKP.JK",
+        "country": "Indonesia",
+        "rank": 161
+    },
+    {
+        "name": "SIG (Semen Indonesia)",
+        "code": "SMS2.F",
+        "country": "Indonesia",
+        "rank": 162
+    },
+    {
+        "name": "Mitra Keluarga",
+        "code": "MIKA.JK",
+        "country": "Indonesia",
+        "rank": 163
+    },
+    {
+        "name": "Permata Bank",
+        "code": "BNLI.JK",
+        "country": "Indonesia",
+        "rank": 164
+    },
+    {
+        "name": "Gudang Garam",
+        "code": "GGG.F",
+        "country": "Indonesia",
+        "rank": 165
+    },
+    {
+        "name": "Bukalapak.com",
+        "code": "BUKA.JK",
+        "country": "Indonesia",
+        "rank": 166
+    },
+    {
+        "name": "Bank Danamon",
+        "code": "BDMN.JK",
+        "country": "Indonesia",
+        "rank": 167
+    },
+    {
+        "name": "XL Axiata",
+        "code": "E5F.F",
+        "country": "Indonesia",
+        "rank": 168
+    },
+    {
+        "name": "Jasa Marga",
+        "code": "JSMR.JK",
+        "country": "Indonesia",
+        "rank": 169
+    },
+    {
+        "name": "Astra Agro Lestari",
+        "code": "AALI.JK",
+        "country": "Indonesia",
+        "rank": 170
+    },
+    {
+        "name": "Ace Hardware Indonesia",
+        "code": "ACES.JK",
+        "country": "Indonesia",
+        "rank": 171
+    },
+    {
+        "name": "Tunas Ridean",
+        "code": "TURI.JK",
+        "country": "Indonesia",
+        "rank": 172
+    },
+    {
+        "name": "Bank Mayapada Internasional",
+        "code": "MAYA.JK",
+        "country": "Indonesia",
+        "rank": 173
+    },
+    {
+        "name": "Nusantara Pelabuhan Handal",
+        "code": "PORT.JK",
+        "country": "Indonesia",
+        "rank": 174
+    },
+    {
+        "name": "Pollux Properti Indonesia",
+        "code": "POLL.JK",
+        "country": "Indonesia",
+        "rank": 175
+    },
+    {
+        "name": "Indonesia Energy",
+        "code": "INDO",
+        "country": "Indonesia",
+        "rank": 176
+    },
+    {
+        "name": "Bank Central Asia",
+        "code": "BBCA.JK",
+        "country": "Indonesia",
+        "rank": 177
+    },
+    {
+        "name": "Bank Rakyat Indonesia",
+        "code": "BYRA.F",
+        "country": "Indonesia",
+        "rank": 178
+    },
+    {
+        "name": "Bayan Resources",
+        "code": "BYAN.JK",
+        "country": "Indonesia",
+        "rank": 179
+    },
+    {
+        "name": "Bank Mandiri",
+        "code": "PPERF",
+        "country": "Indonesia",
+        "rank": 180
+    },
+    {
+        "name": "Telkom Indonesia",
+        "code": "TLK",
+        "country": "Indonesia",
+        "rank": 181
+    },
+    {
+        "name": "Astra International",
+        "code": "ASII.JK",
+        "country": "Indonesia",
+        "rank": 182
+    },
+    {
+        "name": "Chandra Asri Petrochemical",
+        "code": "TPIA.JK",
+        "country": "Indonesia",
+        "rank": 183
+    },
+    {
+        "name": "Unilever Indonesia",
+        "code": "UNVR.JK",
+        "country": "Indonesia",
+        "rank": 184
+    },
+    {
+        "name": "Bank Negara Indonesia",
+        "code": "BBNI.JK",
+        "country": "Indonesia",
+        "rank": 185
+    },
+    {
+        "name": "Indofood CBP",
+        "code": "ICBP.JK",
+        "country": "Indonesia",
+        "rank": 186
+    },
+    {
+        "name": "Alfamart",
+        "code": "AMRT.JK",
+        "country": "Indonesia",
+        "rank": 187
+    },
+    {
+        "name": "Adaro Energy",
+        "code": "ADRO.JK",
+        "country": "Indonesia",
+        "rank": 188
+    },
+    {
+        "name": "Merdeka Copper Gold",
+        "code": "MDKA.JK",
+        "country": "Indonesia",
+        "rank": 189
+    },
+    {
+        "name": "United Tractors",
+        "code": "UTY.F",
+        "country": "Indonesia",
+        "rank": 190
+    },
+    {
+        "name": "Sampoerna",
+        "code": "HSZ.F",
+        "country": "Indonesia",
+        "rank": 191
+    },
+    {
+        "name": "GoTo",
+        "code": "GOTO.JK",
+        "country": "Indonesia",
+        "rank": 192
+    },
+    {
+        "name": "Charoen Pokphand Indonesia",
+        "code": "CPIN.JK",
+        "country": "Indonesia",
+        "rank": 193
+    },
+    {
+        "name": "Barito Pacific",
+        "code": "OB8.F",
+        "country": "Indonesia",
+        "rank": 194
+    },
+    {
+        "name": "Vale Indonesia",
+        "code": "INCO.JK",
+        "country": "Indonesia",
+        "rank": 195
+    },
+    {
+        "name": "Bank Mega",
+        "code": "MEGA.JK",
+        "country": "Indonesia",
+        "rank": 196
+    },
+    {
+        "name": "Elang Mahkota Teknologi",
+        "code": "EMTK.JK",
+        "country": "Indonesia",
+        "rank": 197
+    },
+    {
+        "name": "Indofood",
+        "code": "INDF.JK",
+        "country": "Indonesia",
+        "rank": 198
+    },
+    {
+        "name": "Indoritel",
+        "code": "DNET.JK",
+        "country": "Indonesia",
+        "rank": 199
+    },
+    {
+        "name": "Sarana Menara Nusantara",
+        "code": "TOWR.JK",
+        "country": "Indonesia",
+        "rank": 200
+    },
+    {
+        "name": "Mayora",
+        "code": "D7V.F",
+        "country": "Indonesia",
+        "rank": 201
+    },
+    {
+        "name": "Tower Bersama Infrastructure",
+        "code": "TBIG.JK",
+        "country": "Indonesia",
+        "rank": 202
+    },
+    {
+        "name": "Bank Jago",
+        "code": "ARTO.JK",
+        "country": "Indonesia",
+        "rank": 203
+    },
+    {
+        "name": "Indosat",
+        "code": "ISAT.JK",
+        "country": "Indonesia",
+        "rank": 204
+    },
+    {
+        "name": "Indah Kiat Pulp & Paper",
+        "code": "INKP.JK",
+        "country": "Indonesia",
+        "rank": 205
+    },
+    {
+        "name": "SIG (Semen Indonesia)",
+        "code": "SMS2.F",
+        "country": "Indonesia",
+        "rank": 206
+    },
+    {
+        "name": "Mitra Keluarga",
+        "code": "MIKA.JK",
+        "country": "Indonesia",
+        "rank": 207
+    },
+    {
+        "name": "Permata Bank",
+        "code": "BNLI.JK",
+        "country": "Indonesia",
+        "rank": 208
+    },
+    {
+        "name": "Gudang Garam",
+        "code": "GGG.F",
+        "country": "Indonesia",
+        "rank": 209
+    },
+    {
+        "name": "Bukalapak.com",
+        "code": "BUKA.JK",
+        "country": "Indonesia",
+        "rank": 210
+    },
+    {
+        "name": "Bank Danamon",
+        "code": "BDMN.JK",
+        "country": "Indonesia",
+        "rank": 211
+    },
+    {
+        "name": "XL Axiata",
+        "code": "E5F.F",
+        "country": "Indonesia",
+        "rank": 212
+    },
+    {
+        "name": "Jasa Marga",
+        "code": "JSMR.JK",
+        "country": "Indonesia",
+        "rank": 213
+    },
+    {
+        "name": "Astra Agro Lestari",
+        "code": "AALI.JK",
+        "country": "Indonesia",
+        "rank": 214
+    },
+    {
+        "name": "Ace Hardware Indonesia",
+        "code": "ACES.JK",
+        "country": "Indonesia",
+        "rank": 215
+    },
+    {
+        "name": "Tunas Ridean",
+        "code": "TURI.JK",
+        "country": "Indonesia",
+        "rank": 216
+    },
+    {
+        "name": "Bank Mayapada Internasional",
+        "code": "MAYA.JK",
+        "country": "Indonesia",
+        "rank": 217
+    },
+    {
+        "name": "Nusantara Pelabuhan Handal",
+        "code": "PORT.JK",
+        "country": "Indonesia",
+        "rank": 218
+    },
+    {
+        "name": "Pollux Properti Indonesia",
+        "code": "POLL.JK",
+        "country": "Indonesia",
+        "rank": 219
+    },
+    {
+        "name": "Indonesia Energy",
+        "code": "INDO",
+        "country": "Indonesia",
+        "rank": 220
+    },
+    {
+        "name": "Bank Central Asia",
+        "code": "BBCA.JK",
+        "country": "Indonesia",
+        "rank": 221
+    },
+    {
+        "name": "Bank Rakyat Indonesia",
+        "code": "BYRA.F",
+        "country": "Indonesia",
+        "rank": 222
+    },
+    {
+        "name": "Bayan Resources",
+        "code": "BYAN.JK",
+        "country": "Indonesia",
+        "rank": 223
+    },
+    {
+        "name": "Bank Mandiri",
+        "code": "PPERF",
+        "country": "Indonesia",
+        "rank": 224
+    },
+    {
+        "name": "Telkom Indonesia",
+        "code": "TLK",
+        "country": "Indonesia",
+        "rank": 225
+    },
+    {
+        "name": "Astra International",
+        "code": "ASII.JK",
+        "country": "Indonesia",
+        "rank": 226
+    },
+    {
+        "name": "Chandra Asri Petrochemical",
+        "code": "TPIA.JK",
+        "country": "Indonesia",
+        "rank": 227
+    },
+    {
+        "name": "Unilever Indonesia",
+        "code": "UNVR.JK",
+        "country": "Indonesia",
+        "rank": 228
+    },
+    {
+        "name": "Bank Negara Indonesia",
+        "code": "BBNI.JK",
+        "country": "Indonesia",
+        "rank": 229
+    },
+    {
+        "name": "Indofood CBP",
+        "code": "ICBP.JK",
+        "country": "Indonesia",
+        "rank": 230
+    },
+    {
+        "name": "Alfamart",
+        "code": "AMRT.JK",
+        "country": "Indonesia",
+        "rank": 231
+    },
+    {
+        "name": "Adaro Energy",
+        "code": "ADRO.JK",
+        "country": "Indonesia",
+        "rank": 232
+    },
+    {
+        "name": "Merdeka Copper Gold",
+        "code": "MDKA.JK",
+        "country": "Indonesia",
+        "rank": 233
+    },
+    {
+        "name": "United Tractors",
+        "code": "UTY.F",
+        "country": "Indonesia",
+        "rank": 234
+    },
+    {
+        "name": "Sampoerna",
+        "code": "HSZ.F",
+        "country": "Indonesia",
+        "rank": 235
+    },
+    {
+        "name": "GoTo",
+        "code": "GOTO.JK",
+        "country": "Indonesia",
+        "rank": 236
+    },
+    {
+        "name": "Charoen Pokphand Indonesia",
+        "code": "CPIN.JK",
+        "country": "Indonesia",
+        "rank": 237
+    },
+    {
+        "name": "Barito Pacific",
+        "code": "OB8.F",
+        "country": "Indonesia",
+        "rank": 238
+    },
+    {
+        "name": "Vale Indonesia",
+        "code": "INCO.JK",
+        "country": "Indonesia",
+        "rank": 239
+    },
+    {
+        "name": "Bank Mega",
+        "code": "MEGA.JK",
+        "country": "Indonesia",
+        "rank": 240
+    },
+    {
+        "name": "Elang Mahkota Teknologi",
+        "code": "EMTK.JK",
+        "country": "Indonesia",
+        "rank": 241
+    },
+    {
+        "name": "Indofood",
+        "code": "INDF.JK",
+        "country": "Indonesia",
+        "rank": 242
+    },
+    {
+        "name": "Indoritel",
+        "code": "DNET.JK",
+        "country": "Indonesia",
+        "rank": 243
+    },
+    {
+        "name": "Sarana Menara Nusantara",
+        "code": "TOWR.JK",
+        "country": "Indonesia",
+        "rank": 244
+    },
+    {
+        "name": "Mayora",
+        "code": "D7V.F",
+        "country": "Indonesia",
+        "rank": 245
+    },
+    {
+        "name": "Tower Bersama Infrastructure",
+        "code": "TBIG.JK",
+        "country": "Indonesia",
+        "rank": 246
+    },
+    {
+        "name": "Bank Jago",
+        "code": "ARTO.JK",
+        "country": "Indonesia",
+        "rank": 247
+    },
+    {
+        "name": "Indosat",
+        "code": "ISAT.JK",
+        "country": "Indonesia",
+        "rank": 248
+    },
+    {
+        "name": "Indah Kiat Pulp & Paper",
+        "code": "INKP.JK",
+        "country": "Indonesia",
+        "rank": 249
+    },
+    {
+        "name": "SIG (Semen Indonesia)",
+        "code": "SMS2.F",
+        "country": "Indonesia",
+        "rank": 250
+    },
+    {
+        "name": "Mitra Keluarga",
+        "code": "MIKA.JK",
+        "country": "Indonesia",
+        "rank": 251
+    },
+    {
+        "name": "Permata Bank",
+        "code": "BNLI.JK",
+        "country": "Indonesia",
+        "rank": 252
+    },
+    {
+        "name": "Gudang Garam",
+        "code": "GGG.F",
+        "country": "Indonesia",
+        "rank": 253
+    },
+    {
+        "name": "Bukalapak.com",
+        "code": "BUKA.JK",
+        "country": "Indonesia",
+        "rank": 254
+    },
+    {
+        "name": "Bank Danamon",
+        "code": "BDMN.JK",
+        "country": "Indonesia",
+        "rank": 255
+    },
+    {
+        "name": "XL Axiata",
+        "code": "E5F.F",
+        "country": "Indonesia",
+        "rank": 256
+    },
+    {
+        "name": "Jasa Marga",
+        "code": "JSMR.JK",
+        "country": "Indonesia",
+        "rank": 257
+    },
+    {
+        "name": "Astra Agro Lestari",
+        "code": "AALI.JK",
+        "country": "Indonesia",
+        "rank": 258
+    },
+    {
+        "name": "Ace Hardware Indonesia",
+        "code": "ACES.JK",
+        "country": "Indonesia",
+        "rank": 259
+    },
+    {
+        "name": "Tunas Ridean",
+        "code": "TURI.JK",
+        "country": "Indonesia",
+        "rank": 260
+    },
+    {
+        "name": "Bank Mayapada Internasional",
+        "code": "MAYA.JK",
+        "country": "Indonesia",
+        "rank": 261
+    },
+    {
+        "name": "Nusantara Pelabuhan Handal",
+        "code": "PORT.JK",
+        "country": "Indonesia",
+        "rank": 262
+    },
+    {
+        "name": "Pollux Properti Indonesia",
+        "code": "POLL.JK",
+        "country": "Indonesia",
+        "rank": 263
+    },
+    {
+        "name": "Indonesia Energy",
+        "code": "INDO",
+        "country": "Indonesia",
+        "rank": 264
+    },
+    {
+        "name": "Bank Central Asia",
+        "code": "BBCA.JK",
+        "country": "Indonesia",
+        "rank": 265
+    },
+    {
+        "name": "Bank Rakyat Indonesia",
+        "code": "BYRA.F",
+        "country": "Indonesia",
+        "rank": 266
+    },
+    {
+        "name": "Bayan Resources",
+        "code": "BYAN.JK",
+        "country": "Indonesia",
+        "rank": 267
+    },
+    {
+        "name": "Bank Mandiri",
+        "code": "PPERF",
+        "country": "Indonesia",
+        "rank": 268
+    },
+    {
+        "name": "Telkom Indonesia",
+        "code": "TLK",
+        "country": "Indonesia",
+        "rank": 269
+    },
+    {
+        "name": "Astra International",
+        "code": "ASII.JK",
+        "country": "Indonesia",
+        "rank": 270
+    },
+    {
+        "name": "Chandra Asri Petrochemical",
+        "code": "TPIA.JK",
+        "country": "Indonesia",
+        "rank": 271
+    },
+    {
+        "name": "Unilever Indonesia",
+        "code": "UNVR.JK",
+        "country": "Indonesia",
+        "rank": 272
+    },
+    {
+        "name": "Bank Negara Indonesia",
+        "code": "BBNI.JK",
+        "country": "Indonesia",
+        "rank": 273
+    },
+    {
+        "name": "Indofood CBP",
+        "code": "ICBP.JK",
+        "country": "Indonesia",
+        "rank": 274
+    },
+    {
+        "name": "Alfamart",
+        "code": "AMRT.JK",
+        "country": "Indonesia",
+        "rank": 275
+    },
+    {
+        "name": "Adaro Energy",
+        "code": "ADRO.JK",
+        "country": "Indonesia",
+        "rank": 276
+    },
+    {
+        "name": "Merdeka Copper Gold",
+        "code": "MDKA.JK",
+        "country": "Indonesia",
+        "rank": 277
+    },
+    {
+        "name": "United Tractors",
+        "code": "UTY.F",
+        "country": "Indonesia",
+        "rank": 278
+    },
+    {
+        "name": "Sampoerna",
+        "code": "HSZ.F",
+        "country": "Indonesia",
+        "rank": 279
+    },
+    {
+        "name": "GoTo",
+        "code": "GOTO.JK",
+        "country": "Indonesia",
+        "rank": 280
+    },
+    {
+        "name": "Charoen Pokphand Indonesia",
+        "code": "CPIN.JK",
+        "country": "Indonesia",
+        "rank": 281
+    },
+    {
+        "name": "Barito Pacific",
+        "code": "OB8.F",
+        "country": "Indonesia",
+        "rank": 282
+    },
+    {
+        "name": "Vale Indonesia",
+        "code": "INCO.JK",
+        "country": "Indonesia",
+        "rank": 283
+    },
+    {
+        "name": "Bank Mega",
+        "code": "MEGA.JK",
+        "country": "Indonesia",
+        "rank": 284
+    },
+    {
+        "name": "Elang Mahkota Teknologi",
+        "code": "EMTK.JK",
+        "country": "Indonesia",
+        "rank": 285
+    },
+    {
+        "name": "Indofood",
+        "code": "INDF.JK",
+        "country": "Indonesia",
+        "rank": 286
+    },
+    {
+        "name": "Indoritel",
+        "code": "DNET.JK",
+        "country": "Indonesia",
+        "rank": 287
+    },
+    {
+        "name": "Sarana Menara Nusantara",
+        "code": "TOWR.JK",
+        "country": "Indonesia",
+        "rank": 288
+    },
+    {
+        "name": "Mayora",
+        "code": "D7V.F",
+        "country": "Indonesia",
+        "rank": 289
+    },
+    {
+        "name": "Tower Bersama Infrastructure",
+        "code": "TBIG.JK",
+        "country": "Indonesia",
+        "rank": 290
+    },
+    {
+        "name": "Bank Jago",
+        "code": "ARTO.JK",
+        "country": "Indonesia",
+        "rank": 291
+    },
+    {
+        "name": "Indosat",
+        "code": "ISAT.JK",
+        "country": "Indonesia",
+        "rank": 292
+    },
+    {
+        "name": "Indah Kiat Pulp & Paper",
+        "code": "INKP.JK",
+        "country": "Indonesia",
+        "rank": 293
+    },
+    {
+        "name": "SIG (Semen Indonesia)",
+        "code": "SMS2.F",
+        "country": "Indonesia",
+        "rank": 294
+    },
+    {
+        "name": "Mitra Keluarga",
+        "code": "MIKA.JK",
+        "country": "Indonesia",
+        "rank": 295
+    },
+    {
+        "name": "Permata Bank",
+        "code": "BNLI.JK",
+        "country": "Indonesia",
+        "rank": 296
+    },
+    {
+        "name": "Gudang Garam",
+        "code": "GGG.F",
+        "country": "Indonesia",
+        "rank": 297
+    },
+    {
+        "name": "Bukalapak.com",
+        "code": "BUKA.JK",
+        "country": "Indonesia",
+        "rank": 298
+    },
+    {
+        "name": "Bank Danamon",
+        "code": "BDMN.JK",
+        "country": "Indonesia",
+        "rank": 299
+    },
+    {
+        "name": "XL Axiata",
+        "code": "E5F.F",
+        "country": "Indonesia",
+        "rank": 300
+    },
+    {
+        "name": "Jasa Marga",
+        "code": "JSMR.JK",
+        "country": "Indonesia",
+        "rank": 301
+    },
+    {
+        "name": "Astra Agro Lestari",
+        "code": "AALI.JK",
+        "country": "Indonesia",
+        "rank": 302
+    },
+    {
+        "name": "Ace Hardware Indonesia",
+        "code": "ACES.JK",
+        "country": "Indonesia",
+        "rank": 303
+    },
+    {
+        "name": "Tunas Ridean",
+        "code": "TURI.JK",
+        "country": "Indonesia",
+        "rank": 304
+    },
+    {
+        "name": "Bank Mayapada Internasional",
+        "code": "MAYA.JK",
+        "country": "Indonesia",
+        "rank": 305
+    },
+    {
+        "name": "Nusantara Pelabuhan Handal",
+        "code": "PORT.JK",
+        "country": "Indonesia",
+        "rank": 306
+    },
+    {
+        "name": "Pollux Properti Indonesia",
+        "code": "POLL.JK",
+        "country": "Indonesia",
+        "rank": 307
+    },
+    {
+        "name": "Indonesia Energy",
+        "code": "INDO",
+        "country": "Indonesia",
+        "rank": 308
+    },
+    {
+        "name": "Bank Central Asia",
+        "code": "BBCA.JK",
+        "country": "Indonesia",
+        "rank": 309
+    },
+    {
+        "name": "Bank Rakyat Indonesia",
+        "code": "BYRA.F",
+        "country": "Indonesia",
+        "rank": 310
+    },
+    {
+        "name": "Bayan Resources",
+        "code": "BYAN.JK",
+        "country": "Indonesia",
+        "rank": 311
+    },
+    {
+        "name": "Bank Mandiri",
+        "code": "PPERF",
+        "country": "Indonesia",
+        "rank": 312
+    },
+    {
+        "name": "Telkom Indonesia",
+        "code": "TLK",
+        "country": "Indonesia",
+        "rank": 313
+    },
+    {
+        "name": "Astra International",
+        "code": "ASII.JK",
+        "country": "Indonesia",
+        "rank": 314
+    },
+    {
+        "name": "Chandra Asri Petrochemical",
+        "code": "TPIA.JK",
+        "country": "Indonesia",
+        "rank": 315
+    },
+    {
+        "name": "Unilever Indonesia",
+        "code": "UNVR.JK",
+        "country": "Indonesia",
+        "rank": 316
+    },
+    {
+        "name": "Bank Negara Indonesia",
+        "code": "BBNI.JK",
+        "country": "Indonesia",
+        "rank": 317
+    },
+    {
+        "name": "Indofood CBP",
+        "code": "ICBP.JK",
+        "country": "Indonesia",
+        "rank": 318
+    },
+    {
+        "name": "Alfamart",
+        "code": "AMRT.JK",
+        "country": "Indonesia",
+        "rank": 319
+    },
+    {
+        "name": "Adaro Energy",
+        "code": "ADRO.JK",
+        "country": "Indonesia",
+        "rank": 320
+    },
+    {
+        "name": "Merdeka Copper Gold",
+        "code": "MDKA.JK",
+        "country": "Indonesia",
+        "rank": 321
+    },
+    {
+        "name": "United Tractors",
+        "code": "UTY.F",
+        "country": "Indonesia",
+        "rank": 322
+    },
+    {
+        "name": "Sampoerna",
+        "code": "HSZ.F",
+        "country": "Indonesia",
+        "rank": 323
+    },
+    {
+        "name": "GoTo",
+        "code": "GOTO.JK",
+        "country": "Indonesia",
+        "rank": 324
+    },
+    {
+        "name": "Charoen Pokphand Indonesia",
+        "code": "CPIN.JK",
+        "country": "Indonesia",
+        "rank": 325
+    },
+    {
+        "name": "Barito Pacific",
+        "code": "OB8.F",
+        "country": "Indonesia",
+        "rank": 326
+    },
+    {
+        "name": "Vale Indonesia",
+        "code": "INCO.JK",
+        "country": "Indonesia",
+        "rank": 327
+    },
+    {
+        "name": "Bank Mega",
+        "code": "MEGA.JK",
+        "country": "Indonesia",
+        "rank": 328
+    },
+    {
+        "name": "Elang Mahkota Teknologi",
+        "code": "EMTK.JK",
+        "country": "Indonesia",
+        "rank": 329
+    },
+    {
+        "name": "Indofood",
+        "code": "INDF.JK",
+        "country": "Indonesia",
+        "rank": 330
+    },
+    {
+        "name": "Indoritel",
+        "code": "DNET.JK",
+        "country": "Indonesia",
+        "rank": 331
+    },
+    {
+        "name": "Sarana Menara Nusantara",
+        "code": "TOWR.JK",
+        "country": "Indonesia",
+        "rank": 332
+    },
+    {
+        "name": "Mayora",
+        "code": "D7V.F",
+        "country": "Indonesia",
+        "rank": 333
+    },
+    {
+        "name": "Tower Bersama Infrastructure",
+        "code": "TBIG.JK",
+        "country": "Indonesia",
+        "rank": 334
+    },
+    {
+        "name": "Bank Jago",
+        "code": "ARTO.JK",
+        "country": "Indonesia",
+        "rank": 335
+    },
+    {
+        "name": "Indosat",
+        "code": "ISAT.JK",
+        "country": "Indonesia",
+        "rank": 336
+    },
+    {
+        "name": "Indah Kiat Pulp & Paper",
+        "code": "INKP.JK",
+        "country": "Indonesia",
+        "rank": 337
+    },
+    {
+        "name": "SIG (Semen Indonesia)",
+        "code": "SMS2.F",
+        "country": "Indonesia",
+        "rank": 338
+    },
+    {
+        "name": "Mitra Keluarga",
+        "code": "MIKA.JK",
+        "country": "Indonesia",
+        "rank": 339
+    },
+    {
+        "name": "Permata Bank",
+        "code": "BNLI.JK",
+        "country": "Indonesia",
+        "rank": 340
+    },
+    {
+        "name": "Gudang Garam",
+        "code": "GGG.F",
+        "country": "Indonesia",
+        "rank": 341
+    },
+    {
+        "name": "Bukalapak.com",
+        "code": "BUKA.JK",
+        "country": "Indonesia",
+        "rank": 342
+    },
+    {
+        "name": "Bank Danamon",
+        "code": "BDMN.JK",
+        "country": "Indonesia",
+        "rank": 343
+    },
+    {
+        "name": "XL Axiata",
+        "code": "E5F.F",
+        "country": "Indonesia",
+        "rank": 344
+    },
+    {
+        "name": "Jasa Marga",
+        "code": "JSMR.JK",
+        "country": "Indonesia",
+        "rank": 345
+    },
+    {
+        "name": "Astra Agro Lestari",
+        "code": "AALI.JK",
+        "country": "Indonesia",
+        "rank": 346
+    },
+    {
+        "name": "Ace Hardware Indonesia",
+        "code": "ACES.JK",
+        "country": "Indonesia",
+        "rank": 347
+    },
+    {
+        "name": "Tunas Ridean",
+        "code": "TURI.JK",
+        "country": "Indonesia",
+        "rank": 348
+    },
+    {
+        "name": "Bank Mayapada Internasional",
+        "code": "MAYA.JK",
+        "country": "Indonesia",
+        "rank": 349
+    },
+    {
+        "name": "Nusantara Pelabuhan Handal",
+        "code": "PORT.JK",
+        "country": "Indonesia",
+        "rank": 350
+    },
+    {
+        "name": "Pollux Properti Indonesia",
+        "code": "POLL.JK",
+        "country": "Indonesia",
+        "rank": 351
+    },
+    {
+        "name": "Indonesia Energy",
+        "code": "INDO",
+        "country": "Indonesia",
+        "rank": 352
+    },
+    {
+        "name": "Bank Central Asia",
+        "code": "BBCA.JK",
+        "country": "Indonesia",
+        "rank": 353
+    },
+    {
+        "name": "Bank Rakyat Indonesia",
+        "code": "BYRA.F",
+        "country": "Indonesia",
+        "rank": 354
+    },
+    {
+        "name": "Bayan Resources",
+        "code": "BYAN.JK",
+        "country": "Indonesia",
+        "rank": 355
+    },
+    {
+        "name": "Bank Mandiri",
+        "code": "PPERF",
+        "country": "Indonesia",
+        "rank": 356
+    },
+    {
+        "name": "Telkom Indonesia",
+        "code": "TLK",
+        "country": "Indonesia",
+        "rank": 357
+    },
+    {
+        "name": "Astra International",
+        "code": "ASII.JK",
+        "country": "Indonesia",
+        "rank": 358
+    },
+    {
+        "name": "Chandra Asri Petrochemical",
+        "code": "TPIA.JK",
+        "country": "Indonesia",
+        "rank": 359
+    },
+    {
+        "name": "Unilever Indonesia",
+        "code": "UNVR.JK",
+        "country": "Indonesia",
+        "rank": 360
+    },
+    {
+        "name": "Bank Negara Indonesia",
+        "code": "BBNI.JK",
+        "country": "Indonesia",
+        "rank": 361
+    },
+    {
+        "name": "Indofood CBP",
+        "code": "ICBP.JK",
+        "country": "Indonesia",
+        "rank": 362
+    },
+    {
+        "name": "Alfamart",
+        "code": "AMRT.JK",
+        "country": "Indonesia",
+        "rank": 363
+    },
+    {
+        "name": "Adaro Energy",
+        "code": "ADRO.JK",
+        "country": "Indonesia",
+        "rank": 364
+    },
+    {
+        "name": "Merdeka Copper Gold",
+        "code": "MDKA.JK",
+        "country": "Indonesia",
+        "rank": 365
+    },
+    {
+        "name": "United Tractors",
+        "code": "UTY.F",
+        "country": "Indonesia",
+        "rank": 366
+    },
+    {
+        "name": "Sampoerna",
+        "code": "HSZ.F",
+        "country": "Indonesia",
+        "rank": 367
+    },
+    {
+        "name": "GoTo",
+        "code": "GOTO.JK",
+        "country": "Indonesia",
+        "rank": 368
+    },
+    {
+        "name": "Charoen Pokphand Indonesia",
+        "code": "CPIN.JK",
+        "country": "Indonesia",
+        "rank": 369
+    },
+    {
+        "name": "Barito Pacific",
+        "code": "OB8.F",
+        "country": "Indonesia",
+        "rank": 370
+    },
+    {
+        "name": "Vale Indonesia",
+        "code": "INCO.JK",
+        "country": "Indonesia",
+        "rank": 371
+    },
+    {
+        "name": "Bank Mega",
+        "code": "MEGA.JK",
+        "country": "Indonesia",
+        "rank": 372
+    },
+    {
+        "name": "Elang Mahkota Teknologi",
+        "code": "EMTK.JK",
+        "country": "Indonesia",
+        "rank": 373
+    },
+    {
+        "name": "Indofood",
+        "code": "INDF.JK",
+        "country": "Indonesia",
+        "rank": 374
+    },
+    {
+        "name": "Indoritel",
+        "code": "DNET.JK",
+        "country": "Indonesia",
+        "rank": 375
+    },
+    {
+        "name": "Sarana Menara Nusantara",
+        "code": "TOWR.JK",
+        "country": "Indonesia",
+        "rank": 376
+    },
+    {
+        "name": "Mayora",
+        "code": "D7V.F",
+        "country": "Indonesia",
+        "rank": 377
+    },
+    {
+        "name": "Tower Bersama Infrastructure",
+        "code": "TBIG.JK",
+        "country": "Indonesia",
+        "rank": 378
+    },
+    {
+        "name": "Bank Jago",
+        "code": "ARTO.JK",
+        "country": "Indonesia",
+        "rank": 379
+    },
+    {
+        "name": "Indosat",
+        "code": "ISAT.JK",
+        "country": "Indonesia",
+        "rank": 380
+    },
+    {
+        "name": "Indah Kiat Pulp & Paper",
+        "code": "INKP.JK",
+        "country": "Indonesia",
+        "rank": 381
+    },
+    {
+        "name": "SIG (Semen Indonesia)",
+        "code": "SMS2.F",
+        "country": "Indonesia",
+        "rank": 382
+    },
+    {
+        "name": "Mitra Keluarga",
+        "code": "MIKA.JK",
+        "country": "Indonesia",
+        "rank": 383
+    },
+    {
+        "name": "Permata Bank",
+        "code": "BNLI.JK",
+        "country": "Indonesia",
+        "rank": 384
+    },
+    {
+        "name": "Gudang Garam",
+        "code": "GGG.F",
+        "country": "Indonesia",
+        "rank": 385
+    },
+    {
+        "name": "Bukalapak.com",
+        "code": "BUKA.JK",
+        "country": "Indonesia",
+        "rank": 386
+    },
+    {
+        "name": "Bank Danamon",
+        "code": "BDMN.JK",
+        "country": "Indonesia",
+        "rank": 387
+    },
+    {
+        "name": "XL Axiata",
+        "code": "E5F.F",
+        "country": "Indonesia",
+        "rank": 388
+    },
+    {
+        "name": "Jasa Marga",
+        "code": "JSMR.JK",
+        "country": "Indonesia",
+        "rank": 389
+    },
+    {
+        "name": "Astra Agro Lestari",
+        "code": "AALI.JK",
+        "country": "Indonesia",
+        "rank": 390
+    },
+    {
+        "name": "Ace Hardware Indonesia",
+        "code": "ACES.JK",
+        "country": "Indonesia",
+        "rank": 391
+    },
+    {
+        "name": "Tunas Ridean",
+        "code": "TURI.JK",
+        "country": "Indonesia",
+        "rank": 392
+    },
+    {
+        "name": "Bank Mayapada Internasional",
+        "code": "MAYA.JK",
+        "country": "Indonesia",
+        "rank": 393
+    },
+    {
+        "name": "Nusantara Pelabuhan Handal",
+        "code": "PORT.JK",
+        "country": "Indonesia",
+        "rank": 394
+    },
+    {
+        "name": "Pollux Properti Indonesia",
+        "code": "POLL.JK",
+        "country": "Indonesia",
+        "rank": 395
+    },
+    {
+        "name": "Indonesia Energy",
+        "code": "INDO",
+        "country": "Indonesia",
+        "rank": 396
+    }
+]

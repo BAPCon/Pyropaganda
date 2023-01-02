@@ -1,0 +1,5402 @@
+[
+    {
+        "name": "Toyota",
+        "code": "TM",
+        "country": "Japan",
+        "rank": 1
+    },
+    {
+        "name": "NTT (Nippon Telegraph & Telephone)",
+        "code": "NPPXF",
+        "country": "Japan",
+        "rank": 2
+    },
+    {
+        "name": "Keyence",
+        "code": "6861.T",
+        "country": "Japan",
+        "rank": 3
+    },
+    {
+        "name": "Sony",
+        "code": "SONY",
+        "country": "Japan",
+        "rank": 4
+    },
+    {
+        "name": "Mitsubishi UFJ Financial",
+        "code": "MUFG",
+        "country": "Japan",
+        "rank": 5
+    },
+    {
+        "name": "KDDI",
+        "code": "9433.T",
+        "country": "Japan",
+        "rank": 6
+    },
+    {
+        "name": "SoftBank",
+        "code": "9984.T",
+        "country": "Japan",
+        "rank": 7
+    },
+    {
+        "name": "Fast Retailing",
+        "code": "9983.T",
+        "country": "Japan",
+        "rank": 8
+    },
+    {
+        "name": "Daiichi Sanky\u014d",
+        "code": "4568.T",
+        "country": "Japan",
+        "rank": 9
+    },
+    {
+        "name": "Sumitomo Mitsui Financial Group",
+        "code": "SMFG",
+        "country": "Japan",
+        "rank": 10
+    },
+    {
+        "name": "Recruit",
+        "code": "6098.T",
+        "country": "Japan",
+        "rank": 11
+    },
+    {
+        "name": "Shin-Etsu Chemical",
+        "code": "4063.T",
+        "country": "Japan",
+        "rank": 12
+    },
+    {
+        "name": "Nintendo",
+        "code": "7974.T",
+        "country": "Japan",
+        "rank": 13
+    },
+    {
+        "name": "Takeda Pharmaceutical",
+        "code": "TAK",
+        "country": "Japan",
+        "rank": 14
+    },
+    {
+        "name": "Oriental Land",
+        "code": "4661.T",
+        "country": "Japan",
+        "rank": 15
+    },
+    {
+        "name": "Hitachi",
+        "code": "6501.T",
+        "country": "Japan",
+        "rank": 16
+    },
+    {
+        "name": "Mitsubishi Corporation",
+        "code": "8058.T",
+        "country": "Japan",
+        "rank": 17
+    },
+    {
+        "name": "It\u014dch\u016b Sh\u014dji",
+        "code": "8001.T",
+        "country": "Japan",
+        "rank": 18
+    },
+    {
+        "name": "Tokyo Electron",
+        "code": "8035.T",
+        "country": "Japan",
+        "rank": 19
+    },
+    {
+        "name": "Mitsui Bussan",
+        "code": "8031.T",
+        "country": "Japan",
+        "rank": 20
+    },
+    {
+        "name": "Daikin",
+        "code": "6367.T",
+        "country": "Japan",
+        "rank": 21
+    },
+    {
+        "name": "Tokio Marine",
+        "code": "8766.T",
+        "country": "Japan",
+        "rank": 22
+    },
+    {
+        "name": "Chugai Pharmaceutical",
+        "code": "4519.T",
+        "country": "Japan",
+        "rank": 23
+    },
+    {
+        "name": "Honda",
+        "code": "HMC",
+        "country": "Japan",
+        "rank": 24
+    },
+    {
+        "name": "7-Eleven",
+        "code": "3382.T",
+        "country": "Japan",
+        "rank": 25
+    },
+    {
+        "name": "Denso",
+        "code": "6902.T",
+        "country": "Japan",
+        "rank": 26
+    },
+    {
+        "name": "Japan Tobacco",
+        "code": "2914.T",
+        "country": "Japan",
+        "rank": 27
+    },
+    {
+        "name": "Mizuho Financial Group",
+        "code": "MFG",
+        "country": "Japan",
+        "rank": 28
+    },
+    {
+        "name": "Hoya",
+        "code": "7741.T",
+        "country": "Japan",
+        "rank": 29
+    },
+    {
+        "name": "Japan Post Bank",
+        "code": "7182.T",
+        "country": "Japan",
+        "rank": 30
+    },
+    {
+        "name": "Murata Manufacturing (Murata Seisakusho)",
+        "code": "6981.T",
+        "country": "Japan",
+        "rank": 31
+    },
+    {
+        "name": "Nidec",
+        "code": "6594.T",
+        "country": "Japan",
+        "rank": 32
+    },
+    {
+        "name": "Japan Post Holdings",
+        "code": "6178.T",
+        "country": "Japan",
+        "rank": 33
+    },
+    {
+        "name": "Fanuc",
+        "code": "6954.T",
+        "country": "Japan",
+        "rank": 34
+    },
+    {
+        "name": "Astellas Pharma",
+        "code": "4503.T",
+        "country": "Japan",
+        "rank": 35
+    },
+    {
+        "name": "SMC corp",
+        "code": "6273.T",
+        "country": "Japan",
+        "rank": 36
+    },
+    {
+        "name": "Fujitsu",
+        "code": "6702.T",
+        "country": "Japan",
+        "rank": 37
+    },
+    {
+        "name": "Bridgestone",
+        "code": "5108.T",
+        "country": "Japan",
+        "rank": 38
+    },
+    {
+        "name": "Central Japan Railway",
+        "code": "9022.T",
+        "country": "Japan",
+        "rank": 39
+    },
+    {
+        "name": "Dai-ichi Life Holdings",
+        "code": "8750.T",
+        "country": "Japan",
+        "rank": 40
+    },
+    {
+        "name": "Unicharm",
+        "code": "8113.T",
+        "country": "Japan",
+        "rank": 41
+    },
+    {
+        "name": "Olympus",
+        "code": "7733.T",
+        "country": "Japan",
+        "rank": 42
+    },
+    {
+        "name": "Canon",
+        "code": "CAJ",
+        "country": "Japan",
+        "rank": 43
+    },
+    {
+        "name": "East Japan Railway",
+        "code": "9020.T",
+        "country": "Japan",
+        "rank": 44
+    },
+    {
+        "name": "Terumo",
+        "code": "4543.T",
+        "country": "Japan",
+        "rank": 45
+    },
+    {
+        "name": "Mitsubishi Electric",
+        "code": "6503.T",
+        "country": "Japan",
+        "rank": 46
+    },
+    {
+        "name": "Sumitomo",
+        "code": "8053.T",
+        "country": "Japan",
+        "rank": 47
+    },
+    {
+        "name": "Komatsu",
+        "code": "6301.T",
+        "country": "Japan",
+        "rank": 48
+    },
+    {
+        "name": "NTT Data",
+        "code": "9613.T",
+        "country": "Japan",
+        "rank": 49
+    },
+    {
+        "name": "Fujifilm",
+        "code": "4901.T",
+        "country": "Japan",
+        "rank": 50
+    },
+    {
+        "name": "Panasonic",
+        "code": "6752.T",
+        "country": "Japan",
+        "rank": 51
+    },
+    {
+        "name": "Marubeni",
+        "code": "8002.T",
+        "country": "Japan",
+        "rank": 52
+    },
+    {
+        "name": "Shiseido",
+        "code": "4911.T",
+        "country": "Japan",
+        "rank": 53
+    },
+    {
+        "name": "Nexon",
+        "code": "3659.T",
+        "country": "Japan",
+        "rank": 54
+    },
+    {
+        "name": "Z Holdings",
+        "code": "4689.T",
+        "country": "Japan",
+        "rank": 55
+    },
+    {
+        "name": "Eisai",
+        "code": "4523.T",
+        "country": "Japan",
+        "rank": 56
+    },
+    {
+        "name": "ORIX",
+        "code": "IX",
+        "country": "Japan",
+        "rank": 57
+    },
+    {
+        "name": "Nippon Paint",
+        "code": "4612.T",
+        "country": "Japan",
+        "rank": 58
+    },
+    {
+        "name": "M3, Inc",
+        "code": "2413.T",
+        "country": "Japan",
+        "rank": 59
+    },
+    {
+        "name": "Ka\u014d",
+        "code": "4452.T",
+        "country": "Japan",
+        "rank": 60
+    },
+    {
+        "name": "Aeon",
+        "code": "8267.T",
+        "country": "Japan",
+        "rank": 61
+    },
+    {
+        "name": "Kyocera",
+        "code": "6971.T",
+        "country": "Japan",
+        "rank": 62
+    },
+    {
+        "name": "Otsuka Holdings",
+        "code": "4578.T",
+        "country": "Japan",
+        "rank": 63
+    },
+    {
+        "name": "Mitsui Fudosan",
+        "code": "8801.T",
+        "country": "Japan",
+        "rank": 64
+    },
+    {
+        "name": "Mitsubishi Estate",
+        "code": "8802.T",
+        "country": "Japan",
+        "rank": 65
+    },
+    {
+        "name": "MS&AD Insurance",
+        "code": "8725.T",
+        "country": "Japan",
+        "rank": 66
+    },
+    {
+        "name": "Toyota Industries",
+        "code": "6201.T",
+        "country": "Japan",
+        "rank": 67
+    },
+    {
+        "name": "Kubota",
+        "code": "6326.T",
+        "country": "Japan",
+        "rank": 68
+    },
+    {
+        "name": "Ajinomoto",
+        "code": "2802.T",
+        "country": "Japan",
+        "rank": 69
+    },
+    {
+        "name": "Renesas Electronics",
+        "code": "6723.T",
+        "country": "Japan",
+        "rank": 70
+    },
+    {
+        "name": "Nippon Steel",
+        "code": "5401.T",
+        "country": "Japan",
+        "rank": 71
+    },
+    {
+        "name": "Asahi Group",
+        "code": "2502.T",
+        "country": "Japan",
+        "rank": 72
+    },
+    {
+        "name": "Suzuki Motor",
+        "code": "7269.T",
+        "country": "Japan",
+        "rank": 73
+    },
+    {
+        "name": "Daiwa House",
+        "code": "1925.T",
+        "country": "Japan",
+        "rank": 74
+    },
+    {
+        "name": "Toshiba",
+        "code": "6502.T",
+        "country": "Japan",
+        "rank": 75
+    },
+    {
+        "name": "Shionogi",
+        "code": "4507.T",
+        "country": "Japan",
+        "rank": 76
+    },
+    {
+        "name": "Lasertec",
+        "code": "6920.T",
+        "country": "Japan",
+        "rank": 77
+    },
+    {
+        "name": "Sompo Holdings",
+        "code": "8630.T",
+        "country": "Japan",
+        "rank": 78
+    },
+    {
+        "name": "Nitori Holdings",
+        "code": "9843.T",
+        "country": "Japan",
+        "rank": 79
+    },
+    {
+        "name": "Shimano",
+        "code": "7309.T",
+        "country": "Japan",
+        "rank": 80
+    },
+    {
+        "name": "Shinkin Central Bank",
+        "code": "8421.T",
+        "country": "Japan",
+        "rank": 81
+    },
+    {
+        "name": "Inpex",
+        "code": "1605.T",
+        "country": "Japan",
+        "rank": 82
+    },
+    {
+        "name": "Nomura Research Institute",
+        "code": "4307.T",
+        "country": "Japan",
+        "rank": 83
+    },
+    {
+        "name": "Bandai Namco",
+        "code": "7832.T",
+        "country": "Japan",
+        "rank": 84
+    },
+    {
+        "name": "Mitsubishi Heavy Industries",
+        "code": "7011.T",
+        "country": "Japan",
+        "rank": 85
+    },
+    {
+        "name": "Resona Holdings",
+        "code": "8308.T",
+        "country": "Japan",
+        "rank": 86
+    },
+    {
+        "name": "OBIC",
+        "code": "4684.T",
+        "country": "Japan",
+        "rank": 87
+    },
+    {
+        "name": "Toyota Tsusho",
+        "code": "8015.T",
+        "country": "Japan",
+        "rank": 88
+    },
+    {
+        "name": "Sysmex",
+        "code": "6869.T",
+        "country": "Japan",
+        "rank": 89
+    },
+    {
+        "name": "Sumitomo Mitsui Trust Holdings",
+        "code": "8309.T",
+        "country": "Japan",
+        "rank": 90
+    },
+    {
+        "name": "TDK",
+        "code": "6762.T",
+        "country": "Japan",
+        "rank": 91
+    },
+    {
+        "name": "Nissan",
+        "code": "7201.T",
+        "country": "Japan",
+        "rank": 92
+    },
+    {
+        "name": "Kirin Holdings",
+        "code": "2503.T",
+        "country": "Japan",
+        "rank": 93
+    },
+    {
+        "name": "Secom",
+        "code": "9735.T",
+        "country": "Japan",
+        "rank": 94
+    },
+    {
+        "name": "kyowa Kirin",
+        "code": "4151.T",
+        "country": "Japan",
+        "rank": 95
+    },
+    {
+        "name": "Nippon Y\u016bsen",
+        "code": "9101.T",
+        "country": "Japan",
+        "rank": 96
+    },
+    {
+        "name": "Advantest",
+        "code": "6857.T",
+        "country": "Japan",
+        "rank": 97
+    },
+    {
+        "name": "Subaru",
+        "code": "7270.T",
+        "country": "Japan",
+        "rank": 98
+    },
+    {
+        "name": "Sekisui House",
+        "code": "1928.T",
+        "country": "Japan",
+        "rank": 99
+    },
+    {
+        "name": "Ono Pharmaceutical",
+        "code": "4528.T",
+        "country": "Japan",
+        "rank": 100
+    },
+    {
+        "name": "Toyota",
+        "code": "TM",
+        "country": "Japan",
+        "rank": 101
+    },
+    {
+        "name": "NTT (Nippon Telegraph & Telephone)",
+        "code": "NPPXF",
+        "country": "Japan",
+        "rank": 102
+    },
+    {
+        "name": "Keyence",
+        "code": "6861.T",
+        "country": "Japan",
+        "rank": 103
+    },
+    {
+        "name": "Sony",
+        "code": "SONY",
+        "country": "Japan",
+        "rank": 104
+    },
+    {
+        "name": "Mitsubishi UFJ Financial",
+        "code": "MUFG",
+        "country": "Japan",
+        "rank": 105
+    },
+    {
+        "name": "KDDI",
+        "code": "9433.T",
+        "country": "Japan",
+        "rank": 106
+    },
+    {
+        "name": "SoftBank",
+        "code": "9984.T",
+        "country": "Japan",
+        "rank": 107
+    },
+    {
+        "name": "Fast Retailing",
+        "code": "9983.T",
+        "country": "Japan",
+        "rank": 108
+    },
+    {
+        "name": "Daiichi Sanky\u014d",
+        "code": "4568.T",
+        "country": "Japan",
+        "rank": 109
+    },
+    {
+        "name": "Sumitomo Mitsui Financial Group",
+        "code": "SMFG",
+        "country": "Japan",
+        "rank": 110
+    },
+    {
+        "name": "Recruit",
+        "code": "6098.T",
+        "country": "Japan",
+        "rank": 111
+    },
+    {
+        "name": "Shin-Etsu Chemical",
+        "code": "4063.T",
+        "country": "Japan",
+        "rank": 112
+    },
+    {
+        "name": "Nintendo",
+        "code": "7974.T",
+        "country": "Japan",
+        "rank": 113
+    },
+    {
+        "name": "Takeda Pharmaceutical",
+        "code": "TAK",
+        "country": "Japan",
+        "rank": 114
+    },
+    {
+        "name": "Oriental Land",
+        "code": "4661.T",
+        "country": "Japan",
+        "rank": 115
+    },
+    {
+        "name": "Hitachi",
+        "code": "6501.T",
+        "country": "Japan",
+        "rank": 116
+    },
+    {
+        "name": "Mitsubishi Corporation",
+        "code": "8058.T",
+        "country": "Japan",
+        "rank": 117
+    },
+    {
+        "name": "It\u014dch\u016b Sh\u014dji",
+        "code": "8001.T",
+        "country": "Japan",
+        "rank": 118
+    },
+    {
+        "name": "Tokyo Electron",
+        "code": "8035.T",
+        "country": "Japan",
+        "rank": 119
+    },
+    {
+        "name": "Mitsui Bussan",
+        "code": "8031.T",
+        "country": "Japan",
+        "rank": 120
+    },
+    {
+        "name": "Daikin",
+        "code": "6367.T",
+        "country": "Japan",
+        "rank": 121
+    },
+    {
+        "name": "Tokio Marine",
+        "code": "8766.T",
+        "country": "Japan",
+        "rank": 122
+    },
+    {
+        "name": "Chugai Pharmaceutical",
+        "code": "4519.T",
+        "country": "Japan",
+        "rank": 123
+    },
+    {
+        "name": "Honda",
+        "code": "HMC",
+        "country": "Japan",
+        "rank": 124
+    },
+    {
+        "name": "7-Eleven",
+        "code": "3382.T",
+        "country": "Japan",
+        "rank": 125
+    },
+    {
+        "name": "Denso",
+        "code": "6902.T",
+        "country": "Japan",
+        "rank": 126
+    },
+    {
+        "name": "Japan Tobacco",
+        "code": "2914.T",
+        "country": "Japan",
+        "rank": 127
+    },
+    {
+        "name": "Mizuho Financial Group",
+        "code": "MFG",
+        "country": "Japan",
+        "rank": 128
+    },
+    {
+        "name": "Hoya",
+        "code": "7741.T",
+        "country": "Japan",
+        "rank": 129
+    },
+    {
+        "name": "Japan Post Bank",
+        "code": "7182.T",
+        "country": "Japan",
+        "rank": 130
+    },
+    {
+        "name": "Murata Manufacturing (Murata Seisakusho)",
+        "code": "6981.T",
+        "country": "Japan",
+        "rank": 131
+    },
+    {
+        "name": "Nidec",
+        "code": "6594.T",
+        "country": "Japan",
+        "rank": 132
+    },
+    {
+        "name": "Japan Post Holdings",
+        "code": "6178.T",
+        "country": "Japan",
+        "rank": 133
+    },
+    {
+        "name": "Fanuc",
+        "code": "6954.T",
+        "country": "Japan",
+        "rank": 134
+    },
+    {
+        "name": "Astellas Pharma",
+        "code": "4503.T",
+        "country": "Japan",
+        "rank": 135
+    },
+    {
+        "name": "SMC corp",
+        "code": "6273.T",
+        "country": "Japan",
+        "rank": 136
+    },
+    {
+        "name": "Fujitsu",
+        "code": "6702.T",
+        "country": "Japan",
+        "rank": 137
+    },
+    {
+        "name": "Bridgestone",
+        "code": "5108.T",
+        "country": "Japan",
+        "rank": 138
+    },
+    {
+        "name": "Central Japan Railway",
+        "code": "9022.T",
+        "country": "Japan",
+        "rank": 139
+    },
+    {
+        "name": "Dai-ichi Life Holdings",
+        "code": "8750.T",
+        "country": "Japan",
+        "rank": 140
+    },
+    {
+        "name": "Unicharm",
+        "code": "8113.T",
+        "country": "Japan",
+        "rank": 141
+    },
+    {
+        "name": "Olympus",
+        "code": "7733.T",
+        "country": "Japan",
+        "rank": 142
+    },
+    {
+        "name": "Canon",
+        "code": "CAJ",
+        "country": "Japan",
+        "rank": 143
+    },
+    {
+        "name": "East Japan Railway",
+        "code": "9020.T",
+        "country": "Japan",
+        "rank": 144
+    },
+    {
+        "name": "Terumo",
+        "code": "4543.T",
+        "country": "Japan",
+        "rank": 145
+    },
+    {
+        "name": "Mitsubishi Electric",
+        "code": "6503.T",
+        "country": "Japan",
+        "rank": 146
+    },
+    {
+        "name": "Sumitomo",
+        "code": "8053.T",
+        "country": "Japan",
+        "rank": 147
+    },
+    {
+        "name": "Komatsu",
+        "code": "6301.T",
+        "country": "Japan",
+        "rank": 148
+    },
+    {
+        "name": "NTT Data",
+        "code": "9613.T",
+        "country": "Japan",
+        "rank": 149
+    },
+    {
+        "name": "Fujifilm",
+        "code": "4901.T",
+        "country": "Japan",
+        "rank": 150
+    },
+    {
+        "name": "Panasonic",
+        "code": "6752.T",
+        "country": "Japan",
+        "rank": 151
+    },
+    {
+        "name": "Marubeni",
+        "code": "8002.T",
+        "country": "Japan",
+        "rank": 152
+    },
+    {
+        "name": "Shiseido",
+        "code": "4911.T",
+        "country": "Japan",
+        "rank": 153
+    },
+    {
+        "name": "Nexon",
+        "code": "3659.T",
+        "country": "Japan",
+        "rank": 154
+    },
+    {
+        "name": "Z Holdings",
+        "code": "4689.T",
+        "country": "Japan",
+        "rank": 155
+    },
+    {
+        "name": "Eisai",
+        "code": "4523.T",
+        "country": "Japan",
+        "rank": 156
+    },
+    {
+        "name": "ORIX",
+        "code": "IX",
+        "country": "Japan",
+        "rank": 157
+    },
+    {
+        "name": "Nippon Paint",
+        "code": "4612.T",
+        "country": "Japan",
+        "rank": 158
+    },
+    {
+        "name": "M3, Inc",
+        "code": "2413.T",
+        "country": "Japan",
+        "rank": 159
+    },
+    {
+        "name": "Ka\u014d",
+        "code": "4452.T",
+        "country": "Japan",
+        "rank": 160
+    },
+    {
+        "name": "Aeon",
+        "code": "8267.T",
+        "country": "Japan",
+        "rank": 161
+    },
+    {
+        "name": "Kyocera",
+        "code": "6971.T",
+        "country": "Japan",
+        "rank": 162
+    },
+    {
+        "name": "Otsuka Holdings",
+        "code": "4578.T",
+        "country": "Japan",
+        "rank": 163
+    },
+    {
+        "name": "Mitsui Fudosan",
+        "code": "8801.T",
+        "country": "Japan",
+        "rank": 164
+    },
+    {
+        "name": "Mitsubishi Estate",
+        "code": "8802.T",
+        "country": "Japan",
+        "rank": 165
+    },
+    {
+        "name": "MS&AD Insurance",
+        "code": "8725.T",
+        "country": "Japan",
+        "rank": 166
+    },
+    {
+        "name": "Toyota Industries",
+        "code": "6201.T",
+        "country": "Japan",
+        "rank": 167
+    },
+    {
+        "name": "Kubota",
+        "code": "6326.T",
+        "country": "Japan",
+        "rank": 168
+    },
+    {
+        "name": "Ajinomoto",
+        "code": "2802.T",
+        "country": "Japan",
+        "rank": 169
+    },
+    {
+        "name": "Renesas Electronics",
+        "code": "6723.T",
+        "country": "Japan",
+        "rank": 170
+    },
+    {
+        "name": "Nippon Steel",
+        "code": "5401.T",
+        "country": "Japan",
+        "rank": 171
+    },
+    {
+        "name": "Asahi Group",
+        "code": "2502.T",
+        "country": "Japan",
+        "rank": 172
+    },
+    {
+        "name": "Suzuki Motor",
+        "code": "7269.T",
+        "country": "Japan",
+        "rank": 173
+    },
+    {
+        "name": "Daiwa House",
+        "code": "1925.T",
+        "country": "Japan",
+        "rank": 174
+    },
+    {
+        "name": "Toshiba",
+        "code": "6502.T",
+        "country": "Japan",
+        "rank": 175
+    },
+    {
+        "name": "Shionogi",
+        "code": "4507.T",
+        "country": "Japan",
+        "rank": 176
+    },
+    {
+        "name": "Lasertec",
+        "code": "6920.T",
+        "country": "Japan",
+        "rank": 177
+    },
+    {
+        "name": "Sompo Holdings",
+        "code": "8630.T",
+        "country": "Japan",
+        "rank": 178
+    },
+    {
+        "name": "Nitori Holdings",
+        "code": "9843.T",
+        "country": "Japan",
+        "rank": 179
+    },
+    {
+        "name": "Shimano",
+        "code": "7309.T",
+        "country": "Japan",
+        "rank": 180
+    },
+    {
+        "name": "Shinkin Central Bank",
+        "code": "8421.T",
+        "country": "Japan",
+        "rank": 181
+    },
+    {
+        "name": "Inpex",
+        "code": "1605.T",
+        "country": "Japan",
+        "rank": 182
+    },
+    {
+        "name": "Nomura Research Institute",
+        "code": "4307.T",
+        "country": "Japan",
+        "rank": 183
+    },
+    {
+        "name": "Bandai Namco",
+        "code": "7832.T",
+        "country": "Japan",
+        "rank": 184
+    },
+    {
+        "name": "Mitsubishi Heavy Industries",
+        "code": "7011.T",
+        "country": "Japan",
+        "rank": 185
+    },
+    {
+        "name": "Resona Holdings",
+        "code": "8308.T",
+        "country": "Japan",
+        "rank": 186
+    },
+    {
+        "name": "OBIC",
+        "code": "4684.T",
+        "country": "Japan",
+        "rank": 187
+    },
+    {
+        "name": "Toyota Tsusho",
+        "code": "8015.T",
+        "country": "Japan",
+        "rank": 188
+    },
+    {
+        "name": "Sysmex",
+        "code": "6869.T",
+        "country": "Japan",
+        "rank": 189
+    },
+    {
+        "name": "Sumitomo Mitsui Trust Holdings",
+        "code": "8309.T",
+        "country": "Japan",
+        "rank": 190
+    },
+    {
+        "name": "TDK",
+        "code": "6762.T",
+        "country": "Japan",
+        "rank": 191
+    },
+    {
+        "name": "Nissan",
+        "code": "7201.T",
+        "country": "Japan",
+        "rank": 192
+    },
+    {
+        "name": "Kirin Holdings",
+        "code": "2503.T",
+        "country": "Japan",
+        "rank": 193
+    },
+    {
+        "name": "Secom",
+        "code": "9735.T",
+        "country": "Japan",
+        "rank": 194
+    },
+    {
+        "name": "kyowa Kirin",
+        "code": "4151.T",
+        "country": "Japan",
+        "rank": 195
+    },
+    {
+        "name": "Nippon Y\u016bsen",
+        "code": "9101.T",
+        "country": "Japan",
+        "rank": 196
+    },
+    {
+        "name": "Advantest",
+        "code": "6857.T",
+        "country": "Japan",
+        "rank": 197
+    },
+    {
+        "name": "Subaru",
+        "code": "7270.T",
+        "country": "Japan",
+        "rank": 198
+    },
+    {
+        "name": "Sekisui House",
+        "code": "1928.T",
+        "country": "Japan",
+        "rank": 199
+    },
+    {
+        "name": "Ono Pharmaceutical",
+        "code": "4528.T",
+        "country": "Japan",
+        "rank": 200
+    },
+    {
+        "name": "Toyota",
+        "code": "TM",
+        "country": "Japan",
+        "rank": 201
+    },
+    {
+        "name": "NTT (Nippon Telegraph & Telephone)",
+        "code": "NPPXF",
+        "country": "Japan",
+        "rank": 202
+    },
+    {
+        "name": "Keyence",
+        "code": "6861.T",
+        "country": "Japan",
+        "rank": 203
+    },
+    {
+        "name": "Sony",
+        "code": "SONY",
+        "country": "Japan",
+        "rank": 204
+    },
+    {
+        "name": "Mitsubishi UFJ Financial",
+        "code": "MUFG",
+        "country": "Japan",
+        "rank": 205
+    },
+    {
+        "name": "KDDI",
+        "code": "9433.T",
+        "country": "Japan",
+        "rank": 206
+    },
+    {
+        "name": "SoftBank",
+        "code": "9984.T",
+        "country": "Japan",
+        "rank": 207
+    },
+    {
+        "name": "Fast Retailing",
+        "code": "9983.T",
+        "country": "Japan",
+        "rank": 208
+    },
+    {
+        "name": "Daiichi Sanky\u014d",
+        "code": "4568.T",
+        "country": "Japan",
+        "rank": 209
+    },
+    {
+        "name": "Sumitomo Mitsui Financial Group",
+        "code": "SMFG",
+        "country": "Japan",
+        "rank": 210
+    },
+    {
+        "name": "Recruit",
+        "code": "6098.T",
+        "country": "Japan",
+        "rank": 211
+    },
+    {
+        "name": "Shin-Etsu Chemical",
+        "code": "4063.T",
+        "country": "Japan",
+        "rank": 212
+    },
+    {
+        "name": "Nintendo",
+        "code": "7974.T",
+        "country": "Japan",
+        "rank": 213
+    },
+    {
+        "name": "Takeda Pharmaceutical",
+        "code": "TAK",
+        "country": "Japan",
+        "rank": 214
+    },
+    {
+        "name": "Oriental Land",
+        "code": "4661.T",
+        "country": "Japan",
+        "rank": 215
+    },
+    {
+        "name": "Hitachi",
+        "code": "6501.T",
+        "country": "Japan",
+        "rank": 216
+    },
+    {
+        "name": "Mitsubishi Corporation",
+        "code": "8058.T",
+        "country": "Japan",
+        "rank": 217
+    },
+    {
+        "name": "It\u014dch\u016b Sh\u014dji",
+        "code": "8001.T",
+        "country": "Japan",
+        "rank": 218
+    },
+    {
+        "name": "Tokyo Electron",
+        "code": "8035.T",
+        "country": "Japan",
+        "rank": 219
+    },
+    {
+        "name": "Mitsui Bussan",
+        "code": "8031.T",
+        "country": "Japan",
+        "rank": 220
+    },
+    {
+        "name": "Daikin",
+        "code": "6367.T",
+        "country": "Japan",
+        "rank": 221
+    },
+    {
+        "name": "Tokio Marine",
+        "code": "8766.T",
+        "country": "Japan",
+        "rank": 222
+    },
+    {
+        "name": "Chugai Pharmaceutical",
+        "code": "4519.T",
+        "country": "Japan",
+        "rank": 223
+    },
+    {
+        "name": "Honda",
+        "code": "HMC",
+        "country": "Japan",
+        "rank": 224
+    },
+    {
+        "name": "7-Eleven",
+        "code": "3382.T",
+        "country": "Japan",
+        "rank": 225
+    },
+    {
+        "name": "Denso",
+        "code": "6902.T",
+        "country": "Japan",
+        "rank": 226
+    },
+    {
+        "name": "Japan Tobacco",
+        "code": "2914.T",
+        "country": "Japan",
+        "rank": 227
+    },
+    {
+        "name": "Mizuho Financial Group",
+        "code": "MFG",
+        "country": "Japan",
+        "rank": 228
+    },
+    {
+        "name": "Hoya",
+        "code": "7741.T",
+        "country": "Japan",
+        "rank": 229
+    },
+    {
+        "name": "Japan Post Bank",
+        "code": "7182.T",
+        "country": "Japan",
+        "rank": 230
+    },
+    {
+        "name": "Murata Manufacturing (Murata Seisakusho)",
+        "code": "6981.T",
+        "country": "Japan",
+        "rank": 231
+    },
+    {
+        "name": "Nidec",
+        "code": "6594.T",
+        "country": "Japan",
+        "rank": 232
+    },
+    {
+        "name": "Japan Post Holdings",
+        "code": "6178.T",
+        "country": "Japan",
+        "rank": 233
+    },
+    {
+        "name": "Fanuc",
+        "code": "6954.T",
+        "country": "Japan",
+        "rank": 234
+    },
+    {
+        "name": "Astellas Pharma",
+        "code": "4503.T",
+        "country": "Japan",
+        "rank": 235
+    },
+    {
+        "name": "SMC corp",
+        "code": "6273.T",
+        "country": "Japan",
+        "rank": 236
+    },
+    {
+        "name": "Fujitsu",
+        "code": "6702.T",
+        "country": "Japan",
+        "rank": 237
+    },
+    {
+        "name": "Bridgestone",
+        "code": "5108.T",
+        "country": "Japan",
+        "rank": 238
+    },
+    {
+        "name": "Central Japan Railway",
+        "code": "9022.T",
+        "country": "Japan",
+        "rank": 239
+    },
+    {
+        "name": "Dai-ichi Life Holdings",
+        "code": "8750.T",
+        "country": "Japan",
+        "rank": 240
+    },
+    {
+        "name": "Unicharm",
+        "code": "8113.T",
+        "country": "Japan",
+        "rank": 241
+    },
+    {
+        "name": "Olympus",
+        "code": "7733.T",
+        "country": "Japan",
+        "rank": 242
+    },
+    {
+        "name": "Canon",
+        "code": "CAJ",
+        "country": "Japan",
+        "rank": 243
+    },
+    {
+        "name": "East Japan Railway",
+        "code": "9020.T",
+        "country": "Japan",
+        "rank": 244
+    },
+    {
+        "name": "Terumo",
+        "code": "4543.T",
+        "country": "Japan",
+        "rank": 245
+    },
+    {
+        "name": "Mitsubishi Electric",
+        "code": "6503.T",
+        "country": "Japan",
+        "rank": 246
+    },
+    {
+        "name": "Sumitomo",
+        "code": "8053.T",
+        "country": "Japan",
+        "rank": 247
+    },
+    {
+        "name": "Komatsu",
+        "code": "6301.T",
+        "country": "Japan",
+        "rank": 248
+    },
+    {
+        "name": "NTT Data",
+        "code": "9613.T",
+        "country": "Japan",
+        "rank": 249
+    },
+    {
+        "name": "Fujifilm",
+        "code": "4901.T",
+        "country": "Japan",
+        "rank": 250
+    },
+    {
+        "name": "Panasonic",
+        "code": "6752.T",
+        "country": "Japan",
+        "rank": 251
+    },
+    {
+        "name": "Marubeni",
+        "code": "8002.T",
+        "country": "Japan",
+        "rank": 252
+    },
+    {
+        "name": "Shiseido",
+        "code": "4911.T",
+        "country": "Japan",
+        "rank": 253
+    },
+    {
+        "name": "Nexon",
+        "code": "3659.T",
+        "country": "Japan",
+        "rank": 254
+    },
+    {
+        "name": "Z Holdings",
+        "code": "4689.T",
+        "country": "Japan",
+        "rank": 255
+    },
+    {
+        "name": "Eisai",
+        "code": "4523.T",
+        "country": "Japan",
+        "rank": 256
+    },
+    {
+        "name": "ORIX",
+        "code": "IX",
+        "country": "Japan",
+        "rank": 257
+    },
+    {
+        "name": "Nippon Paint",
+        "code": "4612.T",
+        "country": "Japan",
+        "rank": 258
+    },
+    {
+        "name": "M3, Inc",
+        "code": "2413.T",
+        "country": "Japan",
+        "rank": 259
+    },
+    {
+        "name": "Ka\u014d",
+        "code": "4452.T",
+        "country": "Japan",
+        "rank": 260
+    },
+    {
+        "name": "Aeon",
+        "code": "8267.T",
+        "country": "Japan",
+        "rank": 261
+    },
+    {
+        "name": "Kyocera",
+        "code": "6971.T",
+        "country": "Japan",
+        "rank": 262
+    },
+    {
+        "name": "Otsuka Holdings",
+        "code": "4578.T",
+        "country": "Japan",
+        "rank": 263
+    },
+    {
+        "name": "Mitsui Fudosan",
+        "code": "8801.T",
+        "country": "Japan",
+        "rank": 264
+    },
+    {
+        "name": "Mitsubishi Estate",
+        "code": "8802.T",
+        "country": "Japan",
+        "rank": 265
+    },
+    {
+        "name": "MS&AD Insurance",
+        "code": "8725.T",
+        "country": "Japan",
+        "rank": 266
+    },
+    {
+        "name": "Toyota Industries",
+        "code": "6201.T",
+        "country": "Japan",
+        "rank": 267
+    },
+    {
+        "name": "Kubota",
+        "code": "6326.T",
+        "country": "Japan",
+        "rank": 268
+    },
+    {
+        "name": "Ajinomoto",
+        "code": "2802.T",
+        "country": "Japan",
+        "rank": 269
+    },
+    {
+        "name": "Renesas Electronics",
+        "code": "6723.T",
+        "country": "Japan",
+        "rank": 270
+    },
+    {
+        "name": "Nippon Steel",
+        "code": "5401.T",
+        "country": "Japan",
+        "rank": 271
+    },
+    {
+        "name": "Asahi Group",
+        "code": "2502.T",
+        "country": "Japan",
+        "rank": 272
+    },
+    {
+        "name": "Suzuki Motor",
+        "code": "7269.T",
+        "country": "Japan",
+        "rank": 273
+    },
+    {
+        "name": "Daiwa House",
+        "code": "1925.T",
+        "country": "Japan",
+        "rank": 274
+    },
+    {
+        "name": "Toshiba",
+        "code": "6502.T",
+        "country": "Japan",
+        "rank": 275
+    },
+    {
+        "name": "Shionogi",
+        "code": "4507.T",
+        "country": "Japan",
+        "rank": 276
+    },
+    {
+        "name": "Lasertec",
+        "code": "6920.T",
+        "country": "Japan",
+        "rank": 277
+    },
+    {
+        "name": "Sompo Holdings",
+        "code": "8630.T",
+        "country": "Japan",
+        "rank": 278
+    },
+    {
+        "name": "Nitori Holdings",
+        "code": "9843.T",
+        "country": "Japan",
+        "rank": 279
+    },
+    {
+        "name": "Shimano",
+        "code": "7309.T",
+        "country": "Japan",
+        "rank": 280
+    },
+    {
+        "name": "Shinkin Central Bank",
+        "code": "8421.T",
+        "country": "Japan",
+        "rank": 281
+    },
+    {
+        "name": "Inpex",
+        "code": "1605.T",
+        "country": "Japan",
+        "rank": 282
+    },
+    {
+        "name": "Nomura Research Institute",
+        "code": "4307.T",
+        "country": "Japan",
+        "rank": 283
+    },
+    {
+        "name": "Bandai Namco",
+        "code": "7832.T",
+        "country": "Japan",
+        "rank": 284
+    },
+    {
+        "name": "Mitsubishi Heavy Industries",
+        "code": "7011.T",
+        "country": "Japan",
+        "rank": 285
+    },
+    {
+        "name": "Resona Holdings",
+        "code": "8308.T",
+        "country": "Japan",
+        "rank": 286
+    },
+    {
+        "name": "OBIC",
+        "code": "4684.T",
+        "country": "Japan",
+        "rank": 287
+    },
+    {
+        "name": "Toyota Tsusho",
+        "code": "8015.T",
+        "country": "Japan",
+        "rank": 288
+    },
+    {
+        "name": "Sysmex",
+        "code": "6869.T",
+        "country": "Japan",
+        "rank": 289
+    },
+    {
+        "name": "Sumitomo Mitsui Trust Holdings",
+        "code": "8309.T",
+        "country": "Japan",
+        "rank": 290
+    },
+    {
+        "name": "TDK",
+        "code": "6762.T",
+        "country": "Japan",
+        "rank": 291
+    },
+    {
+        "name": "Nissan",
+        "code": "7201.T",
+        "country": "Japan",
+        "rank": 292
+    },
+    {
+        "name": "Kirin Holdings",
+        "code": "2503.T",
+        "country": "Japan",
+        "rank": 293
+    },
+    {
+        "name": "Secom",
+        "code": "9735.T",
+        "country": "Japan",
+        "rank": 294
+    },
+    {
+        "name": "kyowa Kirin",
+        "code": "4151.T",
+        "country": "Japan",
+        "rank": 295
+    },
+    {
+        "name": "Nippon Y\u016bsen",
+        "code": "9101.T",
+        "country": "Japan",
+        "rank": 296
+    },
+    {
+        "name": "Advantest",
+        "code": "6857.T",
+        "country": "Japan",
+        "rank": 297
+    },
+    {
+        "name": "Subaru",
+        "code": "7270.T",
+        "country": "Japan",
+        "rank": 298
+    },
+    {
+        "name": "Sekisui House",
+        "code": "1928.T",
+        "country": "Japan",
+        "rank": 299
+    },
+    {
+        "name": "Ono Pharmaceutical",
+        "code": "4528.T",
+        "country": "Japan",
+        "rank": 300
+    },
+    {
+        "name": "Toyota",
+        "code": "TM",
+        "country": "Japan",
+        "rank": 301
+    },
+    {
+        "name": "NTT (Nippon Telegraph & Telephone)",
+        "code": "NPPXF",
+        "country": "Japan",
+        "rank": 302
+    },
+    {
+        "name": "Keyence",
+        "code": "6861.T",
+        "country": "Japan",
+        "rank": 303
+    },
+    {
+        "name": "Sony",
+        "code": "SONY",
+        "country": "Japan",
+        "rank": 304
+    },
+    {
+        "name": "Mitsubishi UFJ Financial",
+        "code": "MUFG",
+        "country": "Japan",
+        "rank": 305
+    },
+    {
+        "name": "KDDI",
+        "code": "9433.T",
+        "country": "Japan",
+        "rank": 306
+    },
+    {
+        "name": "SoftBank",
+        "code": "9984.T",
+        "country": "Japan",
+        "rank": 307
+    },
+    {
+        "name": "Fast Retailing",
+        "code": "9983.T",
+        "country": "Japan",
+        "rank": 308
+    },
+    {
+        "name": "Daiichi Sanky\u014d",
+        "code": "4568.T",
+        "country": "Japan",
+        "rank": 309
+    },
+    {
+        "name": "Sumitomo Mitsui Financial Group",
+        "code": "SMFG",
+        "country": "Japan",
+        "rank": 310
+    },
+    {
+        "name": "Recruit",
+        "code": "6098.T",
+        "country": "Japan",
+        "rank": 311
+    },
+    {
+        "name": "Shin-Etsu Chemical",
+        "code": "4063.T",
+        "country": "Japan",
+        "rank": 312
+    },
+    {
+        "name": "Nintendo",
+        "code": "7974.T",
+        "country": "Japan",
+        "rank": 313
+    },
+    {
+        "name": "Takeda Pharmaceutical",
+        "code": "TAK",
+        "country": "Japan",
+        "rank": 314
+    },
+    {
+        "name": "Oriental Land",
+        "code": "4661.T",
+        "country": "Japan",
+        "rank": 315
+    },
+    {
+        "name": "Hitachi",
+        "code": "6501.T",
+        "country": "Japan",
+        "rank": 316
+    },
+    {
+        "name": "Mitsubishi Corporation",
+        "code": "8058.T",
+        "country": "Japan",
+        "rank": 317
+    },
+    {
+        "name": "It\u014dch\u016b Sh\u014dji",
+        "code": "8001.T",
+        "country": "Japan",
+        "rank": 318
+    },
+    {
+        "name": "Tokyo Electron",
+        "code": "8035.T",
+        "country": "Japan",
+        "rank": 319
+    },
+    {
+        "name": "Mitsui Bussan",
+        "code": "8031.T",
+        "country": "Japan",
+        "rank": 320
+    },
+    {
+        "name": "Daikin",
+        "code": "6367.T",
+        "country": "Japan",
+        "rank": 321
+    },
+    {
+        "name": "Tokio Marine",
+        "code": "8766.T",
+        "country": "Japan",
+        "rank": 322
+    },
+    {
+        "name": "Chugai Pharmaceutical",
+        "code": "4519.T",
+        "country": "Japan",
+        "rank": 323
+    },
+    {
+        "name": "Honda",
+        "code": "HMC",
+        "country": "Japan",
+        "rank": 324
+    },
+    {
+        "name": "7-Eleven",
+        "code": "3382.T",
+        "country": "Japan",
+        "rank": 325
+    },
+    {
+        "name": "Denso",
+        "code": "6902.T",
+        "country": "Japan",
+        "rank": 326
+    },
+    {
+        "name": "Japan Tobacco",
+        "code": "2914.T",
+        "country": "Japan",
+        "rank": 327
+    },
+    {
+        "name": "Mizuho Financial Group",
+        "code": "MFG",
+        "country": "Japan",
+        "rank": 328
+    },
+    {
+        "name": "Hoya",
+        "code": "7741.T",
+        "country": "Japan",
+        "rank": 329
+    },
+    {
+        "name": "Japan Post Bank",
+        "code": "7182.T",
+        "country": "Japan",
+        "rank": 330
+    },
+    {
+        "name": "Murata Manufacturing (Murata Seisakusho)",
+        "code": "6981.T",
+        "country": "Japan",
+        "rank": 331
+    },
+    {
+        "name": "Nidec",
+        "code": "6594.T",
+        "country": "Japan",
+        "rank": 332
+    },
+    {
+        "name": "Japan Post Holdings",
+        "code": "6178.T",
+        "country": "Japan",
+        "rank": 333
+    },
+    {
+        "name": "Fanuc",
+        "code": "6954.T",
+        "country": "Japan",
+        "rank": 334
+    },
+    {
+        "name": "Astellas Pharma",
+        "code": "4503.T",
+        "country": "Japan",
+        "rank": 335
+    },
+    {
+        "name": "SMC corp",
+        "code": "6273.T",
+        "country": "Japan",
+        "rank": 336
+    },
+    {
+        "name": "Fujitsu",
+        "code": "6702.T",
+        "country": "Japan",
+        "rank": 337
+    },
+    {
+        "name": "Bridgestone",
+        "code": "5108.T",
+        "country": "Japan",
+        "rank": 338
+    },
+    {
+        "name": "Central Japan Railway",
+        "code": "9022.T",
+        "country": "Japan",
+        "rank": 339
+    },
+    {
+        "name": "Dai-ichi Life Holdings",
+        "code": "8750.T",
+        "country": "Japan",
+        "rank": 340
+    },
+    {
+        "name": "Unicharm",
+        "code": "8113.T",
+        "country": "Japan",
+        "rank": 341
+    },
+    {
+        "name": "Olympus",
+        "code": "7733.T",
+        "country": "Japan",
+        "rank": 342
+    },
+    {
+        "name": "Canon",
+        "code": "CAJ",
+        "country": "Japan",
+        "rank": 343
+    },
+    {
+        "name": "East Japan Railway",
+        "code": "9020.T",
+        "country": "Japan",
+        "rank": 344
+    },
+    {
+        "name": "Terumo",
+        "code": "4543.T",
+        "country": "Japan",
+        "rank": 345
+    },
+    {
+        "name": "Mitsubishi Electric",
+        "code": "6503.T",
+        "country": "Japan",
+        "rank": 346
+    },
+    {
+        "name": "Sumitomo",
+        "code": "8053.T",
+        "country": "Japan",
+        "rank": 347
+    },
+    {
+        "name": "Komatsu",
+        "code": "6301.T",
+        "country": "Japan",
+        "rank": 348
+    },
+    {
+        "name": "NTT Data",
+        "code": "9613.T",
+        "country": "Japan",
+        "rank": 349
+    },
+    {
+        "name": "Fujifilm",
+        "code": "4901.T",
+        "country": "Japan",
+        "rank": 350
+    },
+    {
+        "name": "Panasonic",
+        "code": "6752.T",
+        "country": "Japan",
+        "rank": 351
+    },
+    {
+        "name": "Marubeni",
+        "code": "8002.T",
+        "country": "Japan",
+        "rank": 352
+    },
+    {
+        "name": "Shiseido",
+        "code": "4911.T",
+        "country": "Japan",
+        "rank": 353
+    },
+    {
+        "name": "Nexon",
+        "code": "3659.T",
+        "country": "Japan",
+        "rank": 354
+    },
+    {
+        "name": "Z Holdings",
+        "code": "4689.T",
+        "country": "Japan",
+        "rank": 355
+    },
+    {
+        "name": "Eisai",
+        "code": "4523.T",
+        "country": "Japan",
+        "rank": 356
+    },
+    {
+        "name": "ORIX",
+        "code": "IX",
+        "country": "Japan",
+        "rank": 357
+    },
+    {
+        "name": "Nippon Paint",
+        "code": "4612.T",
+        "country": "Japan",
+        "rank": 358
+    },
+    {
+        "name": "M3, Inc",
+        "code": "2413.T",
+        "country": "Japan",
+        "rank": 359
+    },
+    {
+        "name": "Ka\u014d",
+        "code": "4452.T",
+        "country": "Japan",
+        "rank": 360
+    },
+    {
+        "name": "Aeon",
+        "code": "8267.T",
+        "country": "Japan",
+        "rank": 361
+    },
+    {
+        "name": "Kyocera",
+        "code": "6971.T",
+        "country": "Japan",
+        "rank": 362
+    },
+    {
+        "name": "Otsuka Holdings",
+        "code": "4578.T",
+        "country": "Japan",
+        "rank": 363
+    },
+    {
+        "name": "Mitsui Fudosan",
+        "code": "8801.T",
+        "country": "Japan",
+        "rank": 364
+    },
+    {
+        "name": "Mitsubishi Estate",
+        "code": "8802.T",
+        "country": "Japan",
+        "rank": 365
+    },
+    {
+        "name": "MS&AD Insurance",
+        "code": "8725.T",
+        "country": "Japan",
+        "rank": 366
+    },
+    {
+        "name": "Toyota Industries",
+        "code": "6201.T",
+        "country": "Japan",
+        "rank": 367
+    },
+    {
+        "name": "Kubota",
+        "code": "6326.T",
+        "country": "Japan",
+        "rank": 368
+    },
+    {
+        "name": "Ajinomoto",
+        "code": "2802.T",
+        "country": "Japan",
+        "rank": 369
+    },
+    {
+        "name": "Renesas Electronics",
+        "code": "6723.T",
+        "country": "Japan",
+        "rank": 370
+    },
+    {
+        "name": "Nippon Steel",
+        "code": "5401.T",
+        "country": "Japan",
+        "rank": 371
+    },
+    {
+        "name": "Asahi Group",
+        "code": "2502.T",
+        "country": "Japan",
+        "rank": 372
+    },
+    {
+        "name": "Suzuki Motor",
+        "code": "7269.T",
+        "country": "Japan",
+        "rank": 373
+    },
+    {
+        "name": "Daiwa House",
+        "code": "1925.T",
+        "country": "Japan",
+        "rank": 374
+    },
+    {
+        "name": "Toshiba",
+        "code": "6502.T",
+        "country": "Japan",
+        "rank": 375
+    },
+    {
+        "name": "Shionogi",
+        "code": "4507.T",
+        "country": "Japan",
+        "rank": 376
+    },
+    {
+        "name": "Lasertec",
+        "code": "6920.T",
+        "country": "Japan",
+        "rank": 377
+    },
+    {
+        "name": "Sompo Holdings",
+        "code": "8630.T",
+        "country": "Japan",
+        "rank": 378
+    },
+    {
+        "name": "Nitori Holdings",
+        "code": "9843.T",
+        "country": "Japan",
+        "rank": 379
+    },
+    {
+        "name": "Shimano",
+        "code": "7309.T",
+        "country": "Japan",
+        "rank": 380
+    },
+    {
+        "name": "Shinkin Central Bank",
+        "code": "8421.T",
+        "country": "Japan",
+        "rank": 381
+    },
+    {
+        "name": "Inpex",
+        "code": "1605.T",
+        "country": "Japan",
+        "rank": 382
+    },
+    {
+        "name": "Nomura Research Institute",
+        "code": "4307.T",
+        "country": "Japan",
+        "rank": 383
+    },
+    {
+        "name": "Bandai Namco",
+        "code": "7832.T",
+        "country": "Japan",
+        "rank": 384
+    },
+    {
+        "name": "Mitsubishi Heavy Industries",
+        "code": "7011.T",
+        "country": "Japan",
+        "rank": 385
+    },
+    {
+        "name": "Resona Holdings",
+        "code": "8308.T",
+        "country": "Japan",
+        "rank": 386
+    },
+    {
+        "name": "OBIC",
+        "code": "4684.T",
+        "country": "Japan",
+        "rank": 387
+    },
+    {
+        "name": "Toyota Tsusho",
+        "code": "8015.T",
+        "country": "Japan",
+        "rank": 388
+    },
+    {
+        "name": "Sysmex",
+        "code": "6869.T",
+        "country": "Japan",
+        "rank": 389
+    },
+    {
+        "name": "Sumitomo Mitsui Trust Holdings",
+        "code": "8309.T",
+        "country": "Japan",
+        "rank": 390
+    },
+    {
+        "name": "TDK",
+        "code": "6762.T",
+        "country": "Japan",
+        "rank": 391
+    },
+    {
+        "name": "Nissan",
+        "code": "7201.T",
+        "country": "Japan",
+        "rank": 392
+    },
+    {
+        "name": "Kirin Holdings",
+        "code": "2503.T",
+        "country": "Japan",
+        "rank": 393
+    },
+    {
+        "name": "Secom",
+        "code": "9735.T",
+        "country": "Japan",
+        "rank": 394
+    },
+    {
+        "name": "kyowa Kirin",
+        "code": "4151.T",
+        "country": "Japan",
+        "rank": 395
+    },
+    {
+        "name": "Nippon Y\u016bsen",
+        "code": "9101.T",
+        "country": "Japan",
+        "rank": 396
+    },
+    {
+        "name": "Advantest",
+        "code": "6857.T",
+        "country": "Japan",
+        "rank": 397
+    },
+    {
+        "name": "Subaru",
+        "code": "7270.T",
+        "country": "Japan",
+        "rank": 398
+    },
+    {
+        "name": "Sekisui House",
+        "code": "1928.T",
+        "country": "Japan",
+        "rank": 399
+    },
+    {
+        "name": "Ono Pharmaceutical",
+        "code": "4528.T",
+        "country": "Japan",
+        "rank": 400
+    },
+    {
+        "name": "Toyota",
+        "code": "TM",
+        "country": "Japan",
+        "rank": 401
+    },
+    {
+        "name": "NTT (Nippon Telegraph & Telephone)",
+        "code": "NPPXF",
+        "country": "Japan",
+        "rank": 402
+    },
+    {
+        "name": "Keyence",
+        "code": "6861.T",
+        "country": "Japan",
+        "rank": 403
+    },
+    {
+        "name": "Sony",
+        "code": "SONY",
+        "country": "Japan",
+        "rank": 404
+    },
+    {
+        "name": "Mitsubishi UFJ Financial",
+        "code": "MUFG",
+        "country": "Japan",
+        "rank": 405
+    },
+    {
+        "name": "KDDI",
+        "code": "9433.T",
+        "country": "Japan",
+        "rank": 406
+    },
+    {
+        "name": "SoftBank",
+        "code": "9984.T",
+        "country": "Japan",
+        "rank": 407
+    },
+    {
+        "name": "Fast Retailing",
+        "code": "9983.T",
+        "country": "Japan",
+        "rank": 408
+    },
+    {
+        "name": "Daiichi Sanky\u014d",
+        "code": "4568.T",
+        "country": "Japan",
+        "rank": 409
+    },
+    {
+        "name": "Sumitomo Mitsui Financial Group",
+        "code": "SMFG",
+        "country": "Japan",
+        "rank": 410
+    },
+    {
+        "name": "Recruit",
+        "code": "6098.T",
+        "country": "Japan",
+        "rank": 411
+    },
+    {
+        "name": "Shin-Etsu Chemical",
+        "code": "4063.T",
+        "country": "Japan",
+        "rank": 412
+    },
+    {
+        "name": "Nintendo",
+        "code": "7974.T",
+        "country": "Japan",
+        "rank": 413
+    },
+    {
+        "name": "Takeda Pharmaceutical",
+        "code": "TAK",
+        "country": "Japan",
+        "rank": 414
+    },
+    {
+        "name": "Oriental Land",
+        "code": "4661.T",
+        "country": "Japan",
+        "rank": 415
+    },
+    {
+        "name": "Hitachi",
+        "code": "6501.T",
+        "country": "Japan",
+        "rank": 416
+    },
+    {
+        "name": "Mitsubishi Corporation",
+        "code": "8058.T",
+        "country": "Japan",
+        "rank": 417
+    },
+    {
+        "name": "It\u014dch\u016b Sh\u014dji",
+        "code": "8001.T",
+        "country": "Japan",
+        "rank": 418
+    },
+    {
+        "name": "Tokyo Electron",
+        "code": "8035.T",
+        "country": "Japan",
+        "rank": 419
+    },
+    {
+        "name": "Mitsui Bussan",
+        "code": "8031.T",
+        "country": "Japan",
+        "rank": 420
+    },
+    {
+        "name": "Daikin",
+        "code": "6367.T",
+        "country": "Japan",
+        "rank": 421
+    },
+    {
+        "name": "Tokio Marine",
+        "code": "8766.T",
+        "country": "Japan",
+        "rank": 422
+    },
+    {
+        "name": "Chugai Pharmaceutical",
+        "code": "4519.T",
+        "country": "Japan",
+        "rank": 423
+    },
+    {
+        "name": "Honda",
+        "code": "HMC",
+        "country": "Japan",
+        "rank": 424
+    },
+    {
+        "name": "7-Eleven",
+        "code": "3382.T",
+        "country": "Japan",
+        "rank": 425
+    },
+    {
+        "name": "Denso",
+        "code": "6902.T",
+        "country": "Japan",
+        "rank": 426
+    },
+    {
+        "name": "Japan Tobacco",
+        "code": "2914.T",
+        "country": "Japan",
+        "rank": 427
+    },
+    {
+        "name": "Mizuho Financial Group",
+        "code": "MFG",
+        "country": "Japan",
+        "rank": 428
+    },
+    {
+        "name": "Hoya",
+        "code": "7741.T",
+        "country": "Japan",
+        "rank": 429
+    },
+    {
+        "name": "Japan Post Bank",
+        "code": "7182.T",
+        "country": "Japan",
+        "rank": 430
+    },
+    {
+        "name": "Murata Manufacturing (Murata Seisakusho)",
+        "code": "6981.T",
+        "country": "Japan",
+        "rank": 431
+    },
+    {
+        "name": "Nidec",
+        "code": "6594.T",
+        "country": "Japan",
+        "rank": 432
+    },
+    {
+        "name": "Japan Post Holdings",
+        "code": "6178.T",
+        "country": "Japan",
+        "rank": 433
+    },
+    {
+        "name": "Fanuc",
+        "code": "6954.T",
+        "country": "Japan",
+        "rank": 434
+    },
+    {
+        "name": "Astellas Pharma",
+        "code": "4503.T",
+        "country": "Japan",
+        "rank": 435
+    },
+    {
+        "name": "SMC corp",
+        "code": "6273.T",
+        "country": "Japan",
+        "rank": 436
+    },
+    {
+        "name": "Fujitsu",
+        "code": "6702.T",
+        "country": "Japan",
+        "rank": 437
+    },
+    {
+        "name": "Bridgestone",
+        "code": "5108.T",
+        "country": "Japan",
+        "rank": 438
+    },
+    {
+        "name": "Central Japan Railway",
+        "code": "9022.T",
+        "country": "Japan",
+        "rank": 439
+    },
+    {
+        "name": "Dai-ichi Life Holdings",
+        "code": "8750.T",
+        "country": "Japan",
+        "rank": 440
+    },
+    {
+        "name": "Unicharm",
+        "code": "8113.T",
+        "country": "Japan",
+        "rank": 441
+    },
+    {
+        "name": "Olympus",
+        "code": "7733.T",
+        "country": "Japan",
+        "rank": 442
+    },
+    {
+        "name": "Canon",
+        "code": "CAJ",
+        "country": "Japan",
+        "rank": 443
+    },
+    {
+        "name": "East Japan Railway",
+        "code": "9020.T",
+        "country": "Japan",
+        "rank": 444
+    },
+    {
+        "name": "Terumo",
+        "code": "4543.T",
+        "country": "Japan",
+        "rank": 445
+    },
+    {
+        "name": "Mitsubishi Electric",
+        "code": "6503.T",
+        "country": "Japan",
+        "rank": 446
+    },
+    {
+        "name": "Sumitomo",
+        "code": "8053.T",
+        "country": "Japan",
+        "rank": 447
+    },
+    {
+        "name": "Komatsu",
+        "code": "6301.T",
+        "country": "Japan",
+        "rank": 448
+    },
+    {
+        "name": "NTT Data",
+        "code": "9613.T",
+        "country": "Japan",
+        "rank": 449
+    },
+    {
+        "name": "Fujifilm",
+        "code": "4901.T",
+        "country": "Japan",
+        "rank": 450
+    },
+    {
+        "name": "Panasonic",
+        "code": "6752.T",
+        "country": "Japan",
+        "rank": 451
+    },
+    {
+        "name": "Marubeni",
+        "code": "8002.T",
+        "country": "Japan",
+        "rank": 452
+    },
+    {
+        "name": "Shiseido",
+        "code": "4911.T",
+        "country": "Japan",
+        "rank": 453
+    },
+    {
+        "name": "Nexon",
+        "code": "3659.T",
+        "country": "Japan",
+        "rank": 454
+    },
+    {
+        "name": "Z Holdings",
+        "code": "4689.T",
+        "country": "Japan",
+        "rank": 455
+    },
+    {
+        "name": "Eisai",
+        "code": "4523.T",
+        "country": "Japan",
+        "rank": 456
+    },
+    {
+        "name": "ORIX",
+        "code": "IX",
+        "country": "Japan",
+        "rank": 457
+    },
+    {
+        "name": "Nippon Paint",
+        "code": "4612.T",
+        "country": "Japan",
+        "rank": 458
+    },
+    {
+        "name": "M3, Inc",
+        "code": "2413.T",
+        "country": "Japan",
+        "rank": 459
+    },
+    {
+        "name": "Ka\u014d",
+        "code": "4452.T",
+        "country": "Japan",
+        "rank": 460
+    },
+    {
+        "name": "Aeon",
+        "code": "8267.T",
+        "country": "Japan",
+        "rank": 461
+    },
+    {
+        "name": "Kyocera",
+        "code": "6971.T",
+        "country": "Japan",
+        "rank": 462
+    },
+    {
+        "name": "Otsuka Holdings",
+        "code": "4578.T",
+        "country": "Japan",
+        "rank": 463
+    },
+    {
+        "name": "Mitsui Fudosan",
+        "code": "8801.T",
+        "country": "Japan",
+        "rank": 464
+    },
+    {
+        "name": "Mitsubishi Estate",
+        "code": "8802.T",
+        "country": "Japan",
+        "rank": 465
+    },
+    {
+        "name": "MS&AD Insurance",
+        "code": "8725.T",
+        "country": "Japan",
+        "rank": 466
+    },
+    {
+        "name": "Toyota Industries",
+        "code": "6201.T",
+        "country": "Japan",
+        "rank": 467
+    },
+    {
+        "name": "Kubota",
+        "code": "6326.T",
+        "country": "Japan",
+        "rank": 468
+    },
+    {
+        "name": "Ajinomoto",
+        "code": "2802.T",
+        "country": "Japan",
+        "rank": 469
+    },
+    {
+        "name": "Renesas Electronics",
+        "code": "6723.T",
+        "country": "Japan",
+        "rank": 470
+    },
+    {
+        "name": "Nippon Steel",
+        "code": "5401.T",
+        "country": "Japan",
+        "rank": 471
+    },
+    {
+        "name": "Asahi Group",
+        "code": "2502.T",
+        "country": "Japan",
+        "rank": 472
+    },
+    {
+        "name": "Suzuki Motor",
+        "code": "7269.T",
+        "country": "Japan",
+        "rank": 473
+    },
+    {
+        "name": "Daiwa House",
+        "code": "1925.T",
+        "country": "Japan",
+        "rank": 474
+    },
+    {
+        "name": "Toshiba",
+        "code": "6502.T",
+        "country": "Japan",
+        "rank": 475
+    },
+    {
+        "name": "Shionogi",
+        "code": "4507.T",
+        "country": "Japan",
+        "rank": 476
+    },
+    {
+        "name": "Lasertec",
+        "code": "6920.T",
+        "country": "Japan",
+        "rank": 477
+    },
+    {
+        "name": "Sompo Holdings",
+        "code": "8630.T",
+        "country": "Japan",
+        "rank": 478
+    },
+    {
+        "name": "Nitori Holdings",
+        "code": "9843.T",
+        "country": "Japan",
+        "rank": 479
+    },
+    {
+        "name": "Shimano",
+        "code": "7309.T",
+        "country": "Japan",
+        "rank": 480
+    },
+    {
+        "name": "Shinkin Central Bank",
+        "code": "8421.T",
+        "country": "Japan",
+        "rank": 481
+    },
+    {
+        "name": "Inpex",
+        "code": "1605.T",
+        "country": "Japan",
+        "rank": 482
+    },
+    {
+        "name": "Nomura Research Institute",
+        "code": "4307.T",
+        "country": "Japan",
+        "rank": 483
+    },
+    {
+        "name": "Bandai Namco",
+        "code": "7832.T",
+        "country": "Japan",
+        "rank": 484
+    },
+    {
+        "name": "Mitsubishi Heavy Industries",
+        "code": "7011.T",
+        "country": "Japan",
+        "rank": 485
+    },
+    {
+        "name": "Resona Holdings",
+        "code": "8308.T",
+        "country": "Japan",
+        "rank": 486
+    },
+    {
+        "name": "OBIC",
+        "code": "4684.T",
+        "country": "Japan",
+        "rank": 487
+    },
+    {
+        "name": "Toyota Tsusho",
+        "code": "8015.T",
+        "country": "Japan",
+        "rank": 488
+    },
+    {
+        "name": "Sysmex",
+        "code": "6869.T",
+        "country": "Japan",
+        "rank": 489
+    },
+    {
+        "name": "Sumitomo Mitsui Trust Holdings",
+        "code": "8309.T",
+        "country": "Japan",
+        "rank": 490
+    },
+    {
+        "name": "TDK",
+        "code": "6762.T",
+        "country": "Japan",
+        "rank": 491
+    },
+    {
+        "name": "Nissan",
+        "code": "7201.T",
+        "country": "Japan",
+        "rank": 492
+    },
+    {
+        "name": "Kirin Holdings",
+        "code": "2503.T",
+        "country": "Japan",
+        "rank": 493
+    },
+    {
+        "name": "Secom",
+        "code": "9735.T",
+        "country": "Japan",
+        "rank": 494
+    },
+    {
+        "name": "kyowa Kirin",
+        "code": "4151.T",
+        "country": "Japan",
+        "rank": 495
+    },
+    {
+        "name": "Nippon Y\u016bsen",
+        "code": "9101.T",
+        "country": "Japan",
+        "rank": 496
+    },
+    {
+        "name": "Advantest",
+        "code": "6857.T",
+        "country": "Japan",
+        "rank": 497
+    },
+    {
+        "name": "Subaru",
+        "code": "7270.T",
+        "country": "Japan",
+        "rank": 498
+    },
+    {
+        "name": "Sekisui House",
+        "code": "1928.T",
+        "country": "Japan",
+        "rank": 499
+    },
+    {
+        "name": "Ono Pharmaceutical",
+        "code": "4528.T",
+        "country": "Japan",
+        "rank": 500
+    },
+    {
+        "name": "Toyota",
+        "code": "TM",
+        "country": "Japan",
+        "rank": 501
+    },
+    {
+        "name": "NTT (Nippon Telegraph & Telephone)",
+        "code": "NPPXF",
+        "country": "Japan",
+        "rank": 502
+    },
+    {
+        "name": "Keyence",
+        "code": "6861.T",
+        "country": "Japan",
+        "rank": 503
+    },
+    {
+        "name": "Sony",
+        "code": "SONY",
+        "country": "Japan",
+        "rank": 504
+    },
+    {
+        "name": "Mitsubishi UFJ Financial",
+        "code": "MUFG",
+        "country": "Japan",
+        "rank": 505
+    },
+    {
+        "name": "KDDI",
+        "code": "9433.T",
+        "country": "Japan",
+        "rank": 506
+    },
+    {
+        "name": "SoftBank",
+        "code": "9984.T",
+        "country": "Japan",
+        "rank": 507
+    },
+    {
+        "name": "Fast Retailing",
+        "code": "9983.T",
+        "country": "Japan",
+        "rank": 508
+    },
+    {
+        "name": "Daiichi Sanky\u014d",
+        "code": "4568.T",
+        "country": "Japan",
+        "rank": 509
+    },
+    {
+        "name": "Sumitomo Mitsui Financial Group",
+        "code": "SMFG",
+        "country": "Japan",
+        "rank": 510
+    },
+    {
+        "name": "Recruit",
+        "code": "6098.T",
+        "country": "Japan",
+        "rank": 511
+    },
+    {
+        "name": "Shin-Etsu Chemical",
+        "code": "4063.T",
+        "country": "Japan",
+        "rank": 512
+    },
+    {
+        "name": "Nintendo",
+        "code": "7974.T",
+        "country": "Japan",
+        "rank": 513
+    },
+    {
+        "name": "Takeda Pharmaceutical",
+        "code": "TAK",
+        "country": "Japan",
+        "rank": 514
+    },
+    {
+        "name": "Oriental Land",
+        "code": "4661.T",
+        "country": "Japan",
+        "rank": 515
+    },
+    {
+        "name": "Hitachi",
+        "code": "6501.T",
+        "country": "Japan",
+        "rank": 516
+    },
+    {
+        "name": "Mitsubishi Corporation",
+        "code": "8058.T",
+        "country": "Japan",
+        "rank": 517
+    },
+    {
+        "name": "It\u014dch\u016b Sh\u014dji",
+        "code": "8001.T",
+        "country": "Japan",
+        "rank": 518
+    },
+    {
+        "name": "Tokyo Electron",
+        "code": "8035.T",
+        "country": "Japan",
+        "rank": 519
+    },
+    {
+        "name": "Mitsui Bussan",
+        "code": "8031.T",
+        "country": "Japan",
+        "rank": 520
+    },
+    {
+        "name": "Daikin",
+        "code": "6367.T",
+        "country": "Japan",
+        "rank": 521
+    },
+    {
+        "name": "Tokio Marine",
+        "code": "8766.T",
+        "country": "Japan",
+        "rank": 522
+    },
+    {
+        "name": "Chugai Pharmaceutical",
+        "code": "4519.T",
+        "country": "Japan",
+        "rank": 523
+    },
+    {
+        "name": "Honda",
+        "code": "HMC",
+        "country": "Japan",
+        "rank": 524
+    },
+    {
+        "name": "7-Eleven",
+        "code": "3382.T",
+        "country": "Japan",
+        "rank": 525
+    },
+    {
+        "name": "Denso",
+        "code": "6902.T",
+        "country": "Japan",
+        "rank": 526
+    },
+    {
+        "name": "Japan Tobacco",
+        "code": "2914.T",
+        "country": "Japan",
+        "rank": 527
+    },
+    {
+        "name": "Mizuho Financial Group",
+        "code": "MFG",
+        "country": "Japan",
+        "rank": 528
+    },
+    {
+        "name": "Hoya",
+        "code": "7741.T",
+        "country": "Japan",
+        "rank": 529
+    },
+    {
+        "name": "Japan Post Bank",
+        "code": "7182.T",
+        "country": "Japan",
+        "rank": 530
+    },
+    {
+        "name": "Murata Manufacturing (Murata Seisakusho)",
+        "code": "6981.T",
+        "country": "Japan",
+        "rank": 531
+    },
+    {
+        "name": "Nidec",
+        "code": "6594.T",
+        "country": "Japan",
+        "rank": 532
+    },
+    {
+        "name": "Japan Post Holdings",
+        "code": "6178.T",
+        "country": "Japan",
+        "rank": 533
+    },
+    {
+        "name": "Fanuc",
+        "code": "6954.T",
+        "country": "Japan",
+        "rank": 534
+    },
+    {
+        "name": "Astellas Pharma",
+        "code": "4503.T",
+        "country": "Japan",
+        "rank": 535
+    },
+    {
+        "name": "SMC corp",
+        "code": "6273.T",
+        "country": "Japan",
+        "rank": 536
+    },
+    {
+        "name": "Fujitsu",
+        "code": "6702.T",
+        "country": "Japan",
+        "rank": 537
+    },
+    {
+        "name": "Bridgestone",
+        "code": "5108.T",
+        "country": "Japan",
+        "rank": 538
+    },
+    {
+        "name": "Central Japan Railway",
+        "code": "9022.T",
+        "country": "Japan",
+        "rank": 539
+    },
+    {
+        "name": "Dai-ichi Life Holdings",
+        "code": "8750.T",
+        "country": "Japan",
+        "rank": 540
+    },
+    {
+        "name": "Unicharm",
+        "code": "8113.T",
+        "country": "Japan",
+        "rank": 541
+    },
+    {
+        "name": "Olympus",
+        "code": "7733.T",
+        "country": "Japan",
+        "rank": 542
+    },
+    {
+        "name": "Canon",
+        "code": "CAJ",
+        "country": "Japan",
+        "rank": 543
+    },
+    {
+        "name": "East Japan Railway",
+        "code": "9020.T",
+        "country": "Japan",
+        "rank": 544
+    },
+    {
+        "name": "Terumo",
+        "code": "4543.T",
+        "country": "Japan",
+        "rank": 545
+    },
+    {
+        "name": "Mitsubishi Electric",
+        "code": "6503.T",
+        "country": "Japan",
+        "rank": 546
+    },
+    {
+        "name": "Sumitomo",
+        "code": "8053.T",
+        "country": "Japan",
+        "rank": 547
+    },
+    {
+        "name": "Komatsu",
+        "code": "6301.T",
+        "country": "Japan",
+        "rank": 548
+    },
+    {
+        "name": "NTT Data",
+        "code": "9613.T",
+        "country": "Japan",
+        "rank": 549
+    },
+    {
+        "name": "Fujifilm",
+        "code": "4901.T",
+        "country": "Japan",
+        "rank": 550
+    },
+    {
+        "name": "Panasonic",
+        "code": "6752.T",
+        "country": "Japan",
+        "rank": 551
+    },
+    {
+        "name": "Marubeni",
+        "code": "8002.T",
+        "country": "Japan",
+        "rank": 552
+    },
+    {
+        "name": "Shiseido",
+        "code": "4911.T",
+        "country": "Japan",
+        "rank": 553
+    },
+    {
+        "name": "Nexon",
+        "code": "3659.T",
+        "country": "Japan",
+        "rank": 554
+    },
+    {
+        "name": "Z Holdings",
+        "code": "4689.T",
+        "country": "Japan",
+        "rank": 555
+    },
+    {
+        "name": "Eisai",
+        "code": "4523.T",
+        "country": "Japan",
+        "rank": 556
+    },
+    {
+        "name": "ORIX",
+        "code": "IX",
+        "country": "Japan",
+        "rank": 557
+    },
+    {
+        "name": "Nippon Paint",
+        "code": "4612.T",
+        "country": "Japan",
+        "rank": 558
+    },
+    {
+        "name": "M3, Inc",
+        "code": "2413.T",
+        "country": "Japan",
+        "rank": 559
+    },
+    {
+        "name": "Ka\u014d",
+        "code": "4452.T",
+        "country": "Japan",
+        "rank": 560
+    },
+    {
+        "name": "Aeon",
+        "code": "8267.T",
+        "country": "Japan",
+        "rank": 561
+    },
+    {
+        "name": "Kyocera",
+        "code": "6971.T",
+        "country": "Japan",
+        "rank": 562
+    },
+    {
+        "name": "Otsuka Holdings",
+        "code": "4578.T",
+        "country": "Japan",
+        "rank": 563
+    },
+    {
+        "name": "Mitsui Fudosan",
+        "code": "8801.T",
+        "country": "Japan",
+        "rank": 564
+    },
+    {
+        "name": "Mitsubishi Estate",
+        "code": "8802.T",
+        "country": "Japan",
+        "rank": 565
+    },
+    {
+        "name": "MS&AD Insurance",
+        "code": "8725.T",
+        "country": "Japan",
+        "rank": 566
+    },
+    {
+        "name": "Toyota Industries",
+        "code": "6201.T",
+        "country": "Japan",
+        "rank": 567
+    },
+    {
+        "name": "Kubota",
+        "code": "6326.T",
+        "country": "Japan",
+        "rank": 568
+    },
+    {
+        "name": "Ajinomoto",
+        "code": "2802.T",
+        "country": "Japan",
+        "rank": 569
+    },
+    {
+        "name": "Renesas Electronics",
+        "code": "6723.T",
+        "country": "Japan",
+        "rank": 570
+    },
+    {
+        "name": "Nippon Steel",
+        "code": "5401.T",
+        "country": "Japan",
+        "rank": 571
+    },
+    {
+        "name": "Asahi Group",
+        "code": "2502.T",
+        "country": "Japan",
+        "rank": 572
+    },
+    {
+        "name": "Suzuki Motor",
+        "code": "7269.T",
+        "country": "Japan",
+        "rank": 573
+    },
+    {
+        "name": "Daiwa House",
+        "code": "1925.T",
+        "country": "Japan",
+        "rank": 574
+    },
+    {
+        "name": "Toshiba",
+        "code": "6502.T",
+        "country": "Japan",
+        "rank": 575
+    },
+    {
+        "name": "Shionogi",
+        "code": "4507.T",
+        "country": "Japan",
+        "rank": 576
+    },
+    {
+        "name": "Lasertec",
+        "code": "6920.T",
+        "country": "Japan",
+        "rank": 577
+    },
+    {
+        "name": "Sompo Holdings",
+        "code": "8630.T",
+        "country": "Japan",
+        "rank": 578
+    },
+    {
+        "name": "Nitori Holdings",
+        "code": "9843.T",
+        "country": "Japan",
+        "rank": 579
+    },
+    {
+        "name": "Shimano",
+        "code": "7309.T",
+        "country": "Japan",
+        "rank": 580
+    },
+    {
+        "name": "Shinkin Central Bank",
+        "code": "8421.T",
+        "country": "Japan",
+        "rank": 581
+    },
+    {
+        "name": "Inpex",
+        "code": "1605.T",
+        "country": "Japan",
+        "rank": 582
+    },
+    {
+        "name": "Nomura Research Institute",
+        "code": "4307.T",
+        "country": "Japan",
+        "rank": 583
+    },
+    {
+        "name": "Bandai Namco",
+        "code": "7832.T",
+        "country": "Japan",
+        "rank": 584
+    },
+    {
+        "name": "Mitsubishi Heavy Industries",
+        "code": "7011.T",
+        "country": "Japan",
+        "rank": 585
+    },
+    {
+        "name": "Resona Holdings",
+        "code": "8308.T",
+        "country": "Japan",
+        "rank": 586
+    },
+    {
+        "name": "OBIC",
+        "code": "4684.T",
+        "country": "Japan",
+        "rank": 587
+    },
+    {
+        "name": "Toyota Tsusho",
+        "code": "8015.T",
+        "country": "Japan",
+        "rank": 588
+    },
+    {
+        "name": "Sysmex",
+        "code": "6869.T",
+        "country": "Japan",
+        "rank": 589
+    },
+    {
+        "name": "Sumitomo Mitsui Trust Holdings",
+        "code": "8309.T",
+        "country": "Japan",
+        "rank": 590
+    },
+    {
+        "name": "TDK",
+        "code": "6762.T",
+        "country": "Japan",
+        "rank": 591
+    },
+    {
+        "name": "Nissan",
+        "code": "7201.T",
+        "country": "Japan",
+        "rank": 592
+    },
+    {
+        "name": "Kirin Holdings",
+        "code": "2503.T",
+        "country": "Japan",
+        "rank": 593
+    },
+    {
+        "name": "Secom",
+        "code": "9735.T",
+        "country": "Japan",
+        "rank": 594
+    },
+    {
+        "name": "kyowa Kirin",
+        "code": "4151.T",
+        "country": "Japan",
+        "rank": 595
+    },
+    {
+        "name": "Nippon Y\u016bsen",
+        "code": "9101.T",
+        "country": "Japan",
+        "rank": 596
+    },
+    {
+        "name": "Advantest",
+        "code": "6857.T",
+        "country": "Japan",
+        "rank": 597
+    },
+    {
+        "name": "Subaru",
+        "code": "7270.T",
+        "country": "Japan",
+        "rank": 598
+    },
+    {
+        "name": "Sekisui House",
+        "code": "1928.T",
+        "country": "Japan",
+        "rank": 599
+    },
+    {
+        "name": "Ono Pharmaceutical",
+        "code": "4528.T",
+        "country": "Japan",
+        "rank": 600
+    },
+    {
+        "name": "Toyota",
+        "code": "TM",
+        "country": "Japan",
+        "rank": 601
+    },
+    {
+        "name": "NTT (Nippon Telegraph & Telephone)",
+        "code": "NPPXF",
+        "country": "Japan",
+        "rank": 602
+    },
+    {
+        "name": "Keyence",
+        "code": "6861.T",
+        "country": "Japan",
+        "rank": 603
+    },
+    {
+        "name": "Sony",
+        "code": "SONY",
+        "country": "Japan",
+        "rank": 604
+    },
+    {
+        "name": "Mitsubishi UFJ Financial",
+        "code": "MUFG",
+        "country": "Japan",
+        "rank": 605
+    },
+    {
+        "name": "KDDI",
+        "code": "9433.T",
+        "country": "Japan",
+        "rank": 606
+    },
+    {
+        "name": "SoftBank",
+        "code": "9984.T",
+        "country": "Japan",
+        "rank": 607
+    },
+    {
+        "name": "Fast Retailing",
+        "code": "9983.T",
+        "country": "Japan",
+        "rank": 608
+    },
+    {
+        "name": "Daiichi Sanky\u014d",
+        "code": "4568.T",
+        "country": "Japan",
+        "rank": 609
+    },
+    {
+        "name": "Sumitomo Mitsui Financial Group",
+        "code": "SMFG",
+        "country": "Japan",
+        "rank": 610
+    },
+    {
+        "name": "Recruit",
+        "code": "6098.T",
+        "country": "Japan",
+        "rank": 611
+    },
+    {
+        "name": "Shin-Etsu Chemical",
+        "code": "4063.T",
+        "country": "Japan",
+        "rank": 612
+    },
+    {
+        "name": "Nintendo",
+        "code": "7974.T",
+        "country": "Japan",
+        "rank": 613
+    },
+    {
+        "name": "Takeda Pharmaceutical",
+        "code": "TAK",
+        "country": "Japan",
+        "rank": 614
+    },
+    {
+        "name": "Oriental Land",
+        "code": "4661.T",
+        "country": "Japan",
+        "rank": 615
+    },
+    {
+        "name": "Hitachi",
+        "code": "6501.T",
+        "country": "Japan",
+        "rank": 616
+    },
+    {
+        "name": "Mitsubishi Corporation",
+        "code": "8058.T",
+        "country": "Japan",
+        "rank": 617
+    },
+    {
+        "name": "It\u014dch\u016b Sh\u014dji",
+        "code": "8001.T",
+        "country": "Japan",
+        "rank": 618
+    },
+    {
+        "name": "Tokyo Electron",
+        "code": "8035.T",
+        "country": "Japan",
+        "rank": 619
+    },
+    {
+        "name": "Mitsui Bussan",
+        "code": "8031.T",
+        "country": "Japan",
+        "rank": 620
+    },
+    {
+        "name": "Daikin",
+        "code": "6367.T",
+        "country": "Japan",
+        "rank": 621
+    },
+    {
+        "name": "Tokio Marine",
+        "code": "8766.T",
+        "country": "Japan",
+        "rank": 622
+    },
+    {
+        "name": "Chugai Pharmaceutical",
+        "code": "4519.T",
+        "country": "Japan",
+        "rank": 623
+    },
+    {
+        "name": "Honda",
+        "code": "HMC",
+        "country": "Japan",
+        "rank": 624
+    },
+    {
+        "name": "7-Eleven",
+        "code": "3382.T",
+        "country": "Japan",
+        "rank": 625
+    },
+    {
+        "name": "Denso",
+        "code": "6902.T",
+        "country": "Japan",
+        "rank": 626
+    },
+    {
+        "name": "Japan Tobacco",
+        "code": "2914.T",
+        "country": "Japan",
+        "rank": 627
+    },
+    {
+        "name": "Mizuho Financial Group",
+        "code": "MFG",
+        "country": "Japan",
+        "rank": 628
+    },
+    {
+        "name": "Hoya",
+        "code": "7741.T",
+        "country": "Japan",
+        "rank": 629
+    },
+    {
+        "name": "Japan Post Bank",
+        "code": "7182.T",
+        "country": "Japan",
+        "rank": 630
+    },
+    {
+        "name": "Murata Manufacturing (Murata Seisakusho)",
+        "code": "6981.T",
+        "country": "Japan",
+        "rank": 631
+    },
+    {
+        "name": "Nidec",
+        "code": "6594.T",
+        "country": "Japan",
+        "rank": 632
+    },
+    {
+        "name": "Japan Post Holdings",
+        "code": "6178.T",
+        "country": "Japan",
+        "rank": 633
+    },
+    {
+        "name": "Fanuc",
+        "code": "6954.T",
+        "country": "Japan",
+        "rank": 634
+    },
+    {
+        "name": "Astellas Pharma",
+        "code": "4503.T",
+        "country": "Japan",
+        "rank": 635
+    },
+    {
+        "name": "SMC corp",
+        "code": "6273.T",
+        "country": "Japan",
+        "rank": 636
+    },
+    {
+        "name": "Fujitsu",
+        "code": "6702.T",
+        "country": "Japan",
+        "rank": 637
+    },
+    {
+        "name": "Bridgestone",
+        "code": "5108.T",
+        "country": "Japan",
+        "rank": 638
+    },
+    {
+        "name": "Central Japan Railway",
+        "code": "9022.T",
+        "country": "Japan",
+        "rank": 639
+    },
+    {
+        "name": "Dai-ichi Life Holdings",
+        "code": "8750.T",
+        "country": "Japan",
+        "rank": 640
+    },
+    {
+        "name": "Unicharm",
+        "code": "8113.T",
+        "country": "Japan",
+        "rank": 641
+    },
+    {
+        "name": "Olympus",
+        "code": "7733.T",
+        "country": "Japan",
+        "rank": 642
+    },
+    {
+        "name": "Canon",
+        "code": "CAJ",
+        "country": "Japan",
+        "rank": 643
+    },
+    {
+        "name": "East Japan Railway",
+        "code": "9020.T",
+        "country": "Japan",
+        "rank": 644
+    },
+    {
+        "name": "Terumo",
+        "code": "4543.T",
+        "country": "Japan",
+        "rank": 645
+    },
+    {
+        "name": "Mitsubishi Electric",
+        "code": "6503.T",
+        "country": "Japan",
+        "rank": 646
+    },
+    {
+        "name": "Sumitomo",
+        "code": "8053.T",
+        "country": "Japan",
+        "rank": 647
+    },
+    {
+        "name": "Komatsu",
+        "code": "6301.T",
+        "country": "Japan",
+        "rank": 648
+    },
+    {
+        "name": "NTT Data",
+        "code": "9613.T",
+        "country": "Japan",
+        "rank": 649
+    },
+    {
+        "name": "Fujifilm",
+        "code": "4901.T",
+        "country": "Japan",
+        "rank": 650
+    },
+    {
+        "name": "Panasonic",
+        "code": "6752.T",
+        "country": "Japan",
+        "rank": 651
+    },
+    {
+        "name": "Marubeni",
+        "code": "8002.T",
+        "country": "Japan",
+        "rank": 652
+    },
+    {
+        "name": "Shiseido",
+        "code": "4911.T",
+        "country": "Japan",
+        "rank": 653
+    },
+    {
+        "name": "Nexon",
+        "code": "3659.T",
+        "country": "Japan",
+        "rank": 654
+    },
+    {
+        "name": "Z Holdings",
+        "code": "4689.T",
+        "country": "Japan",
+        "rank": 655
+    },
+    {
+        "name": "Eisai",
+        "code": "4523.T",
+        "country": "Japan",
+        "rank": 656
+    },
+    {
+        "name": "ORIX",
+        "code": "IX",
+        "country": "Japan",
+        "rank": 657
+    },
+    {
+        "name": "Nippon Paint",
+        "code": "4612.T",
+        "country": "Japan",
+        "rank": 658
+    },
+    {
+        "name": "M3, Inc",
+        "code": "2413.T",
+        "country": "Japan",
+        "rank": 659
+    },
+    {
+        "name": "Ka\u014d",
+        "code": "4452.T",
+        "country": "Japan",
+        "rank": 660
+    },
+    {
+        "name": "Aeon",
+        "code": "8267.T",
+        "country": "Japan",
+        "rank": 661
+    },
+    {
+        "name": "Kyocera",
+        "code": "6971.T",
+        "country": "Japan",
+        "rank": 662
+    },
+    {
+        "name": "Otsuka Holdings",
+        "code": "4578.T",
+        "country": "Japan",
+        "rank": 663
+    },
+    {
+        "name": "Mitsui Fudosan",
+        "code": "8801.T",
+        "country": "Japan",
+        "rank": 664
+    },
+    {
+        "name": "Mitsubishi Estate",
+        "code": "8802.T",
+        "country": "Japan",
+        "rank": 665
+    },
+    {
+        "name": "MS&AD Insurance",
+        "code": "8725.T",
+        "country": "Japan",
+        "rank": 666
+    },
+    {
+        "name": "Toyota Industries",
+        "code": "6201.T",
+        "country": "Japan",
+        "rank": 667
+    },
+    {
+        "name": "Kubota",
+        "code": "6326.T",
+        "country": "Japan",
+        "rank": 668
+    },
+    {
+        "name": "Ajinomoto",
+        "code": "2802.T",
+        "country": "Japan",
+        "rank": 669
+    },
+    {
+        "name": "Renesas Electronics",
+        "code": "6723.T",
+        "country": "Japan",
+        "rank": 670
+    },
+    {
+        "name": "Nippon Steel",
+        "code": "5401.T",
+        "country": "Japan",
+        "rank": 671
+    },
+    {
+        "name": "Asahi Group",
+        "code": "2502.T",
+        "country": "Japan",
+        "rank": 672
+    },
+    {
+        "name": "Suzuki Motor",
+        "code": "7269.T",
+        "country": "Japan",
+        "rank": 673
+    },
+    {
+        "name": "Daiwa House",
+        "code": "1925.T",
+        "country": "Japan",
+        "rank": 674
+    },
+    {
+        "name": "Toshiba",
+        "code": "6502.T",
+        "country": "Japan",
+        "rank": 675
+    },
+    {
+        "name": "Shionogi",
+        "code": "4507.T",
+        "country": "Japan",
+        "rank": 676
+    },
+    {
+        "name": "Lasertec",
+        "code": "6920.T",
+        "country": "Japan",
+        "rank": 677
+    },
+    {
+        "name": "Sompo Holdings",
+        "code": "8630.T",
+        "country": "Japan",
+        "rank": 678
+    },
+    {
+        "name": "Nitori Holdings",
+        "code": "9843.T",
+        "country": "Japan",
+        "rank": 679
+    },
+    {
+        "name": "Shimano",
+        "code": "7309.T",
+        "country": "Japan",
+        "rank": 680
+    },
+    {
+        "name": "Shinkin Central Bank",
+        "code": "8421.T",
+        "country": "Japan",
+        "rank": 681
+    },
+    {
+        "name": "Inpex",
+        "code": "1605.T",
+        "country": "Japan",
+        "rank": 682
+    },
+    {
+        "name": "Nomura Research Institute",
+        "code": "4307.T",
+        "country": "Japan",
+        "rank": 683
+    },
+    {
+        "name": "Bandai Namco",
+        "code": "7832.T",
+        "country": "Japan",
+        "rank": 684
+    },
+    {
+        "name": "Mitsubishi Heavy Industries",
+        "code": "7011.T",
+        "country": "Japan",
+        "rank": 685
+    },
+    {
+        "name": "Resona Holdings",
+        "code": "8308.T",
+        "country": "Japan",
+        "rank": 686
+    },
+    {
+        "name": "OBIC",
+        "code": "4684.T",
+        "country": "Japan",
+        "rank": 687
+    },
+    {
+        "name": "Toyota Tsusho",
+        "code": "8015.T",
+        "country": "Japan",
+        "rank": 688
+    },
+    {
+        "name": "Sysmex",
+        "code": "6869.T",
+        "country": "Japan",
+        "rank": 689
+    },
+    {
+        "name": "Sumitomo Mitsui Trust Holdings",
+        "code": "8309.T",
+        "country": "Japan",
+        "rank": 690
+    },
+    {
+        "name": "TDK",
+        "code": "6762.T",
+        "country": "Japan",
+        "rank": 691
+    },
+    {
+        "name": "Nissan",
+        "code": "7201.T",
+        "country": "Japan",
+        "rank": 692
+    },
+    {
+        "name": "Kirin Holdings",
+        "code": "2503.T",
+        "country": "Japan",
+        "rank": 693
+    },
+    {
+        "name": "Secom",
+        "code": "9735.T",
+        "country": "Japan",
+        "rank": 694
+    },
+    {
+        "name": "kyowa Kirin",
+        "code": "4151.T",
+        "country": "Japan",
+        "rank": 695
+    },
+    {
+        "name": "Nippon Y\u016bsen",
+        "code": "9101.T",
+        "country": "Japan",
+        "rank": 696
+    },
+    {
+        "name": "Advantest",
+        "code": "6857.T",
+        "country": "Japan",
+        "rank": 697
+    },
+    {
+        "name": "Subaru",
+        "code": "7270.T",
+        "country": "Japan",
+        "rank": 698
+    },
+    {
+        "name": "Sekisui House",
+        "code": "1928.T",
+        "country": "Japan",
+        "rank": 699
+    },
+    {
+        "name": "Ono Pharmaceutical",
+        "code": "4528.T",
+        "country": "Japan",
+        "rank": 700
+    },
+    {
+        "name": "Toyota",
+        "code": "TM",
+        "country": "Japan",
+        "rank": 701
+    },
+    {
+        "name": "NTT (Nippon Telegraph & Telephone)",
+        "code": "NPPXF",
+        "country": "Japan",
+        "rank": 702
+    },
+    {
+        "name": "Keyence",
+        "code": "6861.T",
+        "country": "Japan",
+        "rank": 703
+    },
+    {
+        "name": "Sony",
+        "code": "SONY",
+        "country": "Japan",
+        "rank": 704
+    },
+    {
+        "name": "Mitsubishi UFJ Financial",
+        "code": "MUFG",
+        "country": "Japan",
+        "rank": 705
+    },
+    {
+        "name": "KDDI",
+        "code": "9433.T",
+        "country": "Japan",
+        "rank": 706
+    },
+    {
+        "name": "SoftBank",
+        "code": "9984.T",
+        "country": "Japan",
+        "rank": 707
+    },
+    {
+        "name": "Fast Retailing",
+        "code": "9983.T",
+        "country": "Japan",
+        "rank": 708
+    },
+    {
+        "name": "Daiichi Sanky\u014d",
+        "code": "4568.T",
+        "country": "Japan",
+        "rank": 709
+    },
+    {
+        "name": "Sumitomo Mitsui Financial Group",
+        "code": "SMFG",
+        "country": "Japan",
+        "rank": 710
+    },
+    {
+        "name": "Recruit",
+        "code": "6098.T",
+        "country": "Japan",
+        "rank": 711
+    },
+    {
+        "name": "Shin-Etsu Chemical",
+        "code": "4063.T",
+        "country": "Japan",
+        "rank": 712
+    },
+    {
+        "name": "Nintendo",
+        "code": "7974.T",
+        "country": "Japan",
+        "rank": 713
+    },
+    {
+        "name": "Takeda Pharmaceutical",
+        "code": "TAK",
+        "country": "Japan",
+        "rank": 714
+    },
+    {
+        "name": "Oriental Land",
+        "code": "4661.T",
+        "country": "Japan",
+        "rank": 715
+    },
+    {
+        "name": "Hitachi",
+        "code": "6501.T",
+        "country": "Japan",
+        "rank": 716
+    },
+    {
+        "name": "Mitsubishi Corporation",
+        "code": "8058.T",
+        "country": "Japan",
+        "rank": 717
+    },
+    {
+        "name": "It\u014dch\u016b Sh\u014dji",
+        "code": "8001.T",
+        "country": "Japan",
+        "rank": 718
+    },
+    {
+        "name": "Tokyo Electron",
+        "code": "8035.T",
+        "country": "Japan",
+        "rank": 719
+    },
+    {
+        "name": "Mitsui Bussan",
+        "code": "8031.T",
+        "country": "Japan",
+        "rank": 720
+    },
+    {
+        "name": "Daikin",
+        "code": "6367.T",
+        "country": "Japan",
+        "rank": 721
+    },
+    {
+        "name": "Tokio Marine",
+        "code": "8766.T",
+        "country": "Japan",
+        "rank": 722
+    },
+    {
+        "name": "Chugai Pharmaceutical",
+        "code": "4519.T",
+        "country": "Japan",
+        "rank": 723
+    },
+    {
+        "name": "Honda",
+        "code": "HMC",
+        "country": "Japan",
+        "rank": 724
+    },
+    {
+        "name": "7-Eleven",
+        "code": "3382.T",
+        "country": "Japan",
+        "rank": 725
+    },
+    {
+        "name": "Denso",
+        "code": "6902.T",
+        "country": "Japan",
+        "rank": 726
+    },
+    {
+        "name": "Japan Tobacco",
+        "code": "2914.T",
+        "country": "Japan",
+        "rank": 727
+    },
+    {
+        "name": "Mizuho Financial Group",
+        "code": "MFG",
+        "country": "Japan",
+        "rank": 728
+    },
+    {
+        "name": "Hoya",
+        "code": "7741.T",
+        "country": "Japan",
+        "rank": 729
+    },
+    {
+        "name": "Japan Post Bank",
+        "code": "7182.T",
+        "country": "Japan",
+        "rank": 730
+    },
+    {
+        "name": "Murata Manufacturing (Murata Seisakusho)",
+        "code": "6981.T",
+        "country": "Japan",
+        "rank": 731
+    },
+    {
+        "name": "Nidec",
+        "code": "6594.T",
+        "country": "Japan",
+        "rank": 732
+    },
+    {
+        "name": "Japan Post Holdings",
+        "code": "6178.T",
+        "country": "Japan",
+        "rank": 733
+    },
+    {
+        "name": "Fanuc",
+        "code": "6954.T",
+        "country": "Japan",
+        "rank": 734
+    },
+    {
+        "name": "Astellas Pharma",
+        "code": "4503.T",
+        "country": "Japan",
+        "rank": 735
+    },
+    {
+        "name": "SMC corp",
+        "code": "6273.T",
+        "country": "Japan",
+        "rank": 736
+    },
+    {
+        "name": "Fujitsu",
+        "code": "6702.T",
+        "country": "Japan",
+        "rank": 737
+    },
+    {
+        "name": "Bridgestone",
+        "code": "5108.T",
+        "country": "Japan",
+        "rank": 738
+    },
+    {
+        "name": "Central Japan Railway",
+        "code": "9022.T",
+        "country": "Japan",
+        "rank": 739
+    },
+    {
+        "name": "Dai-ichi Life Holdings",
+        "code": "8750.T",
+        "country": "Japan",
+        "rank": 740
+    },
+    {
+        "name": "Unicharm",
+        "code": "8113.T",
+        "country": "Japan",
+        "rank": 741
+    },
+    {
+        "name": "Olympus",
+        "code": "7733.T",
+        "country": "Japan",
+        "rank": 742
+    },
+    {
+        "name": "Canon",
+        "code": "CAJ",
+        "country": "Japan",
+        "rank": 743
+    },
+    {
+        "name": "East Japan Railway",
+        "code": "9020.T",
+        "country": "Japan",
+        "rank": 744
+    },
+    {
+        "name": "Terumo",
+        "code": "4543.T",
+        "country": "Japan",
+        "rank": 745
+    },
+    {
+        "name": "Mitsubishi Electric",
+        "code": "6503.T",
+        "country": "Japan",
+        "rank": 746
+    },
+    {
+        "name": "Sumitomo",
+        "code": "8053.T",
+        "country": "Japan",
+        "rank": 747
+    },
+    {
+        "name": "Komatsu",
+        "code": "6301.T",
+        "country": "Japan",
+        "rank": 748
+    },
+    {
+        "name": "NTT Data",
+        "code": "9613.T",
+        "country": "Japan",
+        "rank": 749
+    },
+    {
+        "name": "Fujifilm",
+        "code": "4901.T",
+        "country": "Japan",
+        "rank": 750
+    },
+    {
+        "name": "Panasonic",
+        "code": "6752.T",
+        "country": "Japan",
+        "rank": 751
+    },
+    {
+        "name": "Marubeni",
+        "code": "8002.T",
+        "country": "Japan",
+        "rank": 752
+    },
+    {
+        "name": "Shiseido",
+        "code": "4911.T",
+        "country": "Japan",
+        "rank": 753
+    },
+    {
+        "name": "Nexon",
+        "code": "3659.T",
+        "country": "Japan",
+        "rank": 754
+    },
+    {
+        "name": "Z Holdings",
+        "code": "4689.T",
+        "country": "Japan",
+        "rank": 755
+    },
+    {
+        "name": "Eisai",
+        "code": "4523.T",
+        "country": "Japan",
+        "rank": 756
+    },
+    {
+        "name": "ORIX",
+        "code": "IX",
+        "country": "Japan",
+        "rank": 757
+    },
+    {
+        "name": "Nippon Paint",
+        "code": "4612.T",
+        "country": "Japan",
+        "rank": 758
+    },
+    {
+        "name": "M3, Inc",
+        "code": "2413.T",
+        "country": "Japan",
+        "rank": 759
+    },
+    {
+        "name": "Ka\u014d",
+        "code": "4452.T",
+        "country": "Japan",
+        "rank": 760
+    },
+    {
+        "name": "Aeon",
+        "code": "8267.T",
+        "country": "Japan",
+        "rank": 761
+    },
+    {
+        "name": "Kyocera",
+        "code": "6971.T",
+        "country": "Japan",
+        "rank": 762
+    },
+    {
+        "name": "Otsuka Holdings",
+        "code": "4578.T",
+        "country": "Japan",
+        "rank": 763
+    },
+    {
+        "name": "Mitsui Fudosan",
+        "code": "8801.T",
+        "country": "Japan",
+        "rank": 764
+    },
+    {
+        "name": "Mitsubishi Estate",
+        "code": "8802.T",
+        "country": "Japan",
+        "rank": 765
+    },
+    {
+        "name": "MS&AD Insurance",
+        "code": "8725.T",
+        "country": "Japan",
+        "rank": 766
+    },
+    {
+        "name": "Toyota Industries",
+        "code": "6201.T",
+        "country": "Japan",
+        "rank": 767
+    },
+    {
+        "name": "Kubota",
+        "code": "6326.T",
+        "country": "Japan",
+        "rank": 768
+    },
+    {
+        "name": "Ajinomoto",
+        "code": "2802.T",
+        "country": "Japan",
+        "rank": 769
+    },
+    {
+        "name": "Renesas Electronics",
+        "code": "6723.T",
+        "country": "Japan",
+        "rank": 770
+    },
+    {
+        "name": "Nippon Steel",
+        "code": "5401.T",
+        "country": "Japan",
+        "rank": 771
+    },
+    {
+        "name": "Asahi Group",
+        "code": "2502.T",
+        "country": "Japan",
+        "rank": 772
+    },
+    {
+        "name": "Suzuki Motor",
+        "code": "7269.T",
+        "country": "Japan",
+        "rank": 773
+    },
+    {
+        "name": "Daiwa House",
+        "code": "1925.T",
+        "country": "Japan",
+        "rank": 774
+    },
+    {
+        "name": "Toshiba",
+        "code": "6502.T",
+        "country": "Japan",
+        "rank": 775
+    },
+    {
+        "name": "Shionogi",
+        "code": "4507.T",
+        "country": "Japan",
+        "rank": 776
+    },
+    {
+        "name": "Lasertec",
+        "code": "6920.T",
+        "country": "Japan",
+        "rank": 777
+    },
+    {
+        "name": "Sompo Holdings",
+        "code": "8630.T",
+        "country": "Japan",
+        "rank": 778
+    },
+    {
+        "name": "Nitori Holdings",
+        "code": "9843.T",
+        "country": "Japan",
+        "rank": 779
+    },
+    {
+        "name": "Shimano",
+        "code": "7309.T",
+        "country": "Japan",
+        "rank": 780
+    },
+    {
+        "name": "Shinkin Central Bank",
+        "code": "8421.T",
+        "country": "Japan",
+        "rank": 781
+    },
+    {
+        "name": "Inpex",
+        "code": "1605.T",
+        "country": "Japan",
+        "rank": 782
+    },
+    {
+        "name": "Nomura Research Institute",
+        "code": "4307.T",
+        "country": "Japan",
+        "rank": 783
+    },
+    {
+        "name": "Bandai Namco",
+        "code": "7832.T",
+        "country": "Japan",
+        "rank": 784
+    },
+    {
+        "name": "Mitsubishi Heavy Industries",
+        "code": "7011.T",
+        "country": "Japan",
+        "rank": 785
+    },
+    {
+        "name": "Resona Holdings",
+        "code": "8308.T",
+        "country": "Japan",
+        "rank": 786
+    },
+    {
+        "name": "OBIC",
+        "code": "4684.T",
+        "country": "Japan",
+        "rank": 787
+    },
+    {
+        "name": "Toyota Tsusho",
+        "code": "8015.T",
+        "country": "Japan",
+        "rank": 788
+    },
+    {
+        "name": "Sysmex",
+        "code": "6869.T",
+        "country": "Japan",
+        "rank": 789
+    },
+    {
+        "name": "Sumitomo Mitsui Trust Holdings",
+        "code": "8309.T",
+        "country": "Japan",
+        "rank": 790
+    },
+    {
+        "name": "TDK",
+        "code": "6762.T",
+        "country": "Japan",
+        "rank": 791
+    },
+    {
+        "name": "Nissan",
+        "code": "7201.T",
+        "country": "Japan",
+        "rank": 792
+    },
+    {
+        "name": "Kirin Holdings",
+        "code": "2503.T",
+        "country": "Japan",
+        "rank": 793
+    },
+    {
+        "name": "Secom",
+        "code": "9735.T",
+        "country": "Japan",
+        "rank": 794
+    },
+    {
+        "name": "kyowa Kirin",
+        "code": "4151.T",
+        "country": "Japan",
+        "rank": 795
+    },
+    {
+        "name": "Nippon Y\u016bsen",
+        "code": "9101.T",
+        "country": "Japan",
+        "rank": 796
+    },
+    {
+        "name": "Advantest",
+        "code": "6857.T",
+        "country": "Japan",
+        "rank": 797
+    },
+    {
+        "name": "Subaru",
+        "code": "7270.T",
+        "country": "Japan",
+        "rank": 798
+    },
+    {
+        "name": "Sekisui House",
+        "code": "1928.T",
+        "country": "Japan",
+        "rank": 799
+    },
+    {
+        "name": "Ono Pharmaceutical",
+        "code": "4528.T",
+        "country": "Japan",
+        "rank": 800
+    },
+    {
+        "name": "Toyota",
+        "code": "TM",
+        "country": "Japan",
+        "rank": 801
+    },
+    {
+        "name": "NTT (Nippon Telegraph & Telephone)",
+        "code": "NPPXF",
+        "country": "Japan",
+        "rank": 802
+    },
+    {
+        "name": "Keyence",
+        "code": "6861.T",
+        "country": "Japan",
+        "rank": 803
+    },
+    {
+        "name": "Sony",
+        "code": "SONY",
+        "country": "Japan",
+        "rank": 804
+    },
+    {
+        "name": "Mitsubishi UFJ Financial",
+        "code": "MUFG",
+        "country": "Japan",
+        "rank": 805
+    },
+    {
+        "name": "KDDI",
+        "code": "9433.T",
+        "country": "Japan",
+        "rank": 806
+    },
+    {
+        "name": "SoftBank",
+        "code": "9984.T",
+        "country": "Japan",
+        "rank": 807
+    },
+    {
+        "name": "Fast Retailing",
+        "code": "9983.T",
+        "country": "Japan",
+        "rank": 808
+    },
+    {
+        "name": "Daiichi Sanky\u014d",
+        "code": "4568.T",
+        "country": "Japan",
+        "rank": 809
+    },
+    {
+        "name": "Sumitomo Mitsui Financial Group",
+        "code": "SMFG",
+        "country": "Japan",
+        "rank": 810
+    },
+    {
+        "name": "Recruit",
+        "code": "6098.T",
+        "country": "Japan",
+        "rank": 811
+    },
+    {
+        "name": "Shin-Etsu Chemical",
+        "code": "4063.T",
+        "country": "Japan",
+        "rank": 812
+    },
+    {
+        "name": "Nintendo",
+        "code": "7974.T",
+        "country": "Japan",
+        "rank": 813
+    },
+    {
+        "name": "Takeda Pharmaceutical",
+        "code": "TAK",
+        "country": "Japan",
+        "rank": 814
+    },
+    {
+        "name": "Oriental Land",
+        "code": "4661.T",
+        "country": "Japan",
+        "rank": 815
+    },
+    {
+        "name": "Hitachi",
+        "code": "6501.T",
+        "country": "Japan",
+        "rank": 816
+    },
+    {
+        "name": "Mitsubishi Corporation",
+        "code": "8058.T",
+        "country": "Japan",
+        "rank": 817
+    },
+    {
+        "name": "It\u014dch\u016b Sh\u014dji",
+        "code": "8001.T",
+        "country": "Japan",
+        "rank": 818
+    },
+    {
+        "name": "Tokyo Electron",
+        "code": "8035.T",
+        "country": "Japan",
+        "rank": 819
+    },
+    {
+        "name": "Mitsui Bussan",
+        "code": "8031.T",
+        "country": "Japan",
+        "rank": 820
+    },
+    {
+        "name": "Daikin",
+        "code": "6367.T",
+        "country": "Japan",
+        "rank": 821
+    },
+    {
+        "name": "Tokio Marine",
+        "code": "8766.T",
+        "country": "Japan",
+        "rank": 822
+    },
+    {
+        "name": "Chugai Pharmaceutical",
+        "code": "4519.T",
+        "country": "Japan",
+        "rank": 823
+    },
+    {
+        "name": "Honda",
+        "code": "HMC",
+        "country": "Japan",
+        "rank": 824
+    },
+    {
+        "name": "7-Eleven",
+        "code": "3382.T",
+        "country": "Japan",
+        "rank": 825
+    },
+    {
+        "name": "Denso",
+        "code": "6902.T",
+        "country": "Japan",
+        "rank": 826
+    },
+    {
+        "name": "Japan Tobacco",
+        "code": "2914.T",
+        "country": "Japan",
+        "rank": 827
+    },
+    {
+        "name": "Mizuho Financial Group",
+        "code": "MFG",
+        "country": "Japan",
+        "rank": 828
+    },
+    {
+        "name": "Hoya",
+        "code": "7741.T",
+        "country": "Japan",
+        "rank": 829
+    },
+    {
+        "name": "Japan Post Bank",
+        "code": "7182.T",
+        "country": "Japan",
+        "rank": 830
+    },
+    {
+        "name": "Murata Manufacturing (Murata Seisakusho)",
+        "code": "6981.T",
+        "country": "Japan",
+        "rank": 831
+    },
+    {
+        "name": "Nidec",
+        "code": "6594.T",
+        "country": "Japan",
+        "rank": 832
+    },
+    {
+        "name": "Japan Post Holdings",
+        "code": "6178.T",
+        "country": "Japan",
+        "rank": 833
+    },
+    {
+        "name": "Fanuc",
+        "code": "6954.T",
+        "country": "Japan",
+        "rank": 834
+    },
+    {
+        "name": "Astellas Pharma",
+        "code": "4503.T",
+        "country": "Japan",
+        "rank": 835
+    },
+    {
+        "name": "SMC corp",
+        "code": "6273.T",
+        "country": "Japan",
+        "rank": 836
+    },
+    {
+        "name": "Fujitsu",
+        "code": "6702.T",
+        "country": "Japan",
+        "rank": 837
+    },
+    {
+        "name": "Bridgestone",
+        "code": "5108.T",
+        "country": "Japan",
+        "rank": 838
+    },
+    {
+        "name": "Central Japan Railway",
+        "code": "9022.T",
+        "country": "Japan",
+        "rank": 839
+    },
+    {
+        "name": "Dai-ichi Life Holdings",
+        "code": "8750.T",
+        "country": "Japan",
+        "rank": 840
+    },
+    {
+        "name": "Unicharm",
+        "code": "8113.T",
+        "country": "Japan",
+        "rank": 841
+    },
+    {
+        "name": "Olympus",
+        "code": "7733.T",
+        "country": "Japan",
+        "rank": 842
+    },
+    {
+        "name": "Canon",
+        "code": "CAJ",
+        "country": "Japan",
+        "rank": 843
+    },
+    {
+        "name": "East Japan Railway",
+        "code": "9020.T",
+        "country": "Japan",
+        "rank": 844
+    },
+    {
+        "name": "Terumo",
+        "code": "4543.T",
+        "country": "Japan",
+        "rank": 845
+    },
+    {
+        "name": "Mitsubishi Electric",
+        "code": "6503.T",
+        "country": "Japan",
+        "rank": 846
+    },
+    {
+        "name": "Sumitomo",
+        "code": "8053.T",
+        "country": "Japan",
+        "rank": 847
+    },
+    {
+        "name": "Komatsu",
+        "code": "6301.T",
+        "country": "Japan",
+        "rank": 848
+    },
+    {
+        "name": "NTT Data",
+        "code": "9613.T",
+        "country": "Japan",
+        "rank": 849
+    },
+    {
+        "name": "Fujifilm",
+        "code": "4901.T",
+        "country": "Japan",
+        "rank": 850
+    },
+    {
+        "name": "Panasonic",
+        "code": "6752.T",
+        "country": "Japan",
+        "rank": 851
+    },
+    {
+        "name": "Marubeni",
+        "code": "8002.T",
+        "country": "Japan",
+        "rank": 852
+    },
+    {
+        "name": "Shiseido",
+        "code": "4911.T",
+        "country": "Japan",
+        "rank": 853
+    },
+    {
+        "name": "Nexon",
+        "code": "3659.T",
+        "country": "Japan",
+        "rank": 854
+    },
+    {
+        "name": "Z Holdings",
+        "code": "4689.T",
+        "country": "Japan",
+        "rank": 855
+    },
+    {
+        "name": "Eisai",
+        "code": "4523.T",
+        "country": "Japan",
+        "rank": 856
+    },
+    {
+        "name": "ORIX",
+        "code": "IX",
+        "country": "Japan",
+        "rank": 857
+    },
+    {
+        "name": "Nippon Paint",
+        "code": "4612.T",
+        "country": "Japan",
+        "rank": 858
+    },
+    {
+        "name": "M3, Inc",
+        "code": "2413.T",
+        "country": "Japan",
+        "rank": 859
+    },
+    {
+        "name": "Ka\u014d",
+        "code": "4452.T",
+        "country": "Japan",
+        "rank": 860
+    },
+    {
+        "name": "Aeon",
+        "code": "8267.T",
+        "country": "Japan",
+        "rank": 861
+    },
+    {
+        "name": "Kyocera",
+        "code": "6971.T",
+        "country": "Japan",
+        "rank": 862
+    },
+    {
+        "name": "Otsuka Holdings",
+        "code": "4578.T",
+        "country": "Japan",
+        "rank": 863
+    },
+    {
+        "name": "Mitsui Fudosan",
+        "code": "8801.T",
+        "country": "Japan",
+        "rank": 864
+    },
+    {
+        "name": "Mitsubishi Estate",
+        "code": "8802.T",
+        "country": "Japan",
+        "rank": 865
+    },
+    {
+        "name": "MS&AD Insurance",
+        "code": "8725.T",
+        "country": "Japan",
+        "rank": 866
+    },
+    {
+        "name": "Toyota Industries",
+        "code": "6201.T",
+        "country": "Japan",
+        "rank": 867
+    },
+    {
+        "name": "Kubota",
+        "code": "6326.T",
+        "country": "Japan",
+        "rank": 868
+    },
+    {
+        "name": "Ajinomoto",
+        "code": "2802.T",
+        "country": "Japan",
+        "rank": 869
+    },
+    {
+        "name": "Renesas Electronics",
+        "code": "6723.T",
+        "country": "Japan",
+        "rank": 870
+    },
+    {
+        "name": "Nippon Steel",
+        "code": "5401.T",
+        "country": "Japan",
+        "rank": 871
+    },
+    {
+        "name": "Asahi Group",
+        "code": "2502.T",
+        "country": "Japan",
+        "rank": 872
+    },
+    {
+        "name": "Suzuki Motor",
+        "code": "7269.T",
+        "country": "Japan",
+        "rank": 873
+    },
+    {
+        "name": "Daiwa House",
+        "code": "1925.T",
+        "country": "Japan",
+        "rank": 874
+    },
+    {
+        "name": "Toshiba",
+        "code": "6502.T",
+        "country": "Japan",
+        "rank": 875
+    },
+    {
+        "name": "Shionogi",
+        "code": "4507.T",
+        "country": "Japan",
+        "rank": 876
+    },
+    {
+        "name": "Lasertec",
+        "code": "6920.T",
+        "country": "Japan",
+        "rank": 877
+    },
+    {
+        "name": "Sompo Holdings",
+        "code": "8630.T",
+        "country": "Japan",
+        "rank": 878
+    },
+    {
+        "name": "Nitori Holdings",
+        "code": "9843.T",
+        "country": "Japan",
+        "rank": 879
+    },
+    {
+        "name": "Shimano",
+        "code": "7309.T",
+        "country": "Japan",
+        "rank": 880
+    },
+    {
+        "name": "Shinkin Central Bank",
+        "code": "8421.T",
+        "country": "Japan",
+        "rank": 881
+    },
+    {
+        "name": "Inpex",
+        "code": "1605.T",
+        "country": "Japan",
+        "rank": 882
+    },
+    {
+        "name": "Nomura Research Institute",
+        "code": "4307.T",
+        "country": "Japan",
+        "rank": 883
+    },
+    {
+        "name": "Bandai Namco",
+        "code": "7832.T",
+        "country": "Japan",
+        "rank": 884
+    },
+    {
+        "name": "Mitsubishi Heavy Industries",
+        "code": "7011.T",
+        "country": "Japan",
+        "rank": 885
+    },
+    {
+        "name": "Resona Holdings",
+        "code": "8308.T",
+        "country": "Japan",
+        "rank": 886
+    },
+    {
+        "name": "OBIC",
+        "code": "4684.T",
+        "country": "Japan",
+        "rank": 887
+    },
+    {
+        "name": "Toyota Tsusho",
+        "code": "8015.T",
+        "country": "Japan",
+        "rank": 888
+    },
+    {
+        "name": "Sysmex",
+        "code": "6869.T",
+        "country": "Japan",
+        "rank": 889
+    },
+    {
+        "name": "Sumitomo Mitsui Trust Holdings",
+        "code": "8309.T",
+        "country": "Japan",
+        "rank": 890
+    },
+    {
+        "name": "TDK",
+        "code": "6762.T",
+        "country": "Japan",
+        "rank": 891
+    },
+    {
+        "name": "Nissan",
+        "code": "7201.T",
+        "country": "Japan",
+        "rank": 892
+    },
+    {
+        "name": "Kirin Holdings",
+        "code": "2503.T",
+        "country": "Japan",
+        "rank": 893
+    },
+    {
+        "name": "Secom",
+        "code": "9735.T",
+        "country": "Japan",
+        "rank": 894
+    },
+    {
+        "name": "kyowa Kirin",
+        "code": "4151.T",
+        "country": "Japan",
+        "rank": 895
+    },
+    {
+        "name": "Nippon Y\u016bsen",
+        "code": "9101.T",
+        "country": "Japan",
+        "rank": 896
+    },
+    {
+        "name": "Advantest",
+        "code": "6857.T",
+        "country": "Japan",
+        "rank": 897
+    },
+    {
+        "name": "Subaru",
+        "code": "7270.T",
+        "country": "Japan",
+        "rank": 898
+    },
+    {
+        "name": "Sekisui House",
+        "code": "1928.T",
+        "country": "Japan",
+        "rank": 899
+    },
+    {
+        "name": "Ono Pharmaceutical",
+        "code": "4528.T",
+        "country": "Japan",
+        "rank": 900
+    }
+]

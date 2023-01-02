@@ -1,0 +1,5402 @@
+[
+    {
+        "name": "SAP",
+        "code": "SAP",
+        "country": "Germany",
+        "rank": 1
+    },
+    {
+        "name": "Siemens",
+        "code": "SIE.DE",
+        "country": "Germany",
+        "rank": 2
+    },
+    {
+        "name": "Deutsche Telekom",
+        "code": "DTE.DE",
+        "country": "Germany",
+        "rank": 3
+    },
+    {
+        "name": "Porsche",
+        "code": "P911.DE",
+        "country": "Germany",
+        "rank": 4
+    },
+    {
+        "name": "Allianz",
+        "code": "ALV.DE",
+        "country": "Germany",
+        "rank": 5
+    },
+    {
+        "name": "Merck KGaA",
+        "code": "MRK.DE",
+        "country": "Germany",
+        "rank": 6
+    },
+    {
+        "name": "Volkswagen",
+        "code": "VOW3.DE",
+        "country": "Germany",
+        "rank": 7
+    },
+    {
+        "name": "Mercedes-Benz",
+        "code": "MBG.DE",
+        "country": "Germany",
+        "rank": 8
+    },
+    {
+        "name": "BMW",
+        "code": "BMW.DE",
+        "country": "Germany",
+        "rank": 9
+    },
+    {
+        "name": "Siemens Healthineers",
+        "code": "SHL.DE",
+        "country": "Germany",
+        "rank": 10
+    },
+    {
+        "name": "Bayer",
+        "code": "BAYZF",
+        "country": "Germany",
+        "rank": 11
+    },
+    {
+        "name": "BASF",
+        "code": "BAS.DE",
+        "country": "Germany",
+        "rank": 12
+    },
+    {
+        "name": "Deutsche Post",
+        "code": "DPW.DE",
+        "country": "Germany",
+        "rank": 13
+    },
+    {
+        "name": "Munich RE (M\u00fcnchener R\u00fcck)",
+        "code": "MUV2.DE",
+        "country": "Germany",
+        "rank": 14
+    },
+    {
+        "name": "Infineon",
+        "code": "IFX.DE",
+        "country": "Germany",
+        "rank": 15
+    },
+    {
+        "name": "BioNTech",
+        "code": "BNTX",
+        "country": "Germany",
+        "rank": 16
+    },
+    {
+        "name": "Hapag-Lloyd",
+        "code": "HLAG.DE",
+        "country": "Germany",
+        "rank": 17
+    },
+    {
+        "name": "Deutsche B\u00f6rse",
+        "code": "DB1.DE",
+        "country": "Germany",
+        "rank": 18
+    },
+    {
+        "name": "RWE",
+        "code": "RWE.DE",
+        "country": "Germany",
+        "rank": 19
+    },
+    {
+        "name": "Henkel",
+        "code": "HEN3.DE",
+        "country": "Germany",
+        "rank": 20
+    },
+    {
+        "name": "E.ON",
+        "code": "EOAN.DE",
+        "country": "Germany",
+        "rank": 21
+    },
+    {
+        "name": "Daimler Truck",
+        "code": "DTG.F",
+        "country": "Germany",
+        "rank": 22
+    },
+    {
+        "name": "Beiersdorf",
+        "code": "BEI.DE",
+        "country": "Germany",
+        "rank": 23
+    },
+    {
+        "name": "EnBW Energie",
+        "code": "EBK.DE",
+        "country": "Germany",
+        "rank": 24
+    },
+    {
+        "name": "Sartorius",
+        "code": "SRT.DE",
+        "country": "Germany",
+        "rank": 25
+    },
+    {
+        "name": "Adidas",
+        "code": "ADS.DE",
+        "country": "Germany",
+        "rank": 26
+    },
+    {
+        "name": "Hannover R\u00fcck",
+        "code": "HNR1.DE",
+        "country": "Germany",
+        "rank": 27
+    },
+    {
+        "name": "Deutsche Bank",
+        "code": "DB",
+        "country": "Germany",
+        "rank": 28
+    },
+    {
+        "name": "Vonovia",
+        "code": "VNA.DE",
+        "country": "Germany",
+        "rank": 29
+    },
+    {
+        "name": "Vantage Towers",
+        "code": "VTWR.DE",
+        "country": "Germany",
+        "rank": 30
+    },
+    {
+        "name": "Porsche SE",
+        "code": "PAH3.DE",
+        "country": "Germany",
+        "rank": 31
+    },
+    {
+        "name": "Fresenius",
+        "code": "FRE.DE",
+        "country": "Germany",
+        "rank": 32
+    },
+    {
+        "name": "Symrise",
+        "code": "SY1.DE",
+        "country": "Germany",
+        "rank": 33
+    },
+    {
+        "name": "Siemens Energy",
+        "code": "ENR.F",
+        "country": "Germany",
+        "rank": 34
+    },
+    {
+        "name": "Delivery Hero",
+        "code": "DHER.F",
+        "country": "Germany",
+        "rank": 35
+    },
+    {
+        "name": "Continental",
+        "code": "CON.DE",
+        "country": "Germany",
+        "rank": 36
+    },
+    {
+        "name": "Talanx",
+        "code": "TLX.DE",
+        "country": "Germany",
+        "rank": 37
+    },
+    {
+        "name": "Commerzbank",
+        "code": "CBK.F",
+        "country": "Germany",
+        "rank": 38
+    },
+    {
+        "name": "MTU Aero Engines",
+        "code": "MTX.DE",
+        "country": "Germany",
+        "rank": 39
+    },
+    {
+        "name": "HeidelbergCement",
+        "code": "HEI.DE",
+        "country": "Germany",
+        "rank": 40
+    },
+    {
+        "name": "Carl Zeiss Meditec",
+        "code": "AFXA.F",
+        "country": "Germany",
+        "rank": 41
+    },
+    {
+        "name": "Lufthansa",
+        "code": "LHA.DE",
+        "country": "Germany",
+        "rank": 42
+    },
+    {
+        "name": "Brenntag",
+        "code": "BNR.DE",
+        "country": "Germany",
+        "rank": 43
+    },
+    {
+        "name": "Zalando",
+        "code": "ZAL.DE",
+        "country": "Germany",
+        "rank": 44
+    },
+    {
+        "name": "Fresenius Medical Care",
+        "code": "FMS",
+        "country": "Germany",
+        "rank": 45
+    },
+    {
+        "name": "Evonik Industries",
+        "code": "EVK.DE",
+        "country": "Germany",
+        "rank": 46
+    },
+    {
+        "name": "PUMA",
+        "code": "PUM.DE",
+        "country": "Germany",
+        "rank": 47
+    },
+    {
+        "name": "HELLA",
+        "code": "HLE.F",
+        "country": "Germany",
+        "rank": 48
+    },
+    {
+        "name": "Knorr-Bremse",
+        "code": "KBX.DE",
+        "country": "Germany",
+        "rank": 49
+    },
+    {
+        "name": "Rheinmetall",
+        "code": "RHM.F",
+        "country": "Germany",
+        "rank": 50
+    },
+    {
+        "name": "Deutsche Wohnen",
+        "code": "DWNI.DE",
+        "country": "Germany",
+        "rank": 51
+    },
+    {
+        "name": "Traton",
+        "code": "8TRA.DE",
+        "country": "Germany",
+        "rank": 52
+    },
+    {
+        "name": "Covestro",
+        "code": "1COV.F",
+        "country": "Germany",
+        "rank": 53
+    },
+    {
+        "name": "Telef\u00f3nica Deutschland (O2)",
+        "code": "O2D.DE",
+        "country": "Germany",
+        "rank": 54
+    },
+    {
+        "name": "GEA Group",
+        "code": "G1A.F",
+        "country": "Germany",
+        "rank": 55
+    },
+    {
+        "name": "Rational AG",
+        "code": "RAA.F",
+        "country": "Germany",
+        "rank": 56
+    },
+    {
+        "name": "DWS Group",
+        "code": "DWS.F",
+        "country": "Germany",
+        "rank": 57
+    },
+    {
+        "name": "Wacker Chemie",
+        "code": "WCH.F",
+        "country": "Germany",
+        "rank": 58
+    },
+    {
+        "name": "CTS Eventim",
+        "code": "EVD.F",
+        "country": "Germany",
+        "rank": 59
+    },
+    {
+        "name": "Nemetschek",
+        "code": "NEM.F",
+        "country": "Germany",
+        "rank": 60
+    },
+    {
+        "name": "LEG Immobilien",
+        "code": "LEG.DE",
+        "country": "Germany",
+        "rank": 61
+    },
+    {
+        "name": "Schaeffler",
+        "code": "SHA.F",
+        "country": "Germany",
+        "rank": 62
+    },
+    {
+        "name": "Fuchs Petrolub",
+        "code": "FPE.F",
+        "country": "Germany",
+        "rank": 63
+    },
+    {
+        "name": "Bechtle",
+        "code": "BC8.F",
+        "country": "Germany",
+        "rank": 64
+    },
+    {
+        "name": "Verbio",
+        "code": "VBK.F",
+        "country": "Germany",
+        "rank": 65
+    },
+    {
+        "name": "Hochtief",
+        "code": "HOT.F",
+        "country": "Germany",
+        "rank": 66
+    },
+    {
+        "name": "Lechwerke",
+        "code": "LEC.F",
+        "country": "Germany",
+        "rank": 67
+    },
+    {
+        "name": "HUGO BOSS",
+        "code": "BOSS.DE",
+        "country": "Germany",
+        "rank": 68
+    },
+    {
+        "name": "HelloFresh",
+        "code": "HFG.DE",
+        "country": "Germany",
+        "rank": 69
+    },
+    {
+        "name": "KION Group",
+        "code": "KGX.DE",
+        "country": "Germany",
+        "rank": 70
+    },
+    {
+        "name": "K+S",
+        "code": "SDF.F",
+        "country": "Germany",
+        "rank": 71
+    },
+    {
+        "name": "Thyssenkrupp",
+        "code": "TKA.F",
+        "country": "Germany",
+        "rank": 72
+    },
+    {
+        "name": "Fraport",
+        "code": "FRA.DE",
+        "country": "Germany",
+        "rank": 73
+    },
+    {
+        "name": "Scout24",
+        "code": "G24.F",
+        "country": "Germany",
+        "rank": 74
+    },
+    {
+        "name": "United Internet",
+        "code": "UTDI.F",
+        "country": "Germany",
+        "rank": 75
+    },
+    {
+        "name": "Sixt",
+        "code": "SIX2.F",
+        "country": "Germany",
+        "rank": 76
+    },
+    {
+        "name": "Lanxess",
+        "code": "LXS.F",
+        "country": "Germany",
+        "rank": 77
+    },
+    {
+        "name": "S\u00fcdzucker",
+        "code": "SZU.F",
+        "country": "Germany",
+        "rank": 78
+    },
+    {
+        "name": "Aurubis",
+        "code": "NDA.F",
+        "country": "Germany",
+        "rank": 79
+    },
+    {
+        "name": "Metro AG",
+        "code": "B4B.F",
+        "country": "Germany",
+        "rank": 80
+    },
+    {
+        "name": "DMG Mori",
+        "code": "GIL.F",
+        "country": "Germany",
+        "rank": 81
+    },
+    {
+        "name": "Krones",
+        "code": "KRN.F",
+        "country": "Germany",
+        "rank": 82
+    },
+    {
+        "name": "Fielmann",
+        "code": "FIE.F",
+        "country": "Germany",
+        "rank": 83
+    },
+    {
+        "name": "Aixtron",
+        "code": "AIXA.F",
+        "country": "Germany",
+        "rank": 84
+    },
+    {
+        "name": "Encavis",
+        "code": "ECV.F",
+        "country": "Germany",
+        "rank": 85
+    },
+    {
+        "name": "Gelsenwasser",
+        "code": "WWG.F",
+        "country": "Germany",
+        "rank": 86
+    },
+    {
+        "name": "Nordex",
+        "code": "NDX1.F",
+        "country": "Germany",
+        "rank": 87
+    },
+    {
+        "name": "TUI",
+        "code": "TUI1.F",
+        "country": "Germany",
+        "rank": 88
+    },
+    {
+        "name": "Evotec",
+        "code": "EVO",
+        "country": "Germany",
+        "rank": 89
+    },
+    {
+        "name": "Jungheinrich",
+        "code": "JUN3.F",
+        "country": "Germany",
+        "rank": 90
+    },
+    {
+        "name": "SYNLAB",
+        "code": "SYAB.DE",
+        "country": "Germany",
+        "rank": 91
+    },
+    {
+        "name": "Str\u00f6er",
+        "code": "SAX.F",
+        "country": "Germany",
+        "rank": 92
+    },
+    {
+        "name": "Hensoldt",
+        "code": "HAG.F",
+        "country": "Germany",
+        "rank": 93
+    },
+    {
+        "name": "SMA Solar Technology",
+        "code": "S92.F",
+        "country": "Germany",
+        "rank": 94
+    },
+    {
+        "name": "Mainova",
+        "code": "MNV6.F",
+        "country": "Germany",
+        "rank": 95
+    },
+    {
+        "name": "Freenet",
+        "code": "FNTN.F",
+        "country": "Germany",
+        "rank": 96
+    },
+    {
+        "name": "TeamViewer",
+        "code": "TMV.DE",
+        "country": "Germany",
+        "rank": 97
+    },
+    {
+        "name": "Vitesco Technologies Group",
+        "code": "VTSC.DE",
+        "country": "Germany",
+        "rank": 98
+    },
+    {
+        "name": "D\u00fcrr",
+        "code": "DUE.F",
+        "country": "Germany",
+        "rank": 99
+    },
+    {
+        "name": "KWS",
+        "code": "KWS.F",
+        "country": "Germany",
+        "rank": 100
+    },
+    {
+        "name": "SAP",
+        "code": "SAP",
+        "country": "Germany",
+        "rank": 101
+    },
+    {
+        "name": "Siemens",
+        "code": "SIE.DE",
+        "country": "Germany",
+        "rank": 102
+    },
+    {
+        "name": "Deutsche Telekom",
+        "code": "DTE.DE",
+        "country": "Germany",
+        "rank": 103
+    },
+    {
+        "name": "Porsche",
+        "code": "P911.DE",
+        "country": "Germany",
+        "rank": 104
+    },
+    {
+        "name": "Allianz",
+        "code": "ALV.DE",
+        "country": "Germany",
+        "rank": 105
+    },
+    {
+        "name": "Merck KGaA",
+        "code": "MRK.DE",
+        "country": "Germany",
+        "rank": 106
+    },
+    {
+        "name": "Volkswagen",
+        "code": "VOW3.DE",
+        "country": "Germany",
+        "rank": 107
+    },
+    {
+        "name": "Mercedes-Benz",
+        "code": "MBG.DE",
+        "country": "Germany",
+        "rank": 108
+    },
+    {
+        "name": "BMW",
+        "code": "BMW.DE",
+        "country": "Germany",
+        "rank": 109
+    },
+    {
+        "name": "Siemens Healthineers",
+        "code": "SHL.DE",
+        "country": "Germany",
+        "rank": 110
+    },
+    {
+        "name": "Bayer",
+        "code": "BAYZF",
+        "country": "Germany",
+        "rank": 111
+    },
+    {
+        "name": "BASF",
+        "code": "BAS.DE",
+        "country": "Germany",
+        "rank": 112
+    },
+    {
+        "name": "Deutsche Post",
+        "code": "DPW.DE",
+        "country": "Germany",
+        "rank": 113
+    },
+    {
+        "name": "Munich RE (M\u00fcnchener R\u00fcck)",
+        "code": "MUV2.DE",
+        "country": "Germany",
+        "rank": 114
+    },
+    {
+        "name": "Infineon",
+        "code": "IFX.DE",
+        "country": "Germany",
+        "rank": 115
+    },
+    {
+        "name": "BioNTech",
+        "code": "BNTX",
+        "country": "Germany",
+        "rank": 116
+    },
+    {
+        "name": "Hapag-Lloyd",
+        "code": "HLAG.DE",
+        "country": "Germany",
+        "rank": 117
+    },
+    {
+        "name": "Deutsche B\u00f6rse",
+        "code": "DB1.DE",
+        "country": "Germany",
+        "rank": 118
+    },
+    {
+        "name": "RWE",
+        "code": "RWE.DE",
+        "country": "Germany",
+        "rank": 119
+    },
+    {
+        "name": "Henkel",
+        "code": "HEN3.DE",
+        "country": "Germany",
+        "rank": 120
+    },
+    {
+        "name": "E.ON",
+        "code": "EOAN.DE",
+        "country": "Germany",
+        "rank": 121
+    },
+    {
+        "name": "Daimler Truck",
+        "code": "DTG.F",
+        "country": "Germany",
+        "rank": 122
+    },
+    {
+        "name": "Beiersdorf",
+        "code": "BEI.DE",
+        "country": "Germany",
+        "rank": 123
+    },
+    {
+        "name": "EnBW Energie",
+        "code": "EBK.DE",
+        "country": "Germany",
+        "rank": 124
+    },
+    {
+        "name": "Sartorius",
+        "code": "SRT.DE",
+        "country": "Germany",
+        "rank": 125
+    },
+    {
+        "name": "Adidas",
+        "code": "ADS.DE",
+        "country": "Germany",
+        "rank": 126
+    },
+    {
+        "name": "Hannover R\u00fcck",
+        "code": "HNR1.DE",
+        "country": "Germany",
+        "rank": 127
+    },
+    {
+        "name": "Deutsche Bank",
+        "code": "DB",
+        "country": "Germany",
+        "rank": 128
+    },
+    {
+        "name": "Vonovia",
+        "code": "VNA.DE",
+        "country": "Germany",
+        "rank": 129
+    },
+    {
+        "name": "Vantage Towers",
+        "code": "VTWR.DE",
+        "country": "Germany",
+        "rank": 130
+    },
+    {
+        "name": "Porsche SE",
+        "code": "PAH3.DE",
+        "country": "Germany",
+        "rank": 131
+    },
+    {
+        "name": "Fresenius",
+        "code": "FRE.DE",
+        "country": "Germany",
+        "rank": 132
+    },
+    {
+        "name": "Symrise",
+        "code": "SY1.DE",
+        "country": "Germany",
+        "rank": 133
+    },
+    {
+        "name": "Siemens Energy",
+        "code": "ENR.F",
+        "country": "Germany",
+        "rank": 134
+    },
+    {
+        "name": "Delivery Hero",
+        "code": "DHER.F",
+        "country": "Germany",
+        "rank": 135
+    },
+    {
+        "name": "Continental",
+        "code": "CON.DE",
+        "country": "Germany",
+        "rank": 136
+    },
+    {
+        "name": "Talanx",
+        "code": "TLX.DE",
+        "country": "Germany",
+        "rank": 137
+    },
+    {
+        "name": "Commerzbank",
+        "code": "CBK.F",
+        "country": "Germany",
+        "rank": 138
+    },
+    {
+        "name": "MTU Aero Engines",
+        "code": "MTX.DE",
+        "country": "Germany",
+        "rank": 139
+    },
+    {
+        "name": "HeidelbergCement",
+        "code": "HEI.DE",
+        "country": "Germany",
+        "rank": 140
+    },
+    {
+        "name": "Carl Zeiss Meditec",
+        "code": "AFXA.F",
+        "country": "Germany",
+        "rank": 141
+    },
+    {
+        "name": "Lufthansa",
+        "code": "LHA.DE",
+        "country": "Germany",
+        "rank": 142
+    },
+    {
+        "name": "Brenntag",
+        "code": "BNR.DE",
+        "country": "Germany",
+        "rank": 143
+    },
+    {
+        "name": "Zalando",
+        "code": "ZAL.DE",
+        "country": "Germany",
+        "rank": 144
+    },
+    {
+        "name": "Fresenius Medical Care",
+        "code": "FMS",
+        "country": "Germany",
+        "rank": 145
+    },
+    {
+        "name": "Evonik Industries",
+        "code": "EVK.DE",
+        "country": "Germany",
+        "rank": 146
+    },
+    {
+        "name": "PUMA",
+        "code": "PUM.DE",
+        "country": "Germany",
+        "rank": 147
+    },
+    {
+        "name": "HELLA",
+        "code": "HLE.F",
+        "country": "Germany",
+        "rank": 148
+    },
+    {
+        "name": "Knorr-Bremse",
+        "code": "KBX.DE",
+        "country": "Germany",
+        "rank": 149
+    },
+    {
+        "name": "Rheinmetall",
+        "code": "RHM.F",
+        "country": "Germany",
+        "rank": 150
+    },
+    {
+        "name": "Deutsche Wohnen",
+        "code": "DWNI.DE",
+        "country": "Germany",
+        "rank": 151
+    },
+    {
+        "name": "Traton",
+        "code": "8TRA.DE",
+        "country": "Germany",
+        "rank": 152
+    },
+    {
+        "name": "Covestro",
+        "code": "1COV.F",
+        "country": "Germany",
+        "rank": 153
+    },
+    {
+        "name": "Telef\u00f3nica Deutschland (O2)",
+        "code": "O2D.DE",
+        "country": "Germany",
+        "rank": 154
+    },
+    {
+        "name": "GEA Group",
+        "code": "G1A.F",
+        "country": "Germany",
+        "rank": 155
+    },
+    {
+        "name": "Rational AG",
+        "code": "RAA.F",
+        "country": "Germany",
+        "rank": 156
+    },
+    {
+        "name": "DWS Group",
+        "code": "DWS.F",
+        "country": "Germany",
+        "rank": 157
+    },
+    {
+        "name": "Wacker Chemie",
+        "code": "WCH.F",
+        "country": "Germany",
+        "rank": 158
+    },
+    {
+        "name": "CTS Eventim",
+        "code": "EVD.F",
+        "country": "Germany",
+        "rank": 159
+    },
+    {
+        "name": "Nemetschek",
+        "code": "NEM.F",
+        "country": "Germany",
+        "rank": 160
+    },
+    {
+        "name": "LEG Immobilien",
+        "code": "LEG.DE",
+        "country": "Germany",
+        "rank": 161
+    },
+    {
+        "name": "Schaeffler",
+        "code": "SHA.F",
+        "country": "Germany",
+        "rank": 162
+    },
+    {
+        "name": "Fuchs Petrolub",
+        "code": "FPE.F",
+        "country": "Germany",
+        "rank": 163
+    },
+    {
+        "name": "Bechtle",
+        "code": "BC8.F",
+        "country": "Germany",
+        "rank": 164
+    },
+    {
+        "name": "Verbio",
+        "code": "VBK.F",
+        "country": "Germany",
+        "rank": 165
+    },
+    {
+        "name": "Hochtief",
+        "code": "HOT.F",
+        "country": "Germany",
+        "rank": 166
+    },
+    {
+        "name": "Lechwerke",
+        "code": "LEC.F",
+        "country": "Germany",
+        "rank": 167
+    },
+    {
+        "name": "HUGO BOSS",
+        "code": "BOSS.DE",
+        "country": "Germany",
+        "rank": 168
+    },
+    {
+        "name": "HelloFresh",
+        "code": "HFG.DE",
+        "country": "Germany",
+        "rank": 169
+    },
+    {
+        "name": "KION Group",
+        "code": "KGX.DE",
+        "country": "Germany",
+        "rank": 170
+    },
+    {
+        "name": "K+S",
+        "code": "SDF.F",
+        "country": "Germany",
+        "rank": 171
+    },
+    {
+        "name": "Thyssenkrupp",
+        "code": "TKA.F",
+        "country": "Germany",
+        "rank": 172
+    },
+    {
+        "name": "Fraport",
+        "code": "FRA.DE",
+        "country": "Germany",
+        "rank": 173
+    },
+    {
+        "name": "Scout24",
+        "code": "G24.F",
+        "country": "Germany",
+        "rank": 174
+    },
+    {
+        "name": "United Internet",
+        "code": "UTDI.F",
+        "country": "Germany",
+        "rank": 175
+    },
+    {
+        "name": "Sixt",
+        "code": "SIX2.F",
+        "country": "Germany",
+        "rank": 176
+    },
+    {
+        "name": "Lanxess",
+        "code": "LXS.F",
+        "country": "Germany",
+        "rank": 177
+    },
+    {
+        "name": "S\u00fcdzucker",
+        "code": "SZU.F",
+        "country": "Germany",
+        "rank": 178
+    },
+    {
+        "name": "Aurubis",
+        "code": "NDA.F",
+        "country": "Germany",
+        "rank": 179
+    },
+    {
+        "name": "Metro AG",
+        "code": "B4B.F",
+        "country": "Germany",
+        "rank": 180
+    },
+    {
+        "name": "DMG Mori",
+        "code": "GIL.F",
+        "country": "Germany",
+        "rank": 181
+    },
+    {
+        "name": "Krones",
+        "code": "KRN.F",
+        "country": "Germany",
+        "rank": 182
+    },
+    {
+        "name": "Fielmann",
+        "code": "FIE.F",
+        "country": "Germany",
+        "rank": 183
+    },
+    {
+        "name": "Aixtron",
+        "code": "AIXA.F",
+        "country": "Germany",
+        "rank": 184
+    },
+    {
+        "name": "Encavis",
+        "code": "ECV.F",
+        "country": "Germany",
+        "rank": 185
+    },
+    {
+        "name": "Gelsenwasser",
+        "code": "WWG.F",
+        "country": "Germany",
+        "rank": 186
+    },
+    {
+        "name": "Nordex",
+        "code": "NDX1.F",
+        "country": "Germany",
+        "rank": 187
+    },
+    {
+        "name": "TUI",
+        "code": "TUI1.F",
+        "country": "Germany",
+        "rank": 188
+    },
+    {
+        "name": "Evotec",
+        "code": "EVO",
+        "country": "Germany",
+        "rank": 189
+    },
+    {
+        "name": "Jungheinrich",
+        "code": "JUN3.F",
+        "country": "Germany",
+        "rank": 190
+    },
+    {
+        "name": "SYNLAB",
+        "code": "SYAB.DE",
+        "country": "Germany",
+        "rank": 191
+    },
+    {
+        "name": "Str\u00f6er",
+        "code": "SAX.F",
+        "country": "Germany",
+        "rank": 192
+    },
+    {
+        "name": "Hensoldt",
+        "code": "HAG.F",
+        "country": "Germany",
+        "rank": 193
+    },
+    {
+        "name": "SMA Solar Technology",
+        "code": "S92.F",
+        "country": "Germany",
+        "rank": 194
+    },
+    {
+        "name": "Mainova",
+        "code": "MNV6.F",
+        "country": "Germany",
+        "rank": 195
+    },
+    {
+        "name": "Freenet",
+        "code": "FNTN.F",
+        "country": "Germany",
+        "rank": 196
+    },
+    {
+        "name": "TeamViewer",
+        "code": "TMV.DE",
+        "country": "Germany",
+        "rank": 197
+    },
+    {
+        "name": "Vitesco Technologies Group",
+        "code": "VTSC.DE",
+        "country": "Germany",
+        "rank": 198
+    },
+    {
+        "name": "D\u00fcrr",
+        "code": "DUE.F",
+        "country": "Germany",
+        "rank": 199
+    },
+    {
+        "name": "KWS",
+        "code": "KWS.F",
+        "country": "Germany",
+        "rank": 200
+    },
+    {
+        "name": "SAP",
+        "code": "SAP",
+        "country": "Germany",
+        "rank": 201
+    },
+    {
+        "name": "Siemens",
+        "code": "SIE.DE",
+        "country": "Germany",
+        "rank": 202
+    },
+    {
+        "name": "Deutsche Telekom",
+        "code": "DTE.DE",
+        "country": "Germany",
+        "rank": 203
+    },
+    {
+        "name": "Porsche",
+        "code": "P911.DE",
+        "country": "Germany",
+        "rank": 204
+    },
+    {
+        "name": "Allianz",
+        "code": "ALV.DE",
+        "country": "Germany",
+        "rank": 205
+    },
+    {
+        "name": "Merck KGaA",
+        "code": "MRK.DE",
+        "country": "Germany",
+        "rank": 206
+    },
+    {
+        "name": "Volkswagen",
+        "code": "VOW3.DE",
+        "country": "Germany",
+        "rank": 207
+    },
+    {
+        "name": "Mercedes-Benz",
+        "code": "MBG.DE",
+        "country": "Germany",
+        "rank": 208
+    },
+    {
+        "name": "BMW",
+        "code": "BMW.DE",
+        "country": "Germany",
+        "rank": 209
+    },
+    {
+        "name": "Siemens Healthineers",
+        "code": "SHL.DE",
+        "country": "Germany",
+        "rank": 210
+    },
+    {
+        "name": "Bayer",
+        "code": "BAYZF",
+        "country": "Germany",
+        "rank": 211
+    },
+    {
+        "name": "BASF",
+        "code": "BAS.DE",
+        "country": "Germany",
+        "rank": 212
+    },
+    {
+        "name": "Deutsche Post",
+        "code": "DPW.DE",
+        "country": "Germany",
+        "rank": 213
+    },
+    {
+        "name": "Munich RE (M\u00fcnchener R\u00fcck)",
+        "code": "MUV2.DE",
+        "country": "Germany",
+        "rank": 214
+    },
+    {
+        "name": "Infineon",
+        "code": "IFX.DE",
+        "country": "Germany",
+        "rank": 215
+    },
+    {
+        "name": "BioNTech",
+        "code": "BNTX",
+        "country": "Germany",
+        "rank": 216
+    },
+    {
+        "name": "Hapag-Lloyd",
+        "code": "HLAG.DE",
+        "country": "Germany",
+        "rank": 217
+    },
+    {
+        "name": "Deutsche B\u00f6rse",
+        "code": "DB1.DE",
+        "country": "Germany",
+        "rank": 218
+    },
+    {
+        "name": "RWE",
+        "code": "RWE.DE",
+        "country": "Germany",
+        "rank": 219
+    },
+    {
+        "name": "Henkel",
+        "code": "HEN3.DE",
+        "country": "Germany",
+        "rank": 220
+    },
+    {
+        "name": "E.ON",
+        "code": "EOAN.DE",
+        "country": "Germany",
+        "rank": 221
+    },
+    {
+        "name": "Daimler Truck",
+        "code": "DTG.F",
+        "country": "Germany",
+        "rank": 222
+    },
+    {
+        "name": "Beiersdorf",
+        "code": "BEI.DE",
+        "country": "Germany",
+        "rank": 223
+    },
+    {
+        "name": "EnBW Energie",
+        "code": "EBK.DE",
+        "country": "Germany",
+        "rank": 224
+    },
+    {
+        "name": "Sartorius",
+        "code": "SRT.DE",
+        "country": "Germany",
+        "rank": 225
+    },
+    {
+        "name": "Adidas",
+        "code": "ADS.DE",
+        "country": "Germany",
+        "rank": 226
+    },
+    {
+        "name": "Hannover R\u00fcck",
+        "code": "HNR1.DE",
+        "country": "Germany",
+        "rank": 227
+    },
+    {
+        "name": "Deutsche Bank",
+        "code": "DB",
+        "country": "Germany",
+        "rank": 228
+    },
+    {
+        "name": "Vonovia",
+        "code": "VNA.DE",
+        "country": "Germany",
+        "rank": 229
+    },
+    {
+        "name": "Vantage Towers",
+        "code": "VTWR.DE",
+        "country": "Germany",
+        "rank": 230
+    },
+    {
+        "name": "Porsche SE",
+        "code": "PAH3.DE",
+        "country": "Germany",
+        "rank": 231
+    },
+    {
+        "name": "Fresenius",
+        "code": "FRE.DE",
+        "country": "Germany",
+        "rank": 232
+    },
+    {
+        "name": "Symrise",
+        "code": "SY1.DE",
+        "country": "Germany",
+        "rank": 233
+    },
+    {
+        "name": "Siemens Energy",
+        "code": "ENR.F",
+        "country": "Germany",
+        "rank": 234
+    },
+    {
+        "name": "Delivery Hero",
+        "code": "DHER.F",
+        "country": "Germany",
+        "rank": 235
+    },
+    {
+        "name": "Continental",
+        "code": "CON.DE",
+        "country": "Germany",
+        "rank": 236
+    },
+    {
+        "name": "Talanx",
+        "code": "TLX.DE",
+        "country": "Germany",
+        "rank": 237
+    },
+    {
+        "name": "Commerzbank",
+        "code": "CBK.F",
+        "country": "Germany",
+        "rank": 238
+    },
+    {
+        "name": "MTU Aero Engines",
+        "code": "MTX.DE",
+        "country": "Germany",
+        "rank": 239
+    },
+    {
+        "name": "HeidelbergCement",
+        "code": "HEI.DE",
+        "country": "Germany",
+        "rank": 240
+    },
+    {
+        "name": "Carl Zeiss Meditec",
+        "code": "AFXA.F",
+        "country": "Germany",
+        "rank": 241
+    },
+    {
+        "name": "Lufthansa",
+        "code": "LHA.DE",
+        "country": "Germany",
+        "rank": 242
+    },
+    {
+        "name": "Brenntag",
+        "code": "BNR.DE",
+        "country": "Germany",
+        "rank": 243
+    },
+    {
+        "name": "Zalando",
+        "code": "ZAL.DE",
+        "country": "Germany",
+        "rank": 244
+    },
+    {
+        "name": "Fresenius Medical Care",
+        "code": "FMS",
+        "country": "Germany",
+        "rank": 245
+    },
+    {
+        "name": "Evonik Industries",
+        "code": "EVK.DE",
+        "country": "Germany",
+        "rank": 246
+    },
+    {
+        "name": "PUMA",
+        "code": "PUM.DE",
+        "country": "Germany",
+        "rank": 247
+    },
+    {
+        "name": "HELLA",
+        "code": "HLE.F",
+        "country": "Germany",
+        "rank": 248
+    },
+    {
+        "name": "Knorr-Bremse",
+        "code": "KBX.DE",
+        "country": "Germany",
+        "rank": 249
+    },
+    {
+        "name": "Rheinmetall",
+        "code": "RHM.F",
+        "country": "Germany",
+        "rank": 250
+    },
+    {
+        "name": "Deutsche Wohnen",
+        "code": "DWNI.DE",
+        "country": "Germany",
+        "rank": 251
+    },
+    {
+        "name": "Traton",
+        "code": "8TRA.DE",
+        "country": "Germany",
+        "rank": 252
+    },
+    {
+        "name": "Covestro",
+        "code": "1COV.F",
+        "country": "Germany",
+        "rank": 253
+    },
+    {
+        "name": "Telef\u00f3nica Deutschland (O2)",
+        "code": "O2D.DE",
+        "country": "Germany",
+        "rank": 254
+    },
+    {
+        "name": "GEA Group",
+        "code": "G1A.F",
+        "country": "Germany",
+        "rank": 255
+    },
+    {
+        "name": "Rational AG",
+        "code": "RAA.F",
+        "country": "Germany",
+        "rank": 256
+    },
+    {
+        "name": "DWS Group",
+        "code": "DWS.F",
+        "country": "Germany",
+        "rank": 257
+    },
+    {
+        "name": "Wacker Chemie",
+        "code": "WCH.F",
+        "country": "Germany",
+        "rank": 258
+    },
+    {
+        "name": "CTS Eventim",
+        "code": "EVD.F",
+        "country": "Germany",
+        "rank": 259
+    },
+    {
+        "name": "Nemetschek",
+        "code": "NEM.F",
+        "country": "Germany",
+        "rank": 260
+    },
+    {
+        "name": "LEG Immobilien",
+        "code": "LEG.DE",
+        "country": "Germany",
+        "rank": 261
+    },
+    {
+        "name": "Schaeffler",
+        "code": "SHA.F",
+        "country": "Germany",
+        "rank": 262
+    },
+    {
+        "name": "Fuchs Petrolub",
+        "code": "FPE.F",
+        "country": "Germany",
+        "rank": 263
+    },
+    {
+        "name": "Bechtle",
+        "code": "BC8.F",
+        "country": "Germany",
+        "rank": 264
+    },
+    {
+        "name": "Verbio",
+        "code": "VBK.F",
+        "country": "Germany",
+        "rank": 265
+    },
+    {
+        "name": "Hochtief",
+        "code": "HOT.F",
+        "country": "Germany",
+        "rank": 266
+    },
+    {
+        "name": "Lechwerke",
+        "code": "LEC.F",
+        "country": "Germany",
+        "rank": 267
+    },
+    {
+        "name": "HUGO BOSS",
+        "code": "BOSS.DE",
+        "country": "Germany",
+        "rank": 268
+    },
+    {
+        "name": "HelloFresh",
+        "code": "HFG.DE",
+        "country": "Germany",
+        "rank": 269
+    },
+    {
+        "name": "KION Group",
+        "code": "KGX.DE",
+        "country": "Germany",
+        "rank": 270
+    },
+    {
+        "name": "K+S",
+        "code": "SDF.F",
+        "country": "Germany",
+        "rank": 271
+    },
+    {
+        "name": "Thyssenkrupp",
+        "code": "TKA.F",
+        "country": "Germany",
+        "rank": 272
+    },
+    {
+        "name": "Fraport",
+        "code": "FRA.DE",
+        "country": "Germany",
+        "rank": 273
+    },
+    {
+        "name": "Scout24",
+        "code": "G24.F",
+        "country": "Germany",
+        "rank": 274
+    },
+    {
+        "name": "United Internet",
+        "code": "UTDI.F",
+        "country": "Germany",
+        "rank": 275
+    },
+    {
+        "name": "Sixt",
+        "code": "SIX2.F",
+        "country": "Germany",
+        "rank": 276
+    },
+    {
+        "name": "Lanxess",
+        "code": "LXS.F",
+        "country": "Germany",
+        "rank": 277
+    },
+    {
+        "name": "S\u00fcdzucker",
+        "code": "SZU.F",
+        "country": "Germany",
+        "rank": 278
+    },
+    {
+        "name": "Aurubis",
+        "code": "NDA.F",
+        "country": "Germany",
+        "rank": 279
+    },
+    {
+        "name": "Metro AG",
+        "code": "B4B.F",
+        "country": "Germany",
+        "rank": 280
+    },
+    {
+        "name": "DMG Mori",
+        "code": "GIL.F",
+        "country": "Germany",
+        "rank": 281
+    },
+    {
+        "name": "Krones",
+        "code": "KRN.F",
+        "country": "Germany",
+        "rank": 282
+    },
+    {
+        "name": "Fielmann",
+        "code": "FIE.F",
+        "country": "Germany",
+        "rank": 283
+    },
+    {
+        "name": "Aixtron",
+        "code": "AIXA.F",
+        "country": "Germany",
+        "rank": 284
+    },
+    {
+        "name": "Encavis",
+        "code": "ECV.F",
+        "country": "Germany",
+        "rank": 285
+    },
+    {
+        "name": "Gelsenwasser",
+        "code": "WWG.F",
+        "country": "Germany",
+        "rank": 286
+    },
+    {
+        "name": "Nordex",
+        "code": "NDX1.F",
+        "country": "Germany",
+        "rank": 287
+    },
+    {
+        "name": "TUI",
+        "code": "TUI1.F",
+        "country": "Germany",
+        "rank": 288
+    },
+    {
+        "name": "Evotec",
+        "code": "EVO",
+        "country": "Germany",
+        "rank": 289
+    },
+    {
+        "name": "Jungheinrich",
+        "code": "JUN3.F",
+        "country": "Germany",
+        "rank": 290
+    },
+    {
+        "name": "SYNLAB",
+        "code": "SYAB.DE",
+        "country": "Germany",
+        "rank": 291
+    },
+    {
+        "name": "Str\u00f6er",
+        "code": "SAX.F",
+        "country": "Germany",
+        "rank": 292
+    },
+    {
+        "name": "Hensoldt",
+        "code": "HAG.F",
+        "country": "Germany",
+        "rank": 293
+    },
+    {
+        "name": "SMA Solar Technology",
+        "code": "S92.F",
+        "country": "Germany",
+        "rank": 294
+    },
+    {
+        "name": "Mainova",
+        "code": "MNV6.F",
+        "country": "Germany",
+        "rank": 295
+    },
+    {
+        "name": "Freenet",
+        "code": "FNTN.F",
+        "country": "Germany",
+        "rank": 296
+    },
+    {
+        "name": "TeamViewer",
+        "code": "TMV.DE",
+        "country": "Germany",
+        "rank": 297
+    },
+    {
+        "name": "Vitesco Technologies Group",
+        "code": "VTSC.DE",
+        "country": "Germany",
+        "rank": 298
+    },
+    {
+        "name": "D\u00fcrr",
+        "code": "DUE.F",
+        "country": "Germany",
+        "rank": 299
+    },
+    {
+        "name": "KWS",
+        "code": "KWS.F",
+        "country": "Germany",
+        "rank": 300
+    },
+    {
+        "name": "SAP",
+        "code": "SAP",
+        "country": "Germany",
+        "rank": 301
+    },
+    {
+        "name": "Siemens",
+        "code": "SIE.DE",
+        "country": "Germany",
+        "rank": 302
+    },
+    {
+        "name": "Deutsche Telekom",
+        "code": "DTE.DE",
+        "country": "Germany",
+        "rank": 303
+    },
+    {
+        "name": "Porsche",
+        "code": "P911.DE",
+        "country": "Germany",
+        "rank": 304
+    },
+    {
+        "name": "Allianz",
+        "code": "ALV.DE",
+        "country": "Germany",
+        "rank": 305
+    },
+    {
+        "name": "Merck KGaA",
+        "code": "MRK.DE",
+        "country": "Germany",
+        "rank": 306
+    },
+    {
+        "name": "Volkswagen",
+        "code": "VOW3.DE",
+        "country": "Germany",
+        "rank": 307
+    },
+    {
+        "name": "Mercedes-Benz",
+        "code": "MBG.DE",
+        "country": "Germany",
+        "rank": 308
+    },
+    {
+        "name": "BMW",
+        "code": "BMW.DE",
+        "country": "Germany",
+        "rank": 309
+    },
+    {
+        "name": "Siemens Healthineers",
+        "code": "SHL.DE",
+        "country": "Germany",
+        "rank": 310
+    },
+    {
+        "name": "Bayer",
+        "code": "BAYZF",
+        "country": "Germany",
+        "rank": 311
+    },
+    {
+        "name": "BASF",
+        "code": "BAS.DE",
+        "country": "Germany",
+        "rank": 312
+    },
+    {
+        "name": "Deutsche Post",
+        "code": "DPW.DE",
+        "country": "Germany",
+        "rank": 313
+    },
+    {
+        "name": "Munich RE (M\u00fcnchener R\u00fcck)",
+        "code": "MUV2.DE",
+        "country": "Germany",
+        "rank": 314
+    },
+    {
+        "name": "Infineon",
+        "code": "IFX.DE",
+        "country": "Germany",
+        "rank": 315
+    },
+    {
+        "name": "BioNTech",
+        "code": "BNTX",
+        "country": "Germany",
+        "rank": 316
+    },
+    {
+        "name": "Hapag-Lloyd",
+        "code": "HLAG.DE",
+        "country": "Germany",
+        "rank": 317
+    },
+    {
+        "name": "Deutsche B\u00f6rse",
+        "code": "DB1.DE",
+        "country": "Germany",
+        "rank": 318
+    },
+    {
+        "name": "RWE",
+        "code": "RWE.DE",
+        "country": "Germany",
+        "rank": 319
+    },
+    {
+        "name": "Henkel",
+        "code": "HEN3.DE",
+        "country": "Germany",
+        "rank": 320
+    },
+    {
+        "name": "E.ON",
+        "code": "EOAN.DE",
+        "country": "Germany",
+        "rank": 321
+    },
+    {
+        "name": "Daimler Truck",
+        "code": "DTG.F",
+        "country": "Germany",
+        "rank": 322
+    },
+    {
+        "name": "Beiersdorf",
+        "code": "BEI.DE",
+        "country": "Germany",
+        "rank": 323
+    },
+    {
+        "name": "EnBW Energie",
+        "code": "EBK.DE",
+        "country": "Germany",
+        "rank": 324
+    },
+    {
+        "name": "Sartorius",
+        "code": "SRT.DE",
+        "country": "Germany",
+        "rank": 325
+    },
+    {
+        "name": "Adidas",
+        "code": "ADS.DE",
+        "country": "Germany",
+        "rank": 326
+    },
+    {
+        "name": "Hannover R\u00fcck",
+        "code": "HNR1.DE",
+        "country": "Germany",
+        "rank": 327
+    },
+    {
+        "name": "Deutsche Bank",
+        "code": "DB",
+        "country": "Germany",
+        "rank": 328
+    },
+    {
+        "name": "Vonovia",
+        "code": "VNA.DE",
+        "country": "Germany",
+        "rank": 329
+    },
+    {
+        "name": "Vantage Towers",
+        "code": "VTWR.DE",
+        "country": "Germany",
+        "rank": 330
+    },
+    {
+        "name": "Porsche SE",
+        "code": "PAH3.DE",
+        "country": "Germany",
+        "rank": 331
+    },
+    {
+        "name": "Fresenius",
+        "code": "FRE.DE",
+        "country": "Germany",
+        "rank": 332
+    },
+    {
+        "name": "Symrise",
+        "code": "SY1.DE",
+        "country": "Germany",
+        "rank": 333
+    },
+    {
+        "name": "Siemens Energy",
+        "code": "ENR.F",
+        "country": "Germany",
+        "rank": 334
+    },
+    {
+        "name": "Delivery Hero",
+        "code": "DHER.F",
+        "country": "Germany",
+        "rank": 335
+    },
+    {
+        "name": "Continental",
+        "code": "CON.DE",
+        "country": "Germany",
+        "rank": 336
+    },
+    {
+        "name": "Talanx",
+        "code": "TLX.DE",
+        "country": "Germany",
+        "rank": 337
+    },
+    {
+        "name": "Commerzbank",
+        "code": "CBK.F",
+        "country": "Germany",
+        "rank": 338
+    },
+    {
+        "name": "MTU Aero Engines",
+        "code": "MTX.DE",
+        "country": "Germany",
+        "rank": 339
+    },
+    {
+        "name": "HeidelbergCement",
+        "code": "HEI.DE",
+        "country": "Germany",
+        "rank": 340
+    },
+    {
+        "name": "Carl Zeiss Meditec",
+        "code": "AFXA.F",
+        "country": "Germany",
+        "rank": 341
+    },
+    {
+        "name": "Lufthansa",
+        "code": "LHA.DE",
+        "country": "Germany",
+        "rank": 342
+    },
+    {
+        "name": "Brenntag",
+        "code": "BNR.DE",
+        "country": "Germany",
+        "rank": 343
+    },
+    {
+        "name": "Zalando",
+        "code": "ZAL.DE",
+        "country": "Germany",
+        "rank": 344
+    },
+    {
+        "name": "Fresenius Medical Care",
+        "code": "FMS",
+        "country": "Germany",
+        "rank": 345
+    },
+    {
+        "name": "Evonik Industries",
+        "code": "EVK.DE",
+        "country": "Germany",
+        "rank": 346
+    },
+    {
+        "name": "PUMA",
+        "code": "PUM.DE",
+        "country": "Germany",
+        "rank": 347
+    },
+    {
+        "name": "HELLA",
+        "code": "HLE.F",
+        "country": "Germany",
+        "rank": 348
+    },
+    {
+        "name": "Knorr-Bremse",
+        "code": "KBX.DE",
+        "country": "Germany",
+        "rank": 349
+    },
+    {
+        "name": "Rheinmetall",
+        "code": "RHM.F",
+        "country": "Germany",
+        "rank": 350
+    },
+    {
+        "name": "Deutsche Wohnen",
+        "code": "DWNI.DE",
+        "country": "Germany",
+        "rank": 351
+    },
+    {
+        "name": "Traton",
+        "code": "8TRA.DE",
+        "country": "Germany",
+        "rank": 352
+    },
+    {
+        "name": "Covestro",
+        "code": "1COV.F",
+        "country": "Germany",
+        "rank": 353
+    },
+    {
+        "name": "Telef\u00f3nica Deutschland (O2)",
+        "code": "O2D.DE",
+        "country": "Germany",
+        "rank": 354
+    },
+    {
+        "name": "GEA Group",
+        "code": "G1A.F",
+        "country": "Germany",
+        "rank": 355
+    },
+    {
+        "name": "Rational AG",
+        "code": "RAA.F",
+        "country": "Germany",
+        "rank": 356
+    },
+    {
+        "name": "DWS Group",
+        "code": "DWS.F",
+        "country": "Germany",
+        "rank": 357
+    },
+    {
+        "name": "Wacker Chemie",
+        "code": "WCH.F",
+        "country": "Germany",
+        "rank": 358
+    },
+    {
+        "name": "CTS Eventim",
+        "code": "EVD.F",
+        "country": "Germany",
+        "rank": 359
+    },
+    {
+        "name": "Nemetschek",
+        "code": "NEM.F",
+        "country": "Germany",
+        "rank": 360
+    },
+    {
+        "name": "LEG Immobilien",
+        "code": "LEG.DE",
+        "country": "Germany",
+        "rank": 361
+    },
+    {
+        "name": "Schaeffler",
+        "code": "SHA.F",
+        "country": "Germany",
+        "rank": 362
+    },
+    {
+        "name": "Fuchs Petrolub",
+        "code": "FPE.F",
+        "country": "Germany",
+        "rank": 363
+    },
+    {
+        "name": "Bechtle",
+        "code": "BC8.F",
+        "country": "Germany",
+        "rank": 364
+    },
+    {
+        "name": "Verbio",
+        "code": "VBK.F",
+        "country": "Germany",
+        "rank": 365
+    },
+    {
+        "name": "Hochtief",
+        "code": "HOT.F",
+        "country": "Germany",
+        "rank": 366
+    },
+    {
+        "name": "Lechwerke",
+        "code": "LEC.F",
+        "country": "Germany",
+        "rank": 367
+    },
+    {
+        "name": "HUGO BOSS",
+        "code": "BOSS.DE",
+        "country": "Germany",
+        "rank": 368
+    },
+    {
+        "name": "HelloFresh",
+        "code": "HFG.DE",
+        "country": "Germany",
+        "rank": 369
+    },
+    {
+        "name": "KION Group",
+        "code": "KGX.DE",
+        "country": "Germany",
+        "rank": 370
+    },
+    {
+        "name": "K+S",
+        "code": "SDF.F",
+        "country": "Germany",
+        "rank": 371
+    },
+    {
+        "name": "Thyssenkrupp",
+        "code": "TKA.F",
+        "country": "Germany",
+        "rank": 372
+    },
+    {
+        "name": "Fraport",
+        "code": "FRA.DE",
+        "country": "Germany",
+        "rank": 373
+    },
+    {
+        "name": "Scout24",
+        "code": "G24.F",
+        "country": "Germany",
+        "rank": 374
+    },
+    {
+        "name": "United Internet",
+        "code": "UTDI.F",
+        "country": "Germany",
+        "rank": 375
+    },
+    {
+        "name": "Sixt",
+        "code": "SIX2.F",
+        "country": "Germany",
+        "rank": 376
+    },
+    {
+        "name": "Lanxess",
+        "code": "LXS.F",
+        "country": "Germany",
+        "rank": 377
+    },
+    {
+        "name": "S\u00fcdzucker",
+        "code": "SZU.F",
+        "country": "Germany",
+        "rank": 378
+    },
+    {
+        "name": "Aurubis",
+        "code": "NDA.F",
+        "country": "Germany",
+        "rank": 379
+    },
+    {
+        "name": "Metro AG",
+        "code": "B4B.F",
+        "country": "Germany",
+        "rank": 380
+    },
+    {
+        "name": "DMG Mori",
+        "code": "GIL.F",
+        "country": "Germany",
+        "rank": 381
+    },
+    {
+        "name": "Krones",
+        "code": "KRN.F",
+        "country": "Germany",
+        "rank": 382
+    },
+    {
+        "name": "Fielmann",
+        "code": "FIE.F",
+        "country": "Germany",
+        "rank": 383
+    },
+    {
+        "name": "Aixtron",
+        "code": "AIXA.F",
+        "country": "Germany",
+        "rank": 384
+    },
+    {
+        "name": "Encavis",
+        "code": "ECV.F",
+        "country": "Germany",
+        "rank": 385
+    },
+    {
+        "name": "Gelsenwasser",
+        "code": "WWG.F",
+        "country": "Germany",
+        "rank": 386
+    },
+    {
+        "name": "Nordex",
+        "code": "NDX1.F",
+        "country": "Germany",
+        "rank": 387
+    },
+    {
+        "name": "TUI",
+        "code": "TUI1.F",
+        "country": "Germany",
+        "rank": 388
+    },
+    {
+        "name": "Evotec",
+        "code": "EVO",
+        "country": "Germany",
+        "rank": 389
+    },
+    {
+        "name": "Jungheinrich",
+        "code": "JUN3.F",
+        "country": "Germany",
+        "rank": 390
+    },
+    {
+        "name": "SYNLAB",
+        "code": "SYAB.DE",
+        "country": "Germany",
+        "rank": 391
+    },
+    {
+        "name": "Str\u00f6er",
+        "code": "SAX.F",
+        "country": "Germany",
+        "rank": 392
+    },
+    {
+        "name": "Hensoldt",
+        "code": "HAG.F",
+        "country": "Germany",
+        "rank": 393
+    },
+    {
+        "name": "SMA Solar Technology",
+        "code": "S92.F",
+        "country": "Germany",
+        "rank": 394
+    },
+    {
+        "name": "Mainova",
+        "code": "MNV6.F",
+        "country": "Germany",
+        "rank": 395
+    },
+    {
+        "name": "Freenet",
+        "code": "FNTN.F",
+        "country": "Germany",
+        "rank": 396
+    },
+    {
+        "name": "TeamViewer",
+        "code": "TMV.DE",
+        "country": "Germany",
+        "rank": 397
+    },
+    {
+        "name": "Vitesco Technologies Group",
+        "code": "VTSC.DE",
+        "country": "Germany",
+        "rank": 398
+    },
+    {
+        "name": "D\u00fcrr",
+        "code": "DUE.F",
+        "country": "Germany",
+        "rank": 399
+    },
+    {
+        "name": "KWS",
+        "code": "KWS.F",
+        "country": "Germany",
+        "rank": 400
+    },
+    {
+        "name": "SAP",
+        "code": "SAP",
+        "country": "Germany",
+        "rank": 401
+    },
+    {
+        "name": "Siemens",
+        "code": "SIE.DE",
+        "country": "Germany",
+        "rank": 402
+    },
+    {
+        "name": "Deutsche Telekom",
+        "code": "DTE.DE",
+        "country": "Germany",
+        "rank": 403
+    },
+    {
+        "name": "Porsche",
+        "code": "P911.DE",
+        "country": "Germany",
+        "rank": 404
+    },
+    {
+        "name": "Allianz",
+        "code": "ALV.DE",
+        "country": "Germany",
+        "rank": 405
+    },
+    {
+        "name": "Merck KGaA",
+        "code": "MRK.DE",
+        "country": "Germany",
+        "rank": 406
+    },
+    {
+        "name": "Volkswagen",
+        "code": "VOW3.DE",
+        "country": "Germany",
+        "rank": 407
+    },
+    {
+        "name": "Mercedes-Benz",
+        "code": "MBG.DE",
+        "country": "Germany",
+        "rank": 408
+    },
+    {
+        "name": "BMW",
+        "code": "BMW.DE",
+        "country": "Germany",
+        "rank": 409
+    },
+    {
+        "name": "Siemens Healthineers",
+        "code": "SHL.DE",
+        "country": "Germany",
+        "rank": 410
+    },
+    {
+        "name": "Bayer",
+        "code": "BAYZF",
+        "country": "Germany",
+        "rank": 411
+    },
+    {
+        "name": "BASF",
+        "code": "BAS.DE",
+        "country": "Germany",
+        "rank": 412
+    },
+    {
+        "name": "Deutsche Post",
+        "code": "DPW.DE",
+        "country": "Germany",
+        "rank": 413
+    },
+    {
+        "name": "Munich RE (M\u00fcnchener R\u00fcck)",
+        "code": "MUV2.DE",
+        "country": "Germany",
+        "rank": 414
+    },
+    {
+        "name": "Infineon",
+        "code": "IFX.DE",
+        "country": "Germany",
+        "rank": 415
+    },
+    {
+        "name": "BioNTech",
+        "code": "BNTX",
+        "country": "Germany",
+        "rank": 416
+    },
+    {
+        "name": "Hapag-Lloyd",
+        "code": "HLAG.DE",
+        "country": "Germany",
+        "rank": 417
+    },
+    {
+        "name": "Deutsche B\u00f6rse",
+        "code": "DB1.DE",
+        "country": "Germany",
+        "rank": 418
+    },
+    {
+        "name": "RWE",
+        "code": "RWE.DE",
+        "country": "Germany",
+        "rank": 419
+    },
+    {
+        "name": "Henkel",
+        "code": "HEN3.DE",
+        "country": "Germany",
+        "rank": 420
+    },
+    {
+        "name": "E.ON",
+        "code": "EOAN.DE",
+        "country": "Germany",
+        "rank": 421
+    },
+    {
+        "name": "Daimler Truck",
+        "code": "DTG.F",
+        "country": "Germany",
+        "rank": 422
+    },
+    {
+        "name": "Beiersdorf",
+        "code": "BEI.DE",
+        "country": "Germany",
+        "rank": 423
+    },
+    {
+        "name": "EnBW Energie",
+        "code": "EBK.DE",
+        "country": "Germany",
+        "rank": 424
+    },
+    {
+        "name": "Sartorius",
+        "code": "SRT.DE",
+        "country": "Germany",
+        "rank": 425
+    },
+    {
+        "name": "Adidas",
+        "code": "ADS.DE",
+        "country": "Germany",
+        "rank": 426
+    },
+    {
+        "name": "Hannover R\u00fcck",
+        "code": "HNR1.DE",
+        "country": "Germany",
+        "rank": 427
+    },
+    {
+        "name": "Deutsche Bank",
+        "code": "DB",
+        "country": "Germany",
+        "rank": 428
+    },
+    {
+        "name": "Vonovia",
+        "code": "VNA.DE",
+        "country": "Germany",
+        "rank": 429
+    },
+    {
+        "name": "Vantage Towers",
+        "code": "VTWR.DE",
+        "country": "Germany",
+        "rank": 430
+    },
+    {
+        "name": "Porsche SE",
+        "code": "PAH3.DE",
+        "country": "Germany",
+        "rank": 431
+    },
+    {
+        "name": "Fresenius",
+        "code": "FRE.DE",
+        "country": "Germany",
+        "rank": 432
+    },
+    {
+        "name": "Symrise",
+        "code": "SY1.DE",
+        "country": "Germany",
+        "rank": 433
+    },
+    {
+        "name": "Siemens Energy",
+        "code": "ENR.F",
+        "country": "Germany",
+        "rank": 434
+    },
+    {
+        "name": "Delivery Hero",
+        "code": "DHER.F",
+        "country": "Germany",
+        "rank": 435
+    },
+    {
+        "name": "Continental",
+        "code": "CON.DE",
+        "country": "Germany",
+        "rank": 436
+    },
+    {
+        "name": "Talanx",
+        "code": "TLX.DE",
+        "country": "Germany",
+        "rank": 437
+    },
+    {
+        "name": "Commerzbank",
+        "code": "CBK.F",
+        "country": "Germany",
+        "rank": 438
+    },
+    {
+        "name": "MTU Aero Engines",
+        "code": "MTX.DE",
+        "country": "Germany",
+        "rank": 439
+    },
+    {
+        "name": "HeidelbergCement",
+        "code": "HEI.DE",
+        "country": "Germany",
+        "rank": 440
+    },
+    {
+        "name": "Carl Zeiss Meditec",
+        "code": "AFXA.F",
+        "country": "Germany",
+        "rank": 441
+    },
+    {
+        "name": "Lufthansa",
+        "code": "LHA.DE",
+        "country": "Germany",
+        "rank": 442
+    },
+    {
+        "name": "Brenntag",
+        "code": "BNR.DE",
+        "country": "Germany",
+        "rank": 443
+    },
+    {
+        "name": "Zalando",
+        "code": "ZAL.DE",
+        "country": "Germany",
+        "rank": 444
+    },
+    {
+        "name": "Fresenius Medical Care",
+        "code": "FMS",
+        "country": "Germany",
+        "rank": 445
+    },
+    {
+        "name": "Evonik Industries",
+        "code": "EVK.DE",
+        "country": "Germany",
+        "rank": 446
+    },
+    {
+        "name": "PUMA",
+        "code": "PUM.DE",
+        "country": "Germany",
+        "rank": 447
+    },
+    {
+        "name": "HELLA",
+        "code": "HLE.F",
+        "country": "Germany",
+        "rank": 448
+    },
+    {
+        "name": "Knorr-Bremse",
+        "code": "KBX.DE",
+        "country": "Germany",
+        "rank": 449
+    },
+    {
+        "name": "Rheinmetall",
+        "code": "RHM.F",
+        "country": "Germany",
+        "rank": 450
+    },
+    {
+        "name": "Deutsche Wohnen",
+        "code": "DWNI.DE",
+        "country": "Germany",
+        "rank": 451
+    },
+    {
+        "name": "Traton",
+        "code": "8TRA.DE",
+        "country": "Germany",
+        "rank": 452
+    },
+    {
+        "name": "Covestro",
+        "code": "1COV.F",
+        "country": "Germany",
+        "rank": 453
+    },
+    {
+        "name": "Telef\u00f3nica Deutschland (O2)",
+        "code": "O2D.DE",
+        "country": "Germany",
+        "rank": 454
+    },
+    {
+        "name": "GEA Group",
+        "code": "G1A.F",
+        "country": "Germany",
+        "rank": 455
+    },
+    {
+        "name": "Rational AG",
+        "code": "RAA.F",
+        "country": "Germany",
+        "rank": 456
+    },
+    {
+        "name": "DWS Group",
+        "code": "DWS.F",
+        "country": "Germany",
+        "rank": 457
+    },
+    {
+        "name": "Wacker Chemie",
+        "code": "WCH.F",
+        "country": "Germany",
+        "rank": 458
+    },
+    {
+        "name": "CTS Eventim",
+        "code": "EVD.F",
+        "country": "Germany",
+        "rank": 459
+    },
+    {
+        "name": "Nemetschek",
+        "code": "NEM.F",
+        "country": "Germany",
+        "rank": 460
+    },
+    {
+        "name": "LEG Immobilien",
+        "code": "LEG.DE",
+        "country": "Germany",
+        "rank": 461
+    },
+    {
+        "name": "Schaeffler",
+        "code": "SHA.F",
+        "country": "Germany",
+        "rank": 462
+    },
+    {
+        "name": "Fuchs Petrolub",
+        "code": "FPE.F",
+        "country": "Germany",
+        "rank": 463
+    },
+    {
+        "name": "Bechtle",
+        "code": "BC8.F",
+        "country": "Germany",
+        "rank": 464
+    },
+    {
+        "name": "Verbio",
+        "code": "VBK.F",
+        "country": "Germany",
+        "rank": 465
+    },
+    {
+        "name": "Hochtief",
+        "code": "HOT.F",
+        "country": "Germany",
+        "rank": 466
+    },
+    {
+        "name": "Lechwerke",
+        "code": "LEC.F",
+        "country": "Germany",
+        "rank": 467
+    },
+    {
+        "name": "HUGO BOSS",
+        "code": "BOSS.DE",
+        "country": "Germany",
+        "rank": 468
+    },
+    {
+        "name": "HelloFresh",
+        "code": "HFG.DE",
+        "country": "Germany",
+        "rank": 469
+    },
+    {
+        "name": "KION Group",
+        "code": "KGX.DE",
+        "country": "Germany",
+        "rank": 470
+    },
+    {
+        "name": "K+S",
+        "code": "SDF.F",
+        "country": "Germany",
+        "rank": 471
+    },
+    {
+        "name": "Thyssenkrupp",
+        "code": "TKA.F",
+        "country": "Germany",
+        "rank": 472
+    },
+    {
+        "name": "Fraport",
+        "code": "FRA.DE",
+        "country": "Germany",
+        "rank": 473
+    },
+    {
+        "name": "Scout24",
+        "code": "G24.F",
+        "country": "Germany",
+        "rank": 474
+    },
+    {
+        "name": "United Internet",
+        "code": "UTDI.F",
+        "country": "Germany",
+        "rank": 475
+    },
+    {
+        "name": "Sixt",
+        "code": "SIX2.F",
+        "country": "Germany",
+        "rank": 476
+    },
+    {
+        "name": "Lanxess",
+        "code": "LXS.F",
+        "country": "Germany",
+        "rank": 477
+    },
+    {
+        "name": "S\u00fcdzucker",
+        "code": "SZU.F",
+        "country": "Germany",
+        "rank": 478
+    },
+    {
+        "name": "Aurubis",
+        "code": "NDA.F",
+        "country": "Germany",
+        "rank": 479
+    },
+    {
+        "name": "Metro AG",
+        "code": "B4B.F",
+        "country": "Germany",
+        "rank": 480
+    },
+    {
+        "name": "DMG Mori",
+        "code": "GIL.F",
+        "country": "Germany",
+        "rank": 481
+    },
+    {
+        "name": "Krones",
+        "code": "KRN.F",
+        "country": "Germany",
+        "rank": 482
+    },
+    {
+        "name": "Fielmann",
+        "code": "FIE.F",
+        "country": "Germany",
+        "rank": 483
+    },
+    {
+        "name": "Aixtron",
+        "code": "AIXA.F",
+        "country": "Germany",
+        "rank": 484
+    },
+    {
+        "name": "Encavis",
+        "code": "ECV.F",
+        "country": "Germany",
+        "rank": 485
+    },
+    {
+        "name": "Gelsenwasser",
+        "code": "WWG.F",
+        "country": "Germany",
+        "rank": 486
+    },
+    {
+        "name": "Nordex",
+        "code": "NDX1.F",
+        "country": "Germany",
+        "rank": 487
+    },
+    {
+        "name": "TUI",
+        "code": "TUI1.F",
+        "country": "Germany",
+        "rank": 488
+    },
+    {
+        "name": "Evotec",
+        "code": "EVO",
+        "country": "Germany",
+        "rank": 489
+    },
+    {
+        "name": "Jungheinrich",
+        "code": "JUN3.F",
+        "country": "Germany",
+        "rank": 490
+    },
+    {
+        "name": "SYNLAB",
+        "code": "SYAB.DE",
+        "country": "Germany",
+        "rank": 491
+    },
+    {
+        "name": "Str\u00f6er",
+        "code": "SAX.F",
+        "country": "Germany",
+        "rank": 492
+    },
+    {
+        "name": "Hensoldt",
+        "code": "HAG.F",
+        "country": "Germany",
+        "rank": 493
+    },
+    {
+        "name": "SMA Solar Technology",
+        "code": "S92.F",
+        "country": "Germany",
+        "rank": 494
+    },
+    {
+        "name": "Mainova",
+        "code": "MNV6.F",
+        "country": "Germany",
+        "rank": 495
+    },
+    {
+        "name": "Freenet",
+        "code": "FNTN.F",
+        "country": "Germany",
+        "rank": 496
+    },
+    {
+        "name": "TeamViewer",
+        "code": "TMV.DE",
+        "country": "Germany",
+        "rank": 497
+    },
+    {
+        "name": "Vitesco Technologies Group",
+        "code": "VTSC.DE",
+        "country": "Germany",
+        "rank": 498
+    },
+    {
+        "name": "D\u00fcrr",
+        "code": "DUE.F",
+        "country": "Germany",
+        "rank": 499
+    },
+    {
+        "name": "KWS",
+        "code": "KWS.F",
+        "country": "Germany",
+        "rank": 500
+    },
+    {
+        "name": "SAP",
+        "code": "SAP",
+        "country": "Germany",
+        "rank": 501
+    },
+    {
+        "name": "Siemens",
+        "code": "SIE.DE",
+        "country": "Germany",
+        "rank": 502
+    },
+    {
+        "name": "Deutsche Telekom",
+        "code": "DTE.DE",
+        "country": "Germany",
+        "rank": 503
+    },
+    {
+        "name": "Porsche",
+        "code": "P911.DE",
+        "country": "Germany",
+        "rank": 504
+    },
+    {
+        "name": "Allianz",
+        "code": "ALV.DE",
+        "country": "Germany",
+        "rank": 505
+    },
+    {
+        "name": "Merck KGaA",
+        "code": "MRK.DE",
+        "country": "Germany",
+        "rank": 506
+    },
+    {
+        "name": "Volkswagen",
+        "code": "VOW3.DE",
+        "country": "Germany",
+        "rank": 507
+    },
+    {
+        "name": "Mercedes-Benz",
+        "code": "MBG.DE",
+        "country": "Germany",
+        "rank": 508
+    },
+    {
+        "name": "BMW",
+        "code": "BMW.DE",
+        "country": "Germany",
+        "rank": 509
+    },
+    {
+        "name": "Siemens Healthineers",
+        "code": "SHL.DE",
+        "country": "Germany",
+        "rank": 510
+    },
+    {
+        "name": "Bayer",
+        "code": "BAYZF",
+        "country": "Germany",
+        "rank": 511
+    },
+    {
+        "name": "BASF",
+        "code": "BAS.DE",
+        "country": "Germany",
+        "rank": 512
+    },
+    {
+        "name": "Deutsche Post",
+        "code": "DPW.DE",
+        "country": "Germany",
+        "rank": 513
+    },
+    {
+        "name": "Munich RE (M\u00fcnchener R\u00fcck)",
+        "code": "MUV2.DE",
+        "country": "Germany",
+        "rank": 514
+    },
+    {
+        "name": "Infineon",
+        "code": "IFX.DE",
+        "country": "Germany",
+        "rank": 515
+    },
+    {
+        "name": "BioNTech",
+        "code": "BNTX",
+        "country": "Germany",
+        "rank": 516
+    },
+    {
+        "name": "Hapag-Lloyd",
+        "code": "HLAG.DE",
+        "country": "Germany",
+        "rank": 517
+    },
+    {
+        "name": "Deutsche B\u00f6rse",
+        "code": "DB1.DE",
+        "country": "Germany",
+        "rank": 518
+    },
+    {
+        "name": "RWE",
+        "code": "RWE.DE",
+        "country": "Germany",
+        "rank": 519
+    },
+    {
+        "name": "Henkel",
+        "code": "HEN3.DE",
+        "country": "Germany",
+        "rank": 520
+    },
+    {
+        "name": "E.ON",
+        "code": "EOAN.DE",
+        "country": "Germany",
+        "rank": 521
+    },
+    {
+        "name": "Daimler Truck",
+        "code": "DTG.F",
+        "country": "Germany",
+        "rank": 522
+    },
+    {
+        "name": "Beiersdorf",
+        "code": "BEI.DE",
+        "country": "Germany",
+        "rank": 523
+    },
+    {
+        "name": "EnBW Energie",
+        "code": "EBK.DE",
+        "country": "Germany",
+        "rank": 524
+    },
+    {
+        "name": "Sartorius",
+        "code": "SRT.DE",
+        "country": "Germany",
+        "rank": 525
+    },
+    {
+        "name": "Adidas",
+        "code": "ADS.DE",
+        "country": "Germany",
+        "rank": 526
+    },
+    {
+        "name": "Hannover R\u00fcck",
+        "code": "HNR1.DE",
+        "country": "Germany",
+        "rank": 527
+    },
+    {
+        "name": "Deutsche Bank",
+        "code": "DB",
+        "country": "Germany",
+        "rank": 528
+    },
+    {
+        "name": "Vonovia",
+        "code": "VNA.DE",
+        "country": "Germany",
+        "rank": 529
+    },
+    {
+        "name": "Vantage Towers",
+        "code": "VTWR.DE",
+        "country": "Germany",
+        "rank": 530
+    },
+    {
+        "name": "Porsche SE",
+        "code": "PAH3.DE",
+        "country": "Germany",
+        "rank": 531
+    },
+    {
+        "name": "Fresenius",
+        "code": "FRE.DE",
+        "country": "Germany",
+        "rank": 532
+    },
+    {
+        "name": "Symrise",
+        "code": "SY1.DE",
+        "country": "Germany",
+        "rank": 533
+    },
+    {
+        "name": "Siemens Energy",
+        "code": "ENR.F",
+        "country": "Germany",
+        "rank": 534
+    },
+    {
+        "name": "Delivery Hero",
+        "code": "DHER.F",
+        "country": "Germany",
+        "rank": 535
+    },
+    {
+        "name": "Continental",
+        "code": "CON.DE",
+        "country": "Germany",
+        "rank": 536
+    },
+    {
+        "name": "Talanx",
+        "code": "TLX.DE",
+        "country": "Germany",
+        "rank": 537
+    },
+    {
+        "name": "Commerzbank",
+        "code": "CBK.F",
+        "country": "Germany",
+        "rank": 538
+    },
+    {
+        "name": "MTU Aero Engines",
+        "code": "MTX.DE",
+        "country": "Germany",
+        "rank": 539
+    },
+    {
+        "name": "HeidelbergCement",
+        "code": "HEI.DE",
+        "country": "Germany",
+        "rank": 540
+    },
+    {
+        "name": "Carl Zeiss Meditec",
+        "code": "AFXA.F",
+        "country": "Germany",
+        "rank": 541
+    },
+    {
+        "name": "Lufthansa",
+        "code": "LHA.DE",
+        "country": "Germany",
+        "rank": 542
+    },
+    {
+        "name": "Brenntag",
+        "code": "BNR.DE",
+        "country": "Germany",
+        "rank": 543
+    },
+    {
+        "name": "Zalando",
+        "code": "ZAL.DE",
+        "country": "Germany",
+        "rank": 544
+    },
+    {
+        "name": "Fresenius Medical Care",
+        "code": "FMS",
+        "country": "Germany",
+        "rank": 545
+    },
+    {
+        "name": "Evonik Industries",
+        "code": "EVK.DE",
+        "country": "Germany",
+        "rank": 546
+    },
+    {
+        "name": "PUMA",
+        "code": "PUM.DE",
+        "country": "Germany",
+        "rank": 547
+    },
+    {
+        "name": "HELLA",
+        "code": "HLE.F",
+        "country": "Germany",
+        "rank": 548
+    },
+    {
+        "name": "Knorr-Bremse",
+        "code": "KBX.DE",
+        "country": "Germany",
+        "rank": 549
+    },
+    {
+        "name": "Rheinmetall",
+        "code": "RHM.F",
+        "country": "Germany",
+        "rank": 550
+    },
+    {
+        "name": "Deutsche Wohnen",
+        "code": "DWNI.DE",
+        "country": "Germany",
+        "rank": 551
+    },
+    {
+        "name": "Traton",
+        "code": "8TRA.DE",
+        "country": "Germany",
+        "rank": 552
+    },
+    {
+        "name": "Covestro",
+        "code": "1COV.F",
+        "country": "Germany",
+        "rank": 553
+    },
+    {
+        "name": "Telef\u00f3nica Deutschland (O2)",
+        "code": "O2D.DE",
+        "country": "Germany",
+        "rank": 554
+    },
+    {
+        "name": "GEA Group",
+        "code": "G1A.F",
+        "country": "Germany",
+        "rank": 555
+    },
+    {
+        "name": "Rational AG",
+        "code": "RAA.F",
+        "country": "Germany",
+        "rank": 556
+    },
+    {
+        "name": "DWS Group",
+        "code": "DWS.F",
+        "country": "Germany",
+        "rank": 557
+    },
+    {
+        "name": "Wacker Chemie",
+        "code": "WCH.F",
+        "country": "Germany",
+        "rank": 558
+    },
+    {
+        "name": "CTS Eventim",
+        "code": "EVD.F",
+        "country": "Germany",
+        "rank": 559
+    },
+    {
+        "name": "Nemetschek",
+        "code": "NEM.F",
+        "country": "Germany",
+        "rank": 560
+    },
+    {
+        "name": "LEG Immobilien",
+        "code": "LEG.DE",
+        "country": "Germany",
+        "rank": 561
+    },
+    {
+        "name": "Schaeffler",
+        "code": "SHA.F",
+        "country": "Germany",
+        "rank": 562
+    },
+    {
+        "name": "Fuchs Petrolub",
+        "code": "FPE.F",
+        "country": "Germany",
+        "rank": 563
+    },
+    {
+        "name": "Bechtle",
+        "code": "BC8.F",
+        "country": "Germany",
+        "rank": 564
+    },
+    {
+        "name": "Verbio",
+        "code": "VBK.F",
+        "country": "Germany",
+        "rank": 565
+    },
+    {
+        "name": "Hochtief",
+        "code": "HOT.F",
+        "country": "Germany",
+        "rank": 566
+    },
+    {
+        "name": "Lechwerke",
+        "code": "LEC.F",
+        "country": "Germany",
+        "rank": 567
+    },
+    {
+        "name": "HUGO BOSS",
+        "code": "BOSS.DE",
+        "country": "Germany",
+        "rank": 568
+    },
+    {
+        "name": "HelloFresh",
+        "code": "HFG.DE",
+        "country": "Germany",
+        "rank": 569
+    },
+    {
+        "name": "KION Group",
+        "code": "KGX.DE",
+        "country": "Germany",
+        "rank": 570
+    },
+    {
+        "name": "K+S",
+        "code": "SDF.F",
+        "country": "Germany",
+        "rank": 571
+    },
+    {
+        "name": "Thyssenkrupp",
+        "code": "TKA.F",
+        "country": "Germany",
+        "rank": 572
+    },
+    {
+        "name": "Fraport",
+        "code": "FRA.DE",
+        "country": "Germany",
+        "rank": 573
+    },
+    {
+        "name": "Scout24",
+        "code": "G24.F",
+        "country": "Germany",
+        "rank": 574
+    },
+    {
+        "name": "United Internet",
+        "code": "UTDI.F",
+        "country": "Germany",
+        "rank": 575
+    },
+    {
+        "name": "Sixt",
+        "code": "SIX2.F",
+        "country": "Germany",
+        "rank": 576
+    },
+    {
+        "name": "Lanxess",
+        "code": "LXS.F",
+        "country": "Germany",
+        "rank": 577
+    },
+    {
+        "name": "S\u00fcdzucker",
+        "code": "SZU.F",
+        "country": "Germany",
+        "rank": 578
+    },
+    {
+        "name": "Aurubis",
+        "code": "NDA.F",
+        "country": "Germany",
+        "rank": 579
+    },
+    {
+        "name": "Metro AG",
+        "code": "B4B.F",
+        "country": "Germany",
+        "rank": 580
+    },
+    {
+        "name": "DMG Mori",
+        "code": "GIL.F",
+        "country": "Germany",
+        "rank": 581
+    },
+    {
+        "name": "Krones",
+        "code": "KRN.F",
+        "country": "Germany",
+        "rank": 582
+    },
+    {
+        "name": "Fielmann",
+        "code": "FIE.F",
+        "country": "Germany",
+        "rank": 583
+    },
+    {
+        "name": "Aixtron",
+        "code": "AIXA.F",
+        "country": "Germany",
+        "rank": 584
+    },
+    {
+        "name": "Encavis",
+        "code": "ECV.F",
+        "country": "Germany",
+        "rank": 585
+    },
+    {
+        "name": "Gelsenwasser",
+        "code": "WWG.F",
+        "country": "Germany",
+        "rank": 586
+    },
+    {
+        "name": "Nordex",
+        "code": "NDX1.F",
+        "country": "Germany",
+        "rank": 587
+    },
+    {
+        "name": "TUI",
+        "code": "TUI1.F",
+        "country": "Germany",
+        "rank": 588
+    },
+    {
+        "name": "Evotec",
+        "code": "EVO",
+        "country": "Germany",
+        "rank": 589
+    },
+    {
+        "name": "Jungheinrich",
+        "code": "JUN3.F",
+        "country": "Germany",
+        "rank": 590
+    },
+    {
+        "name": "SYNLAB",
+        "code": "SYAB.DE",
+        "country": "Germany",
+        "rank": 591
+    },
+    {
+        "name": "Str\u00f6er",
+        "code": "SAX.F",
+        "country": "Germany",
+        "rank": 592
+    },
+    {
+        "name": "Hensoldt",
+        "code": "HAG.F",
+        "country": "Germany",
+        "rank": 593
+    },
+    {
+        "name": "SMA Solar Technology",
+        "code": "S92.F",
+        "country": "Germany",
+        "rank": 594
+    },
+    {
+        "name": "Mainova",
+        "code": "MNV6.F",
+        "country": "Germany",
+        "rank": 595
+    },
+    {
+        "name": "Freenet",
+        "code": "FNTN.F",
+        "country": "Germany",
+        "rank": 596
+    },
+    {
+        "name": "TeamViewer",
+        "code": "TMV.DE",
+        "country": "Germany",
+        "rank": 597
+    },
+    {
+        "name": "Vitesco Technologies Group",
+        "code": "VTSC.DE",
+        "country": "Germany",
+        "rank": 598
+    },
+    {
+        "name": "D\u00fcrr",
+        "code": "DUE.F",
+        "country": "Germany",
+        "rank": 599
+    },
+    {
+        "name": "KWS",
+        "code": "KWS.F",
+        "country": "Germany",
+        "rank": 600
+    },
+    {
+        "name": "SAP",
+        "code": "SAP",
+        "country": "Germany",
+        "rank": 601
+    },
+    {
+        "name": "Siemens",
+        "code": "SIE.DE",
+        "country": "Germany",
+        "rank": 602
+    },
+    {
+        "name": "Deutsche Telekom",
+        "code": "DTE.DE",
+        "country": "Germany",
+        "rank": 603
+    },
+    {
+        "name": "Porsche",
+        "code": "P911.DE",
+        "country": "Germany",
+        "rank": 604
+    },
+    {
+        "name": "Allianz",
+        "code": "ALV.DE",
+        "country": "Germany",
+        "rank": 605
+    },
+    {
+        "name": "Merck KGaA",
+        "code": "MRK.DE",
+        "country": "Germany",
+        "rank": 606
+    },
+    {
+        "name": "Volkswagen",
+        "code": "VOW3.DE",
+        "country": "Germany",
+        "rank": 607
+    },
+    {
+        "name": "Mercedes-Benz",
+        "code": "MBG.DE",
+        "country": "Germany",
+        "rank": 608
+    },
+    {
+        "name": "BMW",
+        "code": "BMW.DE",
+        "country": "Germany",
+        "rank": 609
+    },
+    {
+        "name": "Siemens Healthineers",
+        "code": "SHL.DE",
+        "country": "Germany",
+        "rank": 610
+    },
+    {
+        "name": "Bayer",
+        "code": "BAYZF",
+        "country": "Germany",
+        "rank": 611
+    },
+    {
+        "name": "BASF",
+        "code": "BAS.DE",
+        "country": "Germany",
+        "rank": 612
+    },
+    {
+        "name": "Deutsche Post",
+        "code": "DPW.DE",
+        "country": "Germany",
+        "rank": 613
+    },
+    {
+        "name": "Munich RE (M\u00fcnchener R\u00fcck)",
+        "code": "MUV2.DE",
+        "country": "Germany",
+        "rank": 614
+    },
+    {
+        "name": "Infineon",
+        "code": "IFX.DE",
+        "country": "Germany",
+        "rank": 615
+    },
+    {
+        "name": "BioNTech",
+        "code": "BNTX",
+        "country": "Germany",
+        "rank": 616
+    },
+    {
+        "name": "Hapag-Lloyd",
+        "code": "HLAG.DE",
+        "country": "Germany",
+        "rank": 617
+    },
+    {
+        "name": "Deutsche B\u00f6rse",
+        "code": "DB1.DE",
+        "country": "Germany",
+        "rank": 618
+    },
+    {
+        "name": "RWE",
+        "code": "RWE.DE",
+        "country": "Germany",
+        "rank": 619
+    },
+    {
+        "name": "Henkel",
+        "code": "HEN3.DE",
+        "country": "Germany",
+        "rank": 620
+    },
+    {
+        "name": "E.ON",
+        "code": "EOAN.DE",
+        "country": "Germany",
+        "rank": 621
+    },
+    {
+        "name": "Daimler Truck",
+        "code": "DTG.F",
+        "country": "Germany",
+        "rank": 622
+    },
+    {
+        "name": "Beiersdorf",
+        "code": "BEI.DE",
+        "country": "Germany",
+        "rank": 623
+    },
+    {
+        "name": "EnBW Energie",
+        "code": "EBK.DE",
+        "country": "Germany",
+        "rank": 624
+    },
+    {
+        "name": "Sartorius",
+        "code": "SRT.DE",
+        "country": "Germany",
+        "rank": 625
+    },
+    {
+        "name": "Adidas",
+        "code": "ADS.DE",
+        "country": "Germany",
+        "rank": 626
+    },
+    {
+        "name": "Hannover R\u00fcck",
+        "code": "HNR1.DE",
+        "country": "Germany",
+        "rank": 627
+    },
+    {
+        "name": "Deutsche Bank",
+        "code": "DB",
+        "country": "Germany",
+        "rank": 628
+    },
+    {
+        "name": "Vonovia",
+        "code": "VNA.DE",
+        "country": "Germany",
+        "rank": 629
+    },
+    {
+        "name": "Vantage Towers",
+        "code": "VTWR.DE",
+        "country": "Germany",
+        "rank": 630
+    },
+    {
+        "name": "Porsche SE",
+        "code": "PAH3.DE",
+        "country": "Germany",
+        "rank": 631
+    },
+    {
+        "name": "Fresenius",
+        "code": "FRE.DE",
+        "country": "Germany",
+        "rank": 632
+    },
+    {
+        "name": "Symrise",
+        "code": "SY1.DE",
+        "country": "Germany",
+        "rank": 633
+    },
+    {
+        "name": "Siemens Energy",
+        "code": "ENR.F",
+        "country": "Germany",
+        "rank": 634
+    },
+    {
+        "name": "Delivery Hero",
+        "code": "DHER.F",
+        "country": "Germany",
+        "rank": 635
+    },
+    {
+        "name": "Continental",
+        "code": "CON.DE",
+        "country": "Germany",
+        "rank": 636
+    },
+    {
+        "name": "Talanx",
+        "code": "TLX.DE",
+        "country": "Germany",
+        "rank": 637
+    },
+    {
+        "name": "Commerzbank",
+        "code": "CBK.F",
+        "country": "Germany",
+        "rank": 638
+    },
+    {
+        "name": "MTU Aero Engines",
+        "code": "MTX.DE",
+        "country": "Germany",
+        "rank": 639
+    },
+    {
+        "name": "HeidelbergCement",
+        "code": "HEI.DE",
+        "country": "Germany",
+        "rank": 640
+    },
+    {
+        "name": "Carl Zeiss Meditec",
+        "code": "AFXA.F",
+        "country": "Germany",
+        "rank": 641
+    },
+    {
+        "name": "Lufthansa",
+        "code": "LHA.DE",
+        "country": "Germany",
+        "rank": 642
+    },
+    {
+        "name": "Brenntag",
+        "code": "BNR.DE",
+        "country": "Germany",
+        "rank": 643
+    },
+    {
+        "name": "Zalando",
+        "code": "ZAL.DE",
+        "country": "Germany",
+        "rank": 644
+    },
+    {
+        "name": "Fresenius Medical Care",
+        "code": "FMS",
+        "country": "Germany",
+        "rank": 645
+    },
+    {
+        "name": "Evonik Industries",
+        "code": "EVK.DE",
+        "country": "Germany",
+        "rank": 646
+    },
+    {
+        "name": "PUMA",
+        "code": "PUM.DE",
+        "country": "Germany",
+        "rank": 647
+    },
+    {
+        "name": "HELLA",
+        "code": "HLE.F",
+        "country": "Germany",
+        "rank": 648
+    },
+    {
+        "name": "Knorr-Bremse",
+        "code": "KBX.DE",
+        "country": "Germany",
+        "rank": 649
+    },
+    {
+        "name": "Rheinmetall",
+        "code": "RHM.F",
+        "country": "Germany",
+        "rank": 650
+    },
+    {
+        "name": "Deutsche Wohnen",
+        "code": "DWNI.DE",
+        "country": "Germany",
+        "rank": 651
+    },
+    {
+        "name": "Traton",
+        "code": "8TRA.DE",
+        "country": "Germany",
+        "rank": 652
+    },
+    {
+        "name": "Covestro",
+        "code": "1COV.F",
+        "country": "Germany",
+        "rank": 653
+    },
+    {
+        "name": "Telef\u00f3nica Deutschland (O2)",
+        "code": "O2D.DE",
+        "country": "Germany",
+        "rank": 654
+    },
+    {
+        "name": "GEA Group",
+        "code": "G1A.F",
+        "country": "Germany",
+        "rank": 655
+    },
+    {
+        "name": "Rational AG",
+        "code": "RAA.F",
+        "country": "Germany",
+        "rank": 656
+    },
+    {
+        "name": "DWS Group",
+        "code": "DWS.F",
+        "country": "Germany",
+        "rank": 657
+    },
+    {
+        "name": "Wacker Chemie",
+        "code": "WCH.F",
+        "country": "Germany",
+        "rank": 658
+    },
+    {
+        "name": "CTS Eventim",
+        "code": "EVD.F",
+        "country": "Germany",
+        "rank": 659
+    },
+    {
+        "name": "Nemetschek",
+        "code": "NEM.F",
+        "country": "Germany",
+        "rank": 660
+    },
+    {
+        "name": "LEG Immobilien",
+        "code": "LEG.DE",
+        "country": "Germany",
+        "rank": 661
+    },
+    {
+        "name": "Schaeffler",
+        "code": "SHA.F",
+        "country": "Germany",
+        "rank": 662
+    },
+    {
+        "name": "Fuchs Petrolub",
+        "code": "FPE.F",
+        "country": "Germany",
+        "rank": 663
+    },
+    {
+        "name": "Bechtle",
+        "code": "BC8.F",
+        "country": "Germany",
+        "rank": 664
+    },
+    {
+        "name": "Verbio",
+        "code": "VBK.F",
+        "country": "Germany",
+        "rank": 665
+    },
+    {
+        "name": "Hochtief",
+        "code": "HOT.F",
+        "country": "Germany",
+        "rank": 666
+    },
+    {
+        "name": "Lechwerke",
+        "code": "LEC.F",
+        "country": "Germany",
+        "rank": 667
+    },
+    {
+        "name": "HUGO BOSS",
+        "code": "BOSS.DE",
+        "country": "Germany",
+        "rank": 668
+    },
+    {
+        "name": "HelloFresh",
+        "code": "HFG.DE",
+        "country": "Germany",
+        "rank": 669
+    },
+    {
+        "name": "KION Group",
+        "code": "KGX.DE",
+        "country": "Germany",
+        "rank": 670
+    },
+    {
+        "name": "K+S",
+        "code": "SDF.F",
+        "country": "Germany",
+        "rank": 671
+    },
+    {
+        "name": "Thyssenkrupp",
+        "code": "TKA.F",
+        "country": "Germany",
+        "rank": 672
+    },
+    {
+        "name": "Fraport",
+        "code": "FRA.DE",
+        "country": "Germany",
+        "rank": 673
+    },
+    {
+        "name": "Scout24",
+        "code": "G24.F",
+        "country": "Germany",
+        "rank": 674
+    },
+    {
+        "name": "United Internet",
+        "code": "UTDI.F",
+        "country": "Germany",
+        "rank": 675
+    },
+    {
+        "name": "Sixt",
+        "code": "SIX2.F",
+        "country": "Germany",
+        "rank": 676
+    },
+    {
+        "name": "Lanxess",
+        "code": "LXS.F",
+        "country": "Germany",
+        "rank": 677
+    },
+    {
+        "name": "S\u00fcdzucker",
+        "code": "SZU.F",
+        "country": "Germany",
+        "rank": 678
+    },
+    {
+        "name": "Aurubis",
+        "code": "NDA.F",
+        "country": "Germany",
+        "rank": 679
+    },
+    {
+        "name": "Metro AG",
+        "code": "B4B.F",
+        "country": "Germany",
+        "rank": 680
+    },
+    {
+        "name": "DMG Mori",
+        "code": "GIL.F",
+        "country": "Germany",
+        "rank": 681
+    },
+    {
+        "name": "Krones",
+        "code": "KRN.F",
+        "country": "Germany",
+        "rank": 682
+    },
+    {
+        "name": "Fielmann",
+        "code": "FIE.F",
+        "country": "Germany",
+        "rank": 683
+    },
+    {
+        "name": "Aixtron",
+        "code": "AIXA.F",
+        "country": "Germany",
+        "rank": 684
+    },
+    {
+        "name": "Encavis",
+        "code": "ECV.F",
+        "country": "Germany",
+        "rank": 685
+    },
+    {
+        "name": "Gelsenwasser",
+        "code": "WWG.F",
+        "country": "Germany",
+        "rank": 686
+    },
+    {
+        "name": "Nordex",
+        "code": "NDX1.F",
+        "country": "Germany",
+        "rank": 687
+    },
+    {
+        "name": "TUI",
+        "code": "TUI1.F",
+        "country": "Germany",
+        "rank": 688
+    },
+    {
+        "name": "Evotec",
+        "code": "EVO",
+        "country": "Germany",
+        "rank": 689
+    },
+    {
+        "name": "Jungheinrich",
+        "code": "JUN3.F",
+        "country": "Germany",
+        "rank": 690
+    },
+    {
+        "name": "SYNLAB",
+        "code": "SYAB.DE",
+        "country": "Germany",
+        "rank": 691
+    },
+    {
+        "name": "Str\u00f6er",
+        "code": "SAX.F",
+        "country": "Germany",
+        "rank": 692
+    },
+    {
+        "name": "Hensoldt",
+        "code": "HAG.F",
+        "country": "Germany",
+        "rank": 693
+    },
+    {
+        "name": "SMA Solar Technology",
+        "code": "S92.F",
+        "country": "Germany",
+        "rank": 694
+    },
+    {
+        "name": "Mainova",
+        "code": "MNV6.F",
+        "country": "Germany",
+        "rank": 695
+    },
+    {
+        "name": "Freenet",
+        "code": "FNTN.F",
+        "country": "Germany",
+        "rank": 696
+    },
+    {
+        "name": "TeamViewer",
+        "code": "TMV.DE",
+        "country": "Germany",
+        "rank": 697
+    },
+    {
+        "name": "Vitesco Technologies Group",
+        "code": "VTSC.DE",
+        "country": "Germany",
+        "rank": 698
+    },
+    {
+        "name": "D\u00fcrr",
+        "code": "DUE.F",
+        "country": "Germany",
+        "rank": 699
+    },
+    {
+        "name": "KWS",
+        "code": "KWS.F",
+        "country": "Germany",
+        "rank": 700
+    },
+    {
+        "name": "SAP",
+        "code": "SAP",
+        "country": "Germany",
+        "rank": 701
+    },
+    {
+        "name": "Siemens",
+        "code": "SIE.DE",
+        "country": "Germany",
+        "rank": 702
+    },
+    {
+        "name": "Deutsche Telekom",
+        "code": "DTE.DE",
+        "country": "Germany",
+        "rank": 703
+    },
+    {
+        "name": "Porsche",
+        "code": "P911.DE",
+        "country": "Germany",
+        "rank": 704
+    },
+    {
+        "name": "Allianz",
+        "code": "ALV.DE",
+        "country": "Germany",
+        "rank": 705
+    },
+    {
+        "name": "Merck KGaA",
+        "code": "MRK.DE",
+        "country": "Germany",
+        "rank": 706
+    },
+    {
+        "name": "Volkswagen",
+        "code": "VOW3.DE",
+        "country": "Germany",
+        "rank": 707
+    },
+    {
+        "name": "Mercedes-Benz",
+        "code": "MBG.DE",
+        "country": "Germany",
+        "rank": 708
+    },
+    {
+        "name": "BMW",
+        "code": "BMW.DE",
+        "country": "Germany",
+        "rank": 709
+    },
+    {
+        "name": "Siemens Healthineers",
+        "code": "SHL.DE",
+        "country": "Germany",
+        "rank": 710
+    },
+    {
+        "name": "Bayer",
+        "code": "BAYZF",
+        "country": "Germany",
+        "rank": 711
+    },
+    {
+        "name": "BASF",
+        "code": "BAS.DE",
+        "country": "Germany",
+        "rank": 712
+    },
+    {
+        "name": "Deutsche Post",
+        "code": "DPW.DE",
+        "country": "Germany",
+        "rank": 713
+    },
+    {
+        "name": "Munich RE (M\u00fcnchener R\u00fcck)",
+        "code": "MUV2.DE",
+        "country": "Germany",
+        "rank": 714
+    },
+    {
+        "name": "Infineon",
+        "code": "IFX.DE",
+        "country": "Germany",
+        "rank": 715
+    },
+    {
+        "name": "BioNTech",
+        "code": "BNTX",
+        "country": "Germany",
+        "rank": 716
+    },
+    {
+        "name": "Hapag-Lloyd",
+        "code": "HLAG.DE",
+        "country": "Germany",
+        "rank": 717
+    },
+    {
+        "name": "Deutsche B\u00f6rse",
+        "code": "DB1.DE",
+        "country": "Germany",
+        "rank": 718
+    },
+    {
+        "name": "RWE",
+        "code": "RWE.DE",
+        "country": "Germany",
+        "rank": 719
+    },
+    {
+        "name": "Henkel",
+        "code": "HEN3.DE",
+        "country": "Germany",
+        "rank": 720
+    },
+    {
+        "name": "E.ON",
+        "code": "EOAN.DE",
+        "country": "Germany",
+        "rank": 721
+    },
+    {
+        "name": "Daimler Truck",
+        "code": "DTG.F",
+        "country": "Germany",
+        "rank": 722
+    },
+    {
+        "name": "Beiersdorf",
+        "code": "BEI.DE",
+        "country": "Germany",
+        "rank": 723
+    },
+    {
+        "name": "EnBW Energie",
+        "code": "EBK.DE",
+        "country": "Germany",
+        "rank": 724
+    },
+    {
+        "name": "Sartorius",
+        "code": "SRT.DE",
+        "country": "Germany",
+        "rank": 725
+    },
+    {
+        "name": "Adidas",
+        "code": "ADS.DE",
+        "country": "Germany",
+        "rank": 726
+    },
+    {
+        "name": "Hannover R\u00fcck",
+        "code": "HNR1.DE",
+        "country": "Germany",
+        "rank": 727
+    },
+    {
+        "name": "Deutsche Bank",
+        "code": "DB",
+        "country": "Germany",
+        "rank": 728
+    },
+    {
+        "name": "Vonovia",
+        "code": "VNA.DE",
+        "country": "Germany",
+        "rank": 729
+    },
+    {
+        "name": "Vantage Towers",
+        "code": "VTWR.DE",
+        "country": "Germany",
+        "rank": 730
+    },
+    {
+        "name": "Porsche SE",
+        "code": "PAH3.DE",
+        "country": "Germany",
+        "rank": 731
+    },
+    {
+        "name": "Fresenius",
+        "code": "FRE.DE",
+        "country": "Germany",
+        "rank": 732
+    },
+    {
+        "name": "Symrise",
+        "code": "SY1.DE",
+        "country": "Germany",
+        "rank": 733
+    },
+    {
+        "name": "Siemens Energy",
+        "code": "ENR.F",
+        "country": "Germany",
+        "rank": 734
+    },
+    {
+        "name": "Delivery Hero",
+        "code": "DHER.F",
+        "country": "Germany",
+        "rank": 735
+    },
+    {
+        "name": "Continental",
+        "code": "CON.DE",
+        "country": "Germany",
+        "rank": 736
+    },
+    {
+        "name": "Talanx",
+        "code": "TLX.DE",
+        "country": "Germany",
+        "rank": 737
+    },
+    {
+        "name": "Commerzbank",
+        "code": "CBK.F",
+        "country": "Germany",
+        "rank": 738
+    },
+    {
+        "name": "MTU Aero Engines",
+        "code": "MTX.DE",
+        "country": "Germany",
+        "rank": 739
+    },
+    {
+        "name": "HeidelbergCement",
+        "code": "HEI.DE",
+        "country": "Germany",
+        "rank": 740
+    },
+    {
+        "name": "Carl Zeiss Meditec",
+        "code": "AFXA.F",
+        "country": "Germany",
+        "rank": 741
+    },
+    {
+        "name": "Lufthansa",
+        "code": "LHA.DE",
+        "country": "Germany",
+        "rank": 742
+    },
+    {
+        "name": "Brenntag",
+        "code": "BNR.DE",
+        "country": "Germany",
+        "rank": 743
+    },
+    {
+        "name": "Zalando",
+        "code": "ZAL.DE",
+        "country": "Germany",
+        "rank": 744
+    },
+    {
+        "name": "Fresenius Medical Care",
+        "code": "FMS",
+        "country": "Germany",
+        "rank": 745
+    },
+    {
+        "name": "Evonik Industries",
+        "code": "EVK.DE",
+        "country": "Germany",
+        "rank": 746
+    },
+    {
+        "name": "PUMA",
+        "code": "PUM.DE",
+        "country": "Germany",
+        "rank": 747
+    },
+    {
+        "name": "HELLA",
+        "code": "HLE.F",
+        "country": "Germany",
+        "rank": 748
+    },
+    {
+        "name": "Knorr-Bremse",
+        "code": "KBX.DE",
+        "country": "Germany",
+        "rank": 749
+    },
+    {
+        "name": "Rheinmetall",
+        "code": "RHM.F",
+        "country": "Germany",
+        "rank": 750
+    },
+    {
+        "name": "Deutsche Wohnen",
+        "code": "DWNI.DE",
+        "country": "Germany",
+        "rank": 751
+    },
+    {
+        "name": "Traton",
+        "code": "8TRA.DE",
+        "country": "Germany",
+        "rank": 752
+    },
+    {
+        "name": "Covestro",
+        "code": "1COV.F",
+        "country": "Germany",
+        "rank": 753
+    },
+    {
+        "name": "Telef\u00f3nica Deutschland (O2)",
+        "code": "O2D.DE",
+        "country": "Germany",
+        "rank": 754
+    },
+    {
+        "name": "GEA Group",
+        "code": "G1A.F",
+        "country": "Germany",
+        "rank": 755
+    },
+    {
+        "name": "Rational AG",
+        "code": "RAA.F",
+        "country": "Germany",
+        "rank": 756
+    },
+    {
+        "name": "DWS Group",
+        "code": "DWS.F",
+        "country": "Germany",
+        "rank": 757
+    },
+    {
+        "name": "Wacker Chemie",
+        "code": "WCH.F",
+        "country": "Germany",
+        "rank": 758
+    },
+    {
+        "name": "CTS Eventim",
+        "code": "EVD.F",
+        "country": "Germany",
+        "rank": 759
+    },
+    {
+        "name": "Nemetschek",
+        "code": "NEM.F",
+        "country": "Germany",
+        "rank": 760
+    },
+    {
+        "name": "LEG Immobilien",
+        "code": "LEG.DE",
+        "country": "Germany",
+        "rank": 761
+    },
+    {
+        "name": "Schaeffler",
+        "code": "SHA.F",
+        "country": "Germany",
+        "rank": 762
+    },
+    {
+        "name": "Fuchs Petrolub",
+        "code": "FPE.F",
+        "country": "Germany",
+        "rank": 763
+    },
+    {
+        "name": "Bechtle",
+        "code": "BC8.F",
+        "country": "Germany",
+        "rank": 764
+    },
+    {
+        "name": "Verbio",
+        "code": "VBK.F",
+        "country": "Germany",
+        "rank": 765
+    },
+    {
+        "name": "Hochtief",
+        "code": "HOT.F",
+        "country": "Germany",
+        "rank": 766
+    },
+    {
+        "name": "Lechwerke",
+        "code": "LEC.F",
+        "country": "Germany",
+        "rank": 767
+    },
+    {
+        "name": "HUGO BOSS",
+        "code": "BOSS.DE",
+        "country": "Germany",
+        "rank": 768
+    },
+    {
+        "name": "HelloFresh",
+        "code": "HFG.DE",
+        "country": "Germany",
+        "rank": 769
+    },
+    {
+        "name": "KION Group",
+        "code": "KGX.DE",
+        "country": "Germany",
+        "rank": 770
+    },
+    {
+        "name": "K+S",
+        "code": "SDF.F",
+        "country": "Germany",
+        "rank": 771
+    },
+    {
+        "name": "Thyssenkrupp",
+        "code": "TKA.F",
+        "country": "Germany",
+        "rank": 772
+    },
+    {
+        "name": "Fraport",
+        "code": "FRA.DE",
+        "country": "Germany",
+        "rank": 773
+    },
+    {
+        "name": "Scout24",
+        "code": "G24.F",
+        "country": "Germany",
+        "rank": 774
+    },
+    {
+        "name": "United Internet",
+        "code": "UTDI.F",
+        "country": "Germany",
+        "rank": 775
+    },
+    {
+        "name": "Sixt",
+        "code": "SIX2.F",
+        "country": "Germany",
+        "rank": 776
+    },
+    {
+        "name": "Lanxess",
+        "code": "LXS.F",
+        "country": "Germany",
+        "rank": 777
+    },
+    {
+        "name": "S\u00fcdzucker",
+        "code": "SZU.F",
+        "country": "Germany",
+        "rank": 778
+    },
+    {
+        "name": "Aurubis",
+        "code": "NDA.F",
+        "country": "Germany",
+        "rank": 779
+    },
+    {
+        "name": "Metro AG",
+        "code": "B4B.F",
+        "country": "Germany",
+        "rank": 780
+    },
+    {
+        "name": "DMG Mori",
+        "code": "GIL.F",
+        "country": "Germany",
+        "rank": 781
+    },
+    {
+        "name": "Krones",
+        "code": "KRN.F",
+        "country": "Germany",
+        "rank": 782
+    },
+    {
+        "name": "Fielmann",
+        "code": "FIE.F",
+        "country": "Germany",
+        "rank": 783
+    },
+    {
+        "name": "Aixtron",
+        "code": "AIXA.F",
+        "country": "Germany",
+        "rank": 784
+    },
+    {
+        "name": "Encavis",
+        "code": "ECV.F",
+        "country": "Germany",
+        "rank": 785
+    },
+    {
+        "name": "Gelsenwasser",
+        "code": "WWG.F",
+        "country": "Germany",
+        "rank": 786
+    },
+    {
+        "name": "Nordex",
+        "code": "NDX1.F",
+        "country": "Germany",
+        "rank": 787
+    },
+    {
+        "name": "TUI",
+        "code": "TUI1.F",
+        "country": "Germany",
+        "rank": 788
+    },
+    {
+        "name": "Evotec",
+        "code": "EVO",
+        "country": "Germany",
+        "rank": 789
+    },
+    {
+        "name": "Jungheinrich",
+        "code": "JUN3.F",
+        "country": "Germany",
+        "rank": 790
+    },
+    {
+        "name": "SYNLAB",
+        "code": "SYAB.DE",
+        "country": "Germany",
+        "rank": 791
+    },
+    {
+        "name": "Str\u00f6er",
+        "code": "SAX.F",
+        "country": "Germany",
+        "rank": 792
+    },
+    {
+        "name": "Hensoldt",
+        "code": "HAG.F",
+        "country": "Germany",
+        "rank": 793
+    },
+    {
+        "name": "SMA Solar Technology",
+        "code": "S92.F",
+        "country": "Germany",
+        "rank": 794
+    },
+    {
+        "name": "Mainova",
+        "code": "MNV6.F",
+        "country": "Germany",
+        "rank": 795
+    },
+    {
+        "name": "Freenet",
+        "code": "FNTN.F",
+        "country": "Germany",
+        "rank": 796
+    },
+    {
+        "name": "TeamViewer",
+        "code": "TMV.DE",
+        "country": "Germany",
+        "rank": 797
+    },
+    {
+        "name": "Vitesco Technologies Group",
+        "code": "VTSC.DE",
+        "country": "Germany",
+        "rank": 798
+    },
+    {
+        "name": "D\u00fcrr",
+        "code": "DUE.F",
+        "country": "Germany",
+        "rank": 799
+    },
+    {
+        "name": "KWS",
+        "code": "KWS.F",
+        "country": "Germany",
+        "rank": 800
+    },
+    {
+        "name": "SAP",
+        "code": "SAP",
+        "country": "Germany",
+        "rank": 801
+    },
+    {
+        "name": "Siemens",
+        "code": "SIE.DE",
+        "country": "Germany",
+        "rank": 802
+    },
+    {
+        "name": "Deutsche Telekom",
+        "code": "DTE.DE",
+        "country": "Germany",
+        "rank": 803
+    },
+    {
+        "name": "Porsche",
+        "code": "P911.DE",
+        "country": "Germany",
+        "rank": 804
+    },
+    {
+        "name": "Allianz",
+        "code": "ALV.DE",
+        "country": "Germany",
+        "rank": 805
+    },
+    {
+        "name": "Merck KGaA",
+        "code": "MRK.DE",
+        "country": "Germany",
+        "rank": 806
+    },
+    {
+        "name": "Volkswagen",
+        "code": "VOW3.DE",
+        "country": "Germany",
+        "rank": 807
+    },
+    {
+        "name": "Mercedes-Benz",
+        "code": "MBG.DE",
+        "country": "Germany",
+        "rank": 808
+    },
+    {
+        "name": "BMW",
+        "code": "BMW.DE",
+        "country": "Germany",
+        "rank": 809
+    },
+    {
+        "name": "Siemens Healthineers",
+        "code": "SHL.DE",
+        "country": "Germany",
+        "rank": 810
+    },
+    {
+        "name": "Bayer",
+        "code": "BAYZF",
+        "country": "Germany",
+        "rank": 811
+    },
+    {
+        "name": "BASF",
+        "code": "BAS.DE",
+        "country": "Germany",
+        "rank": 812
+    },
+    {
+        "name": "Deutsche Post",
+        "code": "DPW.DE",
+        "country": "Germany",
+        "rank": 813
+    },
+    {
+        "name": "Munich RE (M\u00fcnchener R\u00fcck)",
+        "code": "MUV2.DE",
+        "country": "Germany",
+        "rank": 814
+    },
+    {
+        "name": "Infineon",
+        "code": "IFX.DE",
+        "country": "Germany",
+        "rank": 815
+    },
+    {
+        "name": "BioNTech",
+        "code": "BNTX",
+        "country": "Germany",
+        "rank": 816
+    },
+    {
+        "name": "Hapag-Lloyd",
+        "code": "HLAG.DE",
+        "country": "Germany",
+        "rank": 817
+    },
+    {
+        "name": "Deutsche B\u00f6rse",
+        "code": "DB1.DE",
+        "country": "Germany",
+        "rank": 818
+    },
+    {
+        "name": "RWE",
+        "code": "RWE.DE",
+        "country": "Germany",
+        "rank": 819
+    },
+    {
+        "name": "Henkel",
+        "code": "HEN3.DE",
+        "country": "Germany",
+        "rank": 820
+    },
+    {
+        "name": "E.ON",
+        "code": "EOAN.DE",
+        "country": "Germany",
+        "rank": 821
+    },
+    {
+        "name": "Daimler Truck",
+        "code": "DTG.F",
+        "country": "Germany",
+        "rank": 822
+    },
+    {
+        "name": "Beiersdorf",
+        "code": "BEI.DE",
+        "country": "Germany",
+        "rank": 823
+    },
+    {
+        "name": "EnBW Energie",
+        "code": "EBK.DE",
+        "country": "Germany",
+        "rank": 824
+    },
+    {
+        "name": "Sartorius",
+        "code": "SRT.DE",
+        "country": "Germany",
+        "rank": 825
+    },
+    {
+        "name": "Adidas",
+        "code": "ADS.DE",
+        "country": "Germany",
+        "rank": 826
+    },
+    {
+        "name": "Hannover R\u00fcck",
+        "code": "HNR1.DE",
+        "country": "Germany",
+        "rank": 827
+    },
+    {
+        "name": "Deutsche Bank",
+        "code": "DB",
+        "country": "Germany",
+        "rank": 828
+    },
+    {
+        "name": "Vonovia",
+        "code": "VNA.DE",
+        "country": "Germany",
+        "rank": 829
+    },
+    {
+        "name": "Vantage Towers",
+        "code": "VTWR.DE",
+        "country": "Germany",
+        "rank": 830
+    },
+    {
+        "name": "Porsche SE",
+        "code": "PAH3.DE",
+        "country": "Germany",
+        "rank": 831
+    },
+    {
+        "name": "Fresenius",
+        "code": "FRE.DE",
+        "country": "Germany",
+        "rank": 832
+    },
+    {
+        "name": "Symrise",
+        "code": "SY1.DE",
+        "country": "Germany",
+        "rank": 833
+    },
+    {
+        "name": "Siemens Energy",
+        "code": "ENR.F",
+        "country": "Germany",
+        "rank": 834
+    },
+    {
+        "name": "Delivery Hero",
+        "code": "DHER.F",
+        "country": "Germany",
+        "rank": 835
+    },
+    {
+        "name": "Continental",
+        "code": "CON.DE",
+        "country": "Germany",
+        "rank": 836
+    },
+    {
+        "name": "Talanx",
+        "code": "TLX.DE",
+        "country": "Germany",
+        "rank": 837
+    },
+    {
+        "name": "Commerzbank",
+        "code": "CBK.F",
+        "country": "Germany",
+        "rank": 838
+    },
+    {
+        "name": "MTU Aero Engines",
+        "code": "MTX.DE",
+        "country": "Germany",
+        "rank": 839
+    },
+    {
+        "name": "HeidelbergCement",
+        "code": "HEI.DE",
+        "country": "Germany",
+        "rank": 840
+    },
+    {
+        "name": "Carl Zeiss Meditec",
+        "code": "AFXA.F",
+        "country": "Germany",
+        "rank": 841
+    },
+    {
+        "name": "Lufthansa",
+        "code": "LHA.DE",
+        "country": "Germany",
+        "rank": 842
+    },
+    {
+        "name": "Brenntag",
+        "code": "BNR.DE",
+        "country": "Germany",
+        "rank": 843
+    },
+    {
+        "name": "Zalando",
+        "code": "ZAL.DE",
+        "country": "Germany",
+        "rank": 844
+    },
+    {
+        "name": "Fresenius Medical Care",
+        "code": "FMS",
+        "country": "Germany",
+        "rank": 845
+    },
+    {
+        "name": "Evonik Industries",
+        "code": "EVK.DE",
+        "country": "Germany",
+        "rank": 846
+    },
+    {
+        "name": "PUMA",
+        "code": "PUM.DE",
+        "country": "Germany",
+        "rank": 847
+    },
+    {
+        "name": "HELLA",
+        "code": "HLE.F",
+        "country": "Germany",
+        "rank": 848
+    },
+    {
+        "name": "Knorr-Bremse",
+        "code": "KBX.DE",
+        "country": "Germany",
+        "rank": 849
+    },
+    {
+        "name": "Rheinmetall",
+        "code": "RHM.F",
+        "country": "Germany",
+        "rank": 850
+    },
+    {
+        "name": "Deutsche Wohnen",
+        "code": "DWNI.DE",
+        "country": "Germany",
+        "rank": 851
+    },
+    {
+        "name": "Traton",
+        "code": "8TRA.DE",
+        "country": "Germany",
+        "rank": 852
+    },
+    {
+        "name": "Covestro",
+        "code": "1COV.F",
+        "country": "Germany",
+        "rank": 853
+    },
+    {
+        "name": "Telef\u00f3nica Deutschland (O2)",
+        "code": "O2D.DE",
+        "country": "Germany",
+        "rank": 854
+    },
+    {
+        "name": "GEA Group",
+        "code": "G1A.F",
+        "country": "Germany",
+        "rank": 855
+    },
+    {
+        "name": "Rational AG",
+        "code": "RAA.F",
+        "country": "Germany",
+        "rank": 856
+    },
+    {
+        "name": "DWS Group",
+        "code": "DWS.F",
+        "country": "Germany",
+        "rank": 857
+    },
+    {
+        "name": "Wacker Chemie",
+        "code": "WCH.F",
+        "country": "Germany",
+        "rank": 858
+    },
+    {
+        "name": "CTS Eventim",
+        "code": "EVD.F",
+        "country": "Germany",
+        "rank": 859
+    },
+    {
+        "name": "Nemetschek",
+        "code": "NEM.F",
+        "country": "Germany",
+        "rank": 860
+    },
+    {
+        "name": "LEG Immobilien",
+        "code": "LEG.DE",
+        "country": "Germany",
+        "rank": 861
+    },
+    {
+        "name": "Schaeffler",
+        "code": "SHA.F",
+        "country": "Germany",
+        "rank": 862
+    },
+    {
+        "name": "Fuchs Petrolub",
+        "code": "FPE.F",
+        "country": "Germany",
+        "rank": 863
+    },
+    {
+        "name": "Bechtle",
+        "code": "BC8.F",
+        "country": "Germany",
+        "rank": 864
+    },
+    {
+        "name": "Verbio",
+        "code": "VBK.F",
+        "country": "Germany",
+        "rank": 865
+    },
+    {
+        "name": "Hochtief",
+        "code": "HOT.F",
+        "country": "Germany",
+        "rank": 866
+    },
+    {
+        "name": "Lechwerke",
+        "code": "LEC.F",
+        "country": "Germany",
+        "rank": 867
+    },
+    {
+        "name": "HUGO BOSS",
+        "code": "BOSS.DE",
+        "country": "Germany",
+        "rank": 868
+    },
+    {
+        "name": "HelloFresh",
+        "code": "HFG.DE",
+        "country": "Germany",
+        "rank": 869
+    },
+    {
+        "name": "KION Group",
+        "code": "KGX.DE",
+        "country": "Germany",
+        "rank": 870
+    },
+    {
+        "name": "K+S",
+        "code": "SDF.F",
+        "country": "Germany",
+        "rank": 871
+    },
+    {
+        "name": "Thyssenkrupp",
+        "code": "TKA.F",
+        "country": "Germany",
+        "rank": 872
+    },
+    {
+        "name": "Fraport",
+        "code": "FRA.DE",
+        "country": "Germany",
+        "rank": 873
+    },
+    {
+        "name": "Scout24",
+        "code": "G24.F",
+        "country": "Germany",
+        "rank": 874
+    },
+    {
+        "name": "United Internet",
+        "code": "UTDI.F",
+        "country": "Germany",
+        "rank": 875
+    },
+    {
+        "name": "Sixt",
+        "code": "SIX2.F",
+        "country": "Germany",
+        "rank": 876
+    },
+    {
+        "name": "Lanxess",
+        "code": "LXS.F",
+        "country": "Germany",
+        "rank": 877
+    },
+    {
+        "name": "S\u00fcdzucker",
+        "code": "SZU.F",
+        "country": "Germany",
+        "rank": 878
+    },
+    {
+        "name": "Aurubis",
+        "code": "NDA.F",
+        "country": "Germany",
+        "rank": 879
+    },
+    {
+        "name": "Metro AG",
+        "code": "B4B.F",
+        "country": "Germany",
+        "rank": 880
+    },
+    {
+        "name": "DMG Mori",
+        "code": "GIL.F",
+        "country": "Germany",
+        "rank": 881
+    },
+    {
+        "name": "Krones",
+        "code": "KRN.F",
+        "country": "Germany",
+        "rank": 882
+    },
+    {
+        "name": "Fielmann",
+        "code": "FIE.F",
+        "country": "Germany",
+        "rank": 883
+    },
+    {
+        "name": "Aixtron",
+        "code": "AIXA.F",
+        "country": "Germany",
+        "rank": 884
+    },
+    {
+        "name": "Encavis",
+        "code": "ECV.F",
+        "country": "Germany",
+        "rank": 885
+    },
+    {
+        "name": "Gelsenwasser",
+        "code": "WWG.F",
+        "country": "Germany",
+        "rank": 886
+    },
+    {
+        "name": "Nordex",
+        "code": "NDX1.F",
+        "country": "Germany",
+        "rank": 887
+    },
+    {
+        "name": "TUI",
+        "code": "TUI1.F",
+        "country": "Germany",
+        "rank": 888
+    },
+    {
+        "name": "Evotec",
+        "code": "EVO",
+        "country": "Germany",
+        "rank": 889
+    },
+    {
+        "name": "Jungheinrich",
+        "code": "JUN3.F",
+        "country": "Germany",
+        "rank": 890
+    },
+    {
+        "name": "SYNLAB",
+        "code": "SYAB.DE",
+        "country": "Germany",
+        "rank": 891
+    },
+    {
+        "name": "Str\u00f6er",
+        "code": "SAX.F",
+        "country": "Germany",
+        "rank": 892
+    },
+    {
+        "name": "Hensoldt",
+        "code": "HAG.F",
+        "country": "Germany",
+        "rank": 893
+    },
+    {
+        "name": "SMA Solar Technology",
+        "code": "S92.F",
+        "country": "Germany",
+        "rank": 894
+    },
+    {
+        "name": "Mainova",
+        "code": "MNV6.F",
+        "country": "Germany",
+        "rank": 895
+    },
+    {
+        "name": "Freenet",
+        "code": "FNTN.F",
+        "country": "Germany",
+        "rank": 896
+    },
+    {
+        "name": "TeamViewer",
+        "code": "TMV.DE",
+        "country": "Germany",
+        "rank": 897
+    },
+    {
+        "name": "Vitesco Technologies Group",
+        "code": "VTSC.DE",
+        "country": "Germany",
+        "rank": 898
+    },
+    {
+        "name": "D\u00fcrr",
+        "code": "DUE.F",
+        "country": "Germany",
+        "rank": 899
+    },
+    {
+        "name": "KWS",
+        "code": "KWS.F",
+        "country": "Germany",
+        "rank": 900
+    }
+]

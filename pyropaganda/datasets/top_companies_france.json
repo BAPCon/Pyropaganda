@@ -1,0 +1,5402 @@
+[
+    {
+        "name": "LVMH",
+        "code": "MC.PA",
+        "country": "France",
+        "rank": 1
+    },
+    {
+        "name": "L'Or\u00e9al",
+        "code": "OR.PA",
+        "country": "France",
+        "rank": 2
+    },
+    {
+        "name": "Herm\u00e8s",
+        "code": "RMS.PA",
+        "country": "France",
+        "rank": 3
+    },
+    {
+        "name": "TotalEnergies",
+        "code": "TTE",
+        "country": "France",
+        "rank": 4
+    },
+    {
+        "name": "Dior",
+        "code": "CDI.PA",
+        "country": "France",
+        "rank": 5
+    },
+    {
+        "name": "Sanofi",
+        "code": "SNY",
+        "country": "France",
+        "rank": 6
+    },
+    {
+        "name": "EssilorLuxottica",
+        "code": "EL.PA",
+        "country": "France",
+        "rank": 7
+    },
+    {
+        "name": "Schneider Electric",
+        "code": "SU.PA",
+        "country": "France",
+        "rank": 8
+    },
+    {
+        "name": "Air Liquide",
+        "code": "AI.PA",
+        "country": "France",
+        "rank": 9
+    },
+    {
+        "name": "BNP Paribas",
+        "code": "BNP.PA",
+        "country": "France",
+        "rank": 10
+    },
+    {
+        "name": "AXA",
+        "code": "CS.PA",
+        "country": "France",
+        "rank": 11
+    },
+    {
+        "name": "Kering",
+        "code": "KER.PA",
+        "country": "France",
+        "rank": 12
+    },
+    {
+        "name": "Vinci",
+        "code": "DG.PA",
+        "country": "France",
+        "rank": 13
+    },
+    {
+        "name": "Safran",
+        "code": "SAF.PA",
+        "country": "France",
+        "rank": 14
+    },
+    {
+        "name": "Pernod Ricard",
+        "code": "RI.PA",
+        "country": "France",
+        "rank": 15
+    },
+    {
+        "name": "EDF (Electricit\u00e9 de France)",
+        "code": "EDF.PA",
+        "country": "France",
+        "rank": 16
+    },
+    {
+        "name": "Dassault Syst\u00e8mes",
+        "code": "DSY.PA",
+        "country": "France",
+        "rank": 17
+    },
+    {
+        "name": "ENGIE",
+        "code": "ENGI.PA",
+        "country": "France",
+        "rank": 18
+    },
+    {
+        "name": "Danone",
+        "code": "BN.PA",
+        "country": "France",
+        "rank": 19
+    },
+    {
+        "name": "Cr\u00e9dit Agricole",
+        "code": "ACA.PA",
+        "country": "France",
+        "rank": 20
+    },
+    {
+        "name": "Capgemini",
+        "code": "CAP.PA",
+        "country": "France",
+        "rank": 21
+    },
+    {
+        "name": "Thales",
+        "code": "HO.PA",
+        "country": "France",
+        "rank": 22
+    },
+    {
+        "name": "Orange",
+        "code": "ORAN",
+        "country": "France",
+        "rank": 23
+    },
+    {
+        "name": "Compagnie de Saint-Gobain",
+        "code": "SGO.PA",
+        "country": "France",
+        "rank": 24
+    },
+    {
+        "name": "Legrand",
+        "code": "LR.PA",
+        "country": "France",
+        "rank": 25
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+        "code": "GLE.PA",
+        "country": "France",
+        "rank": 26
+    },
+    {
+        "name": "Michelin",
+        "code": "ML.PA",
+        "country": "France",
+        "rank": 27
+    },
+    {
+        "name": "Veolia",
+        "code": "VIE.PA",
+        "country": "France",
+        "rank": 28
+    },
+    {
+        "name": "Bollor\u00e9",
+        "code": "BOP.F",
+        "country": "France",
+        "rank": 29
+    },
+    {
+        "name": "Publicis Groupe",
+        "code": "PUB.PA",
+        "country": "France",
+        "rank": 30
+    },
+    {
+        "name": "Dassault Aviation",
+        "code": "AM.PA",
+        "country": "France",
+        "rank": 31
+    },
+    {
+        "name": "Sodexo",
+        "code": "SW.PA",
+        "country": "France",
+        "rank": 32
+    },
+    {
+        "name": "Teleperformance",
+        "code": "TEP.PA",
+        "country": "France",
+        "rank": 33
+    },
+    {
+        "name": "Edenred",
+        "code": "EDEN.PA",
+        "country": "France",
+        "rank": 34
+    },
+    {
+        "name": "A\u00e9roports de Paris",
+        "code": "ADP.PA",
+        "country": "France",
+        "rank": 35
+    },
+    {
+        "name": "bioM\u00e9rieux",
+        "code": "BIM.PA",
+        "country": "France",
+        "rank": 36
+    },
+    {
+        "name": "Carrefour",
+        "code": "CA.PA",
+        "country": "France",
+        "rank": 37
+    },
+    {
+        "name": "Bureau Veritas",
+        "code": "BVI.PA",
+        "country": "France",
+        "rank": 38
+    },
+    {
+        "name": "Amundi",
+        "code": "AMUN.PA",
+        "country": "France",
+        "rank": 39
+    },
+    {
+        "name": "Bouygues",
+        "code": "EN.PA",
+        "country": "France",
+        "rank": 40
+    },
+    {
+        "name": "Worldline",
+        "code": "WLN.PA",
+        "country": "France",
+        "rank": 41
+    },
+    {
+        "name": "Renault",
+        "code": "RNO.PA",
+        "country": "France",
+        "rank": 42
+    },
+    {
+        "name": "Vivendi",
+        "code": "VIV.PA",
+        "country": "France",
+        "rank": 43
+    },
+    {
+        "name": "Eiffage",
+        "code": "FGR.PA",
+        "country": "France",
+        "rank": 44
+    },
+    {
+        "name": "Alstom",
+        "code": "ALO.PA",
+        "country": "France",
+        "rank": 45
+    },
+    {
+        "name": "Ipsen",
+        "code": "IPN.PA",
+        "country": "France",
+        "rank": 46
+    },
+    {
+        "name": "Getlink",
+        "code": "GET.PA",
+        "country": "France",
+        "rank": 47
+    },
+    {
+        "name": "R\u00e9my Cointreau",
+        "code": "RCO.PA",
+        "country": "France",
+        "rank": 48
+    },
+    {
+        "name": "Gecina",
+        "code": "GFC.PA",
+        "country": "France",
+        "rank": 49
+    },
+    {
+        "name": "Fran\u00e7aise des Jeux",
+        "code": "FDJ.VI",
+        "country": "France",
+        "rank": 50
+    },
+    {
+        "name": "Unibail-Rodamco-Westfield",
+        "code": "URW.AS",
+        "country": "France",
+        "rank": 51
+    },
+    {
+        "name": "Arkema",
+        "code": "AKE.PA",
+        "country": "France",
+        "rank": 52
+    },
+    {
+        "name": "Kl\u00e9pierre",
+        "code": "LI.PA",
+        "country": "France",
+        "rank": 53
+    },
+    {
+        "name": "Accor",
+        "code": "AC.PA",
+        "country": "France",
+        "rank": 54
+    },
+    {
+        "name": "Rexel",
+        "code": "RXL.PA",
+        "country": "France",
+        "rank": 55
+    },
+    {
+        "name": "Soitec",
+        "code": "SOI.PA",
+        "country": "France",
+        "rank": 56
+    },
+    {
+        "name": "Covivio",
+        "code": "COV.PA",
+        "country": "France",
+        "rank": 57
+    },
+    {
+        "name": "Somfy",
+        "code": "SO.PA",
+        "country": "France",
+        "rank": 58
+    },
+    {
+        "name": "ALD Automotive",
+        "code": "ALD.PA",
+        "country": "France",
+        "rank": 59
+    },
+    {
+        "name": "Groupe SEB",
+        "code": "SK.PA",
+        "country": "France",
+        "rank": 60
+    },
+    {
+        "name": "Eurazeo",
+        "code": "RF.PA",
+        "country": "France",
+        "rank": 61
+    },
+    {
+        "name": "Valeo",
+        "code": "FR.PA",
+        "country": "France",
+        "rank": 62
+    },
+    {
+        "name": "Neoen",
+        "code": "NEOEN.PA",
+        "country": "France",
+        "rank": 63
+    },
+    {
+        "name": "Tikehau Capital",
+        "code": "TKO.PA",
+        "country": "France",
+        "rank": 64
+    },
+    {
+        "name": "ALTEN",
+        "code": "ATE.PA",
+        "country": "France",
+        "rank": 65
+    },
+    {
+        "name": "SPIE",
+        "code": "SPIE.PA",
+        "country": "France",
+        "rank": 66
+    },
+    {
+        "name": "Scor",
+        "code": "SCR.PA",
+        "country": "France",
+        "rank": 67
+    },
+    {
+        "name": "Wendel",
+        "code": "MF.PA",
+        "country": "France",
+        "rank": 68
+    },
+    {
+        "name": "JCDecaux",
+        "code": "DEC.PA",
+        "country": "France",
+        "rank": 69
+    },
+    {
+        "name": "Colas",
+        "code": "RE.PA",
+        "country": "France",
+        "rank": 70
+    },
+    {
+        "name": "Nexans",
+        "code": "NEX.PA",
+        "country": "France",
+        "rank": 71
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 Fonci\u00e8re Lyonnaise",
+        "code": "FLY.PA",
+        "country": "France",
+        "rank": 72
+    },
+    {
+        "name": "Ubisoft",
+        "code": "UBI.PA",
+        "country": "France",
+        "rank": 73
+    },
+    {
+        "name": "Air France-KLM",
+        "code": "AF.PA",
+        "country": "France",
+        "rank": 74
+    },
+    {
+        "name": "Elis",
+        "code": "ELIS.PA",
+        "country": "France",
+        "rank": 75
+    },
+    {
+        "name": "Icade",
+        "code": "ICAD.PA",
+        "country": "France",
+        "rank": 76
+    },
+    {
+        "name": "Imerys",
+        "code": "NK.PA",
+        "country": "France",
+        "rank": 77
+    },
+    {
+        "name": "OVH Groupe",
+        "code": "OVH.PA",
+        "country": "France",
+        "rank": 78
+    },
+    {
+        "name": "Faurecia",
+        "code": "EO.PA",
+        "country": "France",
+        "rank": 79
+    },
+    {
+        "name": "Groupe Lagard\u00e8re",
+        "code": "MMB.PA",
+        "country": "France",
+        "rank": 80
+    },
+    {
+        "name": "BIC",
+        "code": "BB.PA",
+        "country": "France",
+        "rank": 81
+    },
+    {
+        "name": "Altarea",
+        "code": "ALTA.PA",
+        "country": "France",
+        "rank": 82
+    },
+    {
+        "name": "Rubis",
+        "code": "RUI.PA",
+        "country": "France",
+        "rank": 83
+    },
+    {
+        "name": "Trigano",
+        "code": "TRI.PA",
+        "country": "France",
+        "rank": 84
+    },
+    {
+        "name": "Covivio Hotels",
+        "code": "COVH.PA",
+        "country": "France",
+        "rank": 85
+    },
+    {
+        "name": "Compagnie Plastic Omnium",
+        "code": "POM.PA",
+        "country": "France",
+        "rank": 86
+    },
+    {
+        "name": "Coface",
+        "code": "COFA.PA",
+        "country": "France",
+        "rank": 87
+    },
+    {
+        "name": "Eutelsat",
+        "code": "ETL.PA",
+        "country": "France",
+        "rank": 88
+    },
+    {
+        "name": "Exclusive Networks",
+        "code": "EXN.PA",
+        "country": "France",
+        "rank": 89
+    },
+    {
+        "name": "Voltalia",
+        "code": "VLTSA.PA",
+        "country": "France",
+        "rank": 90
+    },
+    {
+        "name": "Robertet",
+        "code": "CBE.PA",
+        "country": "France",
+        "rank": 91
+    },
+    {
+        "name": "Constellium",
+        "code": "CSTM",
+        "country": "France",
+        "rank": 92
+    },
+    {
+        "name": "TF1",
+        "code": "TFI.PA",
+        "country": "France",
+        "rank": 93
+    },
+    {
+        "name": "Criteo",
+        "code": "CRTO",
+        "country": "France",
+        "rank": 94
+    },
+    {
+        "name": "Atos",
+        "code": "ATO.PA",
+        "country": "France",
+        "rank": 95
+    },
+    {
+        "name": "Casino Guichard-Perrachon",
+        "code": "CO.PA",
+        "country": "France",
+        "rank": 96
+    },
+    {
+        "name": "Korian",
+        "code": "KORI.PA",
+        "country": "France",
+        "rank": 97
+    },
+    {
+        "name": "Fnac Darty",
+        "code": "FNAC.PA",
+        "country": "France",
+        "rank": 98
+    },
+    {
+        "name": "Valneva SE",
+        "code": "VALN",
+        "country": "France",
+        "rank": 99
+    },
+    {
+        "name": "Savencia Fromage & Dairy",
+        "code": "SAVE.PA",
+        "country": "France",
+        "rank": 100
+    },
+    {
+        "name": "LVMH",
+        "code": "MC.PA",
+        "country": "France",
+        "rank": 101
+    },
+    {
+        "name": "L'Or\u00e9al",
+        "code": "OR.PA",
+        "country": "France",
+        "rank": 102
+    },
+    {
+        "name": "Herm\u00e8s",
+        "code": "RMS.PA",
+        "country": "France",
+        "rank": 103
+    },
+    {
+        "name": "TotalEnergies",
+        "code": "TTE",
+        "country": "France",
+        "rank": 104
+    },
+    {
+        "name": "Dior",
+        "code": "CDI.PA",
+        "country": "France",
+        "rank": 105
+    },
+    {
+        "name": "Sanofi",
+        "code": "SNY",
+        "country": "France",
+        "rank": 106
+    },
+    {
+        "name": "EssilorLuxottica",
+        "code": "EL.PA",
+        "country": "France",
+        "rank": 107
+    },
+    {
+        "name": "Schneider Electric",
+        "code": "SU.PA",
+        "country": "France",
+        "rank": 108
+    },
+    {
+        "name": "Air Liquide",
+        "code": "AI.PA",
+        "country": "France",
+        "rank": 109
+    },
+    {
+        "name": "BNP Paribas",
+        "code": "BNP.PA",
+        "country": "France",
+        "rank": 110
+    },
+    {
+        "name": "AXA",
+        "code": "CS.PA",
+        "country": "France",
+        "rank": 111
+    },
+    {
+        "name": "Kering",
+        "code": "KER.PA",
+        "country": "France",
+        "rank": 112
+    },
+    {
+        "name": "Vinci",
+        "code": "DG.PA",
+        "country": "France",
+        "rank": 113
+    },
+    {
+        "name": "Safran",
+        "code": "SAF.PA",
+        "country": "France",
+        "rank": 114
+    },
+    {
+        "name": "Pernod Ricard",
+        "code": "RI.PA",
+        "country": "France",
+        "rank": 115
+    },
+    {
+        "name": "EDF (Electricit\u00e9 de France)",
+        "code": "EDF.PA",
+        "country": "France",
+        "rank": 116
+    },
+    {
+        "name": "Dassault Syst\u00e8mes",
+        "code": "DSY.PA",
+        "country": "France",
+        "rank": 117
+    },
+    {
+        "name": "ENGIE",
+        "code": "ENGI.PA",
+        "country": "France",
+        "rank": 118
+    },
+    {
+        "name": "Danone",
+        "code": "BN.PA",
+        "country": "France",
+        "rank": 119
+    },
+    {
+        "name": "Cr\u00e9dit Agricole",
+        "code": "ACA.PA",
+        "country": "France",
+        "rank": 120
+    },
+    {
+        "name": "Capgemini",
+        "code": "CAP.PA",
+        "country": "France",
+        "rank": 121
+    },
+    {
+        "name": "Thales",
+        "code": "HO.PA",
+        "country": "France",
+        "rank": 122
+    },
+    {
+        "name": "Orange",
+        "code": "ORAN",
+        "country": "France",
+        "rank": 123
+    },
+    {
+        "name": "Compagnie de Saint-Gobain",
+        "code": "SGO.PA",
+        "country": "France",
+        "rank": 124
+    },
+    {
+        "name": "Legrand",
+        "code": "LR.PA",
+        "country": "France",
+        "rank": 125
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+        "code": "GLE.PA",
+        "country": "France",
+        "rank": 126
+    },
+    {
+        "name": "Michelin",
+        "code": "ML.PA",
+        "country": "France",
+        "rank": 127
+    },
+    {
+        "name": "Veolia",
+        "code": "VIE.PA",
+        "country": "France",
+        "rank": 128
+    },
+    {
+        "name": "Bollor\u00e9",
+        "code": "BOP.F",
+        "country": "France",
+        "rank": 129
+    },
+    {
+        "name": "Publicis Groupe",
+        "code": "PUB.PA",
+        "country": "France",
+        "rank": 130
+    },
+    {
+        "name": "Dassault Aviation",
+        "code": "AM.PA",
+        "country": "France",
+        "rank": 131
+    },
+    {
+        "name": "Sodexo",
+        "code": "SW.PA",
+        "country": "France",
+        "rank": 132
+    },
+    {
+        "name": "Teleperformance",
+        "code": "TEP.PA",
+        "country": "France",
+        "rank": 133
+    },
+    {
+        "name": "Edenred",
+        "code": "EDEN.PA",
+        "country": "France",
+        "rank": 134
+    },
+    {
+        "name": "A\u00e9roports de Paris",
+        "code": "ADP.PA",
+        "country": "France",
+        "rank": 135
+    },
+    {
+        "name": "bioM\u00e9rieux",
+        "code": "BIM.PA",
+        "country": "France",
+        "rank": 136
+    },
+    {
+        "name": "Carrefour",
+        "code": "CA.PA",
+        "country": "France",
+        "rank": 137
+    },
+    {
+        "name": "Bureau Veritas",
+        "code": "BVI.PA",
+        "country": "France",
+        "rank": 138
+    },
+    {
+        "name": "Amundi",
+        "code": "AMUN.PA",
+        "country": "France",
+        "rank": 139
+    },
+    {
+        "name": "Bouygues",
+        "code": "EN.PA",
+        "country": "France",
+        "rank": 140
+    },
+    {
+        "name": "Worldline",
+        "code": "WLN.PA",
+        "country": "France",
+        "rank": 141
+    },
+    {
+        "name": "Renault",
+        "code": "RNO.PA",
+        "country": "France",
+        "rank": 142
+    },
+    {
+        "name": "Vivendi",
+        "code": "VIV.PA",
+        "country": "France",
+        "rank": 143
+    },
+    {
+        "name": "Eiffage",
+        "code": "FGR.PA",
+        "country": "France",
+        "rank": 144
+    },
+    {
+        "name": "Alstom",
+        "code": "ALO.PA",
+        "country": "France",
+        "rank": 145
+    },
+    {
+        "name": "Ipsen",
+        "code": "IPN.PA",
+        "country": "France",
+        "rank": 146
+    },
+    {
+        "name": "Getlink",
+        "code": "GET.PA",
+        "country": "France",
+        "rank": 147
+    },
+    {
+        "name": "R\u00e9my Cointreau",
+        "code": "RCO.PA",
+        "country": "France",
+        "rank": 148
+    },
+    {
+        "name": "Gecina",
+        "code": "GFC.PA",
+        "country": "France",
+        "rank": 149
+    },
+    {
+        "name": "Fran\u00e7aise des Jeux",
+        "code": "FDJ.VI",
+        "country": "France",
+        "rank": 150
+    },
+    {
+        "name": "Unibail-Rodamco-Westfield",
+        "code": "URW.AS",
+        "country": "France",
+        "rank": 151
+    },
+    {
+        "name": "Arkema",
+        "code": "AKE.PA",
+        "country": "France",
+        "rank": 152
+    },
+    {
+        "name": "Kl\u00e9pierre",
+        "code": "LI.PA",
+        "country": "France",
+        "rank": 153
+    },
+    {
+        "name": "Accor",
+        "code": "AC.PA",
+        "country": "France",
+        "rank": 154
+    },
+    {
+        "name": "Rexel",
+        "code": "RXL.PA",
+        "country": "France",
+        "rank": 155
+    },
+    {
+        "name": "Soitec",
+        "code": "SOI.PA",
+        "country": "France",
+        "rank": 156
+    },
+    {
+        "name": "Covivio",
+        "code": "COV.PA",
+        "country": "France",
+        "rank": 157
+    },
+    {
+        "name": "Somfy",
+        "code": "SO.PA",
+        "country": "France",
+        "rank": 158
+    },
+    {
+        "name": "ALD Automotive",
+        "code": "ALD.PA",
+        "country": "France",
+        "rank": 159
+    },
+    {
+        "name": "Groupe SEB",
+        "code": "SK.PA",
+        "country": "France",
+        "rank": 160
+    },
+    {
+        "name": "Eurazeo",
+        "code": "RF.PA",
+        "country": "France",
+        "rank": 161
+    },
+    {
+        "name": "Valeo",
+        "code": "FR.PA",
+        "country": "France",
+        "rank": 162
+    },
+    {
+        "name": "Neoen",
+        "code": "NEOEN.PA",
+        "country": "France",
+        "rank": 163
+    },
+    {
+        "name": "Tikehau Capital",
+        "code": "TKO.PA",
+        "country": "France",
+        "rank": 164
+    },
+    {
+        "name": "ALTEN",
+        "code": "ATE.PA",
+        "country": "France",
+        "rank": 165
+    },
+    {
+        "name": "SPIE",
+        "code": "SPIE.PA",
+        "country": "France",
+        "rank": 166
+    },
+    {
+        "name": "Scor",
+        "code": "SCR.PA",
+        "country": "France",
+        "rank": 167
+    },
+    {
+        "name": "Wendel",
+        "code": "MF.PA",
+        "country": "France",
+        "rank": 168
+    },
+    {
+        "name": "JCDecaux",
+        "code": "DEC.PA",
+        "country": "France",
+        "rank": 169
+    },
+    {
+        "name": "Colas",
+        "code": "RE.PA",
+        "country": "France",
+        "rank": 170
+    },
+    {
+        "name": "Nexans",
+        "code": "NEX.PA",
+        "country": "France",
+        "rank": 171
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 Fonci\u00e8re Lyonnaise",
+        "code": "FLY.PA",
+        "country": "France",
+        "rank": 172
+    },
+    {
+        "name": "Ubisoft",
+        "code": "UBI.PA",
+        "country": "France",
+        "rank": 173
+    },
+    {
+        "name": "Air France-KLM",
+        "code": "AF.PA",
+        "country": "France",
+        "rank": 174
+    },
+    {
+        "name": "Elis",
+        "code": "ELIS.PA",
+        "country": "France",
+        "rank": 175
+    },
+    {
+        "name": "Icade",
+        "code": "ICAD.PA",
+        "country": "France",
+        "rank": 176
+    },
+    {
+        "name": "Imerys",
+        "code": "NK.PA",
+        "country": "France",
+        "rank": 177
+    },
+    {
+        "name": "OVH Groupe",
+        "code": "OVH.PA",
+        "country": "France",
+        "rank": 178
+    },
+    {
+        "name": "Faurecia",
+        "code": "EO.PA",
+        "country": "France",
+        "rank": 179
+    },
+    {
+        "name": "Groupe Lagard\u00e8re",
+        "code": "MMB.PA",
+        "country": "France",
+        "rank": 180
+    },
+    {
+        "name": "BIC",
+        "code": "BB.PA",
+        "country": "France",
+        "rank": 181
+    },
+    {
+        "name": "Altarea",
+        "code": "ALTA.PA",
+        "country": "France",
+        "rank": 182
+    },
+    {
+        "name": "Rubis",
+        "code": "RUI.PA",
+        "country": "France",
+        "rank": 183
+    },
+    {
+        "name": "Trigano",
+        "code": "TRI.PA",
+        "country": "France",
+        "rank": 184
+    },
+    {
+        "name": "Covivio Hotels",
+        "code": "COVH.PA",
+        "country": "France",
+        "rank": 185
+    },
+    {
+        "name": "Compagnie Plastic Omnium",
+        "code": "POM.PA",
+        "country": "France",
+        "rank": 186
+    },
+    {
+        "name": "Coface",
+        "code": "COFA.PA",
+        "country": "France",
+        "rank": 187
+    },
+    {
+        "name": "Eutelsat",
+        "code": "ETL.PA",
+        "country": "France",
+        "rank": 188
+    },
+    {
+        "name": "Exclusive Networks",
+        "code": "EXN.PA",
+        "country": "France",
+        "rank": 189
+    },
+    {
+        "name": "Voltalia",
+        "code": "VLTSA.PA",
+        "country": "France",
+        "rank": 190
+    },
+    {
+        "name": "Robertet",
+        "code": "CBE.PA",
+        "country": "France",
+        "rank": 191
+    },
+    {
+        "name": "Constellium",
+        "code": "CSTM",
+        "country": "France",
+        "rank": 192
+    },
+    {
+        "name": "TF1",
+        "code": "TFI.PA",
+        "country": "France",
+        "rank": 193
+    },
+    {
+        "name": "Criteo",
+        "code": "CRTO",
+        "country": "France",
+        "rank": 194
+    },
+    {
+        "name": "Atos",
+        "code": "ATO.PA",
+        "country": "France",
+        "rank": 195
+    },
+    {
+        "name": "Casino Guichard-Perrachon",
+        "code": "CO.PA",
+        "country": "France",
+        "rank": 196
+    },
+    {
+        "name": "Korian",
+        "code": "KORI.PA",
+        "country": "France",
+        "rank": 197
+    },
+    {
+        "name": "Fnac Darty",
+        "code": "FNAC.PA",
+        "country": "France",
+        "rank": 198
+    },
+    {
+        "name": "Valneva SE",
+        "code": "VALN",
+        "country": "France",
+        "rank": 199
+    },
+    {
+        "name": "Savencia Fromage & Dairy",
+        "code": "SAVE.PA",
+        "country": "France",
+        "rank": 200
+    },
+    {
+        "name": "LVMH",
+        "code": "MC.PA",
+        "country": "France",
+        "rank": 201
+    },
+    {
+        "name": "L'Or\u00e9al",
+        "code": "OR.PA",
+        "country": "France",
+        "rank": 202
+    },
+    {
+        "name": "Herm\u00e8s",
+        "code": "RMS.PA",
+        "country": "France",
+        "rank": 203
+    },
+    {
+        "name": "TotalEnergies",
+        "code": "TTE",
+        "country": "France",
+        "rank": 204
+    },
+    {
+        "name": "Dior",
+        "code": "CDI.PA",
+        "country": "France",
+        "rank": 205
+    },
+    {
+        "name": "Sanofi",
+        "code": "SNY",
+        "country": "France",
+        "rank": 206
+    },
+    {
+        "name": "EssilorLuxottica",
+        "code": "EL.PA",
+        "country": "France",
+        "rank": 207
+    },
+    {
+        "name": "Schneider Electric",
+        "code": "SU.PA",
+        "country": "France",
+        "rank": 208
+    },
+    {
+        "name": "Air Liquide",
+        "code": "AI.PA",
+        "country": "France",
+        "rank": 209
+    },
+    {
+        "name": "BNP Paribas",
+        "code": "BNP.PA",
+        "country": "France",
+        "rank": 210
+    },
+    {
+        "name": "AXA",
+        "code": "CS.PA",
+        "country": "France",
+        "rank": 211
+    },
+    {
+        "name": "Kering",
+        "code": "KER.PA",
+        "country": "France",
+        "rank": 212
+    },
+    {
+        "name": "Vinci",
+        "code": "DG.PA",
+        "country": "France",
+        "rank": 213
+    },
+    {
+        "name": "Safran",
+        "code": "SAF.PA",
+        "country": "France",
+        "rank": 214
+    },
+    {
+        "name": "Pernod Ricard",
+        "code": "RI.PA",
+        "country": "France",
+        "rank": 215
+    },
+    {
+        "name": "EDF (Electricit\u00e9 de France)",
+        "code": "EDF.PA",
+        "country": "France",
+        "rank": 216
+    },
+    {
+        "name": "Dassault Syst\u00e8mes",
+        "code": "DSY.PA",
+        "country": "France",
+        "rank": 217
+    },
+    {
+        "name": "ENGIE",
+        "code": "ENGI.PA",
+        "country": "France",
+        "rank": 218
+    },
+    {
+        "name": "Danone",
+        "code": "BN.PA",
+        "country": "France",
+        "rank": 219
+    },
+    {
+        "name": "Cr\u00e9dit Agricole",
+        "code": "ACA.PA",
+        "country": "France",
+        "rank": 220
+    },
+    {
+        "name": "Capgemini",
+        "code": "CAP.PA",
+        "country": "France",
+        "rank": 221
+    },
+    {
+        "name": "Thales",
+        "code": "HO.PA",
+        "country": "France",
+        "rank": 222
+    },
+    {
+        "name": "Orange",
+        "code": "ORAN",
+        "country": "France",
+        "rank": 223
+    },
+    {
+        "name": "Compagnie de Saint-Gobain",
+        "code": "SGO.PA",
+        "country": "France",
+        "rank": 224
+    },
+    {
+        "name": "Legrand",
+        "code": "LR.PA",
+        "country": "France",
+        "rank": 225
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+        "code": "GLE.PA",
+        "country": "France",
+        "rank": 226
+    },
+    {
+        "name": "Michelin",
+        "code": "ML.PA",
+        "country": "France",
+        "rank": 227
+    },
+    {
+        "name": "Veolia",
+        "code": "VIE.PA",
+        "country": "France",
+        "rank": 228
+    },
+    {
+        "name": "Bollor\u00e9",
+        "code": "BOP.F",
+        "country": "France",
+        "rank": 229
+    },
+    {
+        "name": "Publicis Groupe",
+        "code": "PUB.PA",
+        "country": "France",
+        "rank": 230
+    },
+    {
+        "name": "Dassault Aviation",
+        "code": "AM.PA",
+        "country": "France",
+        "rank": 231
+    },
+    {
+        "name": "Sodexo",
+        "code": "SW.PA",
+        "country": "France",
+        "rank": 232
+    },
+    {
+        "name": "Teleperformance",
+        "code": "TEP.PA",
+        "country": "France",
+        "rank": 233
+    },
+    {
+        "name": "Edenred",
+        "code": "EDEN.PA",
+        "country": "France",
+        "rank": 234
+    },
+    {
+        "name": "A\u00e9roports de Paris",
+        "code": "ADP.PA",
+        "country": "France",
+        "rank": 235
+    },
+    {
+        "name": "bioM\u00e9rieux",
+        "code": "BIM.PA",
+        "country": "France",
+        "rank": 236
+    },
+    {
+        "name": "Carrefour",
+        "code": "CA.PA",
+        "country": "France",
+        "rank": 237
+    },
+    {
+        "name": "Bureau Veritas",
+        "code": "BVI.PA",
+        "country": "France",
+        "rank": 238
+    },
+    {
+        "name": "Amundi",
+        "code": "AMUN.PA",
+        "country": "France",
+        "rank": 239
+    },
+    {
+        "name": "Bouygues",
+        "code": "EN.PA",
+        "country": "France",
+        "rank": 240
+    },
+    {
+        "name": "Worldline",
+        "code": "WLN.PA",
+        "country": "France",
+        "rank": 241
+    },
+    {
+        "name": "Renault",
+        "code": "RNO.PA",
+        "country": "France",
+        "rank": 242
+    },
+    {
+        "name": "Vivendi",
+        "code": "VIV.PA",
+        "country": "France",
+        "rank": 243
+    },
+    {
+        "name": "Eiffage",
+        "code": "FGR.PA",
+        "country": "France",
+        "rank": 244
+    },
+    {
+        "name": "Alstom",
+        "code": "ALO.PA",
+        "country": "France",
+        "rank": 245
+    },
+    {
+        "name": "Ipsen",
+        "code": "IPN.PA",
+        "country": "France",
+        "rank": 246
+    },
+    {
+        "name": "Getlink",
+        "code": "GET.PA",
+        "country": "France",
+        "rank": 247
+    },
+    {
+        "name": "R\u00e9my Cointreau",
+        "code": "RCO.PA",
+        "country": "France",
+        "rank": 248
+    },
+    {
+        "name": "Gecina",
+        "code": "GFC.PA",
+        "country": "France",
+        "rank": 249
+    },
+    {
+        "name": "Fran\u00e7aise des Jeux",
+        "code": "FDJ.VI",
+        "country": "France",
+        "rank": 250
+    },
+    {
+        "name": "Unibail-Rodamco-Westfield",
+        "code": "URW.AS",
+        "country": "France",
+        "rank": 251
+    },
+    {
+        "name": "Arkema",
+        "code": "AKE.PA",
+        "country": "France",
+        "rank": 252
+    },
+    {
+        "name": "Kl\u00e9pierre",
+        "code": "LI.PA",
+        "country": "France",
+        "rank": 253
+    },
+    {
+        "name": "Accor",
+        "code": "AC.PA",
+        "country": "France",
+        "rank": 254
+    },
+    {
+        "name": "Rexel",
+        "code": "RXL.PA",
+        "country": "France",
+        "rank": 255
+    },
+    {
+        "name": "Soitec",
+        "code": "SOI.PA",
+        "country": "France",
+        "rank": 256
+    },
+    {
+        "name": "Covivio",
+        "code": "COV.PA",
+        "country": "France",
+        "rank": 257
+    },
+    {
+        "name": "Somfy",
+        "code": "SO.PA",
+        "country": "France",
+        "rank": 258
+    },
+    {
+        "name": "ALD Automotive",
+        "code": "ALD.PA",
+        "country": "France",
+        "rank": 259
+    },
+    {
+        "name": "Groupe SEB",
+        "code": "SK.PA",
+        "country": "France",
+        "rank": 260
+    },
+    {
+        "name": "Eurazeo",
+        "code": "RF.PA",
+        "country": "France",
+        "rank": 261
+    },
+    {
+        "name": "Valeo",
+        "code": "FR.PA",
+        "country": "France",
+        "rank": 262
+    },
+    {
+        "name": "Neoen",
+        "code": "NEOEN.PA",
+        "country": "France",
+        "rank": 263
+    },
+    {
+        "name": "Tikehau Capital",
+        "code": "TKO.PA",
+        "country": "France",
+        "rank": 264
+    },
+    {
+        "name": "ALTEN",
+        "code": "ATE.PA",
+        "country": "France",
+        "rank": 265
+    },
+    {
+        "name": "SPIE",
+        "code": "SPIE.PA",
+        "country": "France",
+        "rank": 266
+    },
+    {
+        "name": "Scor",
+        "code": "SCR.PA",
+        "country": "France",
+        "rank": 267
+    },
+    {
+        "name": "Wendel",
+        "code": "MF.PA",
+        "country": "France",
+        "rank": 268
+    },
+    {
+        "name": "JCDecaux",
+        "code": "DEC.PA",
+        "country": "France",
+        "rank": 269
+    },
+    {
+        "name": "Colas",
+        "code": "RE.PA",
+        "country": "France",
+        "rank": 270
+    },
+    {
+        "name": "Nexans",
+        "code": "NEX.PA",
+        "country": "France",
+        "rank": 271
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 Fonci\u00e8re Lyonnaise",
+        "code": "FLY.PA",
+        "country": "France",
+        "rank": 272
+    },
+    {
+        "name": "Ubisoft",
+        "code": "UBI.PA",
+        "country": "France",
+        "rank": 273
+    },
+    {
+        "name": "Air France-KLM",
+        "code": "AF.PA",
+        "country": "France",
+        "rank": 274
+    },
+    {
+        "name": "Elis",
+        "code": "ELIS.PA",
+        "country": "France",
+        "rank": 275
+    },
+    {
+        "name": "Icade",
+        "code": "ICAD.PA",
+        "country": "France",
+        "rank": 276
+    },
+    {
+        "name": "Imerys",
+        "code": "NK.PA",
+        "country": "France",
+        "rank": 277
+    },
+    {
+        "name": "OVH Groupe",
+        "code": "OVH.PA",
+        "country": "France",
+        "rank": 278
+    },
+    {
+        "name": "Faurecia",
+        "code": "EO.PA",
+        "country": "France",
+        "rank": 279
+    },
+    {
+        "name": "Groupe Lagard\u00e8re",
+        "code": "MMB.PA",
+        "country": "France",
+        "rank": 280
+    },
+    {
+        "name": "BIC",
+        "code": "BB.PA",
+        "country": "France",
+        "rank": 281
+    },
+    {
+        "name": "Altarea",
+        "code": "ALTA.PA",
+        "country": "France",
+        "rank": 282
+    },
+    {
+        "name": "Rubis",
+        "code": "RUI.PA",
+        "country": "France",
+        "rank": 283
+    },
+    {
+        "name": "Trigano",
+        "code": "TRI.PA",
+        "country": "France",
+        "rank": 284
+    },
+    {
+        "name": "Covivio Hotels",
+        "code": "COVH.PA",
+        "country": "France",
+        "rank": 285
+    },
+    {
+        "name": "Compagnie Plastic Omnium",
+        "code": "POM.PA",
+        "country": "France",
+        "rank": 286
+    },
+    {
+        "name": "Coface",
+        "code": "COFA.PA",
+        "country": "France",
+        "rank": 287
+    },
+    {
+        "name": "Eutelsat",
+        "code": "ETL.PA",
+        "country": "France",
+        "rank": 288
+    },
+    {
+        "name": "Exclusive Networks",
+        "code": "EXN.PA",
+        "country": "France",
+        "rank": 289
+    },
+    {
+        "name": "Voltalia",
+        "code": "VLTSA.PA",
+        "country": "France",
+        "rank": 290
+    },
+    {
+        "name": "Robertet",
+        "code": "CBE.PA",
+        "country": "France",
+        "rank": 291
+    },
+    {
+        "name": "Constellium",
+        "code": "CSTM",
+        "country": "France",
+        "rank": 292
+    },
+    {
+        "name": "TF1",
+        "code": "TFI.PA",
+        "country": "France",
+        "rank": 293
+    },
+    {
+        "name": "Criteo",
+        "code": "CRTO",
+        "country": "France",
+        "rank": 294
+    },
+    {
+        "name": "Atos",
+        "code": "ATO.PA",
+        "country": "France",
+        "rank": 295
+    },
+    {
+        "name": "Casino Guichard-Perrachon",
+        "code": "CO.PA",
+        "country": "France",
+        "rank": 296
+    },
+    {
+        "name": "Korian",
+        "code": "KORI.PA",
+        "country": "France",
+        "rank": 297
+    },
+    {
+        "name": "Fnac Darty",
+        "code": "FNAC.PA",
+        "country": "France",
+        "rank": 298
+    },
+    {
+        "name": "Valneva SE",
+        "code": "VALN",
+        "country": "France",
+        "rank": 299
+    },
+    {
+        "name": "Savencia Fromage & Dairy",
+        "code": "SAVE.PA",
+        "country": "France",
+        "rank": 300
+    },
+    {
+        "name": "LVMH",
+        "code": "MC.PA",
+        "country": "France",
+        "rank": 301
+    },
+    {
+        "name": "L'Or\u00e9al",
+        "code": "OR.PA",
+        "country": "France",
+        "rank": 302
+    },
+    {
+        "name": "Herm\u00e8s",
+        "code": "RMS.PA",
+        "country": "France",
+        "rank": 303
+    },
+    {
+        "name": "TotalEnergies",
+        "code": "TTE",
+        "country": "France",
+        "rank": 304
+    },
+    {
+        "name": "Dior",
+        "code": "CDI.PA",
+        "country": "France",
+        "rank": 305
+    },
+    {
+        "name": "Sanofi",
+        "code": "SNY",
+        "country": "France",
+        "rank": 306
+    },
+    {
+        "name": "EssilorLuxottica",
+        "code": "EL.PA",
+        "country": "France",
+        "rank": 307
+    },
+    {
+        "name": "Schneider Electric",
+        "code": "SU.PA",
+        "country": "France",
+        "rank": 308
+    },
+    {
+        "name": "Air Liquide",
+        "code": "AI.PA",
+        "country": "France",
+        "rank": 309
+    },
+    {
+        "name": "BNP Paribas",
+        "code": "BNP.PA",
+        "country": "France",
+        "rank": 310
+    },
+    {
+        "name": "AXA",
+        "code": "CS.PA",
+        "country": "France",
+        "rank": 311
+    },
+    {
+        "name": "Kering",
+        "code": "KER.PA",
+        "country": "France",
+        "rank": 312
+    },
+    {
+        "name": "Vinci",
+        "code": "DG.PA",
+        "country": "France",
+        "rank": 313
+    },
+    {
+        "name": "Safran",
+        "code": "SAF.PA",
+        "country": "France",
+        "rank": 314
+    },
+    {
+        "name": "Pernod Ricard",
+        "code": "RI.PA",
+        "country": "France",
+        "rank": 315
+    },
+    {
+        "name": "EDF (Electricit\u00e9 de France)",
+        "code": "EDF.PA",
+        "country": "France",
+        "rank": 316
+    },
+    {
+        "name": "Dassault Syst\u00e8mes",
+        "code": "DSY.PA",
+        "country": "France",
+        "rank": 317
+    },
+    {
+        "name": "ENGIE",
+        "code": "ENGI.PA",
+        "country": "France",
+        "rank": 318
+    },
+    {
+        "name": "Danone",
+        "code": "BN.PA",
+        "country": "France",
+        "rank": 319
+    },
+    {
+        "name": "Cr\u00e9dit Agricole",
+        "code": "ACA.PA",
+        "country": "France",
+        "rank": 320
+    },
+    {
+        "name": "Capgemini",
+        "code": "CAP.PA",
+        "country": "France",
+        "rank": 321
+    },
+    {
+        "name": "Thales",
+        "code": "HO.PA",
+        "country": "France",
+        "rank": 322
+    },
+    {
+        "name": "Orange",
+        "code": "ORAN",
+        "country": "France",
+        "rank": 323
+    },
+    {
+        "name": "Compagnie de Saint-Gobain",
+        "code": "SGO.PA",
+        "country": "France",
+        "rank": 324
+    },
+    {
+        "name": "Legrand",
+        "code": "LR.PA",
+        "country": "France",
+        "rank": 325
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+        "code": "GLE.PA",
+        "country": "France",
+        "rank": 326
+    },
+    {
+        "name": "Michelin",
+        "code": "ML.PA",
+        "country": "France",
+        "rank": 327
+    },
+    {
+        "name": "Veolia",
+        "code": "VIE.PA",
+        "country": "France",
+        "rank": 328
+    },
+    {
+        "name": "Bollor\u00e9",
+        "code": "BOP.F",
+        "country": "France",
+        "rank": 329
+    },
+    {
+        "name": "Publicis Groupe",
+        "code": "PUB.PA",
+        "country": "France",
+        "rank": 330
+    },
+    {
+        "name": "Dassault Aviation",
+        "code": "AM.PA",
+        "country": "France",
+        "rank": 331
+    },
+    {
+        "name": "Sodexo",
+        "code": "SW.PA",
+        "country": "France",
+        "rank": 332
+    },
+    {
+        "name": "Teleperformance",
+        "code": "TEP.PA",
+        "country": "France",
+        "rank": 333
+    },
+    {
+        "name": "Edenred",
+        "code": "EDEN.PA",
+        "country": "France",
+        "rank": 334
+    },
+    {
+        "name": "A\u00e9roports de Paris",
+        "code": "ADP.PA",
+        "country": "France",
+        "rank": 335
+    },
+    {
+        "name": "bioM\u00e9rieux",
+        "code": "BIM.PA",
+        "country": "France",
+        "rank": 336
+    },
+    {
+        "name": "Carrefour",
+        "code": "CA.PA",
+        "country": "France",
+        "rank": 337
+    },
+    {
+        "name": "Bureau Veritas",
+        "code": "BVI.PA",
+        "country": "France",
+        "rank": 338
+    },
+    {
+        "name": "Amundi",
+        "code": "AMUN.PA",
+        "country": "France",
+        "rank": 339
+    },
+    {
+        "name": "Bouygues",
+        "code": "EN.PA",
+        "country": "France",
+        "rank": 340
+    },
+    {
+        "name": "Worldline",
+        "code": "WLN.PA",
+        "country": "France",
+        "rank": 341
+    },
+    {
+        "name": "Renault",
+        "code": "RNO.PA",
+        "country": "France",
+        "rank": 342
+    },
+    {
+        "name": "Vivendi",
+        "code": "VIV.PA",
+        "country": "France",
+        "rank": 343
+    },
+    {
+        "name": "Eiffage",
+        "code": "FGR.PA",
+        "country": "France",
+        "rank": 344
+    },
+    {
+        "name": "Alstom",
+        "code": "ALO.PA",
+        "country": "France",
+        "rank": 345
+    },
+    {
+        "name": "Ipsen",
+        "code": "IPN.PA",
+        "country": "France",
+        "rank": 346
+    },
+    {
+        "name": "Getlink",
+        "code": "GET.PA",
+        "country": "France",
+        "rank": 347
+    },
+    {
+        "name": "R\u00e9my Cointreau",
+        "code": "RCO.PA",
+        "country": "France",
+        "rank": 348
+    },
+    {
+        "name": "Gecina",
+        "code": "GFC.PA",
+        "country": "France",
+        "rank": 349
+    },
+    {
+        "name": "Fran\u00e7aise des Jeux",
+        "code": "FDJ.VI",
+        "country": "France",
+        "rank": 350
+    },
+    {
+        "name": "Unibail-Rodamco-Westfield",
+        "code": "URW.AS",
+        "country": "France",
+        "rank": 351
+    },
+    {
+        "name": "Arkema",
+        "code": "AKE.PA",
+        "country": "France",
+        "rank": 352
+    },
+    {
+        "name": "Kl\u00e9pierre",
+        "code": "LI.PA",
+        "country": "France",
+        "rank": 353
+    },
+    {
+        "name": "Accor",
+        "code": "AC.PA",
+        "country": "France",
+        "rank": 354
+    },
+    {
+        "name": "Rexel",
+        "code": "RXL.PA",
+        "country": "France",
+        "rank": 355
+    },
+    {
+        "name": "Soitec",
+        "code": "SOI.PA",
+        "country": "France",
+        "rank": 356
+    },
+    {
+        "name": "Covivio",
+        "code": "COV.PA",
+        "country": "France",
+        "rank": 357
+    },
+    {
+        "name": "Somfy",
+        "code": "SO.PA",
+        "country": "France",
+        "rank": 358
+    },
+    {
+        "name": "ALD Automotive",
+        "code": "ALD.PA",
+        "country": "France",
+        "rank": 359
+    },
+    {
+        "name": "Groupe SEB",
+        "code": "SK.PA",
+        "country": "France",
+        "rank": 360
+    },
+    {
+        "name": "Eurazeo",
+        "code": "RF.PA",
+        "country": "France",
+        "rank": 361
+    },
+    {
+        "name": "Valeo",
+        "code": "FR.PA",
+        "country": "France",
+        "rank": 362
+    },
+    {
+        "name": "Neoen",
+        "code": "NEOEN.PA",
+        "country": "France",
+        "rank": 363
+    },
+    {
+        "name": "Tikehau Capital",
+        "code": "TKO.PA",
+        "country": "France",
+        "rank": 364
+    },
+    {
+        "name": "ALTEN",
+        "code": "ATE.PA",
+        "country": "France",
+        "rank": 365
+    },
+    {
+        "name": "SPIE",
+        "code": "SPIE.PA",
+        "country": "France",
+        "rank": 366
+    },
+    {
+        "name": "Scor",
+        "code": "SCR.PA",
+        "country": "France",
+        "rank": 367
+    },
+    {
+        "name": "Wendel",
+        "code": "MF.PA",
+        "country": "France",
+        "rank": 368
+    },
+    {
+        "name": "JCDecaux",
+        "code": "DEC.PA",
+        "country": "France",
+        "rank": 369
+    },
+    {
+        "name": "Colas",
+        "code": "RE.PA",
+        "country": "France",
+        "rank": 370
+    },
+    {
+        "name": "Nexans",
+        "code": "NEX.PA",
+        "country": "France",
+        "rank": 371
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 Fonci\u00e8re Lyonnaise",
+        "code": "FLY.PA",
+        "country": "France",
+        "rank": 372
+    },
+    {
+        "name": "Ubisoft",
+        "code": "UBI.PA",
+        "country": "France",
+        "rank": 373
+    },
+    {
+        "name": "Air France-KLM",
+        "code": "AF.PA",
+        "country": "France",
+        "rank": 374
+    },
+    {
+        "name": "Elis",
+        "code": "ELIS.PA",
+        "country": "France",
+        "rank": 375
+    },
+    {
+        "name": "Icade",
+        "code": "ICAD.PA",
+        "country": "France",
+        "rank": 376
+    },
+    {
+        "name": "Imerys",
+        "code": "NK.PA",
+        "country": "France",
+        "rank": 377
+    },
+    {
+        "name": "OVH Groupe",
+        "code": "OVH.PA",
+        "country": "France",
+        "rank": 378
+    },
+    {
+        "name": "Faurecia",
+        "code": "EO.PA",
+        "country": "France",
+        "rank": 379
+    },
+    {
+        "name": "Groupe Lagard\u00e8re",
+        "code": "MMB.PA",
+        "country": "France",
+        "rank": 380
+    },
+    {
+        "name": "BIC",
+        "code": "BB.PA",
+        "country": "France",
+        "rank": 381
+    },
+    {
+        "name": "Altarea",
+        "code": "ALTA.PA",
+        "country": "France",
+        "rank": 382
+    },
+    {
+        "name": "Rubis",
+        "code": "RUI.PA",
+        "country": "France",
+        "rank": 383
+    },
+    {
+        "name": "Trigano",
+        "code": "TRI.PA",
+        "country": "France",
+        "rank": 384
+    },
+    {
+        "name": "Covivio Hotels",
+        "code": "COVH.PA",
+        "country": "France",
+        "rank": 385
+    },
+    {
+        "name": "Compagnie Plastic Omnium",
+        "code": "POM.PA",
+        "country": "France",
+        "rank": 386
+    },
+    {
+        "name": "Coface",
+        "code": "COFA.PA",
+        "country": "France",
+        "rank": 387
+    },
+    {
+        "name": "Eutelsat",
+        "code": "ETL.PA",
+        "country": "France",
+        "rank": 388
+    },
+    {
+        "name": "Exclusive Networks",
+        "code": "EXN.PA",
+        "country": "France",
+        "rank": 389
+    },
+    {
+        "name": "Voltalia",
+        "code": "VLTSA.PA",
+        "country": "France",
+        "rank": 390
+    },
+    {
+        "name": "Robertet",
+        "code": "CBE.PA",
+        "country": "France",
+        "rank": 391
+    },
+    {
+        "name": "Constellium",
+        "code": "CSTM",
+        "country": "France",
+        "rank": 392
+    },
+    {
+        "name": "TF1",
+        "code": "TFI.PA",
+        "country": "France",
+        "rank": 393
+    },
+    {
+        "name": "Criteo",
+        "code": "CRTO",
+        "country": "France",
+        "rank": 394
+    },
+    {
+        "name": "Atos",
+        "code": "ATO.PA",
+        "country": "France",
+        "rank": 395
+    },
+    {
+        "name": "Casino Guichard-Perrachon",
+        "code": "CO.PA",
+        "country": "France",
+        "rank": 396
+    },
+    {
+        "name": "Korian",
+        "code": "KORI.PA",
+        "country": "France",
+        "rank": 397
+    },
+    {
+        "name": "Fnac Darty",
+        "code": "FNAC.PA",
+        "country": "France",
+        "rank": 398
+    },
+    {
+        "name": "Valneva SE",
+        "code": "VALN",
+        "country": "France",
+        "rank": 399
+    },
+    {
+        "name": "Savencia Fromage & Dairy",
+        "code": "SAVE.PA",
+        "country": "France",
+        "rank": 400
+    },
+    {
+        "name": "LVMH",
+        "code": "MC.PA",
+        "country": "France",
+        "rank": 401
+    },
+    {
+        "name": "L'Or\u00e9al",
+        "code": "OR.PA",
+        "country": "France",
+        "rank": 402
+    },
+    {
+        "name": "Herm\u00e8s",
+        "code": "RMS.PA",
+        "country": "France",
+        "rank": 403
+    },
+    {
+        "name": "TotalEnergies",
+        "code": "TTE",
+        "country": "France",
+        "rank": 404
+    },
+    {
+        "name": "Dior",
+        "code": "CDI.PA",
+        "country": "France",
+        "rank": 405
+    },
+    {
+        "name": "Sanofi",
+        "code": "SNY",
+        "country": "France",
+        "rank": 406
+    },
+    {
+        "name": "EssilorLuxottica",
+        "code": "EL.PA",
+        "country": "France",
+        "rank": 407
+    },
+    {
+        "name": "Schneider Electric",
+        "code": "SU.PA",
+        "country": "France",
+        "rank": 408
+    },
+    {
+        "name": "Air Liquide",
+        "code": "AI.PA",
+        "country": "France",
+        "rank": 409
+    },
+    {
+        "name": "BNP Paribas",
+        "code": "BNP.PA",
+        "country": "France",
+        "rank": 410
+    },
+    {
+        "name": "AXA",
+        "code": "CS.PA",
+        "country": "France",
+        "rank": 411
+    },
+    {
+        "name": "Kering",
+        "code": "KER.PA",
+        "country": "France",
+        "rank": 412
+    },
+    {
+        "name": "Vinci",
+        "code": "DG.PA",
+        "country": "France",
+        "rank": 413
+    },
+    {
+        "name": "Safran",
+        "code": "SAF.PA",
+        "country": "France",
+        "rank": 414
+    },
+    {
+        "name": "Pernod Ricard",
+        "code": "RI.PA",
+        "country": "France",
+        "rank": 415
+    },
+    {
+        "name": "EDF (Electricit\u00e9 de France)",
+        "code": "EDF.PA",
+        "country": "France",
+        "rank": 416
+    },
+    {
+        "name": "Dassault Syst\u00e8mes",
+        "code": "DSY.PA",
+        "country": "France",
+        "rank": 417
+    },
+    {
+        "name": "ENGIE",
+        "code": "ENGI.PA",
+        "country": "France",
+        "rank": 418
+    },
+    {
+        "name": "Danone",
+        "code": "BN.PA",
+        "country": "France",
+        "rank": 419
+    },
+    {
+        "name": "Cr\u00e9dit Agricole",
+        "code": "ACA.PA",
+        "country": "France",
+        "rank": 420
+    },
+    {
+        "name": "Capgemini",
+        "code": "CAP.PA",
+        "country": "France",
+        "rank": 421
+    },
+    {
+        "name": "Thales",
+        "code": "HO.PA",
+        "country": "France",
+        "rank": 422
+    },
+    {
+        "name": "Orange",
+        "code": "ORAN",
+        "country": "France",
+        "rank": 423
+    },
+    {
+        "name": "Compagnie de Saint-Gobain",
+        "code": "SGO.PA",
+        "country": "France",
+        "rank": 424
+    },
+    {
+        "name": "Legrand",
+        "code": "LR.PA",
+        "country": "France",
+        "rank": 425
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+        "code": "GLE.PA",
+        "country": "France",
+        "rank": 426
+    },
+    {
+        "name": "Michelin",
+        "code": "ML.PA",
+        "country": "France",
+        "rank": 427
+    },
+    {
+        "name": "Veolia",
+        "code": "VIE.PA",
+        "country": "France",
+        "rank": 428
+    },
+    {
+        "name": "Bollor\u00e9",
+        "code": "BOP.F",
+        "country": "France",
+        "rank": 429
+    },
+    {
+        "name": "Publicis Groupe",
+        "code": "PUB.PA",
+        "country": "France",
+        "rank": 430
+    },
+    {
+        "name": "Dassault Aviation",
+        "code": "AM.PA",
+        "country": "France",
+        "rank": 431
+    },
+    {
+        "name": "Sodexo",
+        "code": "SW.PA",
+        "country": "France",
+        "rank": 432
+    },
+    {
+        "name": "Teleperformance",
+        "code": "TEP.PA",
+        "country": "France",
+        "rank": 433
+    },
+    {
+        "name": "Edenred",
+        "code": "EDEN.PA",
+        "country": "France",
+        "rank": 434
+    },
+    {
+        "name": "A\u00e9roports de Paris",
+        "code": "ADP.PA",
+        "country": "France",
+        "rank": 435
+    },
+    {
+        "name": "bioM\u00e9rieux",
+        "code": "BIM.PA",
+        "country": "France",
+        "rank": 436
+    },
+    {
+        "name": "Carrefour",
+        "code": "CA.PA",
+        "country": "France",
+        "rank": 437
+    },
+    {
+        "name": "Bureau Veritas",
+        "code": "BVI.PA",
+        "country": "France",
+        "rank": 438
+    },
+    {
+        "name": "Amundi",
+        "code": "AMUN.PA",
+        "country": "France",
+        "rank": 439
+    },
+    {
+        "name": "Bouygues",
+        "code": "EN.PA",
+        "country": "France",
+        "rank": 440
+    },
+    {
+        "name": "Worldline",
+        "code": "WLN.PA",
+        "country": "France",
+        "rank": 441
+    },
+    {
+        "name": "Renault",
+        "code": "RNO.PA",
+        "country": "France",
+        "rank": 442
+    },
+    {
+        "name": "Vivendi",
+        "code": "VIV.PA",
+        "country": "France",
+        "rank": 443
+    },
+    {
+        "name": "Eiffage",
+        "code": "FGR.PA",
+        "country": "France",
+        "rank": 444
+    },
+    {
+        "name": "Alstom",
+        "code": "ALO.PA",
+        "country": "France",
+        "rank": 445
+    },
+    {
+        "name": "Ipsen",
+        "code": "IPN.PA",
+        "country": "France",
+        "rank": 446
+    },
+    {
+        "name": "Getlink",
+        "code": "GET.PA",
+        "country": "France",
+        "rank": 447
+    },
+    {
+        "name": "R\u00e9my Cointreau",
+        "code": "RCO.PA",
+        "country": "France",
+        "rank": 448
+    },
+    {
+        "name": "Gecina",
+        "code": "GFC.PA",
+        "country": "France",
+        "rank": 449
+    },
+    {
+        "name": "Fran\u00e7aise des Jeux",
+        "code": "FDJ.VI",
+        "country": "France",
+        "rank": 450
+    },
+    {
+        "name": "Unibail-Rodamco-Westfield",
+        "code": "URW.AS",
+        "country": "France",
+        "rank": 451
+    },
+    {
+        "name": "Arkema",
+        "code": "AKE.PA",
+        "country": "France",
+        "rank": 452
+    },
+    {
+        "name": "Kl\u00e9pierre",
+        "code": "LI.PA",
+        "country": "France",
+        "rank": 453
+    },
+    {
+        "name": "Accor",
+        "code": "AC.PA",
+        "country": "France",
+        "rank": 454
+    },
+    {
+        "name": "Rexel",
+        "code": "RXL.PA",
+        "country": "France",
+        "rank": 455
+    },
+    {
+        "name": "Soitec",
+        "code": "SOI.PA",
+        "country": "France",
+        "rank": 456
+    },
+    {
+        "name": "Covivio",
+        "code": "COV.PA",
+        "country": "France",
+        "rank": 457
+    },
+    {
+        "name": "Somfy",
+        "code": "SO.PA",
+        "country": "France",
+        "rank": 458
+    },
+    {
+        "name": "ALD Automotive",
+        "code": "ALD.PA",
+        "country": "France",
+        "rank": 459
+    },
+    {
+        "name": "Groupe SEB",
+        "code": "SK.PA",
+        "country": "France",
+        "rank": 460
+    },
+    {
+        "name": "Eurazeo",
+        "code": "RF.PA",
+        "country": "France",
+        "rank": 461
+    },
+    {
+        "name": "Valeo",
+        "code": "FR.PA",
+        "country": "France",
+        "rank": 462
+    },
+    {
+        "name": "Neoen",
+        "code": "NEOEN.PA",
+        "country": "France",
+        "rank": 463
+    },
+    {
+        "name": "Tikehau Capital",
+        "code": "TKO.PA",
+        "country": "France",
+        "rank": 464
+    },
+    {
+        "name": "ALTEN",
+        "code": "ATE.PA",
+        "country": "France",
+        "rank": 465
+    },
+    {
+        "name": "SPIE",
+        "code": "SPIE.PA",
+        "country": "France",
+        "rank": 466
+    },
+    {
+        "name": "Scor",
+        "code": "SCR.PA",
+        "country": "France",
+        "rank": 467
+    },
+    {
+        "name": "Wendel",
+        "code": "MF.PA",
+        "country": "France",
+        "rank": 468
+    },
+    {
+        "name": "JCDecaux",
+        "code": "DEC.PA",
+        "country": "France",
+        "rank": 469
+    },
+    {
+        "name": "Colas",
+        "code": "RE.PA",
+        "country": "France",
+        "rank": 470
+    },
+    {
+        "name": "Nexans",
+        "code": "NEX.PA",
+        "country": "France",
+        "rank": 471
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 Fonci\u00e8re Lyonnaise",
+        "code": "FLY.PA",
+        "country": "France",
+        "rank": 472
+    },
+    {
+        "name": "Ubisoft",
+        "code": "UBI.PA",
+        "country": "France",
+        "rank": 473
+    },
+    {
+        "name": "Air France-KLM",
+        "code": "AF.PA",
+        "country": "France",
+        "rank": 474
+    },
+    {
+        "name": "Elis",
+        "code": "ELIS.PA",
+        "country": "France",
+        "rank": 475
+    },
+    {
+        "name": "Icade",
+        "code": "ICAD.PA",
+        "country": "France",
+        "rank": 476
+    },
+    {
+        "name": "Imerys",
+        "code": "NK.PA",
+        "country": "France",
+        "rank": 477
+    },
+    {
+        "name": "OVH Groupe",
+        "code": "OVH.PA",
+        "country": "France",
+        "rank": 478
+    },
+    {
+        "name": "Faurecia",
+        "code": "EO.PA",
+        "country": "France",
+        "rank": 479
+    },
+    {
+        "name": "Groupe Lagard\u00e8re",
+        "code": "MMB.PA",
+        "country": "France",
+        "rank": 480
+    },
+    {
+        "name": "BIC",
+        "code": "BB.PA",
+        "country": "France",
+        "rank": 481
+    },
+    {
+        "name": "Altarea",
+        "code": "ALTA.PA",
+        "country": "France",
+        "rank": 482
+    },
+    {
+        "name": "Rubis",
+        "code": "RUI.PA",
+        "country": "France",
+        "rank": 483
+    },
+    {
+        "name": "Trigano",
+        "code": "TRI.PA",
+        "country": "France",
+        "rank": 484
+    },
+    {
+        "name": "Covivio Hotels",
+        "code": "COVH.PA",
+        "country": "France",
+        "rank": 485
+    },
+    {
+        "name": "Compagnie Plastic Omnium",
+        "code": "POM.PA",
+        "country": "France",
+        "rank": 486
+    },
+    {
+        "name": "Coface",
+        "code": "COFA.PA",
+        "country": "France",
+        "rank": 487
+    },
+    {
+        "name": "Eutelsat",
+        "code": "ETL.PA",
+        "country": "France",
+        "rank": 488
+    },
+    {
+        "name": "Exclusive Networks",
+        "code": "EXN.PA",
+        "country": "France",
+        "rank": 489
+    },
+    {
+        "name": "Voltalia",
+        "code": "VLTSA.PA",
+        "country": "France",
+        "rank": 490
+    },
+    {
+        "name": "Robertet",
+        "code": "CBE.PA",
+        "country": "France",
+        "rank": 491
+    },
+    {
+        "name": "Constellium",
+        "code": "CSTM",
+        "country": "France",
+        "rank": 492
+    },
+    {
+        "name": "TF1",
+        "code": "TFI.PA",
+        "country": "France",
+        "rank": 493
+    },
+    {
+        "name": "Criteo",
+        "code": "CRTO",
+        "country": "France",
+        "rank": 494
+    },
+    {
+        "name": "Atos",
+        "code": "ATO.PA",
+        "country": "France",
+        "rank": 495
+    },
+    {
+        "name": "Casino Guichard-Perrachon",
+        "code": "CO.PA",
+        "country": "France",
+        "rank": 496
+    },
+    {
+        "name": "Korian",
+        "code": "KORI.PA",
+        "country": "France",
+        "rank": 497
+    },
+    {
+        "name": "Fnac Darty",
+        "code": "FNAC.PA",
+        "country": "France",
+        "rank": 498
+    },
+    {
+        "name": "Valneva SE",
+        "code": "VALN",
+        "country": "France",
+        "rank": 499
+    },
+    {
+        "name": "Savencia Fromage & Dairy",
+        "code": "SAVE.PA",
+        "country": "France",
+        "rank": 500
+    },
+    {
+        "name": "LVMH",
+        "code": "MC.PA",
+        "country": "France",
+        "rank": 501
+    },
+    {
+        "name": "L'Or\u00e9al",
+        "code": "OR.PA",
+        "country": "France",
+        "rank": 502
+    },
+    {
+        "name": "Herm\u00e8s",
+        "code": "RMS.PA",
+        "country": "France",
+        "rank": 503
+    },
+    {
+        "name": "TotalEnergies",
+        "code": "TTE",
+        "country": "France",
+        "rank": 504
+    },
+    {
+        "name": "Dior",
+        "code": "CDI.PA",
+        "country": "France",
+        "rank": 505
+    },
+    {
+        "name": "Sanofi",
+        "code": "SNY",
+        "country": "France",
+        "rank": 506
+    },
+    {
+        "name": "EssilorLuxottica",
+        "code": "EL.PA",
+        "country": "France",
+        "rank": 507
+    },
+    {
+        "name": "Schneider Electric",
+        "code": "SU.PA",
+        "country": "France",
+        "rank": 508
+    },
+    {
+        "name": "Air Liquide",
+        "code": "AI.PA",
+        "country": "France",
+        "rank": 509
+    },
+    {
+        "name": "BNP Paribas",
+        "code": "BNP.PA",
+        "country": "France",
+        "rank": 510
+    },
+    {
+        "name": "AXA",
+        "code": "CS.PA",
+        "country": "France",
+        "rank": 511
+    },
+    {
+        "name": "Kering",
+        "code": "KER.PA",
+        "country": "France",
+        "rank": 512
+    },
+    {
+        "name": "Vinci",
+        "code": "DG.PA",
+        "country": "France",
+        "rank": 513
+    },
+    {
+        "name": "Safran",
+        "code": "SAF.PA",
+        "country": "France",
+        "rank": 514
+    },
+    {
+        "name": "Pernod Ricard",
+        "code": "RI.PA",
+        "country": "France",
+        "rank": 515
+    },
+    {
+        "name": "EDF (Electricit\u00e9 de France)",
+        "code": "EDF.PA",
+        "country": "France",
+        "rank": 516
+    },
+    {
+        "name": "Dassault Syst\u00e8mes",
+        "code": "DSY.PA",
+        "country": "France",
+        "rank": 517
+    },
+    {
+        "name": "ENGIE",
+        "code": "ENGI.PA",
+        "country": "France",
+        "rank": 518
+    },
+    {
+        "name": "Danone",
+        "code": "BN.PA",
+        "country": "France",
+        "rank": 519
+    },
+    {
+        "name": "Cr\u00e9dit Agricole",
+        "code": "ACA.PA",
+        "country": "France",
+        "rank": 520
+    },
+    {
+        "name": "Capgemini",
+        "code": "CAP.PA",
+        "country": "France",
+        "rank": 521
+    },
+    {
+        "name": "Thales",
+        "code": "HO.PA",
+        "country": "France",
+        "rank": 522
+    },
+    {
+        "name": "Orange",
+        "code": "ORAN",
+        "country": "France",
+        "rank": 523
+    },
+    {
+        "name": "Compagnie de Saint-Gobain",
+        "code": "SGO.PA",
+        "country": "France",
+        "rank": 524
+    },
+    {
+        "name": "Legrand",
+        "code": "LR.PA",
+        "country": "France",
+        "rank": 525
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+        "code": "GLE.PA",
+        "country": "France",
+        "rank": 526
+    },
+    {
+        "name": "Michelin",
+        "code": "ML.PA",
+        "country": "France",
+        "rank": 527
+    },
+    {
+        "name": "Veolia",
+        "code": "VIE.PA",
+        "country": "France",
+        "rank": 528
+    },
+    {
+        "name": "Bollor\u00e9",
+        "code": "BOP.F",
+        "country": "France",
+        "rank": 529
+    },
+    {
+        "name": "Publicis Groupe",
+        "code": "PUB.PA",
+        "country": "France",
+        "rank": 530
+    },
+    {
+        "name": "Dassault Aviation",
+        "code": "AM.PA",
+        "country": "France",
+        "rank": 531
+    },
+    {
+        "name": "Sodexo",
+        "code": "SW.PA",
+        "country": "France",
+        "rank": 532
+    },
+    {
+        "name": "Teleperformance",
+        "code": "TEP.PA",
+        "country": "France",
+        "rank": 533
+    },
+    {
+        "name": "Edenred",
+        "code": "EDEN.PA",
+        "country": "France",
+        "rank": 534
+    },
+    {
+        "name": "A\u00e9roports de Paris",
+        "code": "ADP.PA",
+        "country": "France",
+        "rank": 535
+    },
+    {
+        "name": "bioM\u00e9rieux",
+        "code": "BIM.PA",
+        "country": "France",
+        "rank": 536
+    },
+    {
+        "name": "Carrefour",
+        "code": "CA.PA",
+        "country": "France",
+        "rank": 537
+    },
+    {
+        "name": "Bureau Veritas",
+        "code": "BVI.PA",
+        "country": "France",
+        "rank": 538
+    },
+    {
+        "name": "Amundi",
+        "code": "AMUN.PA",
+        "country": "France",
+        "rank": 539
+    },
+    {
+        "name": "Bouygues",
+        "code": "EN.PA",
+        "country": "France",
+        "rank": 540
+    },
+    {
+        "name": "Worldline",
+        "code": "WLN.PA",
+        "country": "France",
+        "rank": 541
+    },
+    {
+        "name": "Renault",
+        "code": "RNO.PA",
+        "country": "France",
+        "rank": 542
+    },
+    {
+        "name": "Vivendi",
+        "code": "VIV.PA",
+        "country": "France",
+        "rank": 543
+    },
+    {
+        "name": "Eiffage",
+        "code": "FGR.PA",
+        "country": "France",
+        "rank": 544
+    },
+    {
+        "name": "Alstom",
+        "code": "ALO.PA",
+        "country": "France",
+        "rank": 545
+    },
+    {
+        "name": "Ipsen",
+        "code": "IPN.PA",
+        "country": "France",
+        "rank": 546
+    },
+    {
+        "name": "Getlink",
+        "code": "GET.PA",
+        "country": "France",
+        "rank": 547
+    },
+    {
+        "name": "R\u00e9my Cointreau",
+        "code": "RCO.PA",
+        "country": "France",
+        "rank": 548
+    },
+    {
+        "name": "Gecina",
+        "code": "GFC.PA",
+        "country": "France",
+        "rank": 549
+    },
+    {
+        "name": "Fran\u00e7aise des Jeux",
+        "code": "FDJ.VI",
+        "country": "France",
+        "rank": 550
+    },
+    {
+        "name": "Unibail-Rodamco-Westfield",
+        "code": "URW.AS",
+        "country": "France",
+        "rank": 551
+    },
+    {
+        "name": "Arkema",
+        "code": "AKE.PA",
+        "country": "France",
+        "rank": 552
+    },
+    {
+        "name": "Kl\u00e9pierre",
+        "code": "LI.PA",
+        "country": "France",
+        "rank": 553
+    },
+    {
+        "name": "Accor",
+        "code": "AC.PA",
+        "country": "France",
+        "rank": 554
+    },
+    {
+        "name": "Rexel",
+        "code": "RXL.PA",
+        "country": "France",
+        "rank": 555
+    },
+    {
+        "name": "Soitec",
+        "code": "SOI.PA",
+        "country": "France",
+        "rank": 556
+    },
+    {
+        "name": "Covivio",
+        "code": "COV.PA",
+        "country": "France",
+        "rank": 557
+    },
+    {
+        "name": "Somfy",
+        "code": "SO.PA",
+        "country": "France",
+        "rank": 558
+    },
+    {
+        "name": "ALD Automotive",
+        "code": "ALD.PA",
+        "country": "France",
+        "rank": 559
+    },
+    {
+        "name": "Groupe SEB",
+        "code": "SK.PA",
+        "country": "France",
+        "rank": 560
+    },
+    {
+        "name": "Eurazeo",
+        "code": "RF.PA",
+        "country": "France",
+        "rank": 561
+    },
+    {
+        "name": "Valeo",
+        "code": "FR.PA",
+        "country": "France",
+        "rank": 562
+    },
+    {
+        "name": "Neoen",
+        "code": "NEOEN.PA",
+        "country": "France",
+        "rank": 563
+    },
+    {
+        "name": "Tikehau Capital",
+        "code": "TKO.PA",
+        "country": "France",
+        "rank": 564
+    },
+    {
+        "name": "ALTEN",
+        "code": "ATE.PA",
+        "country": "France",
+        "rank": 565
+    },
+    {
+        "name": "SPIE",
+        "code": "SPIE.PA",
+        "country": "France",
+        "rank": 566
+    },
+    {
+        "name": "Scor",
+        "code": "SCR.PA",
+        "country": "France",
+        "rank": 567
+    },
+    {
+        "name": "Wendel",
+        "code": "MF.PA",
+        "country": "France",
+        "rank": 568
+    },
+    {
+        "name": "JCDecaux",
+        "code": "DEC.PA",
+        "country": "France",
+        "rank": 569
+    },
+    {
+        "name": "Colas",
+        "code": "RE.PA",
+        "country": "France",
+        "rank": 570
+    },
+    {
+        "name": "Nexans",
+        "code": "NEX.PA",
+        "country": "France",
+        "rank": 571
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 Fonci\u00e8re Lyonnaise",
+        "code": "FLY.PA",
+        "country": "France",
+        "rank": 572
+    },
+    {
+        "name": "Ubisoft",
+        "code": "UBI.PA",
+        "country": "France",
+        "rank": 573
+    },
+    {
+        "name": "Air France-KLM",
+        "code": "AF.PA",
+        "country": "France",
+        "rank": 574
+    },
+    {
+        "name": "Elis",
+        "code": "ELIS.PA",
+        "country": "France",
+        "rank": 575
+    },
+    {
+        "name": "Icade",
+        "code": "ICAD.PA",
+        "country": "France",
+        "rank": 576
+    },
+    {
+        "name": "Imerys",
+        "code": "NK.PA",
+        "country": "France",
+        "rank": 577
+    },
+    {
+        "name": "OVH Groupe",
+        "code": "OVH.PA",
+        "country": "France",
+        "rank": 578
+    },
+    {
+        "name": "Faurecia",
+        "code": "EO.PA",
+        "country": "France",
+        "rank": 579
+    },
+    {
+        "name": "Groupe Lagard\u00e8re",
+        "code": "MMB.PA",
+        "country": "France",
+        "rank": 580
+    },
+    {
+        "name": "BIC",
+        "code": "BB.PA",
+        "country": "France",
+        "rank": 581
+    },
+    {
+        "name": "Altarea",
+        "code": "ALTA.PA",
+        "country": "France",
+        "rank": 582
+    },
+    {
+        "name": "Rubis",
+        "code": "RUI.PA",
+        "country": "France",
+        "rank": 583
+    },
+    {
+        "name": "Trigano",
+        "code": "TRI.PA",
+        "country": "France",
+        "rank": 584
+    },
+    {
+        "name": "Covivio Hotels",
+        "code": "COVH.PA",
+        "country": "France",
+        "rank": 585
+    },
+    {
+        "name": "Compagnie Plastic Omnium",
+        "code": "POM.PA",
+        "country": "France",
+        "rank": 586
+    },
+    {
+        "name": "Coface",
+        "code": "COFA.PA",
+        "country": "France",
+        "rank": 587
+    },
+    {
+        "name": "Eutelsat",
+        "code": "ETL.PA",
+        "country": "France",
+        "rank": 588
+    },
+    {
+        "name": "Exclusive Networks",
+        "code": "EXN.PA",
+        "country": "France",
+        "rank": 589
+    },
+    {
+        "name": "Voltalia",
+        "code": "VLTSA.PA",
+        "country": "France",
+        "rank": 590
+    },
+    {
+        "name": "Robertet",
+        "code": "CBE.PA",
+        "country": "France",
+        "rank": 591
+    },
+    {
+        "name": "Constellium",
+        "code": "CSTM",
+        "country": "France",
+        "rank": 592
+    },
+    {
+        "name": "TF1",
+        "code": "TFI.PA",
+        "country": "France",
+        "rank": 593
+    },
+    {
+        "name": "Criteo",
+        "code": "CRTO",
+        "country": "France",
+        "rank": 594
+    },
+    {
+        "name": "Atos",
+        "code": "ATO.PA",
+        "country": "France",
+        "rank": 595
+    },
+    {
+        "name": "Casino Guichard-Perrachon",
+        "code": "CO.PA",
+        "country": "France",
+        "rank": 596
+    },
+    {
+        "name": "Korian",
+        "code": "KORI.PA",
+        "country": "France",
+        "rank": 597
+    },
+    {
+        "name": "Fnac Darty",
+        "code": "FNAC.PA",
+        "country": "France",
+        "rank": 598
+    },
+    {
+        "name": "Valneva SE",
+        "code": "VALN",
+        "country": "France",
+        "rank": 599
+    },
+    {
+        "name": "Savencia Fromage & Dairy",
+        "code": "SAVE.PA",
+        "country": "France",
+        "rank": 600
+    },
+    {
+        "name": "LVMH",
+        "code": "MC.PA",
+        "country": "France",
+        "rank": 601
+    },
+    {
+        "name": "L'Or\u00e9al",
+        "code": "OR.PA",
+        "country": "France",
+        "rank": 602
+    },
+    {
+        "name": "Herm\u00e8s",
+        "code": "RMS.PA",
+        "country": "France",
+        "rank": 603
+    },
+    {
+        "name": "TotalEnergies",
+        "code": "TTE",
+        "country": "France",
+        "rank": 604
+    },
+    {
+        "name": "Dior",
+        "code": "CDI.PA",
+        "country": "France",
+        "rank": 605
+    },
+    {
+        "name": "Sanofi",
+        "code": "SNY",
+        "country": "France",
+        "rank": 606
+    },
+    {
+        "name": "EssilorLuxottica",
+        "code": "EL.PA",
+        "country": "France",
+        "rank": 607
+    },
+    {
+        "name": "Schneider Electric",
+        "code": "SU.PA",
+        "country": "France",
+        "rank": 608
+    },
+    {
+        "name": "Air Liquide",
+        "code": "AI.PA",
+        "country": "France",
+        "rank": 609
+    },
+    {
+        "name": "BNP Paribas",
+        "code": "BNP.PA",
+        "country": "France",
+        "rank": 610
+    },
+    {
+        "name": "AXA",
+        "code": "CS.PA",
+        "country": "France",
+        "rank": 611
+    },
+    {
+        "name": "Kering",
+        "code": "KER.PA",
+        "country": "France",
+        "rank": 612
+    },
+    {
+        "name": "Vinci",
+        "code": "DG.PA",
+        "country": "France",
+        "rank": 613
+    },
+    {
+        "name": "Safran",
+        "code": "SAF.PA",
+        "country": "France",
+        "rank": 614
+    },
+    {
+        "name": "Pernod Ricard",
+        "code": "RI.PA",
+        "country": "France",
+        "rank": 615
+    },
+    {
+        "name": "EDF (Electricit\u00e9 de France)",
+        "code": "EDF.PA",
+        "country": "France",
+        "rank": 616
+    },
+    {
+        "name": "Dassault Syst\u00e8mes",
+        "code": "DSY.PA",
+        "country": "France",
+        "rank": 617
+    },
+    {
+        "name": "ENGIE",
+        "code": "ENGI.PA",
+        "country": "France",
+        "rank": 618
+    },
+    {
+        "name": "Danone",
+        "code": "BN.PA",
+        "country": "France",
+        "rank": 619
+    },
+    {
+        "name": "Cr\u00e9dit Agricole",
+        "code": "ACA.PA",
+        "country": "France",
+        "rank": 620
+    },
+    {
+        "name": "Capgemini",
+        "code": "CAP.PA",
+        "country": "France",
+        "rank": 621
+    },
+    {
+        "name": "Thales",
+        "code": "HO.PA",
+        "country": "France",
+        "rank": 622
+    },
+    {
+        "name": "Orange",
+        "code": "ORAN",
+        "country": "France",
+        "rank": 623
+    },
+    {
+        "name": "Compagnie de Saint-Gobain",
+        "code": "SGO.PA",
+        "country": "France",
+        "rank": 624
+    },
+    {
+        "name": "Legrand",
+        "code": "LR.PA",
+        "country": "France",
+        "rank": 625
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+        "code": "GLE.PA",
+        "country": "France",
+        "rank": 626
+    },
+    {
+        "name": "Michelin",
+        "code": "ML.PA",
+        "country": "France",
+        "rank": 627
+    },
+    {
+        "name": "Veolia",
+        "code": "VIE.PA",
+        "country": "France",
+        "rank": 628
+    },
+    {
+        "name": "Bollor\u00e9",
+        "code": "BOP.F",
+        "country": "France",
+        "rank": 629
+    },
+    {
+        "name": "Publicis Groupe",
+        "code": "PUB.PA",
+        "country": "France",
+        "rank": 630
+    },
+    {
+        "name": "Dassault Aviation",
+        "code": "AM.PA",
+        "country": "France",
+        "rank": 631
+    },
+    {
+        "name": "Sodexo",
+        "code": "SW.PA",
+        "country": "France",
+        "rank": 632
+    },
+    {
+        "name": "Teleperformance",
+        "code": "TEP.PA",
+        "country": "France",
+        "rank": 633
+    },
+    {
+        "name": "Edenred",
+        "code": "EDEN.PA",
+        "country": "France",
+        "rank": 634
+    },
+    {
+        "name": "A\u00e9roports de Paris",
+        "code": "ADP.PA",
+        "country": "France",
+        "rank": 635
+    },
+    {
+        "name": "bioM\u00e9rieux",
+        "code": "BIM.PA",
+        "country": "France",
+        "rank": 636
+    },
+    {
+        "name": "Carrefour",
+        "code": "CA.PA",
+        "country": "France",
+        "rank": 637
+    },
+    {
+        "name": "Bureau Veritas",
+        "code": "BVI.PA",
+        "country": "France",
+        "rank": 638
+    },
+    {
+        "name": "Amundi",
+        "code": "AMUN.PA",
+        "country": "France",
+        "rank": 639
+    },
+    {
+        "name": "Bouygues",
+        "code": "EN.PA",
+        "country": "France",
+        "rank": 640
+    },
+    {
+        "name": "Worldline",
+        "code": "WLN.PA",
+        "country": "France",
+        "rank": 641
+    },
+    {
+        "name": "Renault",
+        "code": "RNO.PA",
+        "country": "France",
+        "rank": 642
+    },
+    {
+        "name": "Vivendi",
+        "code": "VIV.PA",
+        "country": "France",
+        "rank": 643
+    },
+    {
+        "name": "Eiffage",
+        "code": "FGR.PA",
+        "country": "France",
+        "rank": 644
+    },
+    {
+        "name": "Alstom",
+        "code": "ALO.PA",
+        "country": "France",
+        "rank": 645
+    },
+    {
+        "name": "Ipsen",
+        "code": "IPN.PA",
+        "country": "France",
+        "rank": 646
+    },
+    {
+        "name": "Getlink",
+        "code": "GET.PA",
+        "country": "France",
+        "rank": 647
+    },
+    {
+        "name": "R\u00e9my Cointreau",
+        "code": "RCO.PA",
+        "country": "France",
+        "rank": 648
+    },
+    {
+        "name": "Gecina",
+        "code": "GFC.PA",
+        "country": "France",
+        "rank": 649
+    },
+    {
+        "name": "Fran\u00e7aise des Jeux",
+        "code": "FDJ.VI",
+        "country": "France",
+        "rank": 650
+    },
+    {
+        "name": "Unibail-Rodamco-Westfield",
+        "code": "URW.AS",
+        "country": "France",
+        "rank": 651
+    },
+    {
+        "name": "Arkema",
+        "code": "AKE.PA",
+        "country": "France",
+        "rank": 652
+    },
+    {
+        "name": "Kl\u00e9pierre",
+        "code": "LI.PA",
+        "country": "France",
+        "rank": 653
+    },
+    {
+        "name": "Accor",
+        "code": "AC.PA",
+        "country": "France",
+        "rank": 654
+    },
+    {
+        "name": "Rexel",
+        "code": "RXL.PA",
+        "country": "France",
+        "rank": 655
+    },
+    {
+        "name": "Soitec",
+        "code": "SOI.PA",
+        "country": "France",
+        "rank": 656
+    },
+    {
+        "name": "Covivio",
+        "code": "COV.PA",
+        "country": "France",
+        "rank": 657
+    },
+    {
+        "name": "Somfy",
+        "code": "SO.PA",
+        "country": "France",
+        "rank": 658
+    },
+    {
+        "name": "ALD Automotive",
+        "code": "ALD.PA",
+        "country": "France",
+        "rank": 659
+    },
+    {
+        "name": "Groupe SEB",
+        "code": "SK.PA",
+        "country": "France",
+        "rank": 660
+    },
+    {
+        "name": "Eurazeo",
+        "code": "RF.PA",
+        "country": "France",
+        "rank": 661
+    },
+    {
+        "name": "Valeo",
+        "code": "FR.PA",
+        "country": "France",
+        "rank": 662
+    },
+    {
+        "name": "Neoen",
+        "code": "NEOEN.PA",
+        "country": "France",
+        "rank": 663
+    },
+    {
+        "name": "Tikehau Capital",
+        "code": "TKO.PA",
+        "country": "France",
+        "rank": 664
+    },
+    {
+        "name": "ALTEN",
+        "code": "ATE.PA",
+        "country": "France",
+        "rank": 665
+    },
+    {
+        "name": "SPIE",
+        "code": "SPIE.PA",
+        "country": "France",
+        "rank": 666
+    },
+    {
+        "name": "Scor",
+        "code": "SCR.PA",
+        "country": "France",
+        "rank": 667
+    },
+    {
+        "name": "Wendel",
+        "code": "MF.PA",
+        "country": "France",
+        "rank": 668
+    },
+    {
+        "name": "JCDecaux",
+        "code": "DEC.PA",
+        "country": "France",
+        "rank": 669
+    },
+    {
+        "name": "Colas",
+        "code": "RE.PA",
+        "country": "France",
+        "rank": 670
+    },
+    {
+        "name": "Nexans",
+        "code": "NEX.PA",
+        "country": "France",
+        "rank": 671
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 Fonci\u00e8re Lyonnaise",
+        "code": "FLY.PA",
+        "country": "France",
+        "rank": 672
+    },
+    {
+        "name": "Ubisoft",
+        "code": "UBI.PA",
+        "country": "France",
+        "rank": 673
+    },
+    {
+        "name": "Air France-KLM",
+        "code": "AF.PA",
+        "country": "France",
+        "rank": 674
+    },
+    {
+        "name": "Elis",
+        "code": "ELIS.PA",
+        "country": "France",
+        "rank": 675
+    },
+    {
+        "name": "Icade",
+        "code": "ICAD.PA",
+        "country": "France",
+        "rank": 676
+    },
+    {
+        "name": "Imerys",
+        "code": "NK.PA",
+        "country": "France",
+        "rank": 677
+    },
+    {
+        "name": "OVH Groupe",
+        "code": "OVH.PA",
+        "country": "France",
+        "rank": 678
+    },
+    {
+        "name": "Faurecia",
+        "code": "EO.PA",
+        "country": "France",
+        "rank": 679
+    },
+    {
+        "name": "Groupe Lagard\u00e8re",
+        "code": "MMB.PA",
+        "country": "France",
+        "rank": 680
+    },
+    {
+        "name": "BIC",
+        "code": "BB.PA",
+        "country": "France",
+        "rank": 681
+    },
+    {
+        "name": "Altarea",
+        "code": "ALTA.PA",
+        "country": "France",
+        "rank": 682
+    },
+    {
+        "name": "Rubis",
+        "code": "RUI.PA",
+        "country": "France",
+        "rank": 683
+    },
+    {
+        "name": "Trigano",
+        "code": "TRI.PA",
+        "country": "France",
+        "rank": 684
+    },
+    {
+        "name": "Covivio Hotels",
+        "code": "COVH.PA",
+        "country": "France",
+        "rank": 685
+    },
+    {
+        "name": "Compagnie Plastic Omnium",
+        "code": "POM.PA",
+        "country": "France",
+        "rank": 686
+    },
+    {
+        "name": "Coface",
+        "code": "COFA.PA",
+        "country": "France",
+        "rank": 687
+    },
+    {
+        "name": "Eutelsat",
+        "code": "ETL.PA",
+        "country": "France",
+        "rank": 688
+    },
+    {
+        "name": "Exclusive Networks",
+        "code": "EXN.PA",
+        "country": "France",
+        "rank": 689
+    },
+    {
+        "name": "Voltalia",
+        "code": "VLTSA.PA",
+        "country": "France",
+        "rank": 690
+    },
+    {
+        "name": "Robertet",
+        "code": "CBE.PA",
+        "country": "France",
+        "rank": 691
+    },
+    {
+        "name": "Constellium",
+        "code": "CSTM",
+        "country": "France",
+        "rank": 692
+    },
+    {
+        "name": "TF1",
+        "code": "TFI.PA",
+        "country": "France",
+        "rank": 693
+    },
+    {
+        "name": "Criteo",
+        "code": "CRTO",
+        "country": "France",
+        "rank": 694
+    },
+    {
+        "name": "Atos",
+        "code": "ATO.PA",
+        "country": "France",
+        "rank": 695
+    },
+    {
+        "name": "Casino Guichard-Perrachon",
+        "code": "CO.PA",
+        "country": "France",
+        "rank": 696
+    },
+    {
+        "name": "Korian",
+        "code": "KORI.PA",
+        "country": "France",
+        "rank": 697
+    },
+    {
+        "name": "Fnac Darty",
+        "code": "FNAC.PA",
+        "country": "France",
+        "rank": 698
+    },
+    {
+        "name": "Valneva SE",
+        "code": "VALN",
+        "country": "France",
+        "rank": 699
+    },
+    {
+        "name": "Savencia Fromage & Dairy",
+        "code": "SAVE.PA",
+        "country": "France",
+        "rank": 700
+    },
+    {
+        "name": "LVMH",
+        "code": "MC.PA",
+        "country": "France",
+        "rank": 701
+    },
+    {
+        "name": "L'Or\u00e9al",
+        "code": "OR.PA",
+        "country": "France",
+        "rank": 702
+    },
+    {
+        "name": "Herm\u00e8s",
+        "code": "RMS.PA",
+        "country": "France",
+        "rank": 703
+    },
+    {
+        "name": "TotalEnergies",
+        "code": "TTE",
+        "country": "France",
+        "rank": 704
+    },
+    {
+        "name": "Dior",
+        "code": "CDI.PA",
+        "country": "France",
+        "rank": 705
+    },
+    {
+        "name": "Sanofi",
+        "code": "SNY",
+        "country": "France",
+        "rank": 706
+    },
+    {
+        "name": "EssilorLuxottica",
+        "code": "EL.PA",
+        "country": "France",
+        "rank": 707
+    },
+    {
+        "name": "Schneider Electric",
+        "code": "SU.PA",
+        "country": "France",
+        "rank": 708
+    },
+    {
+        "name": "Air Liquide",
+        "code": "AI.PA",
+        "country": "France",
+        "rank": 709
+    },
+    {
+        "name": "BNP Paribas",
+        "code": "BNP.PA",
+        "country": "France",
+        "rank": 710
+    },
+    {
+        "name": "AXA",
+        "code": "CS.PA",
+        "country": "France",
+        "rank": 711
+    },
+    {
+        "name": "Kering",
+        "code": "KER.PA",
+        "country": "France",
+        "rank": 712
+    },
+    {
+        "name": "Vinci",
+        "code": "DG.PA",
+        "country": "France",
+        "rank": 713
+    },
+    {
+        "name": "Safran",
+        "code": "SAF.PA",
+        "country": "France",
+        "rank": 714
+    },
+    {
+        "name": "Pernod Ricard",
+        "code": "RI.PA",
+        "country": "France",
+        "rank": 715
+    },
+    {
+        "name": "EDF (Electricit\u00e9 de France)",
+        "code": "EDF.PA",
+        "country": "France",
+        "rank": 716
+    },
+    {
+        "name": "Dassault Syst\u00e8mes",
+        "code": "DSY.PA",
+        "country": "France",
+        "rank": 717
+    },
+    {
+        "name": "ENGIE",
+        "code": "ENGI.PA",
+        "country": "France",
+        "rank": 718
+    },
+    {
+        "name": "Danone",
+        "code": "BN.PA",
+        "country": "France",
+        "rank": 719
+    },
+    {
+        "name": "Cr\u00e9dit Agricole",
+        "code": "ACA.PA",
+        "country": "France",
+        "rank": 720
+    },
+    {
+        "name": "Capgemini",
+        "code": "CAP.PA",
+        "country": "France",
+        "rank": 721
+    },
+    {
+        "name": "Thales",
+        "code": "HO.PA",
+        "country": "France",
+        "rank": 722
+    },
+    {
+        "name": "Orange",
+        "code": "ORAN",
+        "country": "France",
+        "rank": 723
+    },
+    {
+        "name": "Compagnie de Saint-Gobain",
+        "code": "SGO.PA",
+        "country": "France",
+        "rank": 724
+    },
+    {
+        "name": "Legrand",
+        "code": "LR.PA",
+        "country": "France",
+        "rank": 725
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+        "code": "GLE.PA",
+        "country": "France",
+        "rank": 726
+    },
+    {
+        "name": "Michelin",
+        "code": "ML.PA",
+        "country": "France",
+        "rank": 727
+    },
+    {
+        "name": "Veolia",
+        "code": "VIE.PA",
+        "country": "France",
+        "rank": 728
+    },
+    {
+        "name": "Bollor\u00e9",
+        "code": "BOP.F",
+        "country": "France",
+        "rank": 729
+    },
+    {
+        "name": "Publicis Groupe",
+        "code": "PUB.PA",
+        "country": "France",
+        "rank": 730
+    },
+    {
+        "name": "Dassault Aviation",
+        "code": "AM.PA",
+        "country": "France",
+        "rank": 731
+    },
+    {
+        "name": "Sodexo",
+        "code": "SW.PA",
+        "country": "France",
+        "rank": 732
+    },
+    {
+        "name": "Teleperformance",
+        "code": "TEP.PA",
+        "country": "France",
+        "rank": 733
+    },
+    {
+        "name": "Edenred",
+        "code": "EDEN.PA",
+        "country": "France",
+        "rank": 734
+    },
+    {
+        "name": "A\u00e9roports de Paris",
+        "code": "ADP.PA",
+        "country": "France",
+        "rank": 735
+    },
+    {
+        "name": "bioM\u00e9rieux",
+        "code": "BIM.PA",
+        "country": "France",
+        "rank": 736
+    },
+    {
+        "name": "Carrefour",
+        "code": "CA.PA",
+        "country": "France",
+        "rank": 737
+    },
+    {
+        "name": "Bureau Veritas",
+        "code": "BVI.PA",
+        "country": "France",
+        "rank": 738
+    },
+    {
+        "name": "Amundi",
+        "code": "AMUN.PA",
+        "country": "France",
+        "rank": 739
+    },
+    {
+        "name": "Bouygues",
+        "code": "EN.PA",
+        "country": "France",
+        "rank": 740
+    },
+    {
+        "name": "Worldline",
+        "code": "WLN.PA",
+        "country": "France",
+        "rank": 741
+    },
+    {
+        "name": "Renault",
+        "code": "RNO.PA",
+        "country": "France",
+        "rank": 742
+    },
+    {
+        "name": "Vivendi",
+        "code": "VIV.PA",
+        "country": "France",
+        "rank": 743
+    },
+    {
+        "name": "Eiffage",
+        "code": "FGR.PA",
+        "country": "France",
+        "rank": 744
+    },
+    {
+        "name": "Alstom",
+        "code": "ALO.PA",
+        "country": "France",
+        "rank": 745
+    },
+    {
+        "name": "Ipsen",
+        "code": "IPN.PA",
+        "country": "France",
+        "rank": 746
+    },
+    {
+        "name": "Getlink",
+        "code": "GET.PA",
+        "country": "France",
+        "rank": 747
+    },
+    {
+        "name": "R\u00e9my Cointreau",
+        "code": "RCO.PA",
+        "country": "France",
+        "rank": 748
+    },
+    {
+        "name": "Gecina",
+        "code": "GFC.PA",
+        "country": "France",
+        "rank": 749
+    },
+    {
+        "name": "Fran\u00e7aise des Jeux",
+        "code": "FDJ.VI",
+        "country": "France",
+        "rank": 750
+    },
+    {
+        "name": "Unibail-Rodamco-Westfield",
+        "code": "URW.AS",
+        "country": "France",
+        "rank": 751
+    },
+    {
+        "name": "Arkema",
+        "code": "AKE.PA",
+        "country": "France",
+        "rank": 752
+    },
+    {
+        "name": "Kl\u00e9pierre",
+        "code": "LI.PA",
+        "country": "France",
+        "rank": 753
+    },
+    {
+        "name": "Accor",
+        "code": "AC.PA",
+        "country": "France",
+        "rank": 754
+    },
+    {
+        "name": "Rexel",
+        "code": "RXL.PA",
+        "country": "France",
+        "rank": 755
+    },
+    {
+        "name": "Soitec",
+        "code": "SOI.PA",
+        "country": "France",
+        "rank": 756
+    },
+    {
+        "name": "Covivio",
+        "code": "COV.PA",
+        "country": "France",
+        "rank": 757
+    },
+    {
+        "name": "Somfy",
+        "code": "SO.PA",
+        "country": "France",
+        "rank": 758
+    },
+    {
+        "name": "ALD Automotive",
+        "code": "ALD.PA",
+        "country": "France",
+        "rank": 759
+    },
+    {
+        "name": "Groupe SEB",
+        "code": "SK.PA",
+        "country": "France",
+        "rank": 760
+    },
+    {
+        "name": "Eurazeo",
+        "code": "RF.PA",
+        "country": "France",
+        "rank": 761
+    },
+    {
+        "name": "Valeo",
+        "code": "FR.PA",
+        "country": "France",
+        "rank": 762
+    },
+    {
+        "name": "Neoen",
+        "code": "NEOEN.PA",
+        "country": "France",
+        "rank": 763
+    },
+    {
+        "name": "Tikehau Capital",
+        "code": "TKO.PA",
+        "country": "France",
+        "rank": 764
+    },
+    {
+        "name": "ALTEN",
+        "code": "ATE.PA",
+        "country": "France",
+        "rank": 765
+    },
+    {
+        "name": "SPIE",
+        "code": "SPIE.PA",
+        "country": "France",
+        "rank": 766
+    },
+    {
+        "name": "Scor",
+        "code": "SCR.PA",
+        "country": "France",
+        "rank": 767
+    },
+    {
+        "name": "Wendel",
+        "code": "MF.PA",
+        "country": "France",
+        "rank": 768
+    },
+    {
+        "name": "JCDecaux",
+        "code": "DEC.PA",
+        "country": "France",
+        "rank": 769
+    },
+    {
+        "name": "Colas",
+        "code": "RE.PA",
+        "country": "France",
+        "rank": 770
+    },
+    {
+        "name": "Nexans",
+        "code": "NEX.PA",
+        "country": "France",
+        "rank": 771
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 Fonci\u00e8re Lyonnaise",
+        "code": "FLY.PA",
+        "country": "France",
+        "rank": 772
+    },
+    {
+        "name": "Ubisoft",
+        "code": "UBI.PA",
+        "country": "France",
+        "rank": 773
+    },
+    {
+        "name": "Air France-KLM",
+        "code": "AF.PA",
+        "country": "France",
+        "rank": 774
+    },
+    {
+        "name": "Elis",
+        "code": "ELIS.PA",
+        "country": "France",
+        "rank": 775
+    },
+    {
+        "name": "Icade",
+        "code": "ICAD.PA",
+        "country": "France",
+        "rank": 776
+    },
+    {
+        "name": "Imerys",
+        "code": "NK.PA",
+        "country": "France",
+        "rank": 777
+    },
+    {
+        "name": "OVH Groupe",
+        "code": "OVH.PA",
+        "country": "France",
+        "rank": 778
+    },
+    {
+        "name": "Faurecia",
+        "code": "EO.PA",
+        "country": "France",
+        "rank": 779
+    },
+    {
+        "name": "Groupe Lagard\u00e8re",
+        "code": "MMB.PA",
+        "country": "France",
+        "rank": 780
+    },
+    {
+        "name": "BIC",
+        "code": "BB.PA",
+        "country": "France",
+        "rank": 781
+    },
+    {
+        "name": "Altarea",
+        "code": "ALTA.PA",
+        "country": "France",
+        "rank": 782
+    },
+    {
+        "name": "Rubis",
+        "code": "RUI.PA",
+        "country": "France",
+        "rank": 783
+    },
+    {
+        "name": "Trigano",
+        "code": "TRI.PA",
+        "country": "France",
+        "rank": 784
+    },
+    {
+        "name": "Covivio Hotels",
+        "code": "COVH.PA",
+        "country": "France",
+        "rank": 785
+    },
+    {
+        "name": "Compagnie Plastic Omnium",
+        "code": "POM.PA",
+        "country": "France",
+        "rank": 786
+    },
+    {
+        "name": "Coface",
+        "code": "COFA.PA",
+        "country": "France",
+        "rank": 787
+    },
+    {
+        "name": "Eutelsat",
+        "code": "ETL.PA",
+        "country": "France",
+        "rank": 788
+    },
+    {
+        "name": "Exclusive Networks",
+        "code": "EXN.PA",
+        "country": "France",
+        "rank": 789
+    },
+    {
+        "name": "Voltalia",
+        "code": "VLTSA.PA",
+        "country": "France",
+        "rank": 790
+    },
+    {
+        "name": "Robertet",
+        "code": "CBE.PA",
+        "country": "France",
+        "rank": 791
+    },
+    {
+        "name": "Constellium",
+        "code": "CSTM",
+        "country": "France",
+        "rank": 792
+    },
+    {
+        "name": "TF1",
+        "code": "TFI.PA",
+        "country": "France",
+        "rank": 793
+    },
+    {
+        "name": "Criteo",
+        "code": "CRTO",
+        "country": "France",
+        "rank": 794
+    },
+    {
+        "name": "Atos",
+        "code": "ATO.PA",
+        "country": "France",
+        "rank": 795
+    },
+    {
+        "name": "Casino Guichard-Perrachon",
+        "code": "CO.PA",
+        "country": "France",
+        "rank": 796
+    },
+    {
+        "name": "Korian",
+        "code": "KORI.PA",
+        "country": "France",
+        "rank": 797
+    },
+    {
+        "name": "Fnac Darty",
+        "code": "FNAC.PA",
+        "country": "France",
+        "rank": 798
+    },
+    {
+        "name": "Valneva SE",
+        "code": "VALN",
+        "country": "France",
+        "rank": 799
+    },
+    {
+        "name": "Savencia Fromage & Dairy",
+        "code": "SAVE.PA",
+        "country": "France",
+        "rank": 800
+    },
+    {
+        "name": "LVMH",
+        "code": "MC.PA",
+        "country": "France",
+        "rank": 801
+    },
+    {
+        "name": "L'Or\u00e9al",
+        "code": "OR.PA",
+        "country": "France",
+        "rank": 802
+    },
+    {
+        "name": "Herm\u00e8s",
+        "code": "RMS.PA",
+        "country": "France",
+        "rank": 803
+    },
+    {
+        "name": "TotalEnergies",
+        "code": "TTE",
+        "country": "France",
+        "rank": 804
+    },
+    {
+        "name": "Dior",
+        "code": "CDI.PA",
+        "country": "France",
+        "rank": 805
+    },
+    {
+        "name": "Sanofi",
+        "code": "SNY",
+        "country": "France",
+        "rank": 806
+    },
+    {
+        "name": "EssilorLuxottica",
+        "code": "EL.PA",
+        "country": "France",
+        "rank": 807
+    },
+    {
+        "name": "Schneider Electric",
+        "code": "SU.PA",
+        "country": "France",
+        "rank": 808
+    },
+    {
+        "name": "Air Liquide",
+        "code": "AI.PA",
+        "country": "France",
+        "rank": 809
+    },
+    {
+        "name": "BNP Paribas",
+        "code": "BNP.PA",
+        "country": "France",
+        "rank": 810
+    },
+    {
+        "name": "AXA",
+        "code": "CS.PA",
+        "country": "France",
+        "rank": 811
+    },
+    {
+        "name": "Kering",
+        "code": "KER.PA",
+        "country": "France",
+        "rank": 812
+    },
+    {
+        "name": "Vinci",
+        "code": "DG.PA",
+        "country": "France",
+        "rank": 813
+    },
+    {
+        "name": "Safran",
+        "code": "SAF.PA",
+        "country": "France",
+        "rank": 814
+    },
+    {
+        "name": "Pernod Ricard",
+        "code": "RI.PA",
+        "country": "France",
+        "rank": 815
+    },
+    {
+        "name": "EDF (Electricit\u00e9 de France)",
+        "code": "EDF.PA",
+        "country": "France",
+        "rank": 816
+    },
+    {
+        "name": "Dassault Syst\u00e8mes",
+        "code": "DSY.PA",
+        "country": "France",
+        "rank": 817
+    },
+    {
+        "name": "ENGIE",
+        "code": "ENGI.PA",
+        "country": "France",
+        "rank": 818
+    },
+    {
+        "name": "Danone",
+        "code": "BN.PA",
+        "country": "France",
+        "rank": 819
+    },
+    {
+        "name": "Cr\u00e9dit Agricole",
+        "code": "ACA.PA",
+        "country": "France",
+        "rank": 820
+    },
+    {
+        "name": "Capgemini",
+        "code": "CAP.PA",
+        "country": "France",
+        "rank": 821
+    },
+    {
+        "name": "Thales",
+        "code": "HO.PA",
+        "country": "France",
+        "rank": 822
+    },
+    {
+        "name": "Orange",
+        "code": "ORAN",
+        "country": "France",
+        "rank": 823
+    },
+    {
+        "name": "Compagnie de Saint-Gobain",
+        "code": "SGO.PA",
+        "country": "France",
+        "rank": 824
+    },
+    {
+        "name": "Legrand",
+        "code": "LR.PA",
+        "country": "France",
+        "rank": 825
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+        "code": "GLE.PA",
+        "country": "France",
+        "rank": 826
+    },
+    {
+        "name": "Michelin",
+        "code": "ML.PA",
+        "country": "France",
+        "rank": 827
+    },
+    {
+        "name": "Veolia",
+        "code": "VIE.PA",
+        "country": "France",
+        "rank": 828
+    },
+    {
+        "name": "Bollor\u00e9",
+        "code": "BOP.F",
+        "country": "France",
+        "rank": 829
+    },
+    {
+        "name": "Publicis Groupe",
+        "code": "PUB.PA",
+        "country": "France",
+        "rank": 830
+    },
+    {
+        "name": "Dassault Aviation",
+        "code": "AM.PA",
+        "country": "France",
+        "rank": 831
+    },
+    {
+        "name": "Sodexo",
+        "code": "SW.PA",
+        "country": "France",
+        "rank": 832
+    },
+    {
+        "name": "Teleperformance",
+        "code": "TEP.PA",
+        "country": "France",
+        "rank": 833
+    },
+    {
+        "name": "Edenred",
+        "code": "EDEN.PA",
+        "country": "France",
+        "rank": 834
+    },
+    {
+        "name": "A\u00e9roports de Paris",
+        "code": "ADP.PA",
+        "country": "France",
+        "rank": 835
+    },
+    {
+        "name": "bioM\u00e9rieux",
+        "code": "BIM.PA",
+        "country": "France",
+        "rank": 836
+    },
+    {
+        "name": "Carrefour",
+        "code": "CA.PA",
+        "country": "France",
+        "rank": 837
+    },
+    {
+        "name": "Bureau Veritas",
+        "code": "BVI.PA",
+        "country": "France",
+        "rank": 838
+    },
+    {
+        "name": "Amundi",
+        "code": "AMUN.PA",
+        "country": "France",
+        "rank": 839
+    },
+    {
+        "name": "Bouygues",
+        "code": "EN.PA",
+        "country": "France",
+        "rank": 840
+    },
+    {
+        "name": "Worldline",
+        "code": "WLN.PA",
+        "country": "France",
+        "rank": 841
+    },
+    {
+        "name": "Renault",
+        "code": "RNO.PA",
+        "country": "France",
+        "rank": 842
+    },
+    {
+        "name": "Vivendi",
+        "code": "VIV.PA",
+        "country": "France",
+        "rank": 843
+    },
+    {
+        "name": "Eiffage",
+        "code": "FGR.PA",
+        "country": "France",
+        "rank": 844
+    },
+    {
+        "name": "Alstom",
+        "code": "ALO.PA",
+        "country": "France",
+        "rank": 845
+    },
+    {
+        "name": "Ipsen",
+        "code": "IPN.PA",
+        "country": "France",
+        "rank": 846
+    },
+    {
+        "name": "Getlink",
+        "code": "GET.PA",
+        "country": "France",
+        "rank": 847
+    },
+    {
+        "name": "R\u00e9my Cointreau",
+        "code": "RCO.PA",
+        "country": "France",
+        "rank": 848
+    },
+    {
+        "name": "Gecina",
+        "code": "GFC.PA",
+        "country": "France",
+        "rank": 849
+    },
+    {
+        "name": "Fran\u00e7aise des Jeux",
+        "code": "FDJ.VI",
+        "country": "France",
+        "rank": 850
+    },
+    {
+        "name": "Unibail-Rodamco-Westfield",
+        "code": "URW.AS",
+        "country": "France",
+        "rank": 851
+    },
+    {
+        "name": "Arkema",
+        "code": "AKE.PA",
+        "country": "France",
+        "rank": 852
+    },
+    {
+        "name": "Kl\u00e9pierre",
+        "code": "LI.PA",
+        "country": "France",
+        "rank": 853
+    },
+    {
+        "name": "Accor",
+        "code": "AC.PA",
+        "country": "France",
+        "rank": 854
+    },
+    {
+        "name": "Rexel",
+        "code": "RXL.PA",
+        "country": "France",
+        "rank": 855
+    },
+    {
+        "name": "Soitec",
+        "code": "SOI.PA",
+        "country": "France",
+        "rank": 856
+    },
+    {
+        "name": "Covivio",
+        "code": "COV.PA",
+        "country": "France",
+        "rank": 857
+    },
+    {
+        "name": "Somfy",
+        "code": "SO.PA",
+        "country": "France",
+        "rank": 858
+    },
+    {
+        "name": "ALD Automotive",
+        "code": "ALD.PA",
+        "country": "France",
+        "rank": 859
+    },
+    {
+        "name": "Groupe SEB",
+        "code": "SK.PA",
+        "country": "France",
+        "rank": 860
+    },
+    {
+        "name": "Eurazeo",
+        "code": "RF.PA",
+        "country": "France",
+        "rank": 861
+    },
+    {
+        "name": "Valeo",
+        "code": "FR.PA",
+        "country": "France",
+        "rank": 862
+    },
+    {
+        "name": "Neoen",
+        "code": "NEOEN.PA",
+        "country": "France",
+        "rank": 863
+    },
+    {
+        "name": "Tikehau Capital",
+        "code": "TKO.PA",
+        "country": "France",
+        "rank": 864
+    },
+    {
+        "name": "ALTEN",
+        "code": "ATE.PA",
+        "country": "France",
+        "rank": 865
+    },
+    {
+        "name": "SPIE",
+        "code": "SPIE.PA",
+        "country": "France",
+        "rank": 866
+    },
+    {
+        "name": "Scor",
+        "code": "SCR.PA",
+        "country": "France",
+        "rank": 867
+    },
+    {
+        "name": "Wendel",
+        "code": "MF.PA",
+        "country": "France",
+        "rank": 868
+    },
+    {
+        "name": "JCDecaux",
+        "code": "DEC.PA",
+        "country": "France",
+        "rank": 869
+    },
+    {
+        "name": "Colas",
+        "code": "RE.PA",
+        "country": "France",
+        "rank": 870
+    },
+    {
+        "name": "Nexans",
+        "code": "NEX.PA",
+        "country": "France",
+        "rank": 871
+    },
+    {
+        "name": "Soci\u00e9t\u00e9 Fonci\u00e8re Lyonnaise",
+        "code": "FLY.PA",
+        "country": "France",
+        "rank": 872
+    },
+    {
+        "name": "Ubisoft",
+        "code": "UBI.PA",
+        "country": "France",
+        "rank": 873
+    },
+    {
+        "name": "Air France-KLM",
+        "code": "AF.PA",
+        "country": "France",
+        "rank": 874
+    },
+    {
+        "name": "Elis",
+        "code": "ELIS.PA",
+        "country": "France",
+        "rank": 875
+    },
+    {
+        "name": "Icade",
+        "code": "ICAD.PA",
+        "country": "France",
+        "rank": 876
+    },
+    {
+        "name": "Imerys",
+        "code": "NK.PA",
+        "country": "France",
+        "rank": 877
+    },
+    {
+        "name": "OVH Groupe",
+        "code": "OVH.PA",
+        "country": "France",
+        "rank": 878
+    },
+    {
+        "name": "Faurecia",
+        "code": "EO.PA",
+        "country": "France",
+        "rank": 879
+    },
+    {
+        "name": "Groupe Lagard\u00e8re",
+        "code": "MMB.PA",
+        "country": "France",
+        "rank": 880
+    },
+    {
+        "name": "BIC",
+        "code": "BB.PA",
+        "country": "France",
+        "rank": 881
+    },
+    {
+        "name": "Altarea",
+        "code": "ALTA.PA",
+        "country": "France",
+        "rank": 882
+    },
+    {
+        "name": "Rubis",
+        "code": "RUI.PA",
+        "country": "France",
+        "rank": 883
+    },
+    {
+        "name": "Trigano",
+        "code": "TRI.PA",
+        "country": "France",
+        "rank": 884
+    },
+    {
+        "name": "Covivio Hotels",
+        "code": "COVH.PA",
+        "country": "France",
+        "rank": 885
+    },
+    {
+        "name": "Compagnie Plastic Omnium",
+        "code": "POM.PA",
+        "country": "France",
+        "rank": 886
+    },
+    {
+        "name": "Coface",
+        "code": "COFA.PA",
+        "country": "France",
+        "rank": 887
+    },
+    {
+        "name": "Eutelsat",
+        "code": "ETL.PA",
+        "country": "France",
+        "rank": 888
+    },
+    {
+        "name": "Exclusive Networks",
+        "code": "EXN.PA",
+        "country": "France",
+        "rank": 889
+    },
+    {
+        "name": "Voltalia",
+        "code": "VLTSA.PA",
+        "country": "France",
+        "rank": 890
+    },
+    {
+        "name": "Robertet",
+        "code": "CBE.PA",
+        "country": "France",
+        "rank": 891
+    },
+    {
+        "name": "Constellium",
+        "code": "CSTM",
+        "country": "France",
+        "rank": 892
+    },
+    {
+        "name": "TF1",
+        "code": "TFI.PA",
+        "country": "France",
+        "rank": 893
+    },
+    {
+        "name": "Criteo",
+        "code": "CRTO",
+        "country": "France",
+        "rank": 894
+    },
+    {
+        "name": "Atos",
+        "code": "ATO.PA",
+        "country": "France",
+        "rank": 895
+    },
+    {
+        "name": "Casino Guichard-Perrachon",
+        "code": "CO.PA",
+        "country": "France",
+        "rank": 896
+    },
+    {
+        "name": "Korian",
+        "code": "KORI.PA",
+        "country": "France",
+        "rank": 897
+    },
+    {
+        "name": "Fnac Darty",
+        "code": "FNAC.PA",
+        "country": "France",
+        "rank": 898
+    },
+    {
+        "name": "Valneva SE",
+        "code": "VALN",
+        "country": "France",
+        "rank": 899
+    },
+    {
+        "name": "Savencia Fromage & Dairy",
+        "code": "SAVE.PA",
+        "country": "France",
+        "rank": 900
+    }
+]

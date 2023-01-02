@@ -1,0 +1,3744 @@
+{
+    "companies": [
+        {
+            "name": "Gazprom",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Lukoil",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Rosneft",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Sberbank",
+            "industry": "Finance"
+        },
+        {
+            "name": "Russian Railways",
+            "industry": "Transport"
+        },
+        {
+            "name": "Rostec",
+            "industry": "Investments"
+        },
+        {
+            "name": "VTB Bank",
+            "industry": "Finance"
+        },
+        {
+            "name": "X5 Group",
+            "industry": "Trade"
+        },
+        {
+            "name": "Surgutneftegas",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Magnit",
+            "industry": "Trade"
+        },
+        {
+            "name": "Rosseti",
+            "industry": "Power engineering"
+        },
+        {
+            "name": "Inter RAO",
+            "industry": "Power engineering"
+        },
+        {
+            "name": "Transneft",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Rosatom",
+            "industry": "Atomic industry"
+        },
+        {
+            "name": "Sistema",
+            "industry": "Investments"
+        },
+        {
+            "name": "Tatneft",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Megapolis Group\u00c2[ru]",
+            "industry": "Distribution"
+        },
+        {
+            "name": "Gazprombank",
+            "industry": "Finance"
+        },
+        {
+            "name": "Evraz",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "Novolipetsk Steel",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "Novatek",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Sibur",
+            "industry": "Chemistry and petrochemistry"
+        },
+        {
+            "name": "Rusal",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "Norilsk Nickel",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "Aeroflot",
+            "industry": "Transport"
+        },
+        {
+            "name": "Severstal",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "United Aircraft Corporation",
+            "industry": "Defense and machine building"
+        },
+        {
+            "name": "Mobile TeleSystems",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "Magnitogorsk Iron and Steel Works",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "Ural Mining and Metallurgical Company",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "RusHydro",
+            "industry": "Power engineering"
+        },
+        {
+            "name": "MegaFon",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "Lenta",
+            "industry": "Trade"
+        },
+        {
+            "name": "Metalloinvest",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "Stroygazmontazh",
+            "industry": "Construction of infrastructure"
+        },
+        {
+            "name": "T Plus",
+            "industry": "Power engineering"
+        },
+        {
+            "name": "VimpelCom",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "SUEK",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "United Shipbuilding Corporation",
+            "industry": "Defense and machine building"
+        },
+        {
+            "name": "Sakhalin Energy",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Rostelecom",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "Alfa-Bank",
+            "industry": "Finance"
+        },
+        {
+            "name": "Otkritie Holding",
+            "industry": "Finance"
+        },
+        {
+            "name": "Mechel",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "Vnesheconombank",
+            "industry": "Finance"
+        },
+        {
+            "name": "Auchan",
+            "industry": "Trade"
+        },
+        {
+            "name": "Japan Tobacco International Russia",
+            "industry": "Alcohol and tobacco"
+        },
+        {
+            "name": "EuroChem",
+            "industry": "Chemistry and petrochemistry"
+        },
+        {
+            "name": "DIXY",
+            "industry": "Trade"
+        },
+        {
+            "name": "Philip Morris Sales and Marketing",
+            "industry": "Alcohol and tobacco"
+        },
+        {
+            "name": "Alrosa",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "Toyota Motor",
+            "industry": "Cars"
+        },
+        {
+            "name": "Rosselkhozbank",
+            "industry": "Finance"
+        },
+        {
+            "name": "Protek",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "OAO TMK",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "Russian Helicopters",
+            "industry": "Defense and machine building"
+        },
+        {
+            "name": "TNS Energo\u00c2[ru]",
+            "industry": "Power engineering"
+        },
+        {
+            "name": "Katren\u00c2[ru]",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "Slavneft\u00c2[ru]",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Volkswagen Group Rus",
+            "industry": "Cars"
+        },
+        {
+            "name": "United Engine Corporation",
+            "industry": "Defense and machine building"
+        },
+        {
+            "name": "Metro Cash & Carry",
+            "industry": "Trade"
+        },
+        {
+            "name": "Leroy Merlin Vostok",
+            "industry": "Trade"
+        },
+        {
+            "name": "AvtoVAZ",
+            "industry": "Cars"
+        },
+        {
+            "name": "New Stream Group\u00c2[ru]",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Merlion",
+            "industry": "Distribution"
+        },
+        {
+            "name": "Avtotor",
+            "industry": "Cars"
+        },
+        {
+            "name": "Tactical Missiles Corporation",
+            "industry": "Defense and machine building"
+        },
+        {
+            "name": "Red&White",
+            "industry": "Trade"
+        },
+        {
+            "name": "Mostotrest",
+            "industry": "Construction of infrastructure"
+        },
+        {
+            "name": "MUMT (British American Tobacco)",
+            "industry": "Alcohol and tobacco"
+        },
+        {
+            "name": "M.video",
+            "industry": "Trade"
+        },
+        {
+            "name": "DNS Group\u00c2[ru]",
+            "industry": "Trade"
+        },
+        {
+            "name": "PhosAgro",
+            "industry": "Chemistry and petrochemistry"
+        },
+        {
+            "name": "Rolf Group",
+            "industry": "Cars"
+        },
+        {
+            "name": "O'Key Group\u00c2[ru]",
+            "industry": "Trade"
+        },
+        {
+            "name": "Independent Oil and Gas Company",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "PIK Group",
+            "industry": "Development and construction"
+        },
+        {
+            "name": "EuroSibEnergo\u00c2[ru]",
+            "industry": "Power engineering"
+        },
+        {
+            "name": "Russian Post",
+            "industry": "Postal services"
+        },
+        {
+            "name": "Kia Motors Rus",
+            "industry": "Cars"
+        },
+        {
+            "name": "Nizhnekamskneftekhim",
+            "industry": "Chemistry and petrochemistry"
+        },
+        {
+            "name": "Mercedes-Benz Russia",
+            "industry": "Cars"
+        },
+        {
+            "name": "Rusenergosbyt\u00c2[ru]",
+            "industry": "Power engineering"
+        },
+        {
+            "name": "United Metallurgical Company\u00c2[ru]",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "GAZ Group",
+            "industry": "Cars"
+        },
+        {
+            "name": "Tashir",
+            "industry": "Development and construction"
+        },
+        {
+            "name": "SNS Holding\u00c2[ru]",
+            "industry": "Distribution"
+        },
+        {
+            "name": "National Computer Corporation\u00c2[ru]",
+            "industry": "Information Technology"
+        },
+        {
+            "name": "Uralkali",
+            "industry": "Chemistry and petrochemistry"
+        },
+        {
+            "name": "TAIF-NK\u00c2[ru]",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Polyus",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "United Company Eurobusiness Euroset",
+            "industry": "Trade"
+        },
+        {
+            "name": "Chelyabinsk Pipe Rolling Plant",
+            "industry": "Metals and mining"
+        },
+        {
+            "name": "Sodrugestvo",
+            "industry": "Agriculture and Food"
+        },
+        {
+            "name": "SOGAZ",
+            "industry": "Finance"
+        },
+        {
+            "name": "KamAZ",
+            "industry": "Cars"
+        },
+        {
+            "name": "Transmashholding",
+            "industry": "Defense and machine building"
+        },
+        {
+            "name": "Hyundai Motor CIS",
+            "industry": "Cars"
+        },
+        {
+            "name": "StroyTransNefteGaz (formerly Stroytransgaz)",
+            "industry": "Construction of infrastructure"
+        },
+        {
+            "name": "Apple Inc. Rus",
+            "industry": "Electronics"
+        },
+        {
+            "name": "FC Pulse\u00c2[ru]",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "Zarubezhneft",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Arktikgaz",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Tomskneft",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "UCL Holding",
+            "industry": "Transport"
+        },
+        {
+            "name": "Credit Bank of Moscow",
+            "industry": "Finance"
+        },
+        {
+            "name": "Procter & Gamble Distribution Company",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "LSR Group",
+            "industry": "Development and construction"
+        },
+        {
+            "name": "Mosinzhproekt\u00c2[ru]",
+            "industry": "Development and construction"
+        },
+        {
+            "name": "Major Group\u00c2[ru]",
+            "industry": "Cars"
+        },
+        {
+            "name": "ForteInvest",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Irkutsk Oil Company",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "Uralvagonzavod",
+            "industry": "Defense and machine building"
+        },
+        {
+            "name": "RussNeft",
+            "industry": "Oil and gas"
+        },
+        {
+            "name": "1C Company",
+            "industry": "Technology"
+        },
+        {
+            "name": "Acron Group",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Aeroflot",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Akella",
+            "industry": "Technology"
+        },
+        {
+            "name": "Alawar Entertainment",
+            "industry": "Technology"
+        },
+        {
+            "name": "Alfa Group",
+            "industry": "Conglomerate"
+        },
+        {
+            "name": "All-Russia State Television and Radio Broadcasting Company (VGTRK)",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Almaz-Antey",
+            "industry": "Industrials"
+        },
+        {
+            "name": "ALROSA",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "ASCON",
+            "industry": "Technology"
+        },
+        {
+            "name": "AST",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Atomenergoprom",
+            "industry": "Utilities"
+        },
+        {
+            "name": "ATV",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Aurus Motors",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "Aviaconversiya",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Aviakor",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Avtotor",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "AvtoVAZ",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "Baltika Breweries",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "Bank Rossiya",
+            "industry": "Financials"
+        },
+        {
+            "name": "Bank Saint Petersburg",
+            "industry": "Financials"
+        },
+        {
+            "name": "Basic Element (company)",
+            "industry": "Conglomerate"
+        },
+        {
+            "name": "Bolshevichka",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "Bryansk Automobile Plant",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Channel One",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Chelyabinsk Pipe Rolling Plant",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Chelyabinsk Tractor Plant",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Cherkizovo",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "Concern Radio-Electronic Technologies",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Concern Tractor Plants",
+            "industry": "Industrials"
+        },
+        {
+            "name": "CTC Media",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Dalsvyaz",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "E4 Group",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Eksmo",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "En+ Group",
+            "industry": "Utilities"
+        },
+        {
+            "name": "Enel Russia",
+            "industry": "Utilities"
+        },
+        {
+            "name": "Energia (corporation)",
+            "industry": "Industrials"
+        },
+        {
+            "name": "ER-Telecom",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "Eurocement group",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Euroset",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "Evalar",
+            "industry": "Health care"
+        },
+        {
+            "name": "GAZ Group",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Gazprom",
+            "industry": "Oil & gas"
+        },
+        {
+            "name": "Gazprom Media",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Gazprom Neft",
+            "industry": "Oil & gas"
+        },
+        {
+            "name": "Gazprombank",
+            "industry": "Financials"
+        },
+        {
+            "name": "Gorky Film Studio",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "High Precision Systems",
+            "industry": "Industrials"
+        },
+        {
+            "name": "i-Free",
+            "industry": "Technology"
+        },
+        {
+            "name": "International Industrial Bank",
+            "industry": "Financials"
+        },
+        {
+            "name": "Ingosstrakh",
+            "industry": "Financials"
+        },
+        {
+            "name": "Interfax",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Intourist",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Irkutskenergo",
+            "industry": "Utilities"
+        },
+        {
+            "name": "Irmash",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Izhevsk Mechanical Plant",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Kalashnikov Concern",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Kamaz",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Kazanorgsintez",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Kaspersky Lab",
+            "industry": "Technology"
+        },
+        {
+            "name": "Kirov Plant",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Komus",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Krasnogorsky Zavod",
+            "industry": "Industrials"
+        },
+        {
+            "name": "KrioRus",
+            "industry": "Technology"
+        },
+        {
+            "name": "Kuzbassenergo",
+            "industry": "Utilities"
+        },
+        {
+            "name": "Lavochkin",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Lebedyansky",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "Lenfilm",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "LOMO",
+            "industry": "Industrials"
+        },
+        {
+            "name": "LUKoil",
+            "industry": "Oil & gas"
+        },
+        {
+            "name": "Magnit",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "Magnitogorsk Iron and Steel Works",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Mail.Ru Group",
+            "industry": "Technology"
+        },
+        {
+            "name": "Makeyev Rocket Design Bureau",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Marussia Motors",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "Mechel",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "MegaFon",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "Melodiya",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Metalloinvest",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Military Industrial Company",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Mir",
+            "industry": "Financials"
+        },
+        {
+            "name": "Molodaya Gvardiya",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Moscow City Telephone Network",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "Mosfilm",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Motovilikha Plants",
+            "industry": "Industrials"
+        },
+        {
+            "name": "MTS",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "M.video",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "NAMI",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "NEWSru",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Nitol Solar",
+            "industry": "Energy"
+        },
+        {
+            "name": "Nizhnekamskneftekhim",
+            "industry": "Oil & gas"
+        },
+        {
+            "name": "Norilsk Nickel",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "North-West Telecom",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "Novatek",
+            "industry": "Oil & gas"
+        },
+        {
+            "name": "Novolipetsk Steel",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Novoroscement",
+            "industry": "Industrials"
+        },
+        {
+            "name": "NVS Telematic Systems",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "OAO Kondopoga",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "OAO TMK",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Oboronprom",
+            "industry": "Industrials"
+        },
+        {
+            "name": "OGGI",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "OGK-1",
+            "industry": "Utilities"
+        },
+        {
+            "name": "OGK-2",
+            "industry": "Utilities"
+        },
+        {
+            "name": "OGK-3",
+            "industry": "Utilities"
+        },
+        {
+            "name": "OGK-6",
+            "industry": "Utilities"
+        },
+        {
+            "name": "OMZ",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Ozon",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "PC Transport Systems",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Petersburg - Channel 5",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Petersburg Fuel Company",
+            "industry": "Oil & gas"
+        },
+        {
+            "name": "Petrodvorets Watch Factory",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "Pharmstandard",
+            "industry": "Health care"
+        },
+        {
+            "name": "PIK Group",
+            "industry": "Financials"
+        },
+        {
+            "name": "Polyus Gold",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Power Machines",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Progress Rocket Space Centre",
+            "industry": "Industrials"
+        },
+        {
+            "name": "PROMT",
+            "industry": "Technology"
+        },
+        {
+            "name": "Rambler",
+            "industry": "Technology"
+        },
+        {
+            "name": "Razgulay",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "RBC",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "REGNUM",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Rolf",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Roscosmos",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Rosenergomash",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Rosgosstrakh",
+            "industry": "Financials"
+        },
+        {
+            "name": "Rosneft",
+            "industry": "Oil & gas"
+        },
+        {
+            "name": "Rostelecom",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "Rostselmash",
+            "industry": "Industrials"
+        },
+        {
+            "name": "RTI Systems",
+            "industry": "Industrials"
+        },
+        {
+            "name": "RUSAL",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Ruselectronics",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Russian Helicopters",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Russian Machines",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Russian Post",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Russian Railways",
+            "industry": "Transportation"
+        },
+        {
+            "name": "S7 Airlines",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Sberbank of Russia",
+            "industry": "Financials"
+        },
+        {
+            "name": "Severstal",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Siberian Coal Energy Company",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Sibirtelecom",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "Shvabe Holding",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Sinar",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "Sinara Group",
+            "industry": "Conglomerate"
+        },
+        {
+            "name": "Sistema",
+            "industry": "Conglomerate"
+        },
+        {
+            "name": "Sitronics",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Sollers JSC",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "Southern Telecom",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "Sovcomflot",
+            "industry": "Transportation"
+        },
+        {
+            "name": "Sozvezdie",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Speech Technology Center",
+            "industry": "Technology"
+        },
+        {
+            "name": "Stankoprom",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Start",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "SU-155",
+            "industry": "Conglomerate"
+        },
+        {
+            "name": "Surgutneftegas",
+            "industry": "Oil & gas"
+        },
+        {
+            "name": "Svyazinvest",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "Svyaznoy",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Synqera",
+            "industry": "Technology"
+        },
+        {
+            "name": "T-Platforms",
+            "industry": "Technology"
+        },
+        {
+            "name": "Tactical Missiles Corporation",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Tasma",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Tatneft",
+            "industry": "Oil & gas"
+        },
+        {
+            "name": "Technodinamika",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Tecmash",
+            "industry": "Industrials"
+        },
+        {
+            "name": "I-Fly",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "TNK-BP",
+            "industry": "Oil & gas"
+        },
+        {
+            "name": "TogliattiAzot",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Transmashholding",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Transneft",
+            "industry": "Oil & gas"
+        },
+        {
+            "name": "Trolza",
+            "industry": "Industrials"
+        },
+        {
+            "name": "TsUM Trading House",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Tver Carriage Works",
+            "industry": "Industrials"
+        },
+        {
+            "name": "TV Tsentr",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Inter RAO",
+            "industry": "Utilities"
+        },
+        {
+            "name": "Unipro",
+            "industry": "Utilities"
+        },
+        {
+            "name": "United Aircraft Corporation",
+            "industry": "Industrials"
+        },
+        {
+            "name": "United Confectioners",
+            "industry": "Confectionery"
+        },
+        {
+            "name": "United Engine Corporation",
+            "industry": "Industrials"
+        },
+        {
+            "name": "United Shipbuilding Corporation",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Uralkali",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Uralmash",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Ural Mining and Metallurgical Company",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "Uralsib",
+            "industry": "Financials"
+        },
+        {
+            "name": "UAZ",
+            "industry": "Industrials"
+        },
+        {
+            "name": "UralAZ",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Uralsvyazinform",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "Uralvagonzavod",
+            "industry": "Industrials"
+        },
+        {
+            "name": "UTair Aviation",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "VIS-AVTO",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "Vologda Mechanical Plant",
+            "industry": "Industrials"
+        },
+        {
+            "name": "VK",
+            "industry": "Technology"
+        },
+        {
+            "name": "Voenizdat",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Volchok",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "VolgaTelecom",
+            "industry": "Telecommunications"
+        },
+        {
+            "name": "Volgotanker",
+            "industry": "Industrials"
+        },
+        {
+            "name": "Volgabus",
+            "industry": "Industrials"
+        },
+        {
+            "name": "VSMPO-AVISMA",
+            "industry": "Basic materials"
+        },
+        {
+            "name": "VTB Bank",
+            "industry": "Financials"
+        },
+        {
+            "name": "Wimm-Bill-Dann Foods",
+            "industry": "Consumer goods"
+        },
+        {
+            "name": "X5 Retail Group",
+            "industry": "Consumer services"
+        },
+        {
+            "name": "Yandex",
+            "industry": "Technology"
+        },
+        {
+            "name": "Yuganskneftegaz",
+            "industry": "Oil & gas"
+        },
+        {
+            "name": "Zerich Capital Management",
+            "industry": "Financials"
+        },
+        {
+            "name": "ZiL",
+            "industry": "Industrials"
+        },
+        {
+            "name": "131 BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "ABSOLYuT BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "AVANGARD",
+            "industry": "Financials"
+        },
+        {
+            "name": "AVTOVAZBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "AVTOGRADBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "AVTOKREDITBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "AGROROS",
+            "industry": "Financials"
+        },
+        {
+            "name": "AGROHIMBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "AZIYa-INVEST BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "AK BARS",
+            "industry": "Financials"
+        },
+        {
+            "name": "AKIBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "AKROPOL'",
+            "industry": "Financials"
+        },
+        {
+            "name": "AKSONBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "AKTIV BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "AKTsIYa",
+            "industry": "Financials"
+        },
+        {
+            "name": "ALEKSANDROVSKII",
+            "industry": "Financials"
+        },
+        {
+            "name": "ALEF-BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "ALMAZERGIENBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "ALTAIBIZNES-BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "ALTAIKAPITALBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "Alfa-Bank",
+            "industry": "Financials"
+        },
+        {
+            "name": "AL'FA-BANK-BAShKORTOSTAN",
+            "industry": "Financials"
+        },
+        {
+            "name": "ATB",
+            "industry": "Financials"
+        },
+        {
+            "name": "ANDZhIBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "APR-BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "ARESBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "ARZAMAS",
+            "industry": "Financials"
+        },
+        {
+            "name": "ASPEKT",
+            "industry": "Financials"
+        },
+        {
+            "name": "ASSOTsIATsIYa",
+            "industry": "Financials"
+        },
+        {
+            "name": "BAIKALBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "BAIKALROSBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "BALAKOVO-BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "BALTIISKII BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "BALTINVESTBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "BANK ZhILISchNOGO FINANSIROVANIYa",
+            "industry": "Financials"
+        },
+        {
+            "name": "BANK ZENIT",
+            "industry": "Financials"
+        },
+        {
+            "name": "BANK KITAYa (ELOS)",
+            "industry": "Financials"
+        },
+        {
+            "name": "Bank of Moscow",
+            "industry": "Financials"
+        },
+        {
+            "name": "BANK NATEKSIS",
+            "industry": "Financials"
+        },
+        {
+            "name": "BANK ORENBURG",
+            "industry": "Financials"
+        },
+        {
+            "name": "BAShKOMSNABBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "Gazprombank",
+            "industry": "Financials"
+        },
+        {
+            "name": "BGF",
+            "industry": "Financials"
+        },
+        {
+            "name": "BELGORODSOTsBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "BFG-KREDIT",
+            "industry": "Financials"
+        },
+        {
+            "name": "BI-SI-DI-BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "BKF",
+            "industry": "Financials"
+        },
+        {
+            "name": "BNP PARIBA",
+            "industry": "Financials"
+        },
+        {
+            "name": "BOGORODSKII",
+            "industry": "Financials"
+        },
+        {
+            "name": "BOL'ShOI KAMEN' BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "BPF",
+            "industry": "Financials"
+        },
+        {
+            "name": "BRATSKII ANKB",
+            "industry": "Financials"
+        },
+        {
+            "name": "BUM-BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "VEK",
+            "industry": "Financials"
+        },
+        {
+            "name": "VENETs",
+            "industry": "Financials"
+        },
+        {
+            "name": "VERHNEVOLZhSKII",
+            "industry": "Financials"
+        },
+        {
+            "name": "VIKING",
+            "industry": "Financials"
+        },
+        {
+            "name": "VKABANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "VLADBIZNESBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "VLADIMIRSKII PROMYShLENNYI BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "VTB Bank",
+            "industry": "Financials"
+        },
+        {
+            "name": "VOZROZhDENIE",
+            "industry": "Financials"
+        },
+        {
+            "name": "VOKBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "VOLOGZhANIN",
+            "industry": "Financials"
+        },
+        {
+            "name": "VSEROSSIISKII BANK RAZVITIYa REGIONOV",
+            "industry": "Financials"
+        },
+        {
+            "name": "VUZ-BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "VYaTICh",
+            "industry": "Financials"
+        },
+        {
+            "name": "NORVIK BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "GAZBANK",
+            "industry": "license revoked"
+        },
+        {
+            "name": "GAZNEFT'BANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "Gazprombank",
+            "industry": "Financials"
+        },
+        {
+            "name": "GAZENERGOBANK",
+            "industry": "Financials"
+        },
+        {
+            "name": "United Heavy Machinery",
+            "industry": null
+        },
+        {
+            "name": "Rosneft",
+            "industry": null
+        },
+        {
+            "name": "Gazprom",
+            "industry": null
+        },
+        {
+            "name": "Novatek",
+            "industry": null
+        },
+        {
+            "name": "Sberbank",
+            "industry": null
+        },
+        {
+            "name": "Lukoil",
+            "industry": null
+        },
+        {
+            "name": "Nornickel",
+            "industry": null
+        },
+        {
+            "name": "Polyus",
+            "industry": null
+        },
+        {
+            "name": "Surgutneftegas",
+            "industry": null
+        },
+        {
+            "name": "PhosAgro",
+            "industry": null
+        },
+        {
+            "name": "Tatneft",
+            "industry": null
+        },
+        {
+            "name": "Severstal",
+            "industry": null
+        },
+        {
+            "name": "Novolipetsk Steel",
+            "industry": null
+        },
+        {
+            "name": "Mobile TeleSystems",
+            "industry": null
+        },
+        {
+            "name": "Magnit",
+            "industry": null
+        },
+        {
+            "name": "Evraz",
+            "industry": null
+        },
+        {
+            "name": "Rosseti",
+            "industry": null
+        },
+        {
+            "name": "Mechel PAO",
+            "industry": null
+        },
+        {
+            "name": "Cian",
+            "industry": null
+        },
+        {
+            "name": "United Heavy Machinery",
+            "industry": null
+        },
+        {
+            "name": "Rosneft",
+            "industry": null
+        },
+        {
+            "name": "Gazprom",
+            "industry": null
+        },
+        {
+            "name": "Novatek",
+            "industry": null
+        },
+        {
+            "name": "Sberbank",
+            "industry": null
+        },
+        {
+            "name": "Lukoil",
+            "industry": null
+        },
+        {
+            "name": "Nornickel",
+            "industry": null
+        },
+        {
+            "name": "Polyus",
+            "industry": null
+        },
+        {
+            "name": "Surgutneftegas",
+            "industry": null
+        },
+        {
+            "name": "PhosAgro",
+            "industry": null
+        },
+        {
+            "name": "Tatneft",
+            "industry": null
+        },
+        {
+            "name": "Severstal",
+            "industry": null
+        },
+        {
+            "name": "Novolipetsk Steel",
+            "industry": null
+        },
+        {
+            "name": "Mobile TeleSystems",
+            "industry": null
+        },
+        {
+            "name": "Magnit",
+            "industry": null
+        },
+        {
+            "name": "Evraz",
+            "industry": null
+        },
+        {
+            "name": "Rosseti",
+            "industry": null
+        },
+        {
+            "name": "Mechel PAO",
+            "industry": null
+        },
+        {
+            "name": "Cian",
+            "industry": null
+        },
+        {
+            "name": "United Heavy Machinery",
+            "industry": null
+        },
+        {
+            "name": "Rosneft",
+            "industry": null
+        },
+        {
+            "name": "Gazprom",
+            "industry": null
+        },
+        {
+            "name": "Novatek",
+            "industry": null
+        },
+        {
+            "name": "Sberbank",
+            "industry": null
+        },
+        {
+            "name": "Lukoil",
+            "industry": null
+        },
+        {
+            "name": "Nornickel",
+            "industry": null
+        },
+        {
+            "name": "Polyus",
+            "industry": null
+        },
+        {
+            "name": "Surgutneftegas",
+            "industry": null
+        },
+        {
+            "name": "PhosAgro",
+            "industry": null
+        },
+        {
+            "name": "Tatneft",
+            "industry": null
+        },
+        {
+            "name": "Severstal",
+            "industry": null
+        },
+        {
+            "name": "Novolipetsk Steel",
+            "industry": null
+        },
+        {
+            "name": "Mobile TeleSystems",
+            "industry": null
+        },
+        {
+            "name": "Magnit",
+            "industry": null
+        },
+        {
+            "name": "Evraz",
+            "industry": null
+        },
+        {
+            "name": "Rosseti",
+            "industry": null
+        },
+        {
+            "name": "Mechel PAO",
+            "industry": null
+        },
+        {
+            "name": "Cian",
+            "industry": null
+        },
+        {
+            "name": "United Heavy Machinery",
+            "industry": null
+        },
+        {
+            "name": "Rosneft",
+            "industry": null
+        },
+        {
+            "name": "Gazprom",
+            "industry": null
+        },
+        {
+            "name": "Novatek",
+            "industry": null
+        },
+        {
+            "name": "Sberbank",
+            "industry": null
+        },
+        {
+            "name": "Lukoil",
+            "industry": null
+        },
+        {
+            "name": "Nornickel",
+            "industry": null
+        },
+        {
+            "name": "Polyus",
+            "industry": null
+        },
+        {
+            "name": "Surgutneftegas",
+            "industry": null
+        },
+        {
+            "name": "PhosAgro",
+            "industry": null
+        },
+        {
+            "name": "Tatneft",
+            "industry": null
+        },
+        {
+            "name": "Severstal",
+            "industry": null
+        },
+        {
+            "name": "Novolipetsk Steel",
+            "industry": null
+        },
+        {
+            "name": "Mobile TeleSystems",
+            "industry": null
+        },
+        {
+            "name": "Magnit",
+            "industry": null
+        },
+        {
+            "name": "Evraz",
+            "industry": null
+        },
+        {
+            "name": "Rosseti",
+            "industry": null
+        },
+        {
+            "name": "Mechel PAO",
+            "industry": null
+        },
+        {
+            "name": "Cian",
+            "industry": null
+        },
+        {
+            "name": "United Heavy Machinery",
+            "industry": null
+        },
+        {
+            "name": "Rosneft",
+            "industry": null
+        },
+        {
+            "name": "Gazprom",
+            "industry": null
+        },
+        {
+            "name": "Novatek",
+            "industry": null
+        },
+        {
+            "name": "Sberbank",
+            "industry": null
+        },
+        {
+            "name": "Lukoil",
+            "industry": null
+        },
+        {
+            "name": "Nornickel",
+            "industry": null
+        },
+        {
+            "name": "Polyus",
+            "industry": null
+        },
+        {
+            "name": "Surgutneftegas",
+            "industry": null
+        },
+        {
+            "name": "PhosAgro",
+            "industry": null
+        },
+        {
+            "name": "Tatneft",
+            "industry": null
+        },
+        {
+            "name": "Severstal",
+            "industry": null
+        },
+        {
+            "name": "Novolipetsk Steel",
+            "industry": null
+        },
+        {
+            "name": "Mobile TeleSystems",
+            "industry": null
+        },
+        {
+            "name": "Magnit",
+            "industry": null
+        },
+        {
+            "name": "Evraz",
+            "industry": null
+        },
+        {
+            "name": "Rosseti",
+            "industry": null
+        },
+        {
+            "name": "Mechel PAO",
+            "industry": null
+        },
+        {
+            "name": "Cian",
+            "industry": null
+        },
+        {
+            "name": "United Heavy Machinery",
+            "industry": null
+        },
+        {
+            "name": "Rosneft",
+            "industry": null
+        },
+        {
+            "name": "Gazprom",
+            "industry": null
+        },
+        {
+            "name": "Novatek",
+            "industry": null
+        },
+        {
+            "name": "Sberbank",
+            "industry": null
+        },
+        {
+            "name": "Lukoil",
+            "industry": null
+        },
+        {
+            "name": "Nornickel",
+            "industry": null
+        },
+        {
+            "name": "Polyus",
+            "industry": null
+        },
+        {
+            "name": "Surgutneftegas",
+            "industry": null
+        },
+        {
+            "name": "PhosAgro",
+            "industry": null
+        },
+        {
+            "name": "Tatneft",
+            "industry": null
+        },
+        {
+            "name": "Severstal",
+            "industry": null
+        },
+        {
+            "name": "Novolipetsk Steel",
+            "industry": null
+        },
+        {
+            "name": "Mobile TeleSystems",
+            "industry": null
+        },
+        {
+            "name": "Magnit",
+            "industry": null
+        },
+        {
+            "name": "Evraz",
+            "industry": null
+        },
+        {
+            "name": "Rosseti",
+            "industry": null
+        },
+        {
+            "name": "Mechel PAO",
+            "industry": null
+        },
+        {
+            "name": "Cian",
+            "industry": null
+        },
+        {
+            "name": "United Heavy Machinery",
+            "industry": null
+        },
+        {
+            "name": "Rosneft",
+            "industry": null
+        },
+        {
+            "name": "Gazprom",
+            "industry": null
+        },
+        {
+            "name": "Novatek",
+            "industry": null
+        },
+        {
+            "name": "Sberbank",
+            "industry": null
+        },
+        {
+            "name": "Lukoil",
+            "industry": null
+        },
+        {
+            "name": "Nornickel",
+            "industry": null
+        },
+        {
+            "name": "Polyus",
+            "industry": null
+        },
+        {
+            "name": "Surgutneftegas",
+            "industry": null
+        },
+        {
+            "name": "PhosAgro",
+            "industry": null
+        },
+        {
+            "name": "Tatneft",
+            "industry": null
+        },
+        {
+            "name": "Severstal",
+            "industry": null
+        },
+        {
+            "name": "Novolipetsk Steel",
+            "industry": null
+        },
+        {
+            "name": "Mobile TeleSystems",
+            "industry": null
+        },
+        {
+            "name": "Magnit",
+            "industry": null
+        },
+        {
+            "name": "Evraz",
+            "industry": null
+        },
+        {
+            "name": "Rosseti",
+            "industry": null
+        },
+        {
+            "name": "Mechel PAO",
+            "industry": null
+        },
+        {
+            "name": "Cian",
+            "industry": null
+        },
+        {
+            "name": "United Heavy Machinery",
+            "industry": null
+        },
+        {
+            "name": "Rosneft",
+            "industry": null
+        },
+        {
+            "name": "Gazprom",
+            "industry": null
+        },
+        {
+            "name": "Novatek",
+            "industry": null
+        },
+        {
+            "name": "Sberbank",
+            "industry": null
+        },
+        {
+            "name": "Lukoil",
+            "industry": null
+        },
+        {
+            "name": "Nornickel",
+            "industry": null
+        },
+        {
+            "name": "Polyus",
+            "industry": null
+        },
+        {
+            "name": "Surgutneftegas",
+            "industry": null
+        },
+        {
+            "name": "PhosAgro",
+            "industry": null
+        },
+        {
+            "name": "Tatneft",
+            "industry": null
+        },
+        {
+            "name": "Severstal",
+            "industry": null
+        },
+        {
+            "name": "Novolipetsk Steel",
+            "industry": null
+        },
+        {
+            "name": "Mobile TeleSystems",
+            "industry": null
+        },
+        {
+            "name": "Magnit",
+            "industry": null
+        },
+        {
+            "name": "Evraz",
+            "industry": null
+        },
+        {
+            "name": "Rosseti",
+            "industry": null
+        },
+        {
+            "name": "Mechel PAO",
+            "industry": null
+        },
+        {
+            "name": "Cian",
+            "industry": null
+        },
+        {
+            "name": "United Heavy Machinery",
+            "industry": null
+        },
+        {
+            "name": "Rosneft",
+            "industry": null
+        },
+        {
+            "name": "Gazprom",
+            "industry": null
+        },
+        {
+            "name": "Novatek",
+            "industry": null
+        },
+        {
+            "name": "Sberbank",
+            "industry": null
+        },
+        {
+            "name": "Lukoil",
+            "industry": null
+        },
+        {
+            "name": "Nornickel",
+            "industry": null
+        },
+        {
+            "name": "Polyus",
+            "industry": null
+        },
+        {
+            "name": "Surgutneftegas",
+            "industry": null
+        },
+        {
+            "name": "PhosAgro",
+            "industry": null
+        },
+        {
+            "name": "Tatneft",
+            "industry": null
+        },
+        {
+            "name": "Severstal",
+            "industry": null
+        },
+        {
+            "name": "Novolipetsk Steel",
+            "industry": null
+        },
+        {
+            "name": "Mobile TeleSystems",
+            "industry": null
+        },
+        {
+            "name": "Magnit",
+            "industry": null
+        },
+        {
+            "name": "Evraz",
+            "industry": null
+        },
+        {
+            "name": "Rosseti",
+            "industry": null
+        },
+        {
+            "name": "Mechel PAO",
+            "industry": null
+        },
+        {
+            "name": "Cian",
+            "industry": null
+        }
+    ],
+    "people": [
+        "Viktor Chernomyrdin",
+        "Yegor Gaidar",
+        "Boris Gryzlov",
+        "Mikhail Fradkov",
+        "Sergei Kiriyenko",
+        "Sergey Lavrov",
+        "Yury Luzhkov",
+        "Valentina Matviyenko",
+        "Dmitry Medvedev",
+        "Sergei Mironov",
+        "Yevgeny Primakov",
+        "Vladimir Putin",
+        "Anatoly Sobchak",
+        "Sergei Stepashin",
+        "Boris Yeltsin",
+        "Vladimir Zhirinovsky",
+        "Gennady Zyuganov",
+        "Yuri Antonov",
+        "Sasha Argov",
+        "Dima Bilan",
+        "Polina Gagarina",
+        "Lena Katina",
+        "Eduard Khil",
+        "Philipp Kirkorov",
+        "Sergey Lazarev",
+        "Origa",
+        "Natalia O'Shea",
+        "Aleksandra Pakhmutova",
+        "Alla Pugacheva",
+        "Second Hand Band",
+        "Andrey Shibko",
+        "Regina Spektor",
+        "Valery Leontiev",
+        "Viktor Tsoi",
+        "Julia Volkova",
+        "Vladimir Vysotsky",
+        "Joe Adamov",
+        "Nikolai Fomenko",
+        "Maxim Galkin",
+        "Igor Kirillov",
+        "Mikhail Leontyev",
+        "Vladislav Listyev",
+        "Alexander Maslyakov",
+        "Yevgeny Petrosyan",
+        "Vladimir Posner",
+        "Yuri Senkevich",
+        "Margarita Simonyan",
+        "Kseniya Sobchak",
+        "Roman Trakhtenberg",
+        "Vladimir Turchinsky",
+        "Ivan Urgant",
+        "Vladimir Voroshilov",
+        "Leonid Yakubovich",
+        "Anatoly Wasserman",
+        "Mikhail Zadornov",
+        "Leonid Yakubovich",
+        "Igor Kirillov",
+        "Ivan Urgant",
+        "Anatoly Wasserman",
+        "Joe Adamov",
+        "Nikolai Fomenko",
+        "Maxim Galkin",
+        "Igor Kirillov",
+        "Mikhail Leontyev",
+        "Vladislav Listyev",
+        "Alexander Maslyakov",
+        "Yevgeny Petrosyan",
+        "Vladimir Posner",
+        "Yuri Senkevich",
+        "Margarita Simonyan",
+        "Kseniya Sobchak",
+        "Roman Trakhtenberg",
+        "Vladimir Turchinsky",
+        "Ivan Urgant",
+        "Vladimir Voroshilov",
+        "Leonid Yakubovich",
+        "Anatoly Wasserman",
+        "Mikhail Zadornov",
+        "Gennady Zyuganov",
+        "Svetlana Savitskaya",
+        "Yury Afonin",
+        "Ivan Melnikov",
+        "Vladimir Kashin",
+        "Dmitry Novikov",
+        "Nikolay Kharitonov",
+        "Nikolay Kolomeitsev",
+        "Sergey Shargunov",
+        "Vadim Kumin",
+        "Yury Sinelshchikov",
+        "Kazbek Taysaev",
+        "Alexey Kurinny",
+        "Anzhelika Glazkova",
+        "Alexander Yushchenko",
+        "Vyacheslav Markhayev",
+        "Robert Kochiev",
+        "Anatoly Bifov",
+        "Nikolay Arefiev",
+        "Boris Komotsky",
+        "Irina Filatova",
+        "Sergey Levchenko",
+        "Artem Prokofiev",
+        "Maria Drobot",
+        "Ivan Babich",
+        "Nikolay Osadchy",
+        "Alexey Kornienko",
+        "Sergey Gavrilov",
+        "Nikolay Ivanov",
+        "Roman Lyabikhov",
+        "Oleg Lebedev",
+        "Olga Alimova",
+        "Vladimir Isakov",
+        "Renat Suleymanov",
+        "Vladimir Blotsky",
+        "Mikhail Berulava",
+        "Sergey Panteleev",
+        "Georgy Kamnev",
+        "Nikolay Vasiliev",
+        "Boris Ivanyuzhenkov",
+        "Viktor Sobolev",
+        "Mikhail Avdeev",
+        "Nina Ostanina",
+        "Evgeny Bessonov",
+        "Nikolay Ezersky",
+        "Valery Rashkin",
+        "Sergei Obukhov",
+        "Denis Parfenov",
+        "United Russia",
+        "Anna Kuznetsova",
+        "Viktor Pinsky",
+        "Andrey Gurulyov",
+        "Maxim Ivanov",
+        "Galina Danchikova",
+        "Nikolai Buduyev",
+        "Maria Vasilkova",
+        "Artur Chilingarov",
+        "Sholban Kara-ool",
+        "Veronika Vlasova",
+        "Mikhail Kiselyov",
+        "Vladimir Samokish",
+        "Oleg Matveychev",
+        "Vyacheslav Petrov",
+        "Yury Petrov",
+        "Vladimir Shamanov",
+        "Alexander Zhukov",
+        "Igor Antropenko",
+        "Dmitry Kobylkin",
+        "Ernest Valeev",
+        "Olga Anufriyeva",
+        "Sergey Lisovsky",
+        "Pavel Krasheninnikov",
+        "Zhanna Ryabtseva",
+        "Sergey Bidonko",
+        "Oleg Golikov",
+        "Dmitry Vyatkin",
+        "Anton Nemkin",
+        "Rimma Utyasheva",
+        "Natalya Orlova",
+        "Vladimir Senin",
+        "Irina Pankina",
+        "Rizvan Kurbanov",
+        "Rima Batalova",
+        "Vladimir Ilinykh",
+        "Leonid Simanovsky",
+        "Vladimir Gutenev",
+        "Larisa Buranova",
+        "Maria Butina",
+        "Mikhail Kislyakov",
+        "Ayrat Farrakhov",
+        "Tatiana Larionova",
+        "Aidar Metshin",
+        "Maxim Topilin",
+        "Ruslan Gadzhiev",
+        "Yelena Yampolskaya",
+        "Irek Boguslavsky",
+        "Rustam Kalimullin",
+        "Andrey Makarov",
+        "Alena Arshinova",
+        "Roman Lyubarsky",
+        "Yury Stankevich",
+        "Sergey Morozov",
+        "Gleb Khor",
+        "Viktor Kidyayev",
+        "Vitaly Efimov",
+        "Dmitry Kadenkov",
+        "Vasily Piskaryov",
+        "Yevgeny Revenko",
+        "Igor Kastyukevich",
+        "Tamara Frolova",
+        "Aleksey Govyrin",
+        "Sergey Veremeenko",
+        "Valentina Tereshkova",
+        "Artem Turov",
+        "Nikolai Shcheglov",
+        "Nikolay Petrunin",
+        "Tatyana Dyakonova",
+        "Natalia Poluyanova",
+        "Nikita Rumyantsev",
+        "Ivan Solodovnikov",
+        "Vladimir Resin",
+        "Viktor Seliverstov",
+        "Andrey Kartapolov",
+        "Artem Metelev",
+        "Anatoly Vyborny",
+        "Yuliya Drozhzhina",
+        "Mikhail Terentiev",
+        "Bekkhan Agayev",
+        "Otari Arshba",
+        "Denis Kravchenko",
+        "Alla Polyakova",
+        "Olga Amelchenkova",
+        "Aleksandr Borisov",
+        "Elena Tsunaeva",
+        "Vyacheslav Makarov",
+        "Sergey Boyarsky",
+        "Yevgeny Fyodorov",
+        "Andrey Gorokhov",
+        "Vyacheslav Nikonov",
+        "Viktor Vodolatsky",
+        "Aleksandr Sholokhov",
+        "Alexander Borodai",
+        "Yevgeny Moskvichev",
+        "Vitaly Likhachyov",
+        "Nikolay Nikolaev",
+        "Rinat Ayupov",
+        "Natalya Kostenko",
+        "Dmitry Pirog",
+        "Nikolai Doluda",
+        "Svetlana Bessarab",
+        "Sergei Krivonosov",
+        "Alexey Tkachov",
+        "Anatoly Voronovsky",
+        "Eduard Kuznetsov",
+        "Murat Khasanov",
+        "Mikhail Sheremet",
+        "Leonid Ivlev",
+        "Dmitry Belik",
+        "Aleksey Lavrinenko",
+        "Raisa Karmazina",
+        "Vladimir Ivanov",
+        "Zaur Gekkiyev",
+        "Viktoria Rodina",
+        "Mikhail Starshinov",
+        "Nurbagand Nurgagandov",
+        "Saygidpasha Umakhanov",
+        "Khizri Abakarov",
+        "Artyom Bichayev",
+        "Biysultan Khamzaev",
+        "Bekkhan Barakhoyev",
+        "Zurab Makiev",
+        "Shamsail Saraliev",
+        "Akhmed Dogayev",
+        "Ruslan Lechkhadzhiev",
+        "Andrey Svintsov",
+        "Leonid Slutsky",
+        "Sergey Karginov",
+        "Yaroslav Nilov",
+        "Vladimir Sipyagin",
+        "Vasily Vlasov",
+        "Boris Chernyshov",
+        "Andrey Lugovoy",
+        "Dmitry Svishchev",
+        "Valery Seleznev",
+        "Kaplan Panesh",
+        "Arkady Svistunov",
+        "Stanislav Naumov",
+        "Vladimir Koshelev",
+        "Ivan Musatov",
+        "Evgeny Markov",
+        "Ivan Sukharev",
+        "Boris Paykin",
+        "Yury Napso",
+        "Sergey Mironov",
+        "Dmitry Kuznetsov",
+        "Gennady Semigin",
+        "Alexander Babakov",
+        "Alexander Terentiev",
+        "Fedot Tumusov",
+        "Timur Kanokov",
+        "Igor Ananskikh",
+        "Vadim Belousov",
+        "Dmitry Gusev",
+        "Alexey Chepa",
+        "Alexander Remezkov",
+        "Andrey Kuznetsov",
+        "Yana Lantratova",
+        "Sergey Kabyshev",
+        "Mikhail Delyagin",
+        "Oleg Nilov",
+        "Nikolay Novichkov",
+        "Nikolai Burlyayev",
+        "Yury Grigoriev",
+        "Anatoly Greshnevikov",
+        "New People",
+        "Alexey Nechayev",
+        "Sardana Avksentyeva",
+        "Vladislav Davankov",
+        "Georgy Arapov",
+        "Grigory Shilkin",
+        "Anton Tkachev",
+        "Roza Chemeris",
+        "Alexander Demin",
+        "Amir Khamitov",
+        "Vladimir Plyakin",
+        "Maksim Gulin",
+        "Ksenia Goryacheva",
+        "Sangadji Tarbaev",
+        "Vladislav Reznik",
+        "Roman Ptitsyn",
+        "Pavel Kachkayev",
+        "Rafael Mardanshin",
+        "Elvira Aitkulova",
+        "Rifat Shaykhutdinov",
+        "Zarif Baiguskarov",
+        "Dinar Gilmutdinov",
+        "Vyacheslav Damdintsurunov",
+        "Abdulkhakim Gadzhiyev",
+        "Murad Gadzhiev",
+        "Dzhamaladin Gasanov",
+        "Muslim Tatriyev",
+        "Adalbi Shkhagoshev",
+        "Badma Bashankayev",
+        "Dzhasharbek Uzdenov",
+        "Valentina Pivnenko",
+        "Oleg Mikhailov",
+        "Alexey Chernyak",
+        "Vacant",
+        "Konstantin Bakharev",
+        "Leonid Babashov",
+        "Sergey Kazankov",
+        "Yulia Ogloblina",
+        "Petr Ammosov",
+        "Artur Taymazov",
+        "Ilia Volfson",
+        "Ildar Gilmutdinov",
+        "Oleg Morozov",
+        "Alfiya Kogogina",
+        "Azat Yagafarov",
+        "Marat Nuriyev",
+        "Aidyn Saryglar",
+        "Andrey Isayev",
+        "Oleg Garin",
+        "Sergey Sokol",
+        "Adam Delimkhanov",
+        "Anatoly Aksakov",
+        "Alla Salayeva",
+        "Daniil Bessarabov",
+        "Maria Prusakova",
+        "Alexander Prokopyev",
+        "Ivan Loor",
+        "Alexander Skachkov",
+        "Yury Grigoriev",
+        "Irina Yarovaya",
+        "Yevgeny Pervyshov",
+        "Dmitry Lameykin",
+        "Ivan Demchenko",
+        "Sergey Altukhov",
+        "Konstantin Zatulin",
+        "Alexey Ezubov",
+        "Andrey Doroshenko",
+        "Dmitry Lotsmanov",
+        "Yury Shvytkin",
+        "Alexander Drozdov",
+        "Viktor Zubarev",
+        "Alexey Veller",
+        "Igor Shubin",
+        "Roman Vodyanov",
+        "Dmitry Skrivanov",
+        "Irina Ivenskikh",
+        "Aleksandr Shcherbakov",
+        "Vladimir Novikov",
+        "Victoria Nikolaeva",
+        "Mikhail Kuzmin",
+        "Olga Timofeyeva",
+        "Olga Kazakova",
+        "Yelena Bondarenko",
+        "Boris Gladkikh",
+        "Pavel Simigin",
+        "Vyacheslav Loginov",
+        "Alexander Spiridonov",
+        "Elena Vtorygina",
+        "Leonid Ogul",
+        "Valery Skrug",
+        "Andrei Skoch",
+        "Nikolai Valuev",
+        "Nikolay Alexeyenko",
+        "Igor Igoshin",
+        "Grigory Anikeyev",
+        "Alexey Volotskov",
+        "Andrey Gimbatov",
+        "Vladimir Plotnikov",
+        "Oleg Savchenko",
+        "Valentina Artamonova",
+        "Alexey Kanayev",
+        "Arkady Ponomaryov",
+        "Sergey Chizhov",
+        "Andrey Markov",
+        "Alexey Gordeyev",
+        "Viktor Smirnov",
+        "Mikhail Kizeyev",
+        "Mikhail Shchapov",
+        "Anton Krasnoshtanov",
+        "Sergey Ten",
+        "Alexander Yakubovsky",
+        "Andrey Kolesnik",
+        "Marina Orgeyeva",
+        "Olga Korobova",
+        "Gennady Sklyar",
+        "Anton Gorelkin",
+        "Dmitry Islamov",
+        "Pavel Fedyaev",
+        "Alexander Maximov",
+        "Rakhim Azimov",
+        "Oleg Valenchuk",
+        "Alexey Sitnikov",
+        "Alexander Iltyakov",
+        "Yekaterina Kharchenko",
+        "Olga Germanova",
+        "Svetlana Zhurova",
+        "Sergey Yakhnyuk",
+        "Sergey Petrov",
+        "Nikolay Bortsov",
+        "Mikhail Tarasenko",
+        "Anton Basansky",
+        "Vyacheslav Fomichyov",
+        "Irina Rodnina",
+        "Nikita Chaplin",
+        "Sergey Kolunov",
+        "Roman Teryushkov",
+        "Denis Maydanov",
+        "Gennady Panin",
+        "Viacheslav Fetisov",
+        "Sergey Pakhomov",
+        "Aleksandr Kogan",
+        "Alexander Tolmachev",
+        "Tatiana Kusayko",
+        "Anatoly Lesun",
+        "Yevgeny Lebedev",
+        "Natalia Nazarova",
+        "Vadim Bulavinov",
+        "Artyom Kavinov",
+        "Artyom Kiryanov",
+        "Oleg Ivaninsky",
+        "Dmitry Savelyev",
+        "Aleksandr Aksyonenko",
+        "Viktor Ignatov",
+        "Andrey Alekhin",
+        "Oleg Smolin",
+        "Oksana Fadina",
+        "Andrey Anikeyev",
+        "Oleg Dimov",
+        "Viktor Zavarzin",
+        "Olga Pilipenko",
+        "Igor Rudensky",
+        "Aleksandr Samokutyayev",
+        "Alexander Kozlovsky",
+        "Larisa Tutova",
+        "Anton Getta",
+        "Sergey Burlakov",
+        "Vitaly Kushnarev",
+        "Nikolay Goncharov",
+        "Yekaterina Stenyakina",
+        "Viktor Deryabkin",
+        "Andrei Krasov",
+        "Dmitry Khubezov",
+        "Alexander Khinshtein",
+        "Leonid Kalashnikov",
+        "Viktor Kazakov",
+        "Andrey Trifonov",
+        "Mikhail Matveyev",
+        "Vyacheslav Volodin",
+        "Nikolay Pankov",
+        "Andrey Vorobiev",
+        "Alexander Strelyukhin",
+        "Georgy Karlov",
+        "Andrey Alshevskikh",
+        "Lev Kovpak",
+        "Sergei Tchepikov",
+        "Konstantin Zakharov",
+        "Maxim A. Ivanov",
+        "Zelimkhan Mutsoev",
+        "Anton Shipulin",
+        "Sergey Neverov",
+        "Sergey Leonov",
+        "Alexey Zhuravlyov",
+        "Alexander Polyakov",
+        "Yulia Saranova",
+        "Vladimir Vasilyev",
+        "Alexei Didenko",
+        "Tatyana Solomatina",
+        "Viktor Dzyuba",
+        "Nadezhda Shkolkina",
+        "Nikolay Brykin",
+        "Ivan Kvitka",
+        "Vladimir Kononov",
+        "Vladislav Tretiak",
+        "Vladimir Pavlov",
+        "Vladimir Burmatov",
+        "Valery Gartung",
+        "Vitaly Bakhmetyev",
+        "Oleg Kolesnikov",
+        "Anatoly Lisitsyn",
+        "Anatoly Greshnevikov",
+        "Timofey Bazhenov",
+        "Yevgeny Popov",
+        "Galina Khovanskaya",
+        "Pyotr Tolstoy",
+        "Dmitry Pevtsov",
+        "Svetlana Razvorotneva",
+        "Dmitry Sablin",
+        "Evgeny Nifantiev",
+        "Tatiana Butskaya",
+        "Anatoly Wasserman",
+        "Alexander Mazhuga",
+        "Irina Belykh",
+        "Oleg Leonov",
+        "Alexander Rumyantsev",
+        "Roman Romanenko",
+        "Mikhail Romanov",
+        "Alexander Teterdinko",
+        "Yevgeny Marchenko",
+        "Yelena Drapeko",
+        "Nikolay Tsed",
+        "Sergey Soloviev",
+        "Oksana Dmitriyeva",
+        "Vitaly Milonov",
+        "Tatiana Lobach",
+        "Alexander Petrov",
+        "Sergey Kotkin",
+        "Pavel Zavalny",
+        "Vadim Shuvalov",
+        "Yelena Yevtyukhova",
+        "Dmitry Pogorely",
+        "Vladislav Reznik",
+        "Rodion Bukachakov",
+        "Pavel Kachkayev",
+        "Ildar Bikbayev",
+        "Zugura Rakhmatullina",
+        "Rifat Shaykhutdinov",
+        "Zarif Baiguskarov",
+        "Alexey Izotov",
+        "Aldar Damdinov",
+        "Umakhan Umakhanov",
+        "Abdulgamid Emirgamzayev",
+        "Abdulmajid Magramov",
+        "Alikhan Kharsiyev",
+        "Adalbi Shkhagoshev",
+        "Marina Mukabenova",
+        "Rasul Botashev",
+        "Valentina Pivnenko",
+        "Ivan Medvedev",
+        "Andrey Kozenko",
+        "Konstantin Bakharev",
+        "Svetlana Savchenko",
+        "Sergey Kazankov",
+        "Vitaly Efimov",
+        "Fedot Tumusov",
+        "Artur Taymazov",
+        "Fatikh Sibagatullin",
+        "Ildar Gilmutdinov",
+        "Airat Khairullin",
+        "Oleg Morozov",
+        "Alfiya Kogogina",
+        "Rinat Khayrov",
+        "Irshat Minkin",
+        "Mergen Oorzhak",
+        "Alexey Zagrebin",
+        "Valery Buzilov",
+        "Nadezhda Maximova",
+        "Adam Delimkhanov",
+        "Anatoly Aksakov",
+        "Leonid Cherkesov",
+        "Daniil Bessarabov",
+        "Viktor Zobnev",
+        "Alexander Prokopyev",
+        "Ivan Loor",
+        "Nikolay Govorin",
+        "Vasilina Kuliyeva",
+        "Konstantin Slyshchenko",
+        "Vladimir Yevlanov",
+        "Dmitry Lameykin",
+        "Ivan Demchenko",
+        "Vladimir Sinyagovsky",
+        "Konstantin Zatulin",
+        "Alexey Ezubov",
+        "Nikolay Kharitonov",
+        "Natalya Boyeva",
+        "Yury Shvytkin",
+        "Pyotr Pimashkov",
+        "Viktor Zubarev",
+        "Raisa Karmazina",
+        "Igor Shubin",
+        "Alexey Burnashov",
+        "Dmitry Skrivanov",
+        "Dmitry Sazonov",
+        "Sergey Sopchuk",
+        "Vladimir Novikov",
+        "Victoria Nikolaeva",
+        "Mikhail Kuzmin",
+        "Alexander Ishchenko",
+        "Olga Kazakova",
+        "Yelena Bondarenko",
+        "Boris Gladkikh",
+        "Sergey Furgal",
+        "Ivan Pilyaev",
+        "Ivan Abramov",
+        "Andrey Kuzmin",
+        "Dmitry Yurkov",
+        "Andrey Palkin",
+        "Leonid Ogul",
+        "Sergey Bozhenov",
+        "Andrei Skoch",
+        "Vladimir Zhutenkov",
+        "Boris Paikin",
+        "Valentina Mironova",
+        "Igor Igoshin",
+        "Grigory Anikeyev",
+        "Anna Kuvychko",
+        "Tatyana Tsybizova",
+        "Vladimir Plotnikov",
+        "Irina Guseva",
+        "Yevgeny Shulepov",
+        "Alexey Kanaev",
+        "Arkady Ponomaryov",
+        "Sergey Chizhov",
+        "Aleksey Zhuravlyov",
+        "Andrey Markov",
+        "Alexey Khokhlov",
+        "Yury Smirnov",
+        "Mikhail Shchapov",
+        "Alexey Krasnoshtanov",
+        "Sergey Ten",
+        "Andrey Chernyshev",
+        "Alexander Pyatikop",
+        "Alexey Silanov",
+        "Alexander Yaroshuk",
+        "Aleksandr Avdeyev",
+        "Gennady Sklyar",
+        "Tatyana Alexeyeva",
+        "Dmitry Islamov",
+        "Pavel Fedyaev",
+        "Alexander Maximov",
+        "Rakhim Azimov",
+        "Oleg Valenchuk",
+        "Alexey Sitnikov",
+        "Alexander Iltyakov",
+        "Tatyana Voronina",
+        "Viktor Karamyshev",
+        "Aleksey Zolotarev",
+        "Vladimir Drachev",
+        "Sergey Naryshkin",
+        "Sergey Yakhnyuk",
+        "Sergey Petrov",
+        "Nikolay Bortsov",
+        "Mikhail Tarasenko",
+        "Oxana Bondar",
+        "Maksim Surayev",
+        "Irina Rodnina",
+        "Yelena Serova",
+        "Martin Shakkum",
+        "Lidiya Antonova",
+        "Oxana Pushkina",
+        "Valentina Kabanova",
+        "Viacheslav Fetisov",
+        "Sergey Pakhomov",
+        "Yury Oleynikov",
+        "Sergey Zhigarev",
+        "Alexey Veller",
+        "Vladimir Panov",
+        "Dmitry Svatkovsky",
+        "Denis Moskvin",
+        "Natalya Nazarova",
+        "Vadim Bulavinov",
+        "Artyom Kavinov",
+        "Alexander Korovnikov",
+        "Yury Bobryshev",
+        "Andrey Kalichenko",
+        "Maxim Kudryavtsev",
+        "Aleksandr Karelin",
+        "Viktor Ignatov",
+        "Viktor Shreyder",
+        "Oleg Smolin",
+        "Andrey Golushko",
+        "Yury Mishcheryakov",
+        "Igor Sukharev",
+        "Viktor Zavarzin",
+        "Nikolay Kovalyov",
+        "Olga Pilipenko",
+        "Sergey Yesyakov",
+        "Leonid Levin",
+        "Aleksandr Samokutyayev",
+        "Alexander Kozlovsky",
+        "Larisa Tutova",
+        "Mikhail Yemelyanov",
+        "Yury Kobzev",
+        "Mikhail Chernyshyov",
+        "Alexander Sholokhov",
+        "Maxim Shchablykin",
+        "Viktor Deryabkin",
+        "Andrei Krasov",
+        "Yelena Mitina",
+        "Nadezhda Kolesnikova",
+        "Alexander Khinshtein",
+        "Vladimir Bokk",
+        "Viktor Kazakov",
+        "Yevgeny Serper",
+        "Igor Stankevich",
+        "Oleg Grishchenko",
+        "Olga Alimova",
+        "Nikolay Pankov",
+        "Mikhail Isayev",
+        "Yevgeny Primakov Jr.",
+        "Vasily Maximov",
+        "Georgy Karlov",
+        "Andrey Alshevskikh",
+        "Lev Kovpak",
+        "Sergei Tchepikov",
+        "Alexey Balyberdin",
+        "Maxim Ivanov",
+        "Zelimkhan Mutsoev",
+        "Sergey Bidonko",
+        "Anton Shipulin",
+        "Sergey Neverov",
+        "Olga Okuneva",
+        "Alexander Polyakov",
+        "Alexander Zhupikov",
+        "Svetlana Maximova",
+        "Vladimir Vasilyev",
+        "Sergey Veremeenko",
+        "Alexei Didenko",
+        "Tatyana Solomatina",
+        "Viktor Dzyuba",
+        "Vladimir Afonsky",
+        "Ernest Valeev",
+        "Ivan Kvitka",
+        "Alexey Kurinny",
+        "Vladislav Tretiak",
+        "Andrey Baryshev",
+        "Vladimir Burmatov",
+        "Anatoly Litovchenko",
+        "Vitaly Bakhmetyev",
+        "Oleg Kolesnikov",
+        "Alexander Gribov",
+        "Andrei Kovalenko",
+        "Anatoly Greshnevikov",
+        "Ivan Teterin",
+        "Vyacheslav Lysakov",
+        "Galina Khovanskaya",
+        "Pyotr Tolstoy",
+        "Denis Parfenov",
+        "Yelena Panina",
+        "Dmitry Sablin",
+        "Lyubov Dukhanina",
+        "Sergei Zheleznyak",
+        "Anton Zharkov",
+        "Gennady Onishchenko",
+        "Irina Belykh",
+        "Nikolay Gonchar",
+        "Dmitry Morozov",
+        "Anatoly Vyborny",
+        "Igor Divinsky",
+        "Sergey Vostretsov",
+        "Yevgeny Marchenko",
+        "Yelena Drapeko",
+        "Vladimir Katenev",
+        "Vladimir Bortko",
+        "Mikhail Romanov",
+        "Vitaly Milonov",
+        "Dmitry Belik",
+        "Anatoly Tikhomirov",
+        "Sergey Kotkin",
+        "Pavel Zavalny",
+        "Alexander Sidorov",
+        "Valentina Rudchenko",
+        "Grigory Ledkov",
+        "Dmitry Medvedev",
+        "Irina Yarovaya",
+        "Yury Berezutsky",
+        "Viktor Pinsky",
+        "Yegor Borisov",
+        "Galina Danchikova",
+        "Joseph Kobzon",
+        "Alexander Yakubovsky",
+        "Nikolay Nikolaev",
+        "Nikolay Buduyev",
+        "Artur Chilingarov",
+        "Larisa Shoygu",
+        "Aman Tuleyev",
+        "Natalya Kuvshinova",
+        "Irina Yevtushenko",
+        "Oleg Bykov",
+        "Ivan Belekov",
+        "Vladimir Melnik",
+        "Nikolay Gerasimenko",
+        "Yevgeny Kosyanenko",
+        "Valery Yelykomov",
+        "Alexander Fokin",
+        "Yevgeny Choinzonov",
+        "Anton Gorelkin",
+        "Alexander Zhukov",
+        "Dmitry Perminov",
+        "Vladimir Yakushev",
+        "Vladimir Pushkaryov",
+        "Anatoly Karpov",
+        "Tatyana Gogoleva",
+        "Nikolay Brykin",
+        "Andrey Vetluzhskikh",
+        "Alexander Petrov",
+        "Pavel Krasheninnikov",
+        "Yelena Yampolskaya",
+        "Vasily Shishkoyedov",
+        "Dmitry Vyatkin",
+        "Rustem Khamitov",
+        "Mikhail Bugera",
+        "Inga Yumasheva",
+        "Rafael Mardanshin",
+        "Rima Batalova",
+        "Ramzil Ishsarin",
+        "Farit Ganiyev",
+        "Igor Sapko",
+        "Andrey Isayev",
+        "Alexander Vasilenko",
+        "Rustam Minnikhanov",
+        "Irek Zinnurov",
+        "Marat Akhmetov",
+        "Olga Pavlova",
+        "Alexander Sidyakin",
+        "Boris Mendelevich",
+        "Airat Farrakhov",
+        "Valentin Chaika",
+        "Irek Boguslavsky",
+        "Murat Gadylshin",
+        "Marad Bariyev",
+        "Ravil Khusnulin",
+        "Vladimir Shamanov",
+        "Grigory Balykhin",
+        "Leonid Simanovsky",
+        "Vladimir Gutenev",
+        "Marina Bespalova",
+        "Roman Romanenko",
+        "Vyacheslav Volodin",
+        "Yevgeny Moskvichyov",
+        "Olga Batalina",
+        "Gleb Khor",
+        "Anna Kuznetsova",
+        "Tatyana Kasayeva",
+        "Tamara Frolova",
+        "Nina Chernyaeva",
+        "Ivan Firyulin",
+        "Anatoly Petrov",
+        "Alexander Nosov",
+        "Vyacheslav Nikonov",
+        "Vasily Piskaryov",
+        "Viktor Kidyaev",
+        "Alyona Arshinova",
+        "Alexander Vorobyov",
+        "Marat Safin",
+        "Nikolay Malov",
+        "Svetlana Solntseva",
+        "Sergey Chindyaskin",
+        "Olga Savastyanova",
+        "Elena Vtorygina",
+        "Svetlana Zhurova",
+        "Alexey Lyashchenko",
+        "Yevgeny Fyodorov",
+        "Alexander Vasilyev",
+        "Valentina Tereshkova",
+        "Valery Ivanov",
+        "Ilya Osipov",
+        "Nikolay Makarovets",
+        "Valentin Subbot",
+        "Nikolay Valuyev",
+        "Nikolay Lyubimov",
+        "Natalya Pilyus",
+        "Nikolay Petrunin",
+        "Artem Turov",
+        "Andrey Vorobyov",
+        "Denis Kravchenko",
+        "Vladimir Kononov",
+        "Otari Arshba",
+        "Mikhail Terentyev",
+        "Natalya Sanina",
+        "Yevgeny Savchenko",
+        "Olga Germanova",
+        "Nikolay Zemtsov",
+        "Alexander Bryksin",
+        "Valery Skrug",
+        "Alexey Gordeyev",
+        "Vladimir Bogodukhov",
+        "Andrey Makarov",
+        "Yevgeny Revenko",
+        "Gennady Kulik",
+        "Mikhail Gulevsky",
+        "Tatyana Saprykina",
+        "Vasily Golubev",
+        "Alexey Kobilev",
+        "Olga Timofeeva",
+        "Alexander Klykanov",
+        "Viktor Vodolatsky",
+        "Alexander Kaminsky",
+        "Aleksey Lavrinenko",
+        "Bator Aduchiyev",
+        "Anton Getta",
+        "Ramazan Abdulatipov",
+        "Buvaisar Saitiev",
+        "Gajimet Safaraliyev",
+        "Magomed Gadzhiyev",
+        "Zaur Askenderov",
+        "Murad Gajiyev",
+        "Yury Levitsky",
+        "Ramzan Kadyrov",
+        "Ahmed Dogayev",
+        "Magomed Selimkhanov",
+        "Shamsail Saraliyev",
+        "Yunus-bek Yevkurov",
+        "Yushaa Gazgireev",
+        "Vyacheslav Bitarov",
+        "Zurab Makiev",
+        "Yury Kokov",
+        "Irina Maryash",
+        "Zaur Gekkiyev",
+        "Rashid Temrezov",
+        "Mikhail Starshinov",
+        "Aslan Tkhakushinov",
+        "Murat Khasanov",
+        "Vladimir Beketov",
+        "Sergey Krivonosov",
+        "Natalya Kostenko",
+        "Vladimir Porkhanov",
+        "Alexey Voyevoda",
+        "Aleksandr Skorobogatko",
+        "Svetlana Bessarab",
+        "Alexey Tkachov",
+        "Alexander Metkin",
+        "Dmitry Pirog",
+        "Sergey Aksyonov",
+        "Natalya Poklonskaya",
+        "Mikhail Sheremet",
+        "Ruslan Balbek",
+        "Konstantin Bakharev",
+        "Andrey Kozenko",
+        "Dmitry Belik",
+        "Svetlana Savchenko",
+        "Sergey Sobyanin",
+        "Nikolay Antoshkin",
+        "Stanislav Govorukhin",
+        "Tatyana Krivenko",
+        "Vladimir Resin",
+        "Viktor Seliverstov",
+        "Vladimir Krupennikov",
+        "Georgy Poltavchenko",
+        "Yury Petrov",
+        "Sergey Boyarsky",
+        "Gennady Zyuganov",
+        "Svetlana Savitskaya",
+        "Yury Afonin",
+        "Zhores Alferov",
+        "Mikhail Berulava",
+        "Ivan Melnikov",
+        "Vladimir Kashin",
+        "Dmitry Novikov",
+        "Sergey Reshulsky",
+        "Rizvan Kurbanov",
+        "Vakha Agayev",
+        "Kazbek Taisayev",
+        "Nikolay Osadchy",
+        "Sergey Shargunov",
+        "Alexander Yushchenko",
+        "Viktor Goncharov",
+        "Anatoly Bifov",
+        "Nikolay Arefyev",
+        "Valentin Shurchanov",
+        "Vladimir Pozdnyakov",
+        "Yury Sinelshchikov",
+        "Alexey Kornienko",
+        "Sergey Gavrilov",
+        "Oleg Lebedev",
+        "Alexander Nekrasov",
+        "Sergey Levchenko",
+        "Alexey Ponomaryov",
+        "Nikolay Ivanov",
+        "Pavel Dorokhin",
+        "Sergey Panteleev",
+        "Tamara Pletnyova",
+        "Nikolay Vasiliev",
+        "Aleksey Russkikh",
+        "Mikhail Avdeyev",
+        "Alexander Tarnayev",
+        "Vladimir Blotsky",
+        "Anatoly Lokot",
+        "Vera Ganzya",
+        "Alexander Kravets",
+        "Leonid Kalashnikov",
+        "Nikolay Kolomeitsev",
+        "Nikolay Ezersky",
+        "Valery Rashkin",
+        "Vladimir Zhirinovsky",
+        "Igor Lebedev",
+        "Leonid Slutsky",
+        "Yaroslav Nilov",
+        "Mikhail Degtyarev",
+        "Alexander Kurdyumov",
+        "Dmitry Svishev",
+        "Sergey Karginov",
+        "Vasily Tarasyuk",
+        "Andrey Andreychenko",
+        "Ivan Sukharev",
+        "Pavel Shperov",
+        "Valery Seleznev",
+        "Yury Volkov",
+        "Andrey Lugovoy",
+        "Yury Napso",
+        "Sergey Natarov",
+        "Alexander Starovoitov",
+        "Vadim Dengin",
+        "Kirill Cherkasov",
+        "Yelena Strokova",
+        "Andrey Svintsov",
+        "Anton Morozov",
+        "Dmitry Savelyev",
+        "Sergey Katasonov",
+        "Sergey Ivanov",
+        "Alexander Sherin",
+        "Igor Toroshchin",
+        "Danil Shilkov",
+        "Maxim Zaytsev",
+        "Sergey Marinin",
+        "Vitaly Pashin",
+        "Boris Chernyshov",
+        "Vasily Vlasov",
+        "Oleg Lavrov",
+        "Vladimir Sysoyev",
+        "Evgeny Markov",
+        "Sergey Mironov",
+        "Alexander Terentiev",
+        "Gajimurad Omarov",
+        "Valery Gazzayev",
+        "Oleg Shein",
+        "Igor Anaskikh",
+        "Olga Yepifanova",
+        "Oleg Nikolayev",
+        "Igor Molyakov",
+        "Sergey Doronin",
+        "Vadim Belousov",
+        "Alexey Chepa",
+        "Sergey Kryuchek",
+        "Nikolay Ryzhak",
+        "Alexander Remezkov",
+        "Alexander Burkov",
+        "Dmitry Ionin",
+        "Valery Gartung",
+        "Oleg Nilov",
+        "Aleksandr Narolin",
+        "Vladimir Poletayev",
+        "Liliya Gumerova",
+        "Vyacheslav Nagovitsyn",
+        "Suleiman Geremeyev",
+        "Nikolay Fyodorov",
+        "Olga Kovitidi",
+        "Nataliya Nikonorova",
+        "Ilyas Umakhanov",
+        "Mukharbek Barakhoyev",
+        "Arsen Kanokov",
+        "Aleksey Orlov",
+        "Krym Kazanokov",
+        "Vladimir Chizhov",
+        "Valery Usatyuk",
+        "Olga Yepifanova",
+        "Darya Lantratova",
+        "Konstantin Kosachev",
+        "Sergei Kislyak",
+        "Taimuraz Mamsurov",
+        "Lenar Safin",
+        "Lyudmila Narusova",
+        "Lyubov Glebova",
+        "Yegor Borisov",
+        "Alexander Karlin",
+        "Boris Nevzorov",
+        "Andrey Bazilevsky",
+        "Aleksey Kondratenko",
+        "Andrey Klishas",
+        "Andrei Klimov",
+        "Svetlana Goryacheva",
+        "Mikhail Afanasov",
+        "Bair Zhamsuyev",
+        "Ivan Abramov",
+        "Aleksandr Nekrasov",
+        "Aleksandr Bashkin",
+        "Nikolai Ryzhkov",
+        "Vadim Dengin",
+        "Margarita Pavlova",
+        "Andrey Chernyshyov",
+        "Valery Vasilyev",
+        "Aleksandr Zhidkov",
+        "Anatoly Artamonov",
+        "Aleksei Sinitsyn",
+        "Konstantin Basyuk",
+        "Viktor Bondarev",
+        "Nikolai Zhuravlyov",
+        "Yelena Perminova",
+        "Grigory Rapota",
+        "Sergey Perminov",
+        "Oksana Khlyakina",
+        "Anatoly Shirokov",
+        "Olga Zabralova",
+        "Konstantin Dolgov",
+        "Vladimir Lebedev",
+        "Sergey Mitin",
+        "Vladimir Gorodetsky",
+        "Yelena Mizulina",
+        "Yelena Afanasyeva",
+        "Vladimir Krugly",
+        "Nikolay Kondratyuk",
+        "Yelena Bibikova",
+        "Andrey Yatskin",
+        "Irina Petina",
+        "Grigory Karasin",
+        "Farid Mukhametshin",
+        "Andrey Denisov",
+        "Nina Kulikovskikh",
+        "Viktor Sheptiy",
+        "Mikhail Belousov",
+        "Viktor Kress",
+        "Dmitry Savelyev",
+        "Lyudmila Skakovskaya",
+        "Pavel Tarakanov",
+        "Ayrat Gibatdinov",
+        "Andrey Shokhin",
+        "Nikolai Semisotov",
+        "Yelena Avdeyeva",
+        "Galina Karelova",
+        "Aleksandr Rusakov",
+        "Dmitry Vorona",
+        "Anna Otke",
+        "Eduard Isakov",
+        "Denis Gusev",
+        "Yelena Zlenko",
+        "Vladimir Kozhin",
+        "Valentina Matviyenko",
+        "Yekaterina Altabayeva",
+        "Vladimir Putin",
+        "Alexander Aleksandrovich Vedyakhin",
+        "Andrey Sergeyevich Puchkov",
+        "Yuriy Alekseyevich Soloviev",
+        "Igor Sechin",
+        "Andrey Patrushev",
+        "Sergei Sergeevich Ivanov",
+        "Kirill Shamalov",
+        "Yury Slyusar",
+        "Petr Fradkov",
+        "Gennady Timchenko",
+        "Boris Berezovsky",
+        "Mikhail Fridman",
+        "Vladimir Gusinsky",
+        "Mikhail Khodorkovsky",
+        "Vladimir Potanin",
+        "Alexander Smolensky",
+        "Pyotr Aven",
+        "Vladimir Vinogradov",
+        "Vitaly Malkin",
+        "Aleksandr Abramov",
+        "Dashin Valerii",
+        "Buga Elena",
+        "Farkhad Akhmedov",
+        "Vagit Alekperov",
+        "Igor Altushkin",
+        "Aleksey Ananyev",
+        "Dmitriy Ananyev",
+        "Vasily Anisimov",
+        "Roman Avdeyev",
+        "Petr Aven",
+        "Yelena Baturina",
+        "Aleksey Bogachev",
+        "Vladimir Bogdanov",
+        "Leonid Boguslavskiy",
+        "Andrey Bokarev",
+        "Oleg Boyko",
+        "Nikolay Buynov",
+        "Oleg Deripaska",
+        "Aleksandr Dzhaparidze",
+        "Leonid Fedun",
+        "Gleb Fetisov",
+        "Mikhail Fridman",
+        "Aleksandr Frolov",
+        "Filaret Galchev",
+        "Sergey Galitskiy",
+        "Valentin Gapontsev",
+        "Sergey Gordeyev",
+        "Andrey Guryev",
+        "Yuriy Gushchin",
+        "Mikhail Gutseriyev",
+        "Sait-Salam Gutseriyev",
+        "Zarakh Iliyev",
+        "Dmitriy Kamenshchik",
+        "Vyacheslav Kantor",
+        "Samvel Karapetyan",
+        "Yevgeniy Kasperskiy",
+        "Sergey Katsiyev",
+        "Suleyman Kerimov",
+        "Igor Kesayev",
+        "Danil Khachaturov",
+        "German Khan",
+        "Viktor Kharitonin",
+        "Aleksandr Klyachin",
+        "Petr Kondrashev",
+        "Andrey Kosogov",
+        "Yuriy Kovalchuk",
+        "Andrey Kozitsyn",
+        "Aleksey Kuzmichev",
+        "Lev Kvetnoy",
+        "Vladimir Lisin",
+        "Anatoliy Lomakin",
+        "Ziyavudin Magomedov",
+        "Igor Makarov",
+        "Iskander Makhmudov",
+        "Aleksandr Mamut",
+        "Andrey Melnichenko",
+        "Leonid Mikhelson",
+        "Yuriy Milner",
+        "Boris Mints",
+        "Andrey Molchanov",
+        "Aleksey Mordashov",
+        "Vadim Moshkovich",
+        "Aleksandr Nesis",
+        "God Nisanov",
+        "Aleksandr Ponomarenko",
+        "Sergey Popov",
+        "Vladimir Potanin",
+        "Mikhail Prokhorov",
+        "Dmitry Pumpyansky",
+        "Megdet Rakhimkulov",
+        "Andrey Rappoport",
+        "Viktor Rashnikov",
+        "Arkadiy Rotenberg",
+        "Boris Rotenberg",
+        "Dmitry Rybolovlev",
+        "Ayrat Shaymiyev",
+        "Radik Shaymiyev",
+        "Kirill Shamalov",
+        "Yuriy Shefler",
+        "Albert Shigabutdinov",
+        "Mikhail Shishkhanov",
+        "Leonid Simanovskiy",
+        "Andrey Skoch",
+        "Aleksandr Skorobogatko",
+        "Rustem Suiteyev",
+        "Aleksandr Svetakov",
+        "Gennadiy Timchenko",
+        "Oleg Tinkov",
+        "Roman Trotsenko",
+        "Alisher Usmanov",
+        "Viktor Vekselberg",
+        "Arkadiy Volozh",
+        "Vadim Yakunin",
+        "Vladimir Yevtushenkov",
+        "Gavril Yushvayev",
+        "Vladimir Lisin",
+        "Vladimir Potanin",
+        "Pavel Durov",
+        "Leonid Mikhelson",
+        "Alexei Mordashov",
+        "Mikhail Fridman",
+        "Alisher Usmanov",
+        "Gennady Timchenko",
+        "Andrey Melnichenko",
+        "Vagit Alekperov",
+        "Mikhail Prokhorov",
+        "German Khan",
+        "Roman Abramovich",
+        "Viktor Rashnikov",
+        "Dmitry Rybolovlev",
+        "Alexey Kuzmichev",
+        "Alexander Abramov",
+        "Viktor Vekselberg",
+        "Leonid Fedun",
+        "Andrey Guryev",
+        "Andrei Skoch",
+        "Viatcheslav Moshe Kantor",
+        "Suleyman Kerimov",
+        "Petr Aven",
+        "Sergey Dmitriev",
+        "Iskander Makhmudov",
+        "Sergey Galitsky",
+        "Sergei Popov",
+        "Valentin Kipyatkov",
+        "Igor Kesaev",
+        "Aleksandr Frolov",
+        "Alexander Svetakov",
+        "Tatyana Bakalchuk",
+        "Igor Makarov",
+        "Alexander Mamut",
+        "Egor Kulkov",
+        "Aleksandr Skorobogatko",
+        "Andrei Kozitsyn",
+        "Alexander Nesis",
+        "Alexander Ponomarenko",
+        "Igor Altushkin",
+        "Farkhad Akhmedov",
+        "Oleg Deripaska",
+        "Dmitry Kamenshchik",
+        "Arkady Rotenberg",
+        "Vladimir Yevtushenkov",
+        "Vasily Anisimov",
+        "Sergei Gordeev",
+        "Ivan Savvidis",
+        "Nikolai Buinov",
+        "Pyotr Kondrashev",
+        "Yuri Shefler",
+        "Mikhail Shelkov",
+        "Yelena Baturina",
+        "Viktor Kharitonin",
+        "Anatoly Lomakin",
+        "Vadim Moshkovich",
+        "Alexey Repik",
+        "Denis Sverdlov",
+        "Gavril Yushvaev",
+        "Oleg Boyko",
+        "Mikhail Gutseriev",
+        "Zarakh Iliev",
+        "Yury Kovalchuk",
+        "God Nisanov",
+        "Albert Shigaboutdinov",
+        "Ruben Vardanyan",
+        "Andrei Bokarev",
+        "Gleb Fetisov",
+        "Andrei Kosogov",
+        "Megdet Rahimkulov",
+        "Andrei Rappoport",
+        "Airat Shaimiev",
+        "Radik Shaimiev",
+        "Samvel Karapetyan",
+        "Sergei Kolesnikov",
+        "Andrei Komarov",
+        "Igor Rybakov",
+        "Igor Yusufov",
+        "Eugene Kaspersky",
+        "Boris Rotenberg",
+        "Sergey Shoygu",
+        "Alexander Bortnikov",
+        "Dmitry Bulgakov",
+        "Valery Gerasimov",
+        "Vladimir Kulishov",
+        "Viktor Zolotov",
+        "Pavel Popov",
+        "Oleg Salyukov",
+        "Aleksandr Dvornikov",
+        "Dmitry Kochnev",
+        "Sergei Korolev",
+        "Sergey Surovikin",
+        "Mikhail Mishustin",
+        "Andrey Belousov",
+        "Viktoria Abramchenko",
+        "Dmitry Grigorenko",
+        "Marat Khusnullin",
+        "Alexey Overchuk",
+        "Alexander Novak",
+        "Denis Manturov",
+        "Yury Trutnev",
+        "Tatyana Golikova",
+        "Dmitry Chernyshenko",
+        "Dmitry Patrushev",
+        "Maxut Shadayev",
+        "Irek Faizullin",
+        "Olga Lyubimova",
+        "Sergei Shoigu",
+        "Aleksey Chekunkov",
+        "Maxim Reshetnikov",
+        "Sergey Kravtsov",
+        "Aleksandr Kurenkov",
+        "Nikolay Shulginov",
+        "Anton Siluanov",
+        "Sergey Lavrov",
+        "Mikhail Murashko",
+        "Denis Manturov",
+        "Vladimir Kolokoltsev ",
+        "Konstantin Chuychenko",
+        "Anton Kotyakov",
+        "Alexander Kozlov",
+        "Valery Falkov",
+        "Oleg Matytsin",
+        "Vitaly Saveliev",
+        "Vladimir Putin",
+        "Dmitry Medvedev",
+        "Nikolai Patrushev",
+        "Mikhail Mishustin",
+        "Anton Vaino",
+        "Sergei Ivanov",
+        "Valentina Matviyenko",
+        "Vyacheslav Volodin",
+        "Sergei Shoigu",
+        "Sergei Lavrov",
+        "Vladimir Kolokoltsev",
+        "Aleksandr Bortnikov",
+        "Sergei Naryshkin",
+        "Aleksandr Kurenkov",
+        "Konstantin Chuichenko",
+        "Anton Siluanov",
+        "Valery Gerasimov",
+        "Viktor Zolotov",
+        "Vladimir Bulavin",
+        "Igor Krasnov",
+        "Sergei Sobyanin",
+        "Aleksandr Beglov",
+        "Igor Shchyogolev",
+        "Aleksandr Gutsan",
+        "Vladimir Ustinov",
+        "Yury Chaika",
+        "Igor Komarov",
+        "Vladimir Yakushev",
+        "Anatoly Seryshev",
+        "Yury Trutnev",
+        "Rashid Nurgaliyev",
+        "Dmitry Medvedev",
+        "Yury Skokov",
+        "Yevgeny Shaposhnikov",
+        "Oleg Lobov",
+        "Aleksandr Lebed",
+        "Ivan Rybkin",
+        "Andrei Kokoshin",
+        "Nikolai Bordyuzha",
+        "Vladimir Putin",
+        "Sergei Ivanov",
+        "Vladimir Rushailo",
+        "Igor Ivanov",
+        "Valentin Sobolev",
+        "Nikolai Patrushev",
+        "Mikhail Mityukov",
+        "Vyacheslav Mikhailov",
+        "Vladislav Sherstyuk",
+        "Mikhail Fradkov",
+        "Nikolai Solovyov",
+        "Vladimir Bulavin",
+        "Yury Averyanov",
+        "Vladislav Nasinovsky",
+        "Yury Nazarkin",
+        "Vladimir Rubanov",
+        "Aleksandr Troshin",
+        "Valery Manilov",
+        "Vladimir Denisov",
+        "Sergei Kharlamov",
+        "Nikolai Mikhailov",
+        "Boris Berezovsky",
+        "Leonid Mayorov",
+        "Yury Deryabin",
+        "Boris Agapov",
+        "Aleksandr Ageyenkov",
+        "Vladimir Potapov",
+        "Grigory Rapota",
+        "Aleksei Molyakov",
+        "Aleksei Moskovsky",
+        "Viktor Melnikov",
+        "Oleg Chernov",
+        "Aleksei Ogaryov",
+        "Vladimir Vasilyev",
+        "Valentin Sobolev",
+        "Vyacheslav Soltaganov",
+        "Nikolai Solovyov",
+        "Valentin Stepankov",
+        "Yevgeny Nazdratenko",
+        "Yury Zubakov",
+        "Nikolai Spassky",
+        "Vladimir Nazarov",
+        "Yury Baluyevsky",
+        "Nikolai Klimashin",
+        "Yury Averyanov",
+        "Yevgeny Lukyanov",
+        "Sergei Buravlyov",
+        "Rashid Nurgaliyev",
+        "Mikhail Popov",
+        "Sergei Vakhrukov",
+        "Aleksandr Grebenkin",
+        "Oleg Khramov",
+        "Yury Kokov",
+        "Aleksandr Venediktov",
+        "Anatoly Krivolapov",
+        "Vladislav Sherstyuk",
+        "Vladimir Nazarov",
+        "Yury Averyanov",
+        "Vladimir Zavershinsky",
+        "Nikolai Klimashin",
+        "Yevgeny Lukyanov",
+        "Mikhail Popov",
+        "Aleksandr Grebenkin",
+        "Ilya Shinkaryov",
+        "Sergei Vakhrukov",
+        "Aleksandr Venediktov",
+        "Aleksandr Abelin",
+        "Aleksei Pavlov",
+        "Nail Mukhitov",
+        "Oleg Osipov",
+        "Sergei Sobolev",
+        "Mikhail Trinoga",
+        "Dmitry Tsvetkov",
+        "Aleksei Zaklyazminsky",
+        "Sergei Chebotaryov"
+    ]
+}

@@ -11,5 +11,15 @@
             "opinion",
             "tech"
         ]
+    },
+    "browser": {
+        "check_drivers": true,
+        "start_immediately": false
+    },
+    "telegram": {
+        "api_id": "28939291",
+        "api_hash": "ecf0450add142bfd581f537cde42a853",
+        "phone_number": "15615963611",
+        "start_immediately": true
     }
 }

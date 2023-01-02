@@ -1,0 +1,5402 @@
+[
+    {
+        "name": "Reliance Industries",
+        "code": "RELIANCE.NS",
+        "country": "India",
+        "rank": 1
+    },
+    {
+        "name": "Tata Consultancy Services",
+        "code": "TCS.NS",
+        "country": "India",
+        "rank": 2
+    },
+    {
+        "name": "HDFC Bank",
+        "code": "HDB",
+        "country": "India",
+        "rank": 3
+    },
+    {
+        "name": "ICICI Bank",
+        "code": "IBN",
+        "country": "India",
+        "rank": 4
+    },
+    {
+        "name": "Infosys",
+        "code": "INFY",
+        "country": "India",
+        "rank": 5
+    },
+    {
+        "name": "Hindustan Unilever",
+        "code": "HINDUNILVR.NS",
+        "country": "India",
+        "rank": 6
+    },
+    {
+        "name": "State Bank of India",
+        "code": "SBIN.NS",
+        "country": "India",
+        "rank": 7
+    },
+    {
+        "name": "Housing Development Finance Corporation",
+        "code": "HDFC.NS",
+        "country": "India",
+        "rank": 8
+    },
+    {
+        "name": "Bharti Airtel",
+        "code": "BHARTIARTL.NS",
+        "country": "India",
+        "rank": 9
+    },
+    {
+        "name": "Life Insurance Corporation of India (LIC)",
+        "code": "LICI.NS",
+        "country": "India",
+        "rank": 10
+    },
+    {
+        "name": "Adani Enterprises",
+        "code": "ADANIENT.NS",
+        "country": "India",
+        "rank": 11
+    },
+    {
+        "name": "ITC",
+        "code": "ITC.NS",
+        "country": "India",
+        "rank": 12
+    },
+    {
+        "name": "Bajaj Finance",
+        "code": "BAJFINANCE.NS",
+        "country": "India",
+        "rank": 13
+    },
+    {
+        "name": "Adani Total Gas",
+        "code": "ATGL.NS",
+        "country": "India",
+        "rank": 14
+    },
+    {
+        "name": "Kotak Mahindra Bank",
+        "code": "KOTAKBANK.NS",
+        "country": "India",
+        "rank": 15
+    },
+    {
+        "name": "Adani Green Energy",
+        "code": "ADANIGREEN.NS",
+        "country": "India",
+        "rank": 16
+    },
+    {
+        "name": "Larsen & Toubro",
+        "code": "LT.NS",
+        "country": "India",
+        "rank": 17
+    },
+    {
+        "name": "Asian Paints",
+        "code": "ASIANPAINT.NS",
+        "country": "India",
+        "rank": 18
+    },
+    {
+        "name": "Axis Bank",
+        "code": "AXISBANK.BO",
+        "country": "India",
+        "rank": 19
+    },
+    {
+        "name": "Adani Transmission",
+        "code": "ADANITRANS.NS",
+        "country": "India",
+        "rank": 20
+    },
+    {
+        "name": "HCL Technologies",
+        "code": "HCLTECH.NS",
+        "country": "India",
+        "rank": 21
+    },
+    {
+        "name": "DMart",
+        "code": "DMART.NS",
+        "country": "India",
+        "rank": 22
+    },
+    {
+        "name": "Maruti Suzuki India",
+        "code": "MARUTI.NS",
+        "country": "India",
+        "rank": 23
+    },
+    {
+        "name": "Bajaj Finserv",
+        "code": "BAJAJFINSV.NS",
+        "country": "India",
+        "rank": 24
+    },
+    {
+        "name": "Sun Pharmaceutical",
+        "code": "SUNPHARMA.NS",
+        "country": "India",
+        "rank": 25
+    },
+    {
+        "name": "Titan Company",
+        "code": "TITAN.NS",
+        "country": "India",
+        "rank": 26
+    },
+    {
+        "name": "Wipro",
+        "code": "WIT",
+        "country": "India",
+        "rank": 27
+    },
+    {
+        "name": "UltraTech Cement",
+        "code": "ULTRACEMCO.NS",
+        "country": "India",
+        "rank": 28
+    },
+    {
+        "name": "Oil & Natural Gas",
+        "code": "ONGC.NS",
+        "country": "India",
+        "rank": 29
+    },
+    {
+        "name": "Nestl\u00e9 India",
+        "code": "NESTLEIND.NS",
+        "country": "India",
+        "rank": 30
+    },
+    {
+        "name": "JSW Steel",
+        "code": "JSWSTEEL.NS",
+        "country": "India",
+        "rank": 31
+    },
+    {
+        "name": "Adani Ports & SEZ",
+        "code": "ADANIPORTS.NS",
+        "country": "India",
+        "rank": 32
+    },
+    {
+        "name": "NTPC Limited",
+        "code": "NTPC.NS",
+        "country": "India",
+        "rank": 33
+    },
+    {
+        "name": "Mahindra & Mahindra",
+        "code": "M&M.NS",
+        "country": "India",
+        "rank": 34
+    },
+    {
+        "name": "Powergrid Corporation of India",
+        "code": "POWERGRID.NS",
+        "country": "India",
+        "rank": 35
+    },
+    {
+        "name": "Tata Motors",
+        "code": "TTM",
+        "country": "India",
+        "rank": 36
+    },
+    {
+        "name": "Tata Steel",
+        "code": "TATASTEEL.NS",
+        "country": "India",
+        "rank": 37
+    },
+    {
+        "name": "Coal India",
+        "code": "COALINDIA.NS",
+        "country": "India",
+        "rank": 38
+    },
+    {
+        "name": "Hindustan Zinc",
+        "code": "HINDZINC.NS",
+        "country": "India",
+        "rank": 39
+    },
+    {
+        "name": "Pidilite",
+        "code": "PIDILITIND.NS",
+        "country": "India",
+        "rank": 40
+    },
+    {
+        "name": "SBI Life Insurance",
+        "code": "SBILIFE.NS",
+        "country": "India",
+        "rank": 41
+    },
+    {
+        "name": "HDFC Life",
+        "code": "HDFCLIFE.NS",
+        "country": "India",
+        "rank": 42
+    },
+    {
+        "name": "Vedanta",
+        "code": "VEDL.NS",
+        "country": "India",
+        "rank": 43
+    },
+    {
+        "name": "Adani Power",
+        "code": "ADANIPOWER.NS",
+        "country": "India",
+        "rank": 44
+    },
+    {
+        "name": "Grasim Industries",
+        "code": "GRASIM.NS",
+        "country": "India",
+        "rank": 45
+    },
+    {
+        "name": "Indian Oil",
+        "code": "IOC.NS",
+        "country": "India",
+        "rank": 46
+    },
+    {
+        "name": "Hindalco Industries",
+        "code": "HINDALCO.NS",
+        "country": "India",
+        "rank": 47
+    },
+    {
+        "name": "Ambuja Cements",
+        "code": "AMBUJACEM.NS",
+        "country": "India",
+        "rank": 48
+    },
+    {
+        "name": "Britannia Industries",
+        "code": "BRITANNIA.NS",
+        "country": "India",
+        "rank": 49
+    },
+    {
+        "name": "Bajaj Auto",
+        "code": "BAJAJ-AUTO.NS",
+        "country": "India",
+        "rank": 50
+    },
+    {
+        "name": "Siemens India",
+        "code": "SIEMENS.NS",
+        "country": "India",
+        "rank": 51
+    },
+    {
+        "name": "Dabur",
+        "code": "DABUR.NS",
+        "country": "India",
+        "rank": 52
+    },
+    {
+        "name": "Tech Mahindra",
+        "code": "TECHM.NS",
+        "country": "India",
+        "rank": 53
+    },
+    {
+        "name": "Bank of Baroda",
+        "code": "BANKBARODA.NS",
+        "country": "India",
+        "rank": 54
+    },
+    {
+        "name": "IndusInd Bank",
+        "code": "INDUSINDBK.NS",
+        "country": "India",
+        "rank": 55
+    },
+    {
+        "name": "DLF",
+        "code": "DLF.NS",
+        "country": "India",
+        "rank": 56
+    },
+    {
+        "name": "Godrej",
+        "code": "GODREJCP.NS",
+        "country": "India",
+        "rank": 57
+    },
+    {
+        "name": "Divis Laboratories",
+        "code": "DIVISLAB.NS",
+        "country": "India",
+        "rank": 58
+    },
+    {
+        "name": "Larsen & Toubro Infotech",
+        "code": "LTI.BO",
+        "country": "India",
+        "rank": 59
+    },
+    {
+        "name": "Eicher Motors",
+        "code": "EICHERMOT.NS",
+        "country": "India",
+        "rank": 60
+    },
+    {
+        "name": "JSW Energy",
+        "code": "JSWENERGY.NS",
+        "country": "India",
+        "rank": 61
+    },
+    {
+        "name": "Cipla",
+        "code": "CIPLA.NS",
+        "country": "India",
+        "rank": 62
+    },
+    {
+        "name": "Varun Beverages",
+        "code": "VBL.NS",
+        "country": "India",
+        "rank": 63
+    },
+    {
+        "name": "Hindustan Aeronautics",
+        "code": "HAL.NS",
+        "country": "India",
+        "rank": 64
+    },
+    {
+        "name": "Shree Cement",
+        "code": "SHREECEM.NS",
+        "country": "India",
+        "rank": 65
+    },
+    {
+        "name": "InterGlobe Aviation",
+        "code": "INDIGO.NS",
+        "country": "India",
+        "rank": 66
+    },
+    {
+        "name": "Adani Wilmar",
+        "code": "AWL.NS",
+        "country": "India",
+        "rank": 67
+    },
+    {
+        "name": "SBI Card",
+        "code": "SBICARD.NS",
+        "country": "India",
+        "rank": 68
+    },
+    {
+        "name": "Bharat Electronics",
+        "code": "BEL.NS",
+        "country": "India",
+        "rank": 69
+    },
+    {
+        "name": "Bharat Petroleum",
+        "code": "BPCL.NS",
+        "country": "India",
+        "rank": 70
+    },
+    {
+        "name": "Dr. Reddy's",
+        "code": "RDY",
+        "country": "India",
+        "rank": 71
+    },
+    {
+        "name": "Tata Consumer Products",
+        "code": "TATACONSUM.NS",
+        "country": "India",
+        "rank": 72
+    },
+    {
+        "name": "Havells India",
+        "code": "HAVELLS.NS",
+        "country": "India",
+        "rank": 73
+    },
+    {
+        "name": "SRF Limited",
+        "code": "SRF.NS",
+        "country": "India",
+        "rank": 74
+    },
+    {
+        "name": "Tata Power",
+        "code": "TATAPOWER.NS",
+        "country": "India",
+        "rank": 75
+    },
+    {
+        "name": "Marico",
+        "code": "MARICO.NS",
+        "country": "India",
+        "rank": 76
+    },
+    {
+        "name": "ICICI Prulife",
+        "code": "ICICIPRULI.NS",
+        "country": "India",
+        "rank": 77
+    },
+    {
+        "name": "Apollo Hospitals",
+        "code": "APOLLOHOSP.NS",
+        "country": "India",
+        "rank": 78
+    },
+    {
+        "name": "GAIL",
+        "code": "GAIL.NS",
+        "country": "India",
+        "rank": 79
+    },
+    {
+        "name": "Punjab National Bank",
+        "code": "PNB.NS",
+        "country": "India",
+        "rank": 80
+    },
+    {
+        "name": "Yes Bank",
+        "code": "YESBANK.NS",
+        "country": "India",
+        "rank": 81
+    },
+    {
+        "name": "Bajaj Holdings & Investment",
+        "code": "BAJAJHLDNG.NS",
+        "country": "India",
+        "rank": 82
+    },
+    {
+        "name": "United Spirits",
+        "code": "UNITDSPR.BO",
+        "country": "India",
+        "rank": 83
+    },
+    {
+        "name": "ICICI Lombard",
+        "code": "ICICIGI.NS",
+        "country": "India",
+        "rank": 84
+    },
+    {
+        "name": "Canara Bank",
+        "code": "CANBK.NS",
+        "country": "India",
+        "rank": 85
+    },
+    {
+        "name": "Jindal Steel & Power",
+        "code": "JINDALSTEL.NS",
+        "country": "India",
+        "rank": 86
+    },
+    {
+        "name": "Indian Overseas Bank",
+        "code": "IOB.NS",
+        "country": "India",
+        "rank": 87
+    },
+    {
+        "name": "Cholamandalam Investment and Finance",
+        "code": "CHOLAFIN.NS",
+        "country": "India",
+        "rank": 88
+    },
+    {
+        "name": "IDBI Bank",
+        "code": "IDBI.NS",
+        "country": "India",
+        "rank": 89
+    },
+    {
+        "name": "ABB India",
+        "code": "ABB.NS",
+        "country": "India",
+        "rank": 90
+    },
+    {
+        "name": "Mindtree",
+        "code": "MINDTREE.NS",
+        "country": "India",
+        "rank": 91
+    },
+    {
+        "name": "Berger Paints",
+        "code": "BERGEPAINT.NS",
+        "country": "India",
+        "rank": 92
+    },
+    {
+        "name": "Union Bank of India",
+        "code": "UNIONBANK.NS",
+        "country": "India",
+        "rank": 93
+    },
+    {
+        "name": "Hero MotoCorp",
+        "code": "HEROMOTOCO.NS",
+        "country": "India",
+        "rank": 94
+    },
+    {
+        "name": "UPL",
+        "code": "UPL.NS",
+        "country": "India",
+        "rank": 95
+    },
+    {
+        "name": "Tube Investments of India",
+        "code": "TIINDIA.NS",
+        "country": "India",
+        "rank": 96
+    },
+    {
+        "name": "Lodha Group",
+        "code": "LODHA.NS",
+        "country": "India",
+        "rank": 97
+    },
+    {
+        "name": "Torrent Pharmaceuticals",
+        "code": "TORNTPHARM.NS",
+        "country": "India",
+        "rank": 98
+    },
+    {
+        "name": "PI Industries",
+        "code": "PIIND.NS",
+        "country": "India",
+        "rank": 99
+    },
+    {
+        "name": "Zomato",
+        "code": "ZOMATO.NS",
+        "country": "India",
+        "rank": 100
+    },
+    {
+        "name": "Reliance Industries",
+        "code": "RELIANCE.NS",
+        "country": "India",
+        "rank": 101
+    },
+    {
+        "name": "Tata Consultancy Services",
+        "code": "TCS.NS",
+        "country": "India",
+        "rank": 102
+    },
+    {
+        "name": "HDFC Bank",
+        "code": "HDB",
+        "country": "India",
+        "rank": 103
+    },
+    {
+        "name": "ICICI Bank",
+        "code": "IBN",
+        "country": "India",
+        "rank": 104
+    },
+    {
+        "name": "Infosys",
+        "code": "INFY",
+        "country": "India",
+        "rank": 105
+    },
+    {
+        "name": "Hindustan Unilever",
+        "code": "HINDUNILVR.NS",
+        "country": "India",
+        "rank": 106
+    },
+    {
+        "name": "State Bank of India",
+        "code": "SBIN.NS",
+        "country": "India",
+        "rank": 107
+    },
+    {
+        "name": "Housing Development Finance Corporation",
+        "code": "HDFC.NS",
+        "country": "India",
+        "rank": 108
+    },
+    {
+        "name": "Bharti Airtel",
+        "code": "BHARTIARTL.NS",
+        "country": "India",
+        "rank": 109
+    },
+    {
+        "name": "Life Insurance Corporation of India (LIC)",
+        "code": "LICI.NS",
+        "country": "India",
+        "rank": 110
+    },
+    {
+        "name": "Adani Enterprises",
+        "code": "ADANIENT.NS",
+        "country": "India",
+        "rank": 111
+    },
+    {
+        "name": "ITC",
+        "code": "ITC.NS",
+        "country": "India",
+        "rank": 112
+    },
+    {
+        "name": "Bajaj Finance",
+        "code": "BAJFINANCE.NS",
+        "country": "India",
+        "rank": 113
+    },
+    {
+        "name": "Adani Total Gas",
+        "code": "ATGL.NS",
+        "country": "India",
+        "rank": 114
+    },
+    {
+        "name": "Kotak Mahindra Bank",
+        "code": "KOTAKBANK.NS",
+        "country": "India",
+        "rank": 115
+    },
+    {
+        "name": "Adani Green Energy",
+        "code": "ADANIGREEN.NS",
+        "country": "India",
+        "rank": 116
+    },
+    {
+        "name": "Larsen & Toubro",
+        "code": "LT.NS",
+        "country": "India",
+        "rank": 117
+    },
+    {
+        "name": "Asian Paints",
+        "code": "ASIANPAINT.NS",
+        "country": "India",
+        "rank": 118
+    },
+    {
+        "name": "Axis Bank",
+        "code": "AXISBANK.BO",
+        "country": "India",
+        "rank": 119
+    },
+    {
+        "name": "Adani Transmission",
+        "code": "ADANITRANS.NS",
+        "country": "India",
+        "rank": 120
+    },
+    {
+        "name": "HCL Technologies",
+        "code": "HCLTECH.NS",
+        "country": "India",
+        "rank": 121
+    },
+    {
+        "name": "DMart",
+        "code": "DMART.NS",
+        "country": "India",
+        "rank": 122
+    },
+    {
+        "name": "Maruti Suzuki India",
+        "code": "MARUTI.NS",
+        "country": "India",
+        "rank": 123
+    },
+    {
+        "name": "Bajaj Finserv",
+        "code": "BAJAJFINSV.NS",
+        "country": "India",
+        "rank": 124
+    },
+    {
+        "name": "Sun Pharmaceutical",
+        "code": "SUNPHARMA.NS",
+        "country": "India",
+        "rank": 125
+    },
+    {
+        "name": "Titan Company",
+        "code": "TITAN.NS",
+        "country": "India",
+        "rank": 126
+    },
+    {
+        "name": "Wipro",
+        "code": "WIT",
+        "country": "India",
+        "rank": 127
+    },
+    {
+        "name": "UltraTech Cement",
+        "code": "ULTRACEMCO.NS",
+        "country": "India",
+        "rank": 128
+    },
+    {
+        "name": "Oil & Natural Gas",
+        "code": "ONGC.NS",
+        "country": "India",
+        "rank": 129
+    },
+    {
+        "name": "Nestl\u00e9 India",
+        "code": "NESTLEIND.NS",
+        "country": "India",
+        "rank": 130
+    },
+    {
+        "name": "JSW Steel",
+        "code": "JSWSTEEL.NS",
+        "country": "India",
+        "rank": 131
+    },
+    {
+        "name": "Adani Ports & SEZ",
+        "code": "ADANIPORTS.NS",
+        "country": "India",
+        "rank": 132
+    },
+    {
+        "name": "NTPC Limited",
+        "code": "NTPC.NS",
+        "country": "India",
+        "rank": 133
+    },
+    {
+        "name": "Mahindra & Mahindra",
+        "code": "M&M.NS",
+        "country": "India",
+        "rank": 134
+    },
+    {
+        "name": "Powergrid Corporation of India",
+        "code": "POWERGRID.NS",
+        "country": "India",
+        "rank": 135
+    },
+    {
+        "name": "Tata Motors",
+        "code": "TTM",
+        "country": "India",
+        "rank": 136
+    },
+    {
+        "name": "Tata Steel",
+        "code": "TATASTEEL.NS",
+        "country": "India",
+        "rank": 137
+    },
+    {
+        "name": "Coal India",
+        "code": "COALINDIA.NS",
+        "country": "India",
+        "rank": 138
+    },
+    {
+        "name": "Hindustan Zinc",
+        "code": "HINDZINC.NS",
+        "country": "India",
+        "rank": 139
+    },
+    {
+        "name": "Pidilite",
+        "code": "PIDILITIND.NS",
+        "country": "India",
+        "rank": 140
+    },
+    {
+        "name": "SBI Life Insurance",
+        "code": "SBILIFE.NS",
+        "country": "India",
+        "rank": 141
+    },
+    {
+        "name": "HDFC Life",
+        "code": "HDFCLIFE.NS",
+        "country": "India",
+        "rank": 142
+    },
+    {
+        "name": "Vedanta",
+        "code": "VEDL.NS",
+        "country": "India",
+        "rank": 143
+    },
+    {
+        "name": "Adani Power",
+        "code": "ADANIPOWER.NS",
+        "country": "India",
+        "rank": 144
+    },
+    {
+        "name": "Grasim Industries",
+        "code": "GRASIM.NS",
+        "country": "India",
+        "rank": 145
+    },
+    {
+        "name": "Indian Oil",
+        "code": "IOC.NS",
+        "country": "India",
+        "rank": 146
+    },
+    {
+        "name": "Hindalco Industries",
+        "code": "HINDALCO.NS",
+        "country": "India",
+        "rank": 147
+    },
+    {
+        "name": "Ambuja Cements",
+        "code": "AMBUJACEM.NS",
+        "country": "India",
+        "rank": 148
+    },
+    {
+        "name": "Britannia Industries",
+        "code": "BRITANNIA.NS",
+        "country": "India",
+        "rank": 149
+    },
+    {
+        "name": "Bajaj Auto",
+        "code": "BAJAJ-AUTO.NS",
+        "country": "India",
+        "rank": 150
+    },
+    {
+        "name": "Siemens India",
+        "code": "SIEMENS.NS",
+        "country": "India",
+        "rank": 151
+    },
+    {
+        "name": "Dabur",
+        "code": "DABUR.NS",
+        "country": "India",
+        "rank": 152
+    },
+    {
+        "name": "Tech Mahindra",
+        "code": "TECHM.NS",
+        "country": "India",
+        "rank": 153
+    },
+    {
+        "name": "Bank of Baroda",
+        "code": "BANKBARODA.NS",
+        "country": "India",
+        "rank": 154
+    },
+    {
+        "name": "IndusInd Bank",
+        "code": "INDUSINDBK.NS",
+        "country": "India",
+        "rank": 155
+    },
+    {
+        "name": "DLF",
+        "code": "DLF.NS",
+        "country": "India",
+        "rank": 156
+    },
+    {
+        "name": "Godrej",
+        "code": "GODREJCP.NS",
+        "country": "India",
+        "rank": 157
+    },
+    {
+        "name": "Divis Laboratories",
+        "code": "DIVISLAB.NS",
+        "country": "India",
+        "rank": 158
+    },
+    {
+        "name": "Larsen & Toubro Infotech",
+        "code": "LTI.BO",
+        "country": "India",
+        "rank": 159
+    },
+    {
+        "name": "Eicher Motors",
+        "code": "EICHERMOT.NS",
+        "country": "India",
+        "rank": 160
+    },
+    {
+        "name": "JSW Energy",
+        "code": "JSWENERGY.NS",
+        "country": "India",
+        "rank": 161
+    },
+    {
+        "name": "Cipla",
+        "code": "CIPLA.NS",
+        "country": "India",
+        "rank": 162
+    },
+    {
+        "name": "Varun Beverages",
+        "code": "VBL.NS",
+        "country": "India",
+        "rank": 163
+    },
+    {
+        "name": "Hindustan Aeronautics",
+        "code": "HAL.NS",
+        "country": "India",
+        "rank": 164
+    },
+    {
+        "name": "Shree Cement",
+        "code": "SHREECEM.NS",
+        "country": "India",
+        "rank": 165
+    },
+    {
+        "name": "InterGlobe Aviation",
+        "code": "INDIGO.NS",
+        "country": "India",
+        "rank": 166
+    },
+    {
+        "name": "Adani Wilmar",
+        "code": "AWL.NS",
+        "country": "India",
+        "rank": 167
+    },
+    {
+        "name": "SBI Card",
+        "code": "SBICARD.NS",
+        "country": "India",
+        "rank": 168
+    },
+    {
+        "name": "Bharat Electronics",
+        "code": "BEL.NS",
+        "country": "India",
+        "rank": 169
+    },
+    {
+        "name": "Bharat Petroleum",
+        "code": "BPCL.NS",
+        "country": "India",
+        "rank": 170
+    },
+    {
+        "name": "Dr. Reddy's",
+        "code": "RDY",
+        "country": "India",
+        "rank": 171
+    },
+    {
+        "name": "Tata Consumer Products",
+        "code": "TATACONSUM.NS",
+        "country": "India",
+        "rank": 172
+    },
+    {
+        "name": "Havells India",
+        "code": "HAVELLS.NS",
+        "country": "India",
+        "rank": 173
+    },
+    {
+        "name": "SRF Limited",
+        "code": "SRF.NS",
+        "country": "India",
+        "rank": 174
+    },
+    {
+        "name": "Tata Power",
+        "code": "TATAPOWER.NS",
+        "country": "India",
+        "rank": 175
+    },
+    {
+        "name": "Marico",
+        "code": "MARICO.NS",
+        "country": "India",
+        "rank": 176
+    },
+    {
+        "name": "ICICI Prulife",
+        "code": "ICICIPRULI.NS",
+        "country": "India",
+        "rank": 177
+    },
+    {
+        "name": "Apollo Hospitals",
+        "code": "APOLLOHOSP.NS",
+        "country": "India",
+        "rank": 178
+    },
+    {
+        "name": "GAIL",
+        "code": "GAIL.NS",
+        "country": "India",
+        "rank": 179
+    },
+    {
+        "name": "Punjab National Bank",
+        "code": "PNB.NS",
+        "country": "India",
+        "rank": 180
+    },
+    {
+        "name": "Yes Bank",
+        "code": "YESBANK.NS",
+        "country": "India",
+        "rank": 181
+    },
+    {
+        "name": "Bajaj Holdings & Investment",
+        "code": "BAJAJHLDNG.NS",
+        "country": "India",
+        "rank": 182
+    },
+    {
+        "name": "United Spirits",
+        "code": "UNITDSPR.BO",
+        "country": "India",
+        "rank": 183
+    },
+    {
+        "name": "ICICI Lombard",
+        "code": "ICICIGI.NS",
+        "country": "India",
+        "rank": 184
+    },
+    {
+        "name": "Canara Bank",
+        "code": "CANBK.NS",
+        "country": "India",
+        "rank": 185
+    },
+    {
+        "name": "Jindal Steel & Power",
+        "code": "JINDALSTEL.NS",
+        "country": "India",
+        "rank": 186
+    },
+    {
+        "name": "Indian Overseas Bank",
+        "code": "IOB.NS",
+        "country": "India",
+        "rank": 187
+    },
+    {
+        "name": "Cholamandalam Investment and Finance",
+        "code": "CHOLAFIN.NS",
+        "country": "India",
+        "rank": 188
+    },
+    {
+        "name": "IDBI Bank",
+        "code": "IDBI.NS",
+        "country": "India",
+        "rank": 189
+    },
+    {
+        "name": "ABB India",
+        "code": "ABB.NS",
+        "country": "India",
+        "rank": 190
+    },
+    {
+        "name": "Mindtree",
+        "code": "MINDTREE.NS",
+        "country": "India",
+        "rank": 191
+    },
+    {
+        "name": "Berger Paints",
+        "code": "BERGEPAINT.NS",
+        "country": "India",
+        "rank": 192
+    },
+    {
+        "name": "Union Bank of India",
+        "code": "UNIONBANK.NS",
+        "country": "India",
+        "rank": 193
+    },
+    {
+        "name": "Hero MotoCorp",
+        "code": "HEROMOTOCO.NS",
+        "country": "India",
+        "rank": 194
+    },
+    {
+        "name": "UPL",
+        "code": "UPL.NS",
+        "country": "India",
+        "rank": 195
+    },
+    {
+        "name": "Tube Investments of India",
+        "code": "TIINDIA.NS",
+        "country": "India",
+        "rank": 196
+    },
+    {
+        "name": "Lodha Group",
+        "code": "LODHA.NS",
+        "country": "India",
+        "rank": 197
+    },
+    {
+        "name": "Torrent Pharmaceuticals",
+        "code": "TORNTPHARM.NS",
+        "country": "India",
+        "rank": 198
+    },
+    {
+        "name": "PI Industries",
+        "code": "PIIND.NS",
+        "country": "India",
+        "rank": 199
+    },
+    {
+        "name": "Zomato",
+        "code": "ZOMATO.NS",
+        "country": "India",
+        "rank": 200
+    },
+    {
+        "name": "Reliance Industries",
+        "code": "RELIANCE.NS",
+        "country": "India",
+        "rank": 201
+    },
+    {
+        "name": "Tata Consultancy Services",
+        "code": "TCS.NS",
+        "country": "India",
+        "rank": 202
+    },
+    {
+        "name": "HDFC Bank",
+        "code": "HDB",
+        "country": "India",
+        "rank": 203
+    },
+    {
+        "name": "ICICI Bank",
+        "code": "IBN",
+        "country": "India",
+        "rank": 204
+    },
+    {
+        "name": "Infosys",
+        "code": "INFY",
+        "country": "India",
+        "rank": 205
+    },
+    {
+        "name": "Hindustan Unilever",
+        "code": "HINDUNILVR.NS",
+        "country": "India",
+        "rank": 206
+    },
+    {
+        "name": "State Bank of India",
+        "code": "SBIN.NS",
+        "country": "India",
+        "rank": 207
+    },
+    {
+        "name": "Housing Development Finance Corporation",
+        "code": "HDFC.NS",
+        "country": "India",
+        "rank": 208
+    },
+    {
+        "name": "Bharti Airtel",
+        "code": "BHARTIARTL.NS",
+        "country": "India",
+        "rank": 209
+    },
+    {
+        "name": "Life Insurance Corporation of India (LIC)",
+        "code": "LICI.NS",
+        "country": "India",
+        "rank": 210
+    },
+    {
+        "name": "Adani Enterprises",
+        "code": "ADANIENT.NS",
+        "country": "India",
+        "rank": 211
+    },
+    {
+        "name": "ITC",
+        "code": "ITC.NS",
+        "country": "India",
+        "rank": 212
+    },
+    {
+        "name": "Bajaj Finance",
+        "code": "BAJFINANCE.NS",
+        "country": "India",
+        "rank": 213
+    },
+    {
+        "name": "Adani Total Gas",
+        "code": "ATGL.NS",
+        "country": "India",
+        "rank": 214
+    },
+    {
+        "name": "Kotak Mahindra Bank",
+        "code": "KOTAKBANK.NS",
+        "country": "India",
+        "rank": 215
+    },
+    {
+        "name": "Adani Green Energy",
+        "code": "ADANIGREEN.NS",
+        "country": "India",
+        "rank": 216
+    },
+    {
+        "name": "Larsen & Toubro",
+        "code": "LT.NS",
+        "country": "India",
+        "rank": 217
+    },
+    {
+        "name": "Asian Paints",
+        "code": "ASIANPAINT.NS",
+        "country": "India",
+        "rank": 218
+    },
+    {
+        "name": "Axis Bank",
+        "code": "AXISBANK.BO",
+        "country": "India",
+        "rank": 219
+    },
+    {
+        "name": "Adani Transmission",
+        "code": "ADANITRANS.NS",
+        "country": "India",
+        "rank": 220
+    },
+    {
+        "name": "HCL Technologies",
+        "code": "HCLTECH.NS",
+        "country": "India",
+        "rank": 221
+    },
+    {
+        "name": "DMart",
+        "code": "DMART.NS",
+        "country": "India",
+        "rank": 222
+    },
+    {
+        "name": "Maruti Suzuki India",
+        "code": "MARUTI.NS",
+        "country": "India",
+        "rank": 223
+    },
+    {
+        "name": "Bajaj Finserv",
+        "code": "BAJAJFINSV.NS",
+        "country": "India",
+        "rank": 224
+    },
+    {
+        "name": "Sun Pharmaceutical",
+        "code": "SUNPHARMA.NS",
+        "country": "India",
+        "rank": 225
+    },
+    {
+        "name": "Titan Company",
+        "code": "TITAN.NS",
+        "country": "India",
+        "rank": 226
+    },
+    {
+        "name": "Wipro",
+        "code": "WIT",
+        "country": "India",
+        "rank": 227
+    },
+    {
+        "name": "UltraTech Cement",
+        "code": "ULTRACEMCO.NS",
+        "country": "India",
+        "rank": 228
+    },
+    {
+        "name": "Oil & Natural Gas",
+        "code": "ONGC.NS",
+        "country": "India",
+        "rank": 229
+    },
+    {
+        "name": "Nestl\u00e9 India",
+        "code": "NESTLEIND.NS",
+        "country": "India",
+        "rank": 230
+    },
+    {
+        "name": "JSW Steel",
+        "code": "JSWSTEEL.NS",
+        "country": "India",
+        "rank": 231
+    },
+    {
+        "name": "Adani Ports & SEZ",
+        "code": "ADANIPORTS.NS",
+        "country": "India",
+        "rank": 232
+    },
+    {
+        "name": "NTPC Limited",
+        "code": "NTPC.NS",
+        "country": "India",
+        "rank": 233
+    },
+    {
+        "name": "Mahindra & Mahindra",
+        "code": "M&M.NS",
+        "country": "India",
+        "rank": 234
+    },
+    {
+        "name": "Powergrid Corporation of India",
+        "code": "POWERGRID.NS",
+        "country": "India",
+        "rank": 235
+    },
+    {
+        "name": "Tata Motors",
+        "code": "TTM",
+        "country": "India",
+        "rank": 236
+    },
+    {
+        "name": "Tata Steel",
+        "code": "TATASTEEL.NS",
+        "country": "India",
+        "rank": 237
+    },
+    {
+        "name": "Coal India",
+        "code": "COALINDIA.NS",
+        "country": "India",
+        "rank": 238
+    },
+    {
+        "name": "Hindustan Zinc",
+        "code": "HINDZINC.NS",
+        "country": "India",
+        "rank": 239
+    },
+    {
+        "name": "Pidilite",
+        "code": "PIDILITIND.NS",
+        "country": "India",
+        "rank": 240
+    },
+    {
+        "name": "SBI Life Insurance",
+        "code": "SBILIFE.NS",
+        "country": "India",
+        "rank": 241
+    },
+    {
+        "name": "HDFC Life",
+        "code": "HDFCLIFE.NS",
+        "country": "India",
+        "rank": 242
+    },
+    {
+        "name": "Vedanta",
+        "code": "VEDL.NS",
+        "country": "India",
+        "rank": 243
+    },
+    {
+        "name": "Adani Power",
+        "code": "ADANIPOWER.NS",
+        "country": "India",
+        "rank": 244
+    },
+    {
+        "name": "Grasim Industries",
+        "code": "GRASIM.NS",
+        "country": "India",
+        "rank": 245
+    },
+    {
+        "name": "Indian Oil",
+        "code": "IOC.NS",
+        "country": "India",
+        "rank": 246
+    },
+    {
+        "name": "Hindalco Industries",
+        "code": "HINDALCO.NS",
+        "country": "India",
+        "rank": 247
+    },
+    {
+        "name": "Ambuja Cements",
+        "code": "AMBUJACEM.NS",
+        "country": "India",
+        "rank": 248
+    },
+    {
+        "name": "Britannia Industries",
+        "code": "BRITANNIA.NS",
+        "country": "India",
+        "rank": 249
+    },
+    {
+        "name": "Bajaj Auto",
+        "code": "BAJAJ-AUTO.NS",
+        "country": "India",
+        "rank": 250
+    },
+    {
+        "name": "Siemens India",
+        "code": "SIEMENS.NS",
+        "country": "India",
+        "rank": 251
+    },
+    {
+        "name": "Dabur",
+        "code": "DABUR.NS",
+        "country": "India",
+        "rank": 252
+    },
+    {
+        "name": "Tech Mahindra",
+        "code": "TECHM.NS",
+        "country": "India",
+        "rank": 253
+    },
+    {
+        "name": "Bank of Baroda",
+        "code": "BANKBARODA.NS",
+        "country": "India",
+        "rank": 254
+    },
+    {
+        "name": "IndusInd Bank",
+        "code": "INDUSINDBK.NS",
+        "country": "India",
+        "rank": 255
+    },
+    {
+        "name": "DLF",
+        "code": "DLF.NS",
+        "country": "India",
+        "rank": 256
+    },
+    {
+        "name": "Godrej",
+        "code": "GODREJCP.NS",
+        "country": "India",
+        "rank": 257
+    },
+    {
+        "name": "Divis Laboratories",
+        "code": "DIVISLAB.NS",
+        "country": "India",
+        "rank": 258
+    },
+    {
+        "name": "Larsen & Toubro Infotech",
+        "code": "LTI.BO",
+        "country": "India",
+        "rank": 259
+    },
+    {
+        "name": "Eicher Motors",
+        "code": "EICHERMOT.NS",
+        "country": "India",
+        "rank": 260
+    },
+    {
+        "name": "JSW Energy",
+        "code": "JSWENERGY.NS",
+        "country": "India",
+        "rank": 261
+    },
+    {
+        "name": "Cipla",
+        "code": "CIPLA.NS",
+        "country": "India",
+        "rank": 262
+    },
+    {
+        "name": "Varun Beverages",
+        "code": "VBL.NS",
+        "country": "India",
+        "rank": 263
+    },
+    {
+        "name": "Hindustan Aeronautics",
+        "code": "HAL.NS",
+        "country": "India",
+        "rank": 264
+    },
+    {
+        "name": "Shree Cement",
+        "code": "SHREECEM.NS",
+        "country": "India",
+        "rank": 265
+    },
+    {
+        "name": "InterGlobe Aviation",
+        "code": "INDIGO.NS",
+        "country": "India",
+        "rank": 266
+    },
+    {
+        "name": "Adani Wilmar",
+        "code": "AWL.NS",
+        "country": "India",
+        "rank": 267
+    },
+    {
+        "name": "SBI Card",
+        "code": "SBICARD.NS",
+        "country": "India",
+        "rank": 268
+    },
+    {
+        "name": "Bharat Electronics",
+        "code": "BEL.NS",
+        "country": "India",
+        "rank": 269
+    },
+    {
+        "name": "Bharat Petroleum",
+        "code": "BPCL.NS",
+        "country": "India",
+        "rank": 270
+    },
+    {
+        "name": "Dr. Reddy's",
+        "code": "RDY",
+        "country": "India",
+        "rank": 271
+    },
+    {
+        "name": "Tata Consumer Products",
+        "code": "TATACONSUM.NS",
+        "country": "India",
+        "rank": 272
+    },
+    {
+        "name": "Havells India",
+        "code": "HAVELLS.NS",
+        "country": "India",
+        "rank": 273
+    },
+    {
+        "name": "SRF Limited",
+        "code": "SRF.NS",
+        "country": "India",
+        "rank": 274
+    },
+    {
+        "name": "Tata Power",
+        "code": "TATAPOWER.NS",
+        "country": "India",
+        "rank": 275
+    },
+    {
+        "name": "Marico",
+        "code": "MARICO.NS",
+        "country": "India",
+        "rank": 276
+    },
+    {
+        "name": "ICICI Prulife",
+        "code": "ICICIPRULI.NS",
+        "country": "India",
+        "rank": 277
+    },
+    {
+        "name": "Apollo Hospitals",
+        "code": "APOLLOHOSP.NS",
+        "country": "India",
+        "rank": 278
+    },
+    {
+        "name": "GAIL",
+        "code": "GAIL.NS",
+        "country": "India",
+        "rank": 279
+    },
+    {
+        "name": "Punjab National Bank",
+        "code": "PNB.NS",
+        "country": "India",
+        "rank": 280
+    },
+    {
+        "name": "Yes Bank",
+        "code": "YESBANK.NS",
+        "country": "India",
+        "rank": 281
+    },
+    {
+        "name": "Bajaj Holdings & Investment",
+        "code": "BAJAJHLDNG.NS",
+        "country": "India",
+        "rank": 282
+    },
+    {
+        "name": "United Spirits",
+        "code": "UNITDSPR.BO",
+        "country": "India",
+        "rank": 283
+    },
+    {
+        "name": "ICICI Lombard",
+        "code": "ICICIGI.NS",
+        "country": "India",
+        "rank": 284
+    },
+    {
+        "name": "Canara Bank",
+        "code": "CANBK.NS",
+        "country": "India",
+        "rank": 285
+    },
+    {
+        "name": "Jindal Steel & Power",
+        "code": "JINDALSTEL.NS",
+        "country": "India",
+        "rank": 286
+    },
+    {
+        "name": "Indian Overseas Bank",
+        "code": "IOB.NS",
+        "country": "India",
+        "rank": 287
+    },
+    {
+        "name": "Cholamandalam Investment and Finance",
+        "code": "CHOLAFIN.NS",
+        "country": "India",
+        "rank": 288
+    },
+    {
+        "name": "IDBI Bank",
+        "code": "IDBI.NS",
+        "country": "India",
+        "rank": 289
+    },
+    {
+        "name": "ABB India",
+        "code": "ABB.NS",
+        "country": "India",
+        "rank": 290
+    },
+    {
+        "name": "Mindtree",
+        "code": "MINDTREE.NS",
+        "country": "India",
+        "rank": 291
+    },
+    {
+        "name": "Berger Paints",
+        "code": "BERGEPAINT.NS",
+        "country": "India",
+        "rank": 292
+    },
+    {
+        "name": "Union Bank of India",
+        "code": "UNIONBANK.NS",
+        "country": "India",
+        "rank": 293
+    },
+    {
+        "name": "Hero MotoCorp",
+        "code": "HEROMOTOCO.NS",
+        "country": "India",
+        "rank": 294
+    },
+    {
+        "name": "UPL",
+        "code": "UPL.NS",
+        "country": "India",
+        "rank": 295
+    },
+    {
+        "name": "Tube Investments of India",
+        "code": "TIINDIA.NS",
+        "country": "India",
+        "rank": 296
+    },
+    {
+        "name": "Lodha Group",
+        "code": "LODHA.NS",
+        "country": "India",
+        "rank": 297
+    },
+    {
+        "name": "Torrent Pharmaceuticals",
+        "code": "TORNTPHARM.NS",
+        "country": "India",
+        "rank": 298
+    },
+    {
+        "name": "PI Industries",
+        "code": "PIIND.NS",
+        "country": "India",
+        "rank": 299
+    },
+    {
+        "name": "Zomato",
+        "code": "ZOMATO.NS",
+        "country": "India",
+        "rank": 300
+    },
+    {
+        "name": "Reliance Industries",
+        "code": "RELIANCE.NS",
+        "country": "India",
+        "rank": 301
+    },
+    {
+        "name": "Tata Consultancy Services",
+        "code": "TCS.NS",
+        "country": "India",
+        "rank": 302
+    },
+    {
+        "name": "HDFC Bank",
+        "code": "HDB",
+        "country": "India",
+        "rank": 303
+    },
+    {
+        "name": "ICICI Bank",
+        "code": "IBN",
+        "country": "India",
+        "rank": 304
+    },
+    {
+        "name": "Infosys",
+        "code": "INFY",
+        "country": "India",
+        "rank": 305
+    },
+    {
+        "name": "Hindustan Unilever",
+        "code": "HINDUNILVR.NS",
+        "country": "India",
+        "rank": 306
+    },
+    {
+        "name": "State Bank of India",
+        "code": "SBIN.NS",
+        "country": "India",
+        "rank": 307
+    },
+    {
+        "name": "Housing Development Finance Corporation",
+        "code": "HDFC.NS",
+        "country": "India",
+        "rank": 308
+    },
+    {
+        "name": "Bharti Airtel",
+        "code": "BHARTIARTL.NS",
+        "country": "India",
+        "rank": 309
+    },
+    {
+        "name": "Life Insurance Corporation of India (LIC)",
+        "code": "LICI.NS",
+        "country": "India",
+        "rank": 310
+    },
+    {
+        "name": "Adani Enterprises",
+        "code": "ADANIENT.NS",
+        "country": "India",
+        "rank": 311
+    },
+    {
+        "name": "ITC",
+        "code": "ITC.NS",
+        "country": "India",
+        "rank": 312
+    },
+    {
+        "name": "Bajaj Finance",
+        "code": "BAJFINANCE.NS",
+        "country": "India",
+        "rank": 313
+    },
+    {
+        "name": "Adani Total Gas",
+        "code": "ATGL.NS",
+        "country": "India",
+        "rank": 314
+    },
+    {
+        "name": "Kotak Mahindra Bank",
+        "code": "KOTAKBANK.NS",
+        "country": "India",
+        "rank": 315
+    },
+    {
+        "name": "Adani Green Energy",
+        "code": "ADANIGREEN.NS",
+        "country": "India",
+        "rank": 316
+    },
+    {
+        "name": "Larsen & Toubro",
+        "code": "LT.NS",
+        "country": "India",
+        "rank": 317
+    },
+    {
+        "name": "Asian Paints",
+        "code": "ASIANPAINT.NS",
+        "country": "India",
+        "rank": 318
+    },
+    {
+        "name": "Axis Bank",
+        "code": "AXISBANK.BO",
+        "country": "India",
+        "rank": 319
+    },
+    {
+        "name": "Adani Transmission",
+        "code": "ADANITRANS.NS",
+        "country": "India",
+        "rank": 320
+    },
+    {
+        "name": "HCL Technologies",
+        "code": "HCLTECH.NS",
+        "country": "India",
+        "rank": 321
+    },
+    {
+        "name": "DMart",
+        "code": "DMART.NS",
+        "country": "India",
+        "rank": 322
+    },
+    {
+        "name": "Maruti Suzuki India",
+        "code": "MARUTI.NS",
+        "country": "India",
+        "rank": 323
+    },
+    {
+        "name": "Bajaj Finserv",
+        "code": "BAJAJFINSV.NS",
+        "country": "India",
+        "rank": 324
+    },
+    {
+        "name": "Sun Pharmaceutical",
+        "code": "SUNPHARMA.NS",
+        "country": "India",
+        "rank": 325
+    },
+    {
+        "name": "Titan Company",
+        "code": "TITAN.NS",
+        "country": "India",
+        "rank": 326
+    },
+    {
+        "name": "Wipro",
+        "code": "WIT",
+        "country": "India",
+        "rank": 327
+    },
+    {
+        "name": "UltraTech Cement",
+        "code": "ULTRACEMCO.NS",
+        "country": "India",
+        "rank": 328
+    },
+    {
+        "name": "Oil & Natural Gas",
+        "code": "ONGC.NS",
+        "country": "India",
+        "rank": 329
+    },
+    {
+        "name": "Nestl\u00e9 India",
+        "code": "NESTLEIND.NS",
+        "country": "India",
+        "rank": 330
+    },
+    {
+        "name": "JSW Steel",
+        "code": "JSWSTEEL.NS",
+        "country": "India",
+        "rank": 331
+    },
+    {
+        "name": "Adani Ports & SEZ",
+        "code": "ADANIPORTS.NS",
+        "country": "India",
+        "rank": 332
+    },
+    {
+        "name": "NTPC Limited",
+        "code": "NTPC.NS",
+        "country": "India",
+        "rank": 333
+    },
+    {
+        "name": "Mahindra & Mahindra",
+        "code": "M&M.NS",
+        "country": "India",
+        "rank": 334
+    },
+    {
+        "name": "Powergrid Corporation of India",
+        "code": "POWERGRID.NS",
+        "country": "India",
+        "rank": 335
+    },
+    {
+        "name": "Tata Motors",
+        "code": "TTM",
+        "country": "India",
+        "rank": 336
+    },
+    {
+        "name": "Tata Steel",
+        "code": "TATASTEEL.NS",
+        "country": "India",
+        "rank": 337
+    },
+    {
+        "name": "Coal India",
+        "code": "COALINDIA.NS",
+        "country": "India",
+        "rank": 338
+    },
+    {
+        "name": "Hindustan Zinc",
+        "code": "HINDZINC.NS",
+        "country": "India",
+        "rank": 339
+    },
+    {
+        "name": "Pidilite",
+        "code": "PIDILITIND.NS",
+        "country": "India",
+        "rank": 340
+    },
+    {
+        "name": "SBI Life Insurance",
+        "code": "SBILIFE.NS",
+        "country": "India",
+        "rank": 341
+    },
+    {
+        "name": "HDFC Life",
+        "code": "HDFCLIFE.NS",
+        "country": "India",
+        "rank": 342
+    },
+    {
+        "name": "Vedanta",
+        "code": "VEDL.NS",
+        "country": "India",
+        "rank": 343
+    },
+    {
+        "name": "Adani Power",
+        "code": "ADANIPOWER.NS",
+        "country": "India",
+        "rank": 344
+    },
+    {
+        "name": "Grasim Industries",
+        "code": "GRASIM.NS",
+        "country": "India",
+        "rank": 345
+    },
+    {
+        "name": "Indian Oil",
+        "code": "IOC.NS",
+        "country": "India",
+        "rank": 346
+    },
+    {
+        "name": "Hindalco Industries",
+        "code": "HINDALCO.NS",
+        "country": "India",
+        "rank": 347
+    },
+    {
+        "name": "Ambuja Cements",
+        "code": "AMBUJACEM.NS",
+        "country": "India",
+        "rank": 348
+    },
+    {
+        "name": "Britannia Industries",
+        "code": "BRITANNIA.NS",
+        "country": "India",
+        "rank": 349
+    },
+    {
+        "name": "Bajaj Auto",
+        "code": "BAJAJ-AUTO.NS",
+        "country": "India",
+        "rank": 350
+    },
+    {
+        "name": "Siemens India",
+        "code": "SIEMENS.NS",
+        "country": "India",
+        "rank": 351
+    },
+    {
+        "name": "Dabur",
+        "code": "DABUR.NS",
+        "country": "India",
+        "rank": 352
+    },
+    {
+        "name": "Tech Mahindra",
+        "code": "TECHM.NS",
+        "country": "India",
+        "rank": 353
+    },
+    {
+        "name": "Bank of Baroda",
+        "code": "BANKBARODA.NS",
+        "country": "India",
+        "rank": 354
+    },
+    {
+        "name": "IndusInd Bank",
+        "code": "INDUSINDBK.NS",
+        "country": "India",
+        "rank": 355
+    },
+    {
+        "name": "DLF",
+        "code": "DLF.NS",
+        "country": "India",
+        "rank": 356
+    },
+    {
+        "name": "Godrej",
+        "code": "GODREJCP.NS",
+        "country": "India",
+        "rank": 357
+    },
+    {
+        "name": "Divis Laboratories",
+        "code": "DIVISLAB.NS",
+        "country": "India",
+        "rank": 358
+    },
+    {
+        "name": "Larsen & Toubro Infotech",
+        "code": "LTI.BO",
+        "country": "India",
+        "rank": 359
+    },
+    {
+        "name": "Eicher Motors",
+        "code": "EICHERMOT.NS",
+        "country": "India",
+        "rank": 360
+    },
+    {
+        "name": "JSW Energy",
+        "code": "JSWENERGY.NS",
+        "country": "India",
+        "rank": 361
+    },
+    {
+        "name": "Cipla",
+        "code": "CIPLA.NS",
+        "country": "India",
+        "rank": 362
+    },
+    {
+        "name": "Varun Beverages",
+        "code": "VBL.NS",
+        "country": "India",
+        "rank": 363
+    },
+    {
+        "name": "Hindustan Aeronautics",
+        "code": "HAL.NS",
+        "country": "India",
+        "rank": 364
+    },
+    {
+        "name": "Shree Cement",
+        "code": "SHREECEM.NS",
+        "country": "India",
+        "rank": 365
+    },
+    {
+        "name": "InterGlobe Aviation",
+        "code": "INDIGO.NS",
+        "country": "India",
+        "rank": 366
+    },
+    {
+        "name": "Adani Wilmar",
+        "code": "AWL.NS",
+        "country": "India",
+        "rank": 367
+    },
+    {
+        "name": "SBI Card",
+        "code": "SBICARD.NS",
+        "country": "India",
+        "rank": 368
+    },
+    {
+        "name": "Bharat Electronics",
+        "code": "BEL.NS",
+        "country": "India",
+        "rank": 369
+    },
+    {
+        "name": "Bharat Petroleum",
+        "code": "BPCL.NS",
+        "country": "India",
+        "rank": 370
+    },
+    {
+        "name": "Dr. Reddy's",
+        "code": "RDY",
+        "country": "India",
+        "rank": 371
+    },
+    {
+        "name": "Tata Consumer Products",
+        "code": "TATACONSUM.NS",
+        "country": "India",
+        "rank": 372
+    },
+    {
+        "name": "Havells India",
+        "code": "HAVELLS.NS",
+        "country": "India",
+        "rank": 373
+    },
+    {
+        "name": "SRF Limited",
+        "code": "SRF.NS",
+        "country": "India",
+        "rank": 374
+    },
+    {
+        "name": "Tata Power",
+        "code": "TATAPOWER.NS",
+        "country": "India",
+        "rank": 375
+    },
+    {
+        "name": "Marico",
+        "code": "MARICO.NS",
+        "country": "India",
+        "rank": 376
+    },
+    {
+        "name": "ICICI Prulife",
+        "code": "ICICIPRULI.NS",
+        "country": "India",
+        "rank": 377
+    },
+    {
+        "name": "Apollo Hospitals",
+        "code": "APOLLOHOSP.NS",
+        "country": "India",
+        "rank": 378
+    },
+    {
+        "name": "GAIL",
+        "code": "GAIL.NS",
+        "country": "India",
+        "rank": 379
+    },
+    {
+        "name": "Punjab National Bank",
+        "code": "PNB.NS",
+        "country": "India",
+        "rank": 380
+    },
+    {
+        "name": "Yes Bank",
+        "code": "YESBANK.NS",
+        "country": "India",
+        "rank": 381
+    },
+    {
+        "name": "Bajaj Holdings & Investment",
+        "code": "BAJAJHLDNG.NS",
+        "country": "India",
+        "rank": 382
+    },
+    {
+        "name": "United Spirits",
+        "code": "UNITDSPR.BO",
+        "country": "India",
+        "rank": 383
+    },
+    {
+        "name": "ICICI Lombard",
+        "code": "ICICIGI.NS",
+        "country": "India",
+        "rank": 384
+    },
+    {
+        "name": "Canara Bank",
+        "code": "CANBK.NS",
+        "country": "India",
+        "rank": 385
+    },
+    {
+        "name": "Jindal Steel & Power",
+        "code": "JINDALSTEL.NS",
+        "country": "India",
+        "rank": 386
+    },
+    {
+        "name": "Indian Overseas Bank",
+        "code": "IOB.NS",
+        "country": "India",
+        "rank": 387
+    },
+    {
+        "name": "Cholamandalam Investment and Finance",
+        "code": "CHOLAFIN.NS",
+        "country": "India",
+        "rank": 388
+    },
+    {
+        "name": "IDBI Bank",
+        "code": "IDBI.NS",
+        "country": "India",
+        "rank": 389
+    },
+    {
+        "name": "ABB India",
+        "code": "ABB.NS",
+        "country": "India",
+        "rank": 390
+    },
+    {
+        "name": "Mindtree",
+        "code": "MINDTREE.NS",
+        "country": "India",
+        "rank": 391
+    },
+    {
+        "name": "Berger Paints",
+        "code": "BERGEPAINT.NS",
+        "country": "India",
+        "rank": 392
+    },
+    {
+        "name": "Union Bank of India",
+        "code": "UNIONBANK.NS",
+        "country": "India",
+        "rank": 393
+    },
+    {
+        "name": "Hero MotoCorp",
+        "code": "HEROMOTOCO.NS",
+        "country": "India",
+        "rank": 394
+    },
+    {
+        "name": "UPL",
+        "code": "UPL.NS",
+        "country": "India",
+        "rank": 395
+    },
+    {
+        "name": "Tube Investments of India",
+        "code": "TIINDIA.NS",
+        "country": "India",
+        "rank": 396
+    },
+    {
+        "name": "Lodha Group",
+        "code": "LODHA.NS",
+        "country": "India",
+        "rank": 397
+    },
+    {
+        "name": "Torrent Pharmaceuticals",
+        "code": "TORNTPHARM.NS",
+        "country": "India",
+        "rank": 398
+    },
+    {
+        "name": "PI Industries",
+        "code": "PIIND.NS",
+        "country": "India",
+        "rank": 399
+    },
+    {
+        "name": "Zomato",
+        "code": "ZOMATO.NS",
+        "country": "India",
+        "rank": 400
+    },
+    {
+        "name": "Reliance Industries",
+        "code": "RELIANCE.NS",
+        "country": "India",
+        "rank": 401
+    },
+    {
+        "name": "Tata Consultancy Services",
+        "code": "TCS.NS",
+        "country": "India",
+        "rank": 402
+    },
+    {
+        "name": "HDFC Bank",
+        "code": "HDB",
+        "country": "India",
+        "rank": 403
+    },
+    {
+        "name": "ICICI Bank",
+        "code": "IBN",
+        "country": "India",
+        "rank": 404
+    },
+    {
+        "name": "Infosys",
+        "code": "INFY",
+        "country": "India",
+        "rank": 405
+    },
+    {
+        "name": "Hindustan Unilever",
+        "code": "HINDUNILVR.NS",
+        "country": "India",
+        "rank": 406
+    },
+    {
+        "name": "State Bank of India",
+        "code": "SBIN.NS",
+        "country": "India",
+        "rank": 407
+    },
+    {
+        "name": "Housing Development Finance Corporation",
+        "code": "HDFC.NS",
+        "country": "India",
+        "rank": 408
+    },
+    {
+        "name": "Bharti Airtel",
+        "code": "BHARTIARTL.NS",
+        "country": "India",
+        "rank": 409
+    },
+    {
+        "name": "Life Insurance Corporation of India (LIC)",
+        "code": "LICI.NS",
+        "country": "India",
+        "rank": 410
+    },
+    {
+        "name": "Adani Enterprises",
+        "code": "ADANIENT.NS",
+        "country": "India",
+        "rank": 411
+    },
+    {
+        "name": "ITC",
+        "code": "ITC.NS",
+        "country": "India",
+        "rank": 412
+    },
+    {
+        "name": "Bajaj Finance",
+        "code": "BAJFINANCE.NS",
+        "country": "India",
+        "rank": 413
+    },
+    {
+        "name": "Adani Total Gas",
+        "code": "ATGL.NS",
+        "country": "India",
+        "rank": 414
+    },
+    {
+        "name": "Kotak Mahindra Bank",
+        "code": "KOTAKBANK.NS",
+        "country": "India",
+        "rank": 415
+    },
+    {
+        "name": "Adani Green Energy",
+        "code": "ADANIGREEN.NS",
+        "country": "India",
+        "rank": 416
+    },
+    {
+        "name": "Larsen & Toubro",
+        "code": "LT.NS",
+        "country": "India",
+        "rank": 417
+    },
+    {
+        "name": "Asian Paints",
+        "code": "ASIANPAINT.NS",
+        "country": "India",
+        "rank": 418
+    },
+    {
+        "name": "Axis Bank",
+        "code": "AXISBANK.BO",
+        "country": "India",
+        "rank": 419
+    },
+    {
+        "name": "Adani Transmission",
+        "code": "ADANITRANS.NS",
+        "country": "India",
+        "rank": 420
+    },
+    {
+        "name": "HCL Technologies",
+        "code": "HCLTECH.NS",
+        "country": "India",
+        "rank": 421
+    },
+    {
+        "name": "DMart",
+        "code": "DMART.NS",
+        "country": "India",
+        "rank": 422
+    },
+    {
+        "name": "Maruti Suzuki India",
+        "code": "MARUTI.NS",
+        "country": "India",
+        "rank": 423
+    },
+    {
+        "name": "Bajaj Finserv",
+        "code": "BAJAJFINSV.NS",
+        "country": "India",
+        "rank": 424
+    },
+    {
+        "name": "Sun Pharmaceutical",
+        "code": "SUNPHARMA.NS",
+        "country": "India",
+        "rank": 425
+    },
+    {
+        "name": "Titan Company",
+        "code": "TITAN.NS",
+        "country": "India",
+        "rank": 426
+    },
+    {
+        "name": "Wipro",
+        "code": "WIT",
+        "country": "India",
+        "rank": 427
+    },
+    {
+        "name": "UltraTech Cement",
+        "code": "ULTRACEMCO.NS",
+        "country": "India",
+        "rank": 428
+    },
+    {
+        "name": "Oil & Natural Gas",
+        "code": "ONGC.NS",
+        "country": "India",
+        "rank": 429
+    },
+    {
+        "name": "Nestl\u00e9 India",
+        "code": "NESTLEIND.NS",
+        "country": "India",
+        "rank": 430
+    },
+    {
+        "name": "JSW Steel",
+        "code": "JSWSTEEL.NS",
+        "country": "India",
+        "rank": 431
+    },
+    {
+        "name": "Adani Ports & SEZ",
+        "code": "ADANIPORTS.NS",
+        "country": "India",
+        "rank": 432
+    },
+    {
+        "name": "NTPC Limited",
+        "code": "NTPC.NS",
+        "country": "India",
+        "rank": 433
+    },
+    {
+        "name": "Mahindra & Mahindra",
+        "code": "M&M.NS",
+        "country": "India",
+        "rank": 434
+    },
+    {
+        "name": "Powergrid Corporation of India",
+        "code": "POWERGRID.NS",
+        "country": "India",
+        "rank": 435
+    },
+    {
+        "name": "Tata Motors",
+        "code": "TTM",
+        "country": "India",
+        "rank": 436
+    },
+    {
+        "name": "Tata Steel",
+        "code": "TATASTEEL.NS",
+        "country": "India",
+        "rank": 437
+    },
+    {
+        "name": "Coal India",
+        "code": "COALINDIA.NS",
+        "country": "India",
+        "rank": 438
+    },
+    {
+        "name": "Hindustan Zinc",
+        "code": "HINDZINC.NS",
+        "country": "India",
+        "rank": 439
+    },
+    {
+        "name": "Pidilite",
+        "code": "PIDILITIND.NS",
+        "country": "India",
+        "rank": 440
+    },
+    {
+        "name": "SBI Life Insurance",
+        "code": "SBILIFE.NS",
+        "country": "India",
+        "rank": 441
+    },
+    {
+        "name": "HDFC Life",
+        "code": "HDFCLIFE.NS",
+        "country": "India",
+        "rank": 442
+    },
+    {
+        "name": "Vedanta",
+        "code": "VEDL.NS",
+        "country": "India",
+        "rank": 443
+    },
+    {
+        "name": "Adani Power",
+        "code": "ADANIPOWER.NS",
+        "country": "India",
+        "rank": 444
+    },
+    {
+        "name": "Grasim Industries",
+        "code": "GRASIM.NS",
+        "country": "India",
+        "rank": 445
+    },
+    {
+        "name": "Indian Oil",
+        "code": "IOC.NS",
+        "country": "India",
+        "rank": 446
+    },
+    {
+        "name": "Hindalco Industries",
+        "code": "HINDALCO.NS",
+        "country": "India",
+        "rank": 447
+    },
+    {
+        "name": "Ambuja Cements",
+        "code": "AMBUJACEM.NS",
+        "country": "India",
+        "rank": 448
+    },
+    {
+        "name": "Britannia Industries",
+        "code": "BRITANNIA.NS",
+        "country": "India",
+        "rank": 449
+    },
+    {
+        "name": "Bajaj Auto",
+        "code": "BAJAJ-AUTO.NS",
+        "country": "India",
+        "rank": 450
+    },
+    {
+        "name": "Siemens India",
+        "code": "SIEMENS.NS",
+        "country": "India",
+        "rank": 451
+    },
+    {
+        "name": "Dabur",
+        "code": "DABUR.NS",
+        "country": "India",
+        "rank": 452
+    },
+    {
+        "name": "Tech Mahindra",
+        "code": "TECHM.NS",
+        "country": "India",
+        "rank": 453
+    },
+    {
+        "name": "Bank of Baroda",
+        "code": "BANKBARODA.NS",
+        "country": "India",
+        "rank": 454
+    },
+    {
+        "name": "IndusInd Bank",
+        "code": "INDUSINDBK.NS",
+        "country": "India",
+        "rank": 455
+    },
+    {
+        "name": "DLF",
+        "code": "DLF.NS",
+        "country": "India",
+        "rank": 456
+    },
+    {
+        "name": "Godrej",
+        "code": "GODREJCP.NS",
+        "country": "India",
+        "rank": 457
+    },
+    {
+        "name": "Divis Laboratories",
+        "code": "DIVISLAB.NS",
+        "country": "India",
+        "rank": 458
+    },
+    {
+        "name": "Larsen & Toubro Infotech",
+        "code": "LTI.BO",
+        "country": "India",
+        "rank": 459
+    },
+    {
+        "name": "Eicher Motors",
+        "code": "EICHERMOT.NS",
+        "country": "India",
+        "rank": 460
+    },
+    {
+        "name": "JSW Energy",
+        "code": "JSWENERGY.NS",
+        "country": "India",
+        "rank": 461
+    },
+    {
+        "name": "Cipla",
+        "code": "CIPLA.NS",
+        "country": "India",
+        "rank": 462
+    },
+    {
+        "name": "Varun Beverages",
+        "code": "VBL.NS",
+        "country": "India",
+        "rank": 463
+    },
+    {
+        "name": "Hindustan Aeronautics",
+        "code": "HAL.NS",
+        "country": "India",
+        "rank": 464
+    },
+    {
+        "name": "Shree Cement",
+        "code": "SHREECEM.NS",
+        "country": "India",
+        "rank": 465
+    },
+    {
+        "name": "InterGlobe Aviation",
+        "code": "INDIGO.NS",
+        "country": "India",
+        "rank": 466
+    },
+    {
+        "name": "Adani Wilmar",
+        "code": "AWL.NS",
+        "country": "India",
+        "rank": 467
+    },
+    {
+        "name": "SBI Card",
+        "code": "SBICARD.NS",
+        "country": "India",
+        "rank": 468
+    },
+    {
+        "name": "Bharat Electronics",
+        "code": "BEL.NS",
+        "country": "India",
+        "rank": 469
+    },
+    {
+        "name": "Bharat Petroleum",
+        "code": "BPCL.NS",
+        "country": "India",
+        "rank": 470
+    },
+    {
+        "name": "Dr. Reddy's",
+        "code": "RDY",
+        "country": "India",
+        "rank": 471
+    },
+    {
+        "name": "Tata Consumer Products",
+        "code": "TATACONSUM.NS",
+        "country": "India",
+        "rank": 472
+    },
+    {
+        "name": "Havells India",
+        "code": "HAVELLS.NS",
+        "country": "India",
+        "rank": 473
+    },
+    {
+        "name": "SRF Limited",
+        "code": "SRF.NS",
+        "country": "India",
+        "rank": 474
+    },
+    {
+        "name": "Tata Power",
+        "code": "TATAPOWER.NS",
+        "country": "India",
+        "rank": 475
+    },
+    {
+        "name": "Marico",
+        "code": "MARICO.NS",
+        "country": "India",
+        "rank": 476
+    },
+    {
+        "name": "ICICI Prulife",
+        "code": "ICICIPRULI.NS",
+        "country": "India",
+        "rank": 477
+    },
+    {
+        "name": "Apollo Hospitals",
+        "code": "APOLLOHOSP.NS",
+        "country": "India",
+        "rank": 478
+    },
+    {
+        "name": "GAIL",
+        "code": "GAIL.NS",
+        "country": "India",
+        "rank": 479
+    },
+    {
+        "name": "Punjab National Bank",
+        "code": "PNB.NS",
+        "country": "India",
+        "rank": 480
+    },
+    {
+        "name": "Yes Bank",
+        "code": "YESBANK.NS",
+        "country": "India",
+        "rank": 481
+    },
+    {
+        "name": "Bajaj Holdings & Investment",
+        "code": "BAJAJHLDNG.NS",
+        "country": "India",
+        "rank": 482
+    },
+    {
+        "name": "United Spirits",
+        "code": "UNITDSPR.BO",
+        "country": "India",
+        "rank": 483
+    },
+    {
+        "name": "ICICI Lombard",
+        "code": "ICICIGI.NS",
+        "country": "India",
+        "rank": 484
+    },
+    {
+        "name": "Canara Bank",
+        "code": "CANBK.NS",
+        "country": "India",
+        "rank": 485
+    },
+    {
+        "name": "Jindal Steel & Power",
+        "code": "JINDALSTEL.NS",
+        "country": "India",
+        "rank": 486
+    },
+    {
+        "name": "Indian Overseas Bank",
+        "code": "IOB.NS",
+        "country": "India",
+        "rank": 487
+    },
+    {
+        "name": "Cholamandalam Investment and Finance",
+        "code": "CHOLAFIN.NS",
+        "country": "India",
+        "rank": 488
+    },
+    {
+        "name": "IDBI Bank",
+        "code": "IDBI.NS",
+        "country": "India",
+        "rank": 489
+    },
+    {
+        "name": "ABB India",
+        "code": "ABB.NS",
+        "country": "India",
+        "rank": 490
+    },
+    {
+        "name": "Mindtree",
+        "code": "MINDTREE.NS",
+        "country": "India",
+        "rank": 491
+    },
+    {
+        "name": "Berger Paints",
+        "code": "BERGEPAINT.NS",
+        "country": "India",
+        "rank": 492
+    },
+    {
+        "name": "Union Bank of India",
+        "code": "UNIONBANK.NS",
+        "country": "India",
+        "rank": 493
+    },
+    {
+        "name": "Hero MotoCorp",
+        "code": "HEROMOTOCO.NS",
+        "country": "India",
+        "rank": 494
+    },
+    {
+        "name": "UPL",
+        "code": "UPL.NS",
+        "country": "India",
+        "rank": 495
+    },
+    {
+        "name": "Tube Investments of India",
+        "code": "TIINDIA.NS",
+        "country": "India",
+        "rank": 496
+    },
+    {
+        "name": "Lodha Group",
+        "code": "LODHA.NS",
+        "country": "India",
+        "rank": 497
+    },
+    {
+        "name": "Torrent Pharmaceuticals",
+        "code": "TORNTPHARM.NS",
+        "country": "India",
+        "rank": 498
+    },
+    {
+        "name": "PI Industries",
+        "code": "PIIND.NS",
+        "country": "India",
+        "rank": 499
+    },
+    {
+        "name": "Zomato",
+        "code": "ZOMATO.NS",
+        "country": "India",
+        "rank": 500
+    },
+    {
+        "name": "Reliance Industries",
+        "code": "RELIANCE.NS",
+        "country": "India",
+        "rank": 501
+    },
+    {
+        "name": "Tata Consultancy Services",
+        "code": "TCS.NS",
+        "country": "India",
+        "rank": 502
+    },
+    {
+        "name": "HDFC Bank",
+        "code": "HDB",
+        "country": "India",
+        "rank": 503
+    },
+    {
+        "name": "ICICI Bank",
+        "code": "IBN",
+        "country": "India",
+        "rank": 504
+    },
+    {
+        "name": "Infosys",
+        "code": "INFY",
+        "country": "India",
+        "rank": 505
+    },
+    {
+        "name": "Hindustan Unilever",
+        "code": "HINDUNILVR.NS",
+        "country": "India",
+        "rank": 506
+    },
+    {
+        "name": "State Bank of India",
+        "code": "SBIN.NS",
+        "country": "India",
+        "rank": 507
+    },
+    {
+        "name": "Housing Development Finance Corporation",
+        "code": "HDFC.NS",
+        "country": "India",
+        "rank": 508
+    },
+    {
+        "name": "Bharti Airtel",
+        "code": "BHARTIARTL.NS",
+        "country": "India",
+        "rank": 509
+    },
+    {
+        "name": "Life Insurance Corporation of India (LIC)",
+        "code": "LICI.NS",
+        "country": "India",
+        "rank": 510
+    },
+    {
+        "name": "Adani Enterprises",
+        "code": "ADANIENT.NS",
+        "country": "India",
+        "rank": 511
+    },
+    {
+        "name": "ITC",
+        "code": "ITC.NS",
+        "country": "India",
+        "rank": 512
+    },
+    {
+        "name": "Bajaj Finance",
+        "code": "BAJFINANCE.NS",
+        "country": "India",
+        "rank": 513
+    },
+    {
+        "name": "Adani Total Gas",
+        "code": "ATGL.NS",
+        "country": "India",
+        "rank": 514
+    },
+    {
+        "name": "Kotak Mahindra Bank",
+        "code": "KOTAKBANK.NS",
+        "country": "India",
+        "rank": 515
+    },
+    {
+        "name": "Adani Green Energy",
+        "code": "ADANIGREEN.NS",
+        "country": "India",
+        "rank": 516
+    },
+    {
+        "name": "Larsen & Toubro",
+        "code": "LT.NS",
+        "country": "India",
+        "rank": 517
+    },
+    {
+        "name": "Asian Paints",
+        "code": "ASIANPAINT.NS",
+        "country": "India",
+        "rank": 518
+    },
+    {
+        "name": "Axis Bank",
+        "code": "AXISBANK.BO",
+        "country": "India",
+        "rank": 519
+    },
+    {
+        "name": "Adani Transmission",
+        "code": "ADANITRANS.NS",
+        "country": "India",
+        "rank": 520
+    },
+    {
+        "name": "HCL Technologies",
+        "code": "HCLTECH.NS",
+        "country": "India",
+        "rank": 521
+    },
+    {
+        "name": "DMart",
+        "code": "DMART.NS",
+        "country": "India",
+        "rank": 522
+    },
+    {
+        "name": "Maruti Suzuki India",
+        "code": "MARUTI.NS",
+        "country": "India",
+        "rank": 523
+    },
+    {
+        "name": "Bajaj Finserv",
+        "code": "BAJAJFINSV.NS",
+        "country": "India",
+        "rank": 524
+    },
+    {
+        "name": "Sun Pharmaceutical",
+        "code": "SUNPHARMA.NS",
+        "country": "India",
+        "rank": 525
+    },
+    {
+        "name": "Titan Company",
+        "code": "TITAN.NS",
+        "country": "India",
+        "rank": 526
+    },
+    {
+        "name": "Wipro",
+        "code": "WIT",
+        "country": "India",
+        "rank": 527
+    },
+    {
+        "name": "UltraTech Cement",
+        "code": "ULTRACEMCO.NS",
+        "country": "India",
+        "rank": 528
+    },
+    {
+        "name": "Oil & Natural Gas",
+        "code": "ONGC.NS",
+        "country": "India",
+        "rank": 529
+    },
+    {
+        "name": "Nestl\u00e9 India",
+        "code": "NESTLEIND.NS",
+        "country": "India",
+        "rank": 530
+    },
+    {
+        "name": "JSW Steel",
+        "code": "JSWSTEEL.NS",
+        "country": "India",
+        "rank": 531
+    },
+    {
+        "name": "Adani Ports & SEZ",
+        "code": "ADANIPORTS.NS",
+        "country": "India",
+        "rank": 532
+    },
+    {
+        "name": "NTPC Limited",
+        "code": "NTPC.NS",
+        "country": "India",
+        "rank": 533
+    },
+    {
+        "name": "Mahindra & Mahindra",
+        "code": "M&M.NS",
+        "country": "India",
+        "rank": 534
+    },
+    {
+        "name": "Powergrid Corporation of India",
+        "code": "POWERGRID.NS",
+        "country": "India",
+        "rank": 535
+    },
+    {
+        "name": "Tata Motors",
+        "code": "TTM",
+        "country": "India",
+        "rank": 536
+    },
+    {
+        "name": "Tata Steel",
+        "code": "TATASTEEL.NS",
+        "country": "India",
+        "rank": 537
+    },
+    {
+        "name": "Coal India",
+        "code": "COALINDIA.NS",
+        "country": "India",
+        "rank": 538
+    },
+    {
+        "name": "Hindustan Zinc",
+        "code": "HINDZINC.NS",
+        "country": "India",
+        "rank": 539
+    },
+    {
+        "name": "Pidilite",
+        "code": "PIDILITIND.NS",
+        "country": "India",
+        "rank": 540
+    },
+    {
+        "name": "SBI Life Insurance",
+        "code": "SBILIFE.NS",
+        "country": "India",
+        "rank": 541
+    },
+    {
+        "name": "HDFC Life",
+        "code": "HDFCLIFE.NS",
+        "country": "India",
+        "rank": 542
+    },
+    {
+        "name": "Vedanta",
+        "code": "VEDL.NS",
+        "country": "India",
+        "rank": 543
+    },
+    {
+        "name": "Adani Power",
+        "code": "ADANIPOWER.NS",
+        "country": "India",
+        "rank": 544
+    },
+    {
+        "name": "Grasim Industries",
+        "code": "GRASIM.NS",
+        "country": "India",
+        "rank": 545
+    },
+    {
+        "name": "Indian Oil",
+        "code": "IOC.NS",
+        "country": "India",
+        "rank": 546
+    },
+    {
+        "name": "Hindalco Industries",
+        "code": "HINDALCO.NS",
+        "country": "India",
+        "rank": 547
+    },
+    {
+        "name": "Ambuja Cements",
+        "code": "AMBUJACEM.NS",
+        "country": "India",
+        "rank": 548
+    },
+    {
+        "name": "Britannia Industries",
+        "code": "BRITANNIA.NS",
+        "country": "India",
+        "rank": 549
+    },
+    {
+        "name": "Bajaj Auto",
+        "code": "BAJAJ-AUTO.NS",
+        "country": "India",
+        "rank": 550
+    },
+    {
+        "name": "Siemens India",
+        "code": "SIEMENS.NS",
+        "country": "India",
+        "rank": 551
+    },
+    {
+        "name": "Dabur",
+        "code": "DABUR.NS",
+        "country": "India",
+        "rank": 552
+    },
+    {
+        "name": "Tech Mahindra",
+        "code": "TECHM.NS",
+        "country": "India",
+        "rank": 553
+    },
+    {
+        "name": "Bank of Baroda",
+        "code": "BANKBARODA.NS",
+        "country": "India",
+        "rank": 554
+    },
+    {
+        "name": "IndusInd Bank",
+        "code": "INDUSINDBK.NS",
+        "country": "India",
+        "rank": 555
+    },
+    {
+        "name": "DLF",
+        "code": "DLF.NS",
+        "country": "India",
+        "rank": 556
+    },
+    {
+        "name": "Godrej",
+        "code": "GODREJCP.NS",
+        "country": "India",
+        "rank": 557
+    },
+    {
+        "name": "Divis Laboratories",
+        "code": "DIVISLAB.NS",
+        "country": "India",
+        "rank": 558
+    },
+    {
+        "name": "Larsen & Toubro Infotech",
+        "code": "LTI.BO",
+        "country": "India",
+        "rank": 559
+    },
+    {
+        "name": "Eicher Motors",
+        "code": "EICHERMOT.NS",
+        "country": "India",
+        "rank": 560
+    },
+    {
+        "name": "JSW Energy",
+        "code": "JSWENERGY.NS",
+        "country": "India",
+        "rank": 561
+    },
+    {
+        "name": "Cipla",
+        "code": "CIPLA.NS",
+        "country": "India",
+        "rank": 562
+    },
+    {
+        "name": "Varun Beverages",
+        "code": "VBL.NS",
+        "country": "India",
+        "rank": 563
+    },
+    {
+        "name": "Hindustan Aeronautics",
+        "code": "HAL.NS",
+        "country": "India",
+        "rank": 564
+    },
+    {
+        "name": "Shree Cement",
+        "code": "SHREECEM.NS",
+        "country": "India",
+        "rank": 565
+    },
+    {
+        "name": "InterGlobe Aviation",
+        "code": "INDIGO.NS",
+        "country": "India",
+        "rank": 566
+    },
+    {
+        "name": "Adani Wilmar",
+        "code": "AWL.NS",
+        "country": "India",
+        "rank": 567
+    },
+    {
+        "name": "SBI Card",
+        "code": "SBICARD.NS",
+        "country": "India",
+        "rank": 568
+    },
+    {
+        "name": "Bharat Electronics",
+        "code": "BEL.NS",
+        "country": "India",
+        "rank": 569
+    },
+    {
+        "name": "Bharat Petroleum",
+        "code": "BPCL.NS",
+        "country": "India",
+        "rank": 570
+    },
+    {
+        "name": "Dr. Reddy's",
+        "code": "RDY",
+        "country": "India",
+        "rank": 571
+    },
+    {
+        "name": "Tata Consumer Products",
+        "code": "TATACONSUM.NS",
+        "country": "India",
+        "rank": 572
+    },
+    {
+        "name": "Havells India",
+        "code": "HAVELLS.NS",
+        "country": "India",
+        "rank": 573
+    },
+    {
+        "name": "SRF Limited",
+        "code": "SRF.NS",
+        "country": "India",
+        "rank": 574
+    },
+    {
+        "name": "Tata Power",
+        "code": "TATAPOWER.NS",
+        "country": "India",
+        "rank": 575
+    },
+    {
+        "name": "Marico",
+        "code": "MARICO.NS",
+        "country": "India",
+        "rank": 576
+    },
+    {
+        "name": "ICICI Prulife",
+        "code": "ICICIPRULI.NS",
+        "country": "India",
+        "rank": 577
+    },
+    {
+        "name": "Apollo Hospitals",
+        "code": "APOLLOHOSP.NS",
+        "country": "India",
+        "rank": 578
+    },
+    {
+        "name": "GAIL",
+        "code": "GAIL.NS",
+        "country": "India",
+        "rank": 579
+    },
+    {
+        "name": "Punjab National Bank",
+        "code": "PNB.NS",
+        "country": "India",
+        "rank": 580
+    },
+    {
+        "name": "Yes Bank",
+        "code": "YESBANK.NS",
+        "country": "India",
+        "rank": 581
+    },
+    {
+        "name": "Bajaj Holdings & Investment",
+        "code": "BAJAJHLDNG.NS",
+        "country": "India",
+        "rank": 582
+    },
+    {
+        "name": "United Spirits",
+        "code": "UNITDSPR.BO",
+        "country": "India",
+        "rank": 583
+    },
+    {
+        "name": "ICICI Lombard",
+        "code": "ICICIGI.NS",
+        "country": "India",
+        "rank": 584
+    },
+    {
+        "name": "Canara Bank",
+        "code": "CANBK.NS",
+        "country": "India",
+        "rank": 585
+    },
+    {
+        "name": "Jindal Steel & Power",
+        "code": "JINDALSTEL.NS",
+        "country": "India",
+        "rank": 586
+    },
+    {
+        "name": "Indian Overseas Bank",
+        "code": "IOB.NS",
+        "country": "India",
+        "rank": 587
+    },
+    {
+        "name": "Cholamandalam Investment and Finance",
+        "code": "CHOLAFIN.NS",
+        "country": "India",
+        "rank": 588
+    },
+    {
+        "name": "IDBI Bank",
+        "code": "IDBI.NS",
+        "country": "India",
+        "rank": 589
+    },
+    {
+        "name": "ABB India",
+        "code": "ABB.NS",
+        "country": "India",
+        "rank": 590
+    },
+    {
+        "name": "Mindtree",
+        "code": "MINDTREE.NS",
+        "country": "India",
+        "rank": 591
+    },
+    {
+        "name": "Berger Paints",
+        "code": "BERGEPAINT.NS",
+        "country": "India",
+        "rank": 592
+    },
+    {
+        "name": "Union Bank of India",
+        "code": "UNIONBANK.NS",
+        "country": "India",
+        "rank": 593
+    },
+    {
+        "name": "Hero MotoCorp",
+        "code": "HEROMOTOCO.NS",
+        "country": "India",
+        "rank": 594
+    },
+    {
+        "name": "UPL",
+        "code": "UPL.NS",
+        "country": "India",
+        "rank": 595
+    },
+    {
+        "name": "Tube Investments of India",
+        "code": "TIINDIA.NS",
+        "country": "India",
+        "rank": 596
+    },
+    {
+        "name": "Lodha Group",
+        "code": "LODHA.NS",
+        "country": "India",
+        "rank": 597
+    },
+    {
+        "name": "Torrent Pharmaceuticals",
+        "code": "TORNTPHARM.NS",
+        "country": "India",
+        "rank": 598
+    },
+    {
+        "name": "PI Industries",
+        "code": "PIIND.NS",
+        "country": "India",
+        "rank": 599
+    },
+    {
+        "name": "Zomato",
+        "code": "ZOMATO.NS",
+        "country": "India",
+        "rank": 600
+    },
+    {
+        "name": "Reliance Industries",
+        "code": "RELIANCE.NS",
+        "country": "India",
+        "rank": 601
+    },
+    {
+        "name": "Tata Consultancy Services",
+        "code": "TCS.NS",
+        "country": "India",
+        "rank": 602
+    },
+    {
+        "name": "HDFC Bank",
+        "code": "HDB",
+        "country": "India",
+        "rank": 603
+    },
+    {
+        "name": "ICICI Bank",
+        "code": "IBN",
+        "country": "India",
+        "rank": 604
+    },
+    {
+        "name": "Infosys",
+        "code": "INFY",
+        "country": "India",
+        "rank": 605
+    },
+    {
+        "name": "Hindustan Unilever",
+        "code": "HINDUNILVR.NS",
+        "country": "India",
+        "rank": 606
+    },
+    {
+        "name": "State Bank of India",
+        "code": "SBIN.NS",
+        "country": "India",
+        "rank": 607
+    },
+    {
+        "name": "Housing Development Finance Corporation",
+        "code": "HDFC.NS",
+        "country": "India",
+        "rank": 608
+    },
+    {
+        "name": "Bharti Airtel",
+        "code": "BHARTIARTL.NS",
+        "country": "India",
+        "rank": 609
+    },
+    {
+        "name": "Life Insurance Corporation of India (LIC)",
+        "code": "LICI.NS",
+        "country": "India",
+        "rank": 610
+    },
+    {
+        "name": "Adani Enterprises",
+        "code": "ADANIENT.NS",
+        "country": "India",
+        "rank": 611
+    },
+    {
+        "name": "ITC",
+        "code": "ITC.NS",
+        "country": "India",
+        "rank": 612
+    },
+    {
+        "name": "Bajaj Finance",
+        "code": "BAJFINANCE.NS",
+        "country": "India",
+        "rank": 613
+    },
+    {
+        "name": "Adani Total Gas",
+        "code": "ATGL.NS",
+        "country": "India",
+        "rank": 614
+    },
+    {
+        "name": "Kotak Mahindra Bank",
+        "code": "KOTAKBANK.NS",
+        "country": "India",
+        "rank": 615
+    },
+    {
+        "name": "Adani Green Energy",
+        "code": "ADANIGREEN.NS",
+        "country": "India",
+        "rank": 616
+    },
+    {
+        "name": "Larsen & Toubro",
+        "code": "LT.NS",
+        "country": "India",
+        "rank": 617
+    },
+    {
+        "name": "Asian Paints",
+        "code": "ASIANPAINT.NS",
+        "country": "India",
+        "rank": 618
+    },
+    {
+        "name": "Axis Bank",
+        "code": "AXISBANK.BO",
+        "country": "India",
+        "rank": 619
+    },
+    {
+        "name": "Adani Transmission",
+        "code": "ADANITRANS.NS",
+        "country": "India",
+        "rank": 620
+    },
+    {
+        "name": "HCL Technologies",
+        "code": "HCLTECH.NS",
+        "country": "India",
+        "rank": 621
+    },
+    {
+        "name": "DMart",
+        "code": "DMART.NS",
+        "country": "India",
+        "rank": 622
+    },
+    {
+        "name": "Maruti Suzuki India",
+        "code": "MARUTI.NS",
+        "country": "India",
+        "rank": 623
+    },
+    {
+        "name": "Bajaj Finserv",
+        "code": "BAJAJFINSV.NS",
+        "country": "India",
+        "rank": 624
+    },
+    {
+        "name": "Sun Pharmaceutical",
+        "code": "SUNPHARMA.NS",
+        "country": "India",
+        "rank": 625
+    },
+    {
+        "name": "Titan Company",
+        "code": "TITAN.NS",
+        "country": "India",
+        "rank": 626
+    },
+    {
+        "name": "Wipro",
+        "code": "WIT",
+        "country": "India",
+        "rank": 627
+    },
+    {
+        "name": "UltraTech Cement",
+        "code": "ULTRACEMCO.NS",
+        "country": "India",
+        "rank": 628
+    },
+    {
+        "name": "Oil & Natural Gas",
+        "code": "ONGC.NS",
+        "country": "India",
+        "rank": 629
+    },
+    {
+        "name": "Nestl\u00e9 India",
+        "code": "NESTLEIND.NS",
+        "country": "India",
+        "rank": 630
+    },
+    {
+        "name": "JSW Steel",
+        "code": "JSWSTEEL.NS",
+        "country": "India",
+        "rank": 631
+    },
+    {
+        "name": "Adani Ports & SEZ",
+        "code": "ADANIPORTS.NS",
+        "country": "India",
+        "rank": 632
+    },
+    {
+        "name": "NTPC Limited",
+        "code": "NTPC.NS",
+        "country": "India",
+        "rank": 633
+    },
+    {
+        "name": "Mahindra & Mahindra",
+        "code": "M&M.NS",
+        "country": "India",
+        "rank": 634
+    },
+    {
+        "name": "Powergrid Corporation of India",
+        "code": "POWERGRID.NS",
+        "country": "India",
+        "rank": 635
+    },
+    {
+        "name": "Tata Motors",
+        "code": "TTM",
+        "country": "India",
+        "rank": 636
+    },
+    {
+        "name": "Tata Steel",
+        "code": "TATASTEEL.NS",
+        "country": "India",
+        "rank": 637
+    },
+    {
+        "name": "Coal India",
+        "code": "COALINDIA.NS",
+        "country": "India",
+        "rank": 638
+    },
+    {
+        "name": "Hindustan Zinc",
+        "code": "HINDZINC.NS",
+        "country": "India",
+        "rank": 639
+    },
+    {
+        "name": "Pidilite",
+        "code": "PIDILITIND.NS",
+        "country": "India",
+        "rank": 640
+    },
+    {
+        "name": "SBI Life Insurance",
+        "code": "SBILIFE.NS",
+        "country": "India",
+        "rank": 641
+    },
+    {
+        "name": "HDFC Life",
+        "code": "HDFCLIFE.NS",
+        "country": "India",
+        "rank": 642
+    },
+    {
+        "name": "Vedanta",
+        "code": "VEDL.NS",
+        "country": "India",
+        "rank": 643
+    },
+    {
+        "name": "Adani Power",
+        "code": "ADANIPOWER.NS",
+        "country": "India",
+        "rank": 644
+    },
+    {
+        "name": "Grasim Industries",
+        "code": "GRASIM.NS",
+        "country": "India",
+        "rank": 645
+    },
+    {
+        "name": "Indian Oil",
+        "code": "IOC.NS",
+        "country": "India",
+        "rank": 646
+    },
+    {
+        "name": "Hindalco Industries",
+        "code": "HINDALCO.NS",
+        "country": "India",
+        "rank": 647
+    },
+    {
+        "name": "Ambuja Cements",
+        "code": "AMBUJACEM.NS",
+        "country": "India",
+        "rank": 648
+    },
+    {
+        "name": "Britannia Industries",
+        "code": "BRITANNIA.NS",
+        "country": "India",
+        "rank": 649
+    },
+    {
+        "name": "Bajaj Auto",
+        "code": "BAJAJ-AUTO.NS",
+        "country": "India",
+        "rank": 650
+    },
+    {
+        "name": "Siemens India",
+        "code": "SIEMENS.NS",
+        "country": "India",
+        "rank": 651
+    },
+    {
+        "name": "Dabur",
+        "code": "DABUR.NS",
+        "country": "India",
+        "rank": 652
+    },
+    {
+        "name": "Tech Mahindra",
+        "code": "TECHM.NS",
+        "country": "India",
+        "rank": 653
+    },
+    {
+        "name": "Bank of Baroda",
+        "code": "BANKBARODA.NS",
+        "country": "India",
+        "rank": 654
+    },
+    {
+        "name": "IndusInd Bank",
+        "code": "INDUSINDBK.NS",
+        "country": "India",
+        "rank": 655
+    },
+    {
+        "name": "DLF",
+        "code": "DLF.NS",
+        "country": "India",
+        "rank": 656
+    },
+    {
+        "name": "Godrej",
+        "code": "GODREJCP.NS",
+        "country": "India",
+        "rank": 657
+    },
+    {
+        "name": "Divis Laboratories",
+        "code": "DIVISLAB.NS",
+        "country": "India",
+        "rank": 658
+    },
+    {
+        "name": "Larsen & Toubro Infotech",
+        "code": "LTI.BO",
+        "country": "India",
+        "rank": 659
+    },
+    {
+        "name": "Eicher Motors",
+        "code": "EICHERMOT.NS",
+        "country": "India",
+        "rank": 660
+    },
+    {
+        "name": "JSW Energy",
+        "code": "JSWENERGY.NS",
+        "country": "India",
+        "rank": 661
+    },
+    {
+        "name": "Cipla",
+        "code": "CIPLA.NS",
+        "country": "India",
+        "rank": 662
+    },
+    {
+        "name": "Varun Beverages",
+        "code": "VBL.NS",
+        "country": "India",
+        "rank": 663
+    },
+    {
+        "name": "Hindustan Aeronautics",
+        "code": "HAL.NS",
+        "country": "India",
+        "rank": 664
+    },
+    {
+        "name": "Shree Cement",
+        "code": "SHREECEM.NS",
+        "country": "India",
+        "rank": 665
+    },
+    {
+        "name": "InterGlobe Aviation",
+        "code": "INDIGO.NS",
+        "country": "India",
+        "rank": 666
+    },
+    {
+        "name": "Adani Wilmar",
+        "code": "AWL.NS",
+        "country": "India",
+        "rank": 667
+    },
+    {
+        "name": "SBI Card",
+        "code": "SBICARD.NS",
+        "country": "India",
+        "rank": 668
+    },
+    {
+        "name": "Bharat Electronics",
+        "code": "BEL.NS",
+        "country": "India",
+        "rank": 669
+    },
+    {
+        "name": "Bharat Petroleum",
+        "code": "BPCL.NS",
+        "country": "India",
+        "rank": 670
+    },
+    {
+        "name": "Dr. Reddy's",
+        "code": "RDY",
+        "country": "India",
+        "rank": 671
+    },
+    {
+        "name": "Tata Consumer Products",
+        "code": "TATACONSUM.NS",
+        "country": "India",
+        "rank": 672
+    },
+    {
+        "name": "Havells India",
+        "code": "HAVELLS.NS",
+        "country": "India",
+        "rank": 673
+    },
+    {
+        "name": "SRF Limited",
+        "code": "SRF.NS",
+        "country": "India",
+        "rank": 674
+    },
+    {
+        "name": "Tata Power",
+        "code": "TATAPOWER.NS",
+        "country": "India",
+        "rank": 675
+    },
+    {
+        "name": "Marico",
+        "code": "MARICO.NS",
+        "country": "India",
+        "rank": 676
+    },
+    {
+        "name": "ICICI Prulife",
+        "code": "ICICIPRULI.NS",
+        "country": "India",
+        "rank": 677
+    },
+    {
+        "name": "Apollo Hospitals",
+        "code": "APOLLOHOSP.NS",
+        "country": "India",
+        "rank": 678
+    },
+    {
+        "name": "GAIL",
+        "code": "GAIL.NS",
+        "country": "India",
+        "rank": 679
+    },
+    {
+        "name": "Punjab National Bank",
+        "code": "PNB.NS",
+        "country": "India",
+        "rank": 680
+    },
+    {
+        "name": "Yes Bank",
+        "code": "YESBANK.NS",
+        "country": "India",
+        "rank": 681
+    },
+    {
+        "name": "Bajaj Holdings & Investment",
+        "code": "BAJAJHLDNG.NS",
+        "country": "India",
+        "rank": 682
+    },
+    {
+        "name": "United Spirits",
+        "code": "UNITDSPR.BO",
+        "country": "India",
+        "rank": 683
+    },
+    {
+        "name": "ICICI Lombard",
+        "code": "ICICIGI.NS",
+        "country": "India",
+        "rank": 684
+    },
+    {
+        "name": "Canara Bank",
+        "code": "CANBK.NS",
+        "country": "India",
+        "rank": 685
+    },
+    {
+        "name": "Jindal Steel & Power",
+        "code": "JINDALSTEL.NS",
+        "country": "India",
+        "rank": 686
+    },
+    {
+        "name": "Indian Overseas Bank",
+        "code": "IOB.NS",
+        "country": "India",
+        "rank": 687
+    },
+    {
+        "name": "Cholamandalam Investment and Finance",
+        "code": "CHOLAFIN.NS",
+        "country": "India",
+        "rank": 688
+    },
+    {
+        "name": "IDBI Bank",
+        "code": "IDBI.NS",
+        "country": "India",
+        "rank": 689
+    },
+    {
+        "name": "ABB India",
+        "code": "ABB.NS",
+        "country": "India",
+        "rank": 690
+    },
+    {
+        "name": "Mindtree",
+        "code": "MINDTREE.NS",
+        "country": "India",
+        "rank": 691
+    },
+    {
+        "name": "Berger Paints",
+        "code": "BERGEPAINT.NS",
+        "country": "India",
+        "rank": 692
+    },
+    {
+        "name": "Union Bank of India",
+        "code": "UNIONBANK.NS",
+        "country": "India",
+        "rank": 693
+    },
+    {
+        "name": "Hero MotoCorp",
+        "code": "HEROMOTOCO.NS",
+        "country": "India",
+        "rank": 694
+    },
+    {
+        "name": "UPL",
+        "code": "UPL.NS",
+        "country": "India",
+        "rank": 695
+    },
+    {
+        "name": "Tube Investments of India",
+        "code": "TIINDIA.NS",
+        "country": "India",
+        "rank": 696
+    },
+    {
+        "name": "Lodha Group",
+        "code": "LODHA.NS",
+        "country": "India",
+        "rank": 697
+    },
+    {
+        "name": "Torrent Pharmaceuticals",
+        "code": "TORNTPHARM.NS",
+        "country": "India",
+        "rank": 698
+    },
+    {
+        "name": "PI Industries",
+        "code": "PIIND.NS",
+        "country": "India",
+        "rank": 699
+    },
+    {
+        "name": "Zomato",
+        "code": "ZOMATO.NS",
+        "country": "India",
+        "rank": 700
+    },
+    {
+        "name": "Reliance Industries",
+        "code": "RELIANCE.NS",
+        "country": "India",
+        "rank": 701
+    },
+    {
+        "name": "Tata Consultancy Services",
+        "code": "TCS.NS",
+        "country": "India",
+        "rank": 702
+    },
+    {
+        "name": "HDFC Bank",
+        "code": "HDB",
+        "country": "India",
+        "rank": 703
+    },
+    {
+        "name": "ICICI Bank",
+        "code": "IBN",
+        "country": "India",
+        "rank": 704
+    },
+    {
+        "name": "Infosys",
+        "code": "INFY",
+        "country": "India",
+        "rank": 705
+    },
+    {
+        "name": "Hindustan Unilever",
+        "code": "HINDUNILVR.NS",
+        "country": "India",
+        "rank": 706
+    },
+    {
+        "name": "State Bank of India",
+        "code": "SBIN.NS",
+        "country": "India",
+        "rank": 707
+    },
+    {
+        "name": "Housing Development Finance Corporation",
+        "code": "HDFC.NS",
+        "country": "India",
+        "rank": 708
+    },
+    {
+        "name": "Bharti Airtel",
+        "code": "BHARTIARTL.NS",
+        "country": "India",
+        "rank": 709
+    },
+    {
+        "name": "Life Insurance Corporation of India (LIC)",
+        "code": "LICI.NS",
+        "country": "India",
+        "rank": 710
+    },
+    {
+        "name": "Adani Enterprises",
+        "code": "ADANIENT.NS",
+        "country": "India",
+        "rank": 711
+    },
+    {
+        "name": "ITC",
+        "code": "ITC.NS",
+        "country": "India",
+        "rank": 712
+    },
+    {
+        "name": "Bajaj Finance",
+        "code": "BAJFINANCE.NS",
+        "country": "India",
+        "rank": 713
+    },
+    {
+        "name": "Adani Total Gas",
+        "code": "ATGL.NS",
+        "country": "India",
+        "rank": 714
+    },
+    {
+        "name": "Kotak Mahindra Bank",
+        "code": "KOTAKBANK.NS",
+        "country": "India",
+        "rank": 715
+    },
+    {
+        "name": "Adani Green Energy",
+        "code": "ADANIGREEN.NS",
+        "country": "India",
+        "rank": 716
+    },
+    {
+        "name": "Larsen & Toubro",
+        "code": "LT.NS",
+        "country": "India",
+        "rank": 717
+    },
+    {
+        "name": "Asian Paints",
+        "code": "ASIANPAINT.NS",
+        "country": "India",
+        "rank": 718
+    },
+    {
+        "name": "Axis Bank",
+        "code": "AXISBANK.BO",
+        "country": "India",
+        "rank": 719
+    },
+    {
+        "name": "Adani Transmission",
+        "code": "ADANITRANS.NS",
+        "country": "India",
+        "rank": 720
+    },
+    {
+        "name": "HCL Technologies",
+        "code": "HCLTECH.NS",
+        "country": "India",
+        "rank": 721
+    },
+    {
+        "name": "DMart",
+        "code": "DMART.NS",
+        "country": "India",
+        "rank": 722
+    },
+    {
+        "name": "Maruti Suzuki India",
+        "code": "MARUTI.NS",
+        "country": "India",
+        "rank": 723
+    },
+    {
+        "name": "Bajaj Finserv",
+        "code": "BAJAJFINSV.NS",
+        "country": "India",
+        "rank": 724
+    },
+    {
+        "name": "Sun Pharmaceutical",
+        "code": "SUNPHARMA.NS",
+        "country": "India",
+        "rank": 725
+    },
+    {
+        "name": "Titan Company",
+        "code": "TITAN.NS",
+        "country": "India",
+        "rank": 726
+    },
+    {
+        "name": "Wipro",
+        "code": "WIT",
+        "country": "India",
+        "rank": 727
+    },
+    {
+        "name": "UltraTech Cement",
+        "code": "ULTRACEMCO.NS",
+        "country": "India",
+        "rank": 728
+    },
+    {
+        "name": "Oil & Natural Gas",
+        "code": "ONGC.NS",
+        "country": "India",
+        "rank": 729
+    },
+    {
+        "name": "Nestl\u00e9 India",
+        "code": "NESTLEIND.NS",
+        "country": "India",
+        "rank": 730
+    },
+    {
+        "name": "JSW Steel",
+        "code": "JSWSTEEL.NS",
+        "country": "India",
+        "rank": 731
+    },
+    {
+        "name": "Adani Ports & SEZ",
+        "code": "ADANIPORTS.NS",
+        "country": "India",
+        "rank": 732
+    },
+    {
+        "name": "NTPC Limited",
+        "code": "NTPC.NS",
+        "country": "India",
+        "rank": 733
+    },
+    {
+        "name": "Mahindra & Mahindra",
+        "code": "M&M.NS",
+        "country": "India",
+        "rank": 734
+    },
+    {
+        "name": "Powergrid Corporation of India",
+        "code": "POWERGRID.NS",
+        "country": "India",
+        "rank": 735
+    },
+    {
+        "name": "Tata Motors",
+        "code": "TTM",
+        "country": "India",
+        "rank": 736
+    },
+    {
+        "name": "Tata Steel",
+        "code": "TATASTEEL.NS",
+        "country": "India",
+        "rank": 737
+    },
+    {
+        "name": "Coal India",
+        "code": "COALINDIA.NS",
+        "country": "India",
+        "rank": 738
+    },
+    {
+        "name": "Hindustan Zinc",
+        "code": "HINDZINC.NS",
+        "country": "India",
+        "rank": 739
+    },
+    {
+        "name": "Pidilite",
+        "code": "PIDILITIND.NS",
+        "country": "India",
+        "rank": 740
+    },
+    {
+        "name": "SBI Life Insurance",
+        "code": "SBILIFE.NS",
+        "country": "India",
+        "rank": 741
+    },
+    {
+        "name": "HDFC Life",
+        "code": "HDFCLIFE.NS",
+        "country": "India",
+        "rank": 742
+    },
+    {
+        "name": "Vedanta",
+        "code": "VEDL.NS",
+        "country": "India",
+        "rank": 743
+    },
+    {
+        "name": "Adani Power",
+        "code": "ADANIPOWER.NS",
+        "country": "India",
+        "rank": 744
+    },
+    {
+        "name": "Grasim Industries",
+        "code": "GRASIM.NS",
+        "country": "India",
+        "rank": 745
+    },
+    {
+        "name": "Indian Oil",
+        "code": "IOC.NS",
+        "country": "India",
+        "rank": 746
+    },
+    {
+        "name": "Hindalco Industries",
+        "code": "HINDALCO.NS",
+        "country": "India",
+        "rank": 747
+    },
+    {
+        "name": "Ambuja Cements",
+        "code": "AMBUJACEM.NS",
+        "country": "India",
+        "rank": 748
+    },
+    {
+        "name": "Britannia Industries",
+        "code": "BRITANNIA.NS",
+        "country": "India",
+        "rank": 749
+    },
+    {
+        "name": "Bajaj Auto",
+        "code": "BAJAJ-AUTO.NS",
+        "country": "India",
+        "rank": 750
+    },
+    {
+        "name": "Siemens India",
+        "code": "SIEMENS.NS",
+        "country": "India",
+        "rank": 751
+    },
+    {
+        "name": "Dabur",
+        "code": "DABUR.NS",
+        "country": "India",
+        "rank": 752
+    },
+    {
+        "name": "Tech Mahindra",
+        "code": "TECHM.NS",
+        "country": "India",
+        "rank": 753
+    },
+    {
+        "name": "Bank of Baroda",
+        "code": "BANKBARODA.NS",
+        "country": "India",
+        "rank": 754
+    },
+    {
+        "name": "IndusInd Bank",
+        "code": "INDUSINDBK.NS",
+        "country": "India",
+        "rank": 755
+    },
+    {
+        "name": "DLF",
+        "code": "DLF.NS",
+        "country": "India",
+        "rank": 756
+    },
+    {
+        "name": "Godrej",
+        "code": "GODREJCP.NS",
+        "country": "India",
+        "rank": 757
+    },
+    {
+        "name": "Divis Laboratories",
+        "code": "DIVISLAB.NS",
+        "country": "India",
+        "rank": 758
+    },
+    {
+        "name": "Larsen & Toubro Infotech",
+        "code": "LTI.BO",
+        "country": "India",
+        "rank": 759
+    },
+    {
+        "name": "Eicher Motors",
+        "code": "EICHERMOT.NS",
+        "country": "India",
+        "rank": 760
+    },
+    {
+        "name": "JSW Energy",
+        "code": "JSWENERGY.NS",
+        "country": "India",
+        "rank": 761
+    },
+    {
+        "name": "Cipla",
+        "code": "CIPLA.NS",
+        "country": "India",
+        "rank": 762
+    },
+    {
+        "name": "Varun Beverages",
+        "code": "VBL.NS",
+        "country": "India",
+        "rank": 763
+    },
+    {
+        "name": "Hindustan Aeronautics",
+        "code": "HAL.NS",
+        "country": "India",
+        "rank": 764
+    },
+    {
+        "name": "Shree Cement",
+        "code": "SHREECEM.NS",
+        "country": "India",
+        "rank": 765
+    },
+    {
+        "name": "InterGlobe Aviation",
+        "code": "INDIGO.NS",
+        "country": "India",
+        "rank": 766
+    },
+    {
+        "name": "Adani Wilmar",
+        "code": "AWL.NS",
+        "country": "India",
+        "rank": 767
+    },
+    {
+        "name": "SBI Card",
+        "code": "SBICARD.NS",
+        "country": "India",
+        "rank": 768
+    },
+    {
+        "name": "Bharat Electronics",
+        "code": "BEL.NS",
+        "country": "India",
+        "rank": 769
+    },
+    {
+        "name": "Bharat Petroleum",
+        "code": "BPCL.NS",
+        "country": "India",
+        "rank": 770
+    },
+    {
+        "name": "Dr. Reddy's",
+        "code": "RDY",
+        "country": "India",
+        "rank": 771
+    },
+    {
+        "name": "Tata Consumer Products",
+        "code": "TATACONSUM.NS",
+        "country": "India",
+        "rank": 772
+    },
+    {
+        "name": "Havells India",
+        "code": "HAVELLS.NS",
+        "country": "India",
+        "rank": 773
+    },
+    {
+        "name": "SRF Limited",
+        "code": "SRF.NS",
+        "country": "India",
+        "rank": 774
+    },
+    {
+        "name": "Tata Power",
+        "code": "TATAPOWER.NS",
+        "country": "India",
+        "rank": 775
+    },
+    {
+        "name": "Marico",
+        "code": "MARICO.NS",
+        "country": "India",
+        "rank": 776
+    },
+    {
+        "name": "ICICI Prulife",
+        "code": "ICICIPRULI.NS",
+        "country": "India",
+        "rank": 777
+    },
+    {
+        "name": "Apollo Hospitals",
+        "code": "APOLLOHOSP.NS",
+        "country": "India",
+        "rank": 778
+    },
+    {
+        "name": "GAIL",
+        "code": "GAIL.NS",
+        "country": "India",
+        "rank": 779
+    },
+    {
+        "name": "Punjab National Bank",
+        "code": "PNB.NS",
+        "country": "India",
+        "rank": 780
+    },
+    {
+        "name": "Yes Bank",
+        "code": "YESBANK.NS",
+        "country": "India",
+        "rank": 781
+    },
+    {
+        "name": "Bajaj Holdings & Investment",
+        "code": "BAJAJHLDNG.NS",
+        "country": "India",
+        "rank": 782
+    },
+    {
+        "name": "United Spirits",
+        "code": "UNITDSPR.BO",
+        "country": "India",
+        "rank": 783
+    },
+    {
+        "name": "ICICI Lombard",
+        "code": "ICICIGI.NS",
+        "country": "India",
+        "rank": 784
+    },
+    {
+        "name": "Canara Bank",
+        "code": "CANBK.NS",
+        "country": "India",
+        "rank": 785
+    },
+    {
+        "name": "Jindal Steel & Power",
+        "code": "JINDALSTEL.NS",
+        "country": "India",
+        "rank": 786
+    },
+    {
+        "name": "Indian Overseas Bank",
+        "code": "IOB.NS",
+        "country": "India",
+        "rank": 787
+    },
+    {
+        "name": "Cholamandalam Investment and Finance",
+        "code": "CHOLAFIN.NS",
+        "country": "India",
+        "rank": 788
+    },
+    {
+        "name": "IDBI Bank",
+        "code": "IDBI.NS",
+        "country": "India",
+        "rank": 789
+    },
+    {
+        "name": "ABB India",
+        "code": "ABB.NS",
+        "country": "India",
+        "rank": 790
+    },
+    {
+        "name": "Mindtree",
+        "code": "MINDTREE.NS",
+        "country": "India",
+        "rank": 791
+    },
+    {
+        "name": "Berger Paints",
+        "code": "BERGEPAINT.NS",
+        "country": "India",
+        "rank": 792
+    },
+    {
+        "name": "Union Bank of India",
+        "code": "UNIONBANK.NS",
+        "country": "India",
+        "rank": 793
+    },
+    {
+        "name": "Hero MotoCorp",
+        "code": "HEROMOTOCO.NS",
+        "country": "India",
+        "rank": 794
+    },
+    {
+        "name": "UPL",
+        "code": "UPL.NS",
+        "country": "India",
+        "rank": 795
+    },
+    {
+        "name": "Tube Investments of India",
+        "code": "TIINDIA.NS",
+        "country": "India",
+        "rank": 796
+    },
+    {
+        "name": "Lodha Group",
+        "code": "LODHA.NS",
+        "country": "India",
+        "rank": 797
+    },
+    {
+        "name": "Torrent Pharmaceuticals",
+        "code": "TORNTPHARM.NS",
+        "country": "India",
+        "rank": 798
+    },
+    {
+        "name": "PI Industries",
+        "code": "PIIND.NS",
+        "country": "India",
+        "rank": 799
+    },
+    {
+        "name": "Zomato",
+        "code": "ZOMATO.NS",
+        "country": "India",
+        "rank": 800
+    },
+    {
+        "name": "Reliance Industries",
+        "code": "RELIANCE.NS",
+        "country": "India",
+        "rank": 801
+    },
+    {
+        "name": "Tata Consultancy Services",
+        "code": "TCS.NS",
+        "country": "India",
+        "rank": 802
+    },
+    {
+        "name": "HDFC Bank",
+        "code": "HDB",
+        "country": "India",
+        "rank": 803
+    },
+    {
+        "name": "ICICI Bank",
+        "code": "IBN",
+        "country": "India",
+        "rank": 804
+    },
+    {
+        "name": "Infosys",
+        "code": "INFY",
+        "country": "India",
+        "rank": 805
+    },
+    {
+        "name": "Hindustan Unilever",
+        "code": "HINDUNILVR.NS",
+        "country": "India",
+        "rank": 806
+    },
+    {
+        "name": "State Bank of India",
+        "code": "SBIN.NS",
+        "country": "India",
+        "rank": 807
+    },
+    {
+        "name": "Housing Development Finance Corporation",
+        "code": "HDFC.NS",
+        "country": "India",
+        "rank": 808
+    },
+    {
+        "name": "Bharti Airtel",
+        "code": "BHARTIARTL.NS",
+        "country": "India",
+        "rank": 809
+    },
+    {
+        "name": "Life Insurance Corporation of India (LIC)",
+        "code": "LICI.NS",
+        "country": "India",
+        "rank": 810
+    },
+    {
+        "name": "Adani Enterprises",
+        "code": "ADANIENT.NS",
+        "country": "India",
+        "rank": 811
+    },
+    {
+        "name": "ITC",
+        "code": "ITC.NS",
+        "country": "India",
+        "rank": 812
+    },
+    {
+        "name": "Bajaj Finance",
+        "code": "BAJFINANCE.NS",
+        "country": "India",
+        "rank": 813
+    },
+    {
+        "name": "Adani Total Gas",
+        "code": "ATGL.NS",
+        "country": "India",
+        "rank": 814
+    },
+    {
+        "name": "Kotak Mahindra Bank",
+        "code": "KOTAKBANK.NS",
+        "country": "India",
+        "rank": 815
+    },
+    {
+        "name": "Adani Green Energy",
+        "code": "ADANIGREEN.NS",
+        "country": "India",
+        "rank": 816
+    },
+    {
+        "name": "Larsen & Toubro",
+        "code": "LT.NS",
+        "country": "India",
+        "rank": 817
+    },
+    {
+        "name": "Asian Paints",
+        "code": "ASIANPAINT.NS",
+        "country": "India",
+        "rank": 818
+    },
+    {
+        "name": "Axis Bank",
+        "code": "AXISBANK.BO",
+        "country": "India",
+        "rank": 819
+    },
+    {
+        "name": "Adani Transmission",
+        "code": "ADANITRANS.NS",
+        "country": "India",
+        "rank": 820
+    },
+    {
+        "name": "HCL Technologies",
+        "code": "HCLTECH.NS",
+        "country": "India",
+        "rank": 821
+    },
+    {
+        "name": "DMart",
+        "code": "DMART.NS",
+        "country": "India",
+        "rank": 822
+    },
+    {
+        "name": "Maruti Suzuki India",
+        "code": "MARUTI.NS",
+        "country": "India",
+        "rank": 823
+    },
+    {
+        "name": "Bajaj Finserv",
+        "code": "BAJAJFINSV.NS",
+        "country": "India",
+        "rank": 824
+    },
+    {
+        "name": "Sun Pharmaceutical",
+        "code": "SUNPHARMA.NS",
+        "country": "India",
+        "rank": 825
+    },
+    {
+        "name": "Titan Company",
+        "code": "TITAN.NS",
+        "country": "India",
+        "rank": 826
+    },
+    {
+        "name": "Wipro",
+        "code": "WIT",
+        "country": "India",
+        "rank": 827
+    },
+    {
+        "name": "UltraTech Cement",
+        "code": "ULTRACEMCO.NS",
+        "country": "India",
+        "rank": 828
+    },
+    {
+        "name": "Oil & Natural Gas",
+        "code": "ONGC.NS",
+        "country": "India",
+        "rank": 829
+    },
+    {
+        "name": "Nestl\u00e9 India",
+        "code": "NESTLEIND.NS",
+        "country": "India",
+        "rank": 830
+    },
+    {
+        "name": "JSW Steel",
+        "code": "JSWSTEEL.NS",
+        "country": "India",
+        "rank": 831
+    },
+    {
+        "name": "Adani Ports & SEZ",
+        "code": "ADANIPORTS.NS",
+        "country": "India",
+        "rank": 832
+    },
+    {
+        "name": "NTPC Limited",
+        "code": "NTPC.NS",
+        "country": "India",
+        "rank": 833
+    },
+    {
+        "name": "Mahindra & Mahindra",
+        "code": "M&M.NS",
+        "country": "India",
+        "rank": 834
+    },
+    {
+        "name": "Powergrid Corporation of India",
+        "code": "POWERGRID.NS",
+        "country": "India",
+        "rank": 835
+    },
+    {
+        "name": "Tata Motors",
+        "code": "TTM",
+        "country": "India",
+        "rank": 836
+    },
+    {
+        "name": "Tata Steel",
+        "code": "TATASTEEL.NS",
+        "country": "India",
+        "rank": 837
+    },
+    {
+        "name": "Coal India",
+        "code": "COALINDIA.NS",
+        "country": "India",
+        "rank": 838
+    },
+    {
+        "name": "Hindustan Zinc",
+        "code": "HINDZINC.NS",
+        "country": "India",
+        "rank": 839
+    },
+    {
+        "name": "Pidilite",
+        "code": "PIDILITIND.NS",
+        "country": "India",
+        "rank": 840
+    },
+    {
+        "name": "SBI Life Insurance",
+        "code": "SBILIFE.NS",
+        "country": "India",
+        "rank": 841
+    },
+    {
+        "name": "HDFC Life",
+        "code": "HDFCLIFE.NS",
+        "country": "India",
+        "rank": 842
+    },
+    {
+        "name": "Vedanta",
+        "code": "VEDL.NS",
+        "country": "India",
+        "rank": 843
+    },
+    {
+        "name": "Adani Power",
+        "code": "ADANIPOWER.NS",
+        "country": "India",
+        "rank": 844
+    },
+    {
+        "name": "Grasim Industries",
+        "code": "GRASIM.NS",
+        "country": "India",
+        "rank": 845
+    },
+    {
+        "name": "Indian Oil",
+        "code": "IOC.NS",
+        "country": "India",
+        "rank": 846
+    },
+    {
+        "name": "Hindalco Industries",
+        "code": "HINDALCO.NS",
+        "country": "India",
+        "rank": 847
+    },
+    {
+        "name": "Ambuja Cements",
+        "code": "AMBUJACEM.NS",
+        "country": "India",
+        "rank": 848
+    },
+    {
+        "name": "Britannia Industries",
+        "code": "BRITANNIA.NS",
+        "country": "India",
+        "rank": 849
+    },
+    {
+        "name": "Bajaj Auto",
+        "code": "BAJAJ-AUTO.NS",
+        "country": "India",
+        "rank": 850
+    },
+    {
+        "name": "Siemens India",
+        "code": "SIEMENS.NS",
+        "country": "India",
+        "rank": 851
+    },
+    {
+        "name": "Dabur",
+        "code": "DABUR.NS",
+        "country": "India",
+        "rank": 852
+    },
+    {
+        "name": "Tech Mahindra",
+        "code": "TECHM.NS",
+        "country": "India",
+        "rank": 853
+    },
+    {
+        "name": "Bank of Baroda",
+        "code": "BANKBARODA.NS",
+        "country": "India",
+        "rank": 854
+    },
+    {
+        "name": "IndusInd Bank",
+        "code": "INDUSINDBK.NS",
+        "country": "India",
+        "rank": 855
+    },
+    {
+        "name": "DLF",
+        "code": "DLF.NS",
+        "country": "India",
+        "rank": 856
+    },
+    {
+        "name": "Godrej",
+        "code": "GODREJCP.NS",
+        "country": "India",
+        "rank": 857
+    },
+    {
+        "name": "Divis Laboratories",
+        "code": "DIVISLAB.NS",
+        "country": "India",
+        "rank": 858
+    },
+    {
+        "name": "Larsen & Toubro Infotech",
+        "code": "LTI.BO",
+        "country": "India",
+        "rank": 859
+    },
+    {
+        "name": "Eicher Motors",
+        "code": "EICHERMOT.NS",
+        "country": "India",
+        "rank": 860
+    },
+    {
+        "name": "JSW Energy",
+        "code": "JSWENERGY.NS",
+        "country": "India",
+        "rank": 861
+    },
+    {
+        "name": "Cipla",
+        "code": "CIPLA.NS",
+        "country": "India",
+        "rank": 862
+    },
+    {
+        "name": "Varun Beverages",
+        "code": "VBL.NS",
+        "country": "India",
+        "rank": 863
+    },
+    {
+        "name": "Hindustan Aeronautics",
+        "code": "HAL.NS",
+        "country": "India",
+        "rank": 864
+    },
+    {
+        "name": "Shree Cement",
+        "code": "SHREECEM.NS",
+        "country": "India",
+        "rank": 865
+    },
+    {
+        "name": "InterGlobe Aviation",
+        "code": "INDIGO.NS",
+        "country": "India",
+        "rank": 866
+    },
+    {
+        "name": "Adani Wilmar",
+        "code": "AWL.NS",
+        "country": "India",
+        "rank": 867
+    },
+    {
+        "name": "SBI Card",
+        "code": "SBICARD.NS",
+        "country": "India",
+        "rank": 868
+    },
+    {
+        "name": "Bharat Electronics",
+        "code": "BEL.NS",
+        "country": "India",
+        "rank": 869
+    },
+    {
+        "name": "Bharat Petroleum",
+        "code": "BPCL.NS",
+        "country": "India",
+        "rank": 870
+    },
+    {
+        "name": "Dr. Reddy's",
+        "code": "RDY",
+        "country": "India",
+        "rank": 871
+    },
+    {
+        "name": "Tata Consumer Products",
+        "code": "TATACONSUM.NS",
+        "country": "India",
+        "rank": 872
+    },
+    {
+        "name": "Havells India",
+        "code": "HAVELLS.NS",
+        "country": "India",
+        "rank": 873
+    },
+    {
+        "name": "SRF Limited",
+        "code": "SRF.NS",
+        "country": "India",
+        "rank": 874
+    },
+    {
+        "name": "Tata Power",
+        "code": "TATAPOWER.NS",
+        "country": "India",
+        "rank": 875
+    },
+    {
+        "name": "Marico",
+        "code": "MARICO.NS",
+        "country": "India",
+        "rank": 876
+    },
+    {
+        "name": "ICICI Prulife",
+        "code": "ICICIPRULI.NS",
+        "country": "India",
+        "rank": 877
+    },
+    {
+        "name": "Apollo Hospitals",
+        "code": "APOLLOHOSP.NS",
+        "country": "India",
+        "rank": 878
+    },
+    {
+        "name": "GAIL",
+        "code": "GAIL.NS",
+        "country": "India",
+        "rank": 879
+    },
+    {
+        "name": "Punjab National Bank",
+        "code": "PNB.NS",
+        "country": "India",
+        "rank": 880
+    },
+    {
+        "name": "Yes Bank",
+        "code": "YESBANK.NS",
+        "country": "India",
+        "rank": 881
+    },
+    {
+        "name": "Bajaj Holdings & Investment",
+        "code": "BAJAJHLDNG.NS",
+        "country": "India",
+        "rank": 882
+    },
+    {
+        "name": "United Spirits",
+        "code": "UNITDSPR.BO",
+        "country": "India",
+        "rank": 883
+    },
+    {
+        "name": "ICICI Lombard",
+        "code": "ICICIGI.NS",
+        "country": "India",
+        "rank": 884
+    },
+    {
+        "name": "Canara Bank",
+        "code": "CANBK.NS",
+        "country": "India",
+        "rank": 885
+    },
+    {
+        "name": "Jindal Steel & Power",
+        "code": "JINDALSTEL.NS",
+        "country": "India",
+        "rank": 886
+    },
+    {
+        "name": "Indian Overseas Bank",
+        "code": "IOB.NS",
+        "country": "India",
+        "rank": 887
+    },
+    {
+        "name": "Cholamandalam Investment and Finance",
+        "code": "CHOLAFIN.NS",
+        "country": "India",
+        "rank": 888
+    },
+    {
+        "name": "IDBI Bank",
+        "code": "IDBI.NS",
+        "country": "India",
+        "rank": 889
+    },
+    {
+        "name": "ABB India",
+        "code": "ABB.NS",
+        "country": "India",
+        "rank": 890
+    },
+    {
+        "name": "Mindtree",
+        "code": "MINDTREE.NS",
+        "country": "India",
+        "rank": 891
+    },
+    {
+        "name": "Berger Paints",
+        "code": "BERGEPAINT.NS",
+        "country": "India",
+        "rank": 892
+    },
+    {
+        "name": "Union Bank of India",
+        "code": "UNIONBANK.NS",
+        "country": "India",
+        "rank": 893
+    },
+    {
+        "name": "Hero MotoCorp",
+        "code": "HEROMOTOCO.NS",
+        "country": "India",
+        "rank": 894
+    },
+    {
+        "name": "UPL",
+        "code": "UPL.NS",
+        "country": "India",
+        "rank": 895
+    },
+    {
+        "name": "Tube Investments of India",
+        "code": "TIINDIA.NS",
+        "country": "India",
+        "rank": 896
+    },
+    {
+        "name": "Lodha Group",
+        "code": "LODHA.NS",
+        "country": "India",
+        "rank": 897
+    },
+    {
+        "name": "Torrent Pharmaceuticals",
+        "code": "TORNTPHARM.NS",
+        "country": "India",
+        "rank": 898
+    },
+    {
+        "name": "PI Industries",
+        "code": "PIIND.NS",
+        "country": "India",
+        "rank": 899
+    },
+    {
+        "name": "Zomato",
+        "code": "ZOMATO.NS",
+        "country": "India",
+        "rank": 900
+    }
+]

@@ -1,0 +1,6400 @@
+{
+    "political_parties": [
+        "Aam Aadmi Party",
+        "All India Trinamool Congress",
+        "Bahujan Samaj Party",
+        "Bharatiya Janata Party",
+        "Communist Party of India",
+        "Communist Party of India (Marxist)",
+        "Indian National Congress",
+        "Nationalist Congress Party",
+        "National People's Party",
+        "Janata Dal",
+        "All India Anna Dravida Munnetra Kazhagam",
+        "Dravida Munnetra Kazhagam",
+        "Naga People's Front",
+        "Rashtriya Janata Dal",
+        "Revolutionary Socialist Party",
+        "Telugu Desam Party",
+        "All India Forward Bloc",
+        "All India Majlis-e-Ittehadul Muslimeen",
+        "All India N.R. Congress",
+        "All India United Democratic Front",
+        "All Jharkhand Students Union",
+        "Apna Dal",
+        "Asom Gana Parishad",
+        "Bharat Rashtra Samithi",
+        "Biju Janata Dal",
+        "Bodoland People's Front",
+        "Communist Party of India (Marxist\u2013Leninist) Liberation",
+        "Desiya Murpokku Dravida Kazhagam",
+        "Goa Forward Party",
+        "Hill State People's Democratic Party",
+        "Indian National Lok Dal",
+        "Indian Union Muslim League",
+        "Indigenous People's Front of Tripura",
+        "Jammu & Kashmir National Conference",
+        "Jammu and Kashmir National Panthers Party",
+        "Jammu and Kashmir Peoples Democratic Party",
+        "Janta Congress Chhattisgarh",
+        "Jannayak Janta Party",
+        "Jharkhand Mukti Morcha",
+        "Kerala Congress (M)",
+        "Lok Janshakti Party",
+        "Maharashtra Navnirman Sena",
+        "Maharashtrawadi Gomantak Party",
+        "Mizo National Front",
+        "Mizoram People's Conference",
+        "Nationalist Democratic Progressive Party",
+        "Pattali Makkal Katchi",
+        "People's Democratic Alliance",
+        "People's Democratic Front",
+        "People's Party of Arunachal",
+        "Rashtriya Lok Dal",
+        "Rashtriya Loktantrik Party",
+        "Samajwadi Party",
+        "Shiromani Akali Dal",
+        "Sikkim Democratic Front",
+        "Sikkim Krantikari Morcha",
+        "United Democratic Party",
+        "United People's Party Liberal",
+        "YSR Congress Party",
+        "Zoram Nationalist Party"
+    ],
+    "politicians": [
+        {
+            "name": "K. G. Adiyodi",
+            "political_party": []
+        },
+        {
+            "name": "Ajit Pal Tyagi",
+            "political_party": []
+        },
+        {
+            "name": "Alka Mohanty",
+            "political_party": []
+        },
+        {
+            "name": "Bakshi Tek Chand",
+            "political_party": []
+        },
+        {
+            "name": "Ranjit Singh Balian",
+            "political_party": []
+        },
+        {
+            "name": "Bankim Chandra Ray",
+            "political_party": []
+        },
+        {
+            "name": "Banwari Lal Sharma",
+            "political_party": []
+        },
+        {
+            "name": "Bhikhabhai Baraiya",
+            "political_party": []
+        },
+        {
+            "name": "Tanmoy Bhattacharya",
+            "political_party": []
+        },
+        {
+            "name": "Dharmajan Bolgatty",
+            "political_party": []
+        },
+        {
+            "name": "Sushanta Borgohain",
+            "political_party": []
+        },
+        {
+            "name": "Prabhabati Bose",
+            "political_party": []
+        },
+        {
+            "name": "Adesh Kanwarjit Singh Brar",
+            "political_party": []
+        },
+        {
+            "name": "Karan Kaur Brar",
+            "political_party": []
+        },
+        {
+            "name": "Chabilal Upadhyaya",
+            "political_party": []
+        },
+        {
+            "name": "Chandan Kumar Choudhary",
+            "political_party": []
+        },
+        {
+            "name": "Jagdish Chander",
+            "political_party": []
+        },
+        {
+            "name": "Choorayi Kanaran",
+            "political_party": []
+        },
+        {
+            "name": "Dilip Choudhary",
+            "political_party": []
+        },
+        {
+            "name": "Mukesh Choudhary",
+            "political_party": []
+        },
+        {
+            "name": "Pankaj Choudhary",
+            "political_party": []
+        },
+        {
+            "name": "Nandita Chowdhury",
+            "political_party": []
+        },
+        {
+            "name": "Zahur Ahmad Chowdhury",
+            "political_party": []
+        },
+        {
+            "name": "Vimal Chudasama",
+            "political_party": []
+        },
+        {
+            "name": "Danish Abrar",
+            "political_party": []
+        },
+        {
+            "name": "Abdul Rashid Dar",
+            "political_party": []
+        },
+        {
+            "name": "Swaran Ram Darapuri",
+            "political_party": []
+        },
+        {
+            "name": "Jawaharlal Darda",
+            "political_party": []
+        },
+        {
+            "name": "Muhammad Shafi Daudi",
+            "political_party": []
+        },
+        {
+            "name": "Jagadish Debbarma",
+            "political_party": []
+        },
+        {
+            "name": "Dattaram Desai",
+            "political_party": []
+        },
+        {
+            "name": "Ganba Desai",
+            "political_party": []
+        },
+        {
+            "name": "Kanubhai Desai",
+            "political_party": []
+        },
+        {
+            "name": "Ranu Prabhu Desai",
+            "political_party": []
+        },
+        {
+            "name": "Shaba Desai",
+            "political_party": []
+        },
+        {
+            "name": "Sahebrao Baradkar Deshmukh",
+            "political_party": []
+        },
+        {
+            "name": "Suresh Deshmukh",
+            "political_party": []
+        },
+        {
+            "name": "Rekha Devi",
+            "political_party": []
+        },
+        {
+            "name": "Subhash Dhote",
+            "political_party": []
+        },
+        {
+            "name": "Sohan Lal Dhusiya",
+            "political_party": []
+        },
+        {
+            "name": "Dilip Varma",
+            "political_party": []
+        },
+        {
+            "name": "Dorjee Wangdi Kharma",
+            "political_party": []
+        },
+        {
+            "name": "Drao Kumar Riang",
+            "political_party": []
+        },
+        {
+            "name": "Dulal Chandra Das",
+            "political_party": []
+        },
+        {
+            "name": "Saroj Dutta",
+            "political_party": []
+        },
+        {
+            "name": "Thirumagan Evera",
+            "political_party": []
+        },
+        {
+            "name": "Roque Santana Fernandes",
+            "political_party": []
+        },
+        {
+            "name": "Anant Gadgil",
+            "political_party": []
+        },
+        {
+            "name": "Hussain Rabi Gandhi",
+            "political_party": []
+        },
+        {
+            "name": "Manju Naik Gaonkar",
+            "political_party": []
+        },
+        {
+            "name": "Prabhakar Gaonkar",
+            "political_party": []
+        },
+        {
+            "name": "Gayatri Devi",
+            "political_party": []
+        },
+        {
+            "name": "P. Geetha Jeevan",
+            "political_party": []
+        },
+        {
+            "name": "George J. Mathew",
+            "political_party": []
+        },
+        {
+            "name": "Mohindra Kumar Ghosh",
+            "political_party": []
+        },
+        {
+            "name": "Ghulam Ali Khatana",
+            "political_party": []
+        },
+        {
+            "name": "Gidugu Rudra Raju",
+            "political_party": []
+        },
+        {
+            "name": "Bismita Gogoi",
+            "political_party": []
+        },
+        {
+            "name": "Harjit Singh Grewal",
+            "political_party": []
+        },
+        {
+            "name": "Ashok Kumar Gupta",
+            "political_party": []
+        },
+        {
+            "name": "Janak Raj Gupta",
+            "political_party": []
+        },
+        {
+            "name": "Kirat Singh Gurjar",
+            "political_party": []
+        },
+        {
+            "name": "Gurnam Singh Charuni",
+            "political_party": []
+        },
+        {
+            "name": "Maddila Gurumoorthy",
+            "political_party": []
+        },
+        {
+            "name": "Harendra Singh Tewatia",
+            "political_party": []
+        },
+        {
+            "name": "Hari Shankar Mahor",
+            "political_party": []
+        },
+        {
+            "name": "Harinath Debbarma",
+            "political_party": []
+        },
+        {
+            "name": "Harinder Pal Singh Chandumajra",
+            "political_party": []
+        },
+        {
+            "name": "Syed Ahmad Hashmi",
+            "political_party": []
+        },
+        {
+            "name": "Banamali Hazra",
+            "political_party": []
+        },
+        {
+            "name": "Honorific titles of Indian figures",
+            "political_party": []
+        },
+        {
+            "name": "Tajamul Husain",
+            "political_party": []
+        },
+        {
+            "name": "G. Iyappan",
+            "political_party": []
+        },
+        {
+            "name": "J Venkatappa",
+            "political_party": []
+        },
+        {
+            "name": "D. P. Jadeja",
+            "political_party": []
+        },
+        {
+            "name": "Pradhyumansinh Mahipatsinh Jadeja",
+            "political_party": []
+        },
+        {
+            "name": "Jagtarandas",
+            "political_party": []
+        },
+        {
+            "name": "Thekedar Madan Lal Jalalpur",
+            "political_party": []
+        },
+        {
+            "name": "Jalam Singh Rawlot",
+            "political_party": []
+        },
+        {
+            "name": "Jayant Malhoutra",
+            "political_party": []
+        },
+        {
+            "name": "J. Jayalalithaa",
+            "political_party": []
+        },
+        {
+            "name": "K.N. Joglekar",
+            "political_party": []
+        },
+        {
+            "name": "Kalo Chandramani",
+            "political_party": []
+        },
+        {
+            "name": "Vittal Karmali",
+            "political_party": []
+        },
+        {
+            "name": "Dadarao Keche",
+            "political_party": []
+        },
+        {
+            "name": "Atul Khatik",
+            "political_party": []
+        },
+        {
+            "name": "Dariyav Khatik",
+            "political_party": []
+        },
+        {
+            "name": "Munshilal Khatik",
+            "political_party": []
+        },
+        {
+            "name": "Gurmeet Singh Khuddian",
+            "political_party": []
+        },
+        {
+            "name": "Man Singh Kinsariya",
+            "political_party": []
+        },
+        {
+            "name": "Konijeti Rosaiah Ministry",
+            "political_party": []
+        },
+        {
+            "name": "K. M. Krishnamurthy",
+            "political_party": []
+        },
+        {
+            "name": "C. Krishnamurali",
+            "political_party": []
+        },
+        {
+            "name": "Jibesh Kumar",
+            "political_party": []
+        },
+        {
+            "name": "Sukhwinder Kumar",
+            "political_party": []
+        },
+        {
+            "name": "Dhulo Kuttikar",
+            "political_party": []
+        },
+        {
+            "name": "Arun Lad",
+            "political_party": []
+        },
+        {
+            "name": "Lalit Meena",
+            "political_party": []
+        },
+        {
+            "name": "G. Loganathan",
+            "political_party": []
+        },
+        {
+            "name": "Froilano Machado",
+            "political_party": []
+        },
+        {
+            "name": "Mahendra Singh Bhati",
+            "political_party": []
+        },
+        {
+            "name": "Sundar Singh Majithia",
+            "political_party": []
+        },
+        {
+            "name": "Gunda Mallesh",
+            "political_party": []
+        },
+        {
+            "name": "Jagannath Mallick",
+            "political_party": []
+        },
+        {
+            "name": "Girindra Mallik",
+            "political_party": []
+        },
+        {
+            "name": "Jyotsna Mandi",
+            "political_party": []
+        },
+        {
+            "name": "Mange Ram Gupta",
+            "political_party": []
+        },
+        {
+            "name": "K. Manickam",
+            "political_party": []
+        },
+        {
+            "name": "D. Manjunath",
+            "political_party": []
+        },
+        {
+            "name": "Sadashiv Marathe",
+            "political_party": []
+        },
+        {
+            "name": "Leo Velho Mauricio",
+            "political_party": []
+        },
+        {
+            "name": "Suresh Chandra Mishra",
+            "political_party": []
+        },
+        {
+            "name": "Mohammad Anzar Nayeemi",
+            "political_party": []
+        },
+        {
+            "name": "Karnail Singh Peer Mohammad",
+            "political_party": []
+        },
+        {
+            "name": "Mohan Amshekar",
+            "political_party": []
+        },
+        {
+            "name": "Kishore Kumar Mohanty",
+            "political_party": []
+        },
+        {
+            "name": "Mohit Mitra",
+            "political_party": []
+        },
+        {
+            "name": "Ahmed Mohiuddin",
+            "political_party": []
+        },
+        {
+            "name": "Anubrata Mondal",
+            "political_party": []
+        },
+        {
+            "name": "Bina Mondal",
+            "political_party": []
+        },
+        {
+            "name": "Vasudev Morajkar",
+            "political_party": []
+        },
+        {
+            "name": "Hucheshwar Gurusidha Mudgal",
+            "political_party": []
+        },
+        {
+            "name": "Venkatreddy Mudnal",
+            "political_party": []
+        },
+        {
+            "name": "Mukunda Behari Mullick",
+            "political_party": []
+        },
+        {
+            "name": "Durga Murmu",
+            "political_party": []
+        },
+        {
+            "name": "L. Murugan",
+            "political_party": []
+        },
+        {
+            "name": "Ezhilan Naganathan",
+            "political_party": []
+        },
+        {
+            "name": "H. Nagesh",
+            "political_party": []
+        },
+        {
+            "name": "Pandu Naik",
+            "political_party": []
+        },
+        {
+            "name": "Jamyang Tsering Namgyal",
+            "political_party": []
+        },
+        {
+            "name": "Anant Namjoshi",
+            "political_party": []
+        },
+        {
+            "name": "Nandipaku Venkataswam",
+            "political_party": []
+        },
+        {
+            "name": "Kanakeswar Narzary",
+            "political_party": []
+        },
+        {
+            "name": "Naseer Ahmad Khan",
+            "political_party": []
+        },
+        {
+            "name": "Hanumant Nirani",
+            "political_party": []
+        },
+        {
+            "name": "Sanjay Nishad",
+            "political_party": []
+        },
+        {
+            "name": "P Namgyal",
+            "political_party": []
+        },
+        {
+            "name": "Gopichand Padalkar",
+            "political_party": []
+        },
+        {
+            "name": "Ajit Singh Pal",
+            "political_party": []
+        },
+        {
+            "name": "Kuka Parray",
+            "political_party": []
+        },
+        {
+            "name": "Jai Prakash Bhai Patel",
+            "political_party": []
+        },
+        {
+            "name": "Kanubhai Patel",
+            "political_party": []
+        },
+        {
+            "name": "B. G. Kolse Patil",
+            "political_party": []
+        },
+        {
+            "name": "Sangita Patil",
+            "political_party": []
+        },
+        {
+            "name": "T. P. Peethambaran",
+            "political_party": []
+        },
+        {
+            "name": "P. S. Nataraja Pillai",
+            "political_party": []
+        },
+        {
+            "name": "Balkrishna Prabhu",
+            "political_party": []
+        },
+        {
+            "name": "Vishnu Prabhu",
+            "political_party": []
+        },
+        {
+            "name": "Varthur Prakash",
+            "political_party": []
+        },
+        {
+            "name": "Bhuma Akhila Priya",
+            "political_party": []
+        },
+        {
+            "name": "Radharani Panda",
+            "political_party": []
+        },
+        {
+            "name": "Ragya Naik",
+            "political_party": []
+        },
+        {
+            "name": "Zia ur Rahman Barq",
+            "political_party": []
+        },
+        {
+            "name": "Gajanan Raikar",
+            "political_party": []
+        },
+        {
+            "name": "Malyala Rajaiah",
+            "political_party": []
+        },
+        {
+            "name": "Rajendra Singh Bidhuri",
+            "political_party": []
+        },
+        {
+            "name": "Rajesh Kumar Mishra",
+            "political_party": []
+        },
+        {
+            "name": "Lalit Chandra Rajkhowa",
+            "political_party": []
+        },
+        {
+            "name": "Ram Narayan Chaudhary",
+            "political_party": []
+        },
+        {
+            "name": "Ram Swaroop Prasad",
+            "political_party": []
+        },
+        {
+            "name": "Munshi Rampal",
+            "political_party": []
+        },
+        {
+            "name": "Suresh Rana",
+            "political_party": []
+        },
+        {
+            "name": "Ranbir Singh Latayan",
+            "political_party": []
+        },
+        {
+            "name": "N. V. Rama Rao",
+            "political_party": []
+        },
+        {
+            "name": "Huzaifa Aamir Rashadi",
+            "political_party": []
+        },
+        {
+            "name": "Prithiraj Rava",
+            "political_party": []
+        },
+        {
+            "name": "Mekapati Vikram Reddy",
+            "political_party": []
+        },
+        {
+            "name": "Vemula Prashanth Reddy",
+            "political_party": []
+        },
+        {
+            "name": "Renuka Das Bhalerao",
+            "political_party": []
+        },
+        {
+            "name": "Hemang Raval",
+            "political_party": []
+        },
+        {
+            "name": "Suresh Kumar Routray",
+            "political_party": []
+        },
+        {
+            "name": "Rahul Roy",
+            "political_party": []
+        },
+        {
+            "name": "Rekha Roy",
+            "political_party": []
+        },
+        {
+            "name": "S. K. Sinha",
+            "political_party": []
+        },
+        {
+            "name": "Safiullah Khan Tanoli",
+            "political_party": []
+        },
+        {
+            "name": "Hemnarayan Sah",
+            "political_party": []
+        },
+        {
+            "name": "Namita Saha",
+            "political_party": []
+        },
+        {
+            "name": "Nilabati Saha",
+            "political_party": []
+        },
+        {
+            "name": "Saila Kumar Mukherjee",
+            "political_party": []
+        },
+        {
+            "name": "Kanwar Sandhu",
+            "political_party": []
+        },
+        {
+            "name": "Sangat Singh Gilzian",
+            "political_party": []
+        },
+        {
+            "name": "Hari Ram Sardar",
+            "political_party": []
+        },
+        {
+            "name": "Sanjib Sardar",
+            "political_party": []
+        },
+        {
+            "name": "Sarju Prasad Misra",
+            "political_party": []
+        },
+        {
+            "name": "Chandana Sarkar",
+            "political_party": []
+        },
+        {
+            "name": "C. H. Sekar",
+            "political_party": []
+        },
+        {
+            "name": "G. Sendhil Kumar",
+            "political_party": []
+        },
+        {
+            "name": "Seth Kishan Dass",
+            "political_party": []
+        },
+        {
+            "name": "Nirav Shah",
+            "political_party": []
+        },
+        {
+            "name": "Gyanesh Sharma",
+            "political_party": []
+        },
+        {
+            "name": "Radha Mohan Sharma",
+            "political_party": []
+        },
+        {
+            "name": "Gopal Singh Shekhawat",
+            "political_party": []
+        },
+        {
+            "name": "Sunil Shelke",
+            "political_party": []
+        },
+        {
+            "name": "Tukaram Shrangare",
+            "political_party": []
+        },
+        {
+            "name": "Zeeshan Siddique",
+            "political_party": []
+        },
+        {
+            "name": "Abbas Siddiqui",
+            "political_party": []
+        },
+        {
+            "name": "Onkar Singh Lakhawat",
+            "political_party": []
+        },
+        {
+            "name": "Binod Kumar Singh",
+            "political_party": []
+        },
+        {
+            "name": "Master Gurbanta Singh",
+            "political_party": []
+        }
+    ],
+    "companies": [
+        {
+            "name": "Aban Offshore",
+            "industry": "Exploration & production"
+        },
+        {
+            "name": "ABG Shipyard",
+            "industry": "Shipbuilding"
+        },
+        {
+            "name": "ABP Group",
+            "industry": "Broadcasting & entertainment"
+        },
+        {
+            "name": "ACC Limited",
+            "industry": "Building materials & fixtures"
+        },
+        {
+            "name": "Acko General Insurance",
+            "industry": "Insurance"
+        },
+        {
+            "name": "Action Construction Equipment (ACE)",
+            "industry": "Construction equipment"
+        },
+        {
+            "name": "ACG Group",
+            "industry": "Pharmaceutical materials & machinery"
+        },
+        {
+            "name": "Action Group",
+            "industry": "-"
+        },
+        {
+            "name": "Adani Group",
+            "industry": "-"
+        },
+        {
+            "name": "Aditya Birla Group",
+            "industry": "-"
+        },
+        {
+            "name": "Ador Group",
+            "industry": "-"
+        },
+        {
+            "name": "Advanced Weapons and Equipment India",
+            "industry": "Defense"
+        },
+        {
+            "name": "Afcons Infrastructure",
+            "industry": "Heavy construction"
+        },
+        {
+            "name": "Agriculture Insurance Company of India",
+            "industry": "Insurance"
+        },
+        {
+            "name": "Air Costa",
+            "industry": "Airlines"
+        },
+        {
+            "name": "Air India",
+            "industry": "Airlines"
+        },
+        {
+            "name": "Air India Express",
+            "industry": "Airlines"
+        },
+        {
+            "name": "Allcargo Logistics",
+            "industry": "Delivery services"
+        },
+        {
+            "name": "Alkem Laboratories",
+            "industry": "Pharamaceuticals"
+        },
+        {
+            "name": "Amartex",
+            "industry": "Apparel retailers"
+        },
+        {
+            "name": "Ambuja Cements",
+            "industry": "Building materials & fixtures"
+        },
+        {
+            "name": "Amrutanjan Healthcare",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "Amul",
+            "industry": "Food products"
+        },
+        {
+            "name": "Angel One",
+            "industry": "Stock broker"
+        },
+        {
+            "name": "Apollo Hospitals",
+            "industry": "Health care providers"
+        },
+        {
+            "name": "Apollo Tyres",
+            "industry": "Tires"
+        },
+        {
+            "name": "Aptech",
+            "industry": "Business training & employment agencies"
+        },
+        {
+            "name": "Archies",
+            "industry": "Specialty retailers"
+        },
+        {
+            "name": "Arise India",
+            "industry": "Consumer electronics"
+        },
+        {
+            "name": "Artemis Hospital",
+            "industry": "Hospital"
+        },
+        {
+            "name": "Arvind",
+            "industry": "-"
+        },
+        {
+            "name": "Armoured Vehicles Nigam (AVANI)",
+            "industry": "Defense"
+        },
+        {
+            "name": "Atul",
+            "industry": "Chemicals"
+        },
+        {
+            "name": "Ashok Leyland",
+            "industry": "Commercial vehicles & trucks"
+        },
+        {
+            "name": "Asia MotorWorks",
+            "industry": "Commercial vehicles & trucks"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "industry": "Paints and coatings"
+        },
+        {
+            "name": "Avantha Group",
+            "industry": "-"
+        },
+        {
+            "name": "Axis Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "Bajaj Auto",
+            "industry": "Automobiles"
+        },
+        {
+            "name": "Bajaj Group",
+            "industry": "-"
+        },
+        {
+            "name": "Balaji Group",
+            "industry": "-"
+        },
+        {
+            "name": "Balaji Telefilms",
+            "industry": "Broadcasting & entertainment"
+        },
+        {
+            "name": "Ballarpur Industries Limited",
+            "industry": "Paper"
+        },
+        {
+            "name": "Bank of Baroda",
+            "industry": "Banks"
+        },
+        {
+            "name": "Bank of India",
+            "industry": "Banks"
+        },
+        {
+            "name": "Bank of Maharashtra",
+            "industry": "Banks"
+        },
+        {
+            "name": "Bellatrix Aerospace",
+            "industry": "Rocket & space"
+        },
+        {
+            "name": "BGR Energy Systems Ltd",
+            "industry": "Equipment & services"
+        },
+        {
+            "name": "BluSmart Mobility",
+            "industry": "Ride-sharing"
+        },
+        {
+            "name": "Bharat Aluminium Company",
+            "industry": "Aluminium"
+        },
+        {
+            "name": "Bharat Biotech",
+            "industry": "Biotecnology"
+        },
+        {
+            "name": "Bharat Dynamics Limited",
+            "industry": "Aerospace & defense"
+        },
+        {
+            "name": "Bharat Earth Movers",
+            "industry": "Commercial vehicles & trucks"
+        },
+        {
+            "name": "Bharat Electronics Limited",
+            "industry": "Aerospace & defense"
+        },
+        {
+            "name": "Bharat Forge",
+            "industry": "Industrial engineering"
+        },
+        {
+            "name": "Bharat Heavy Electricals",
+            "industry": "Electrical components & equipment"
+        },
+        {
+            "name": "Bharat Petroleum",
+            "industry": "Exploration & production"
+        },
+        {
+            "name": "Bharat Sanchar Nigam Limited",
+            "industry": "Fixed line telecommunications"
+        },
+        {
+            "name": "Bharati Shipyard",
+            "industry": "Shipbuilding"
+        },
+        {
+            "name": "Bharti Airtel",
+            "industry": "Mobile telecommunications"
+        },
+        {
+            "name": "Bharatiya Nabhikiya Vidyut Nigam Limited (BHAVINI)",
+            "industry": "Nuclear industry"
+        },
+        {
+            "name": "Black Box Corporation",
+            "industry": "Internet"
+        },
+        {
+            "name": "Blue Star",
+            "industry": "Electronic & electrical equipment"
+        },
+        {
+            "name": "Biocon",
+            "industry": "Pharmaceuticals & biotechnology"
+        },
+        {
+            "name": "Bombay Dyeing",
+            "industry": "Textile products"
+        },
+        {
+            "name": "Bonn Group of Industries",
+            "industry": "Food products"
+        },
+        {
+            "name": "Borosil",
+            "industry": "Glass"
+        },
+        {
+            "name": "BPL Group",
+            "industry": "Consumer electronics"
+        },
+        {
+            "name": "BrahMos Aerospace",
+            "industry": "Missile systems"
+        },
+        {
+            "name": "Britannia Industries",
+            "industry": "Food products"
+        },
+        {
+            "name": "Brigade Enterprises",
+            "industry": "Real estate"
+        },
+        {
+            "name": "Cadila Healthcare",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "Caf\u00c3\u00a9 Coffee Day",
+            "industry": "Restaurants & bars"
+        },
+        {
+            "name": "Calcutta Tramways Company",
+            "industry": "Travel & tourism"
+        },
+        {
+            "name": "Canara Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "CaratLane",
+            "industry": "Broadline retailers"
+        },
+        {
+            "name": "CEAT",
+            "industry": "Tires"
+        },
+        {
+            "name": "Celkon",
+            "industry": "Consumer electronics"
+        },
+        {
+            "name": "Century Plyboards",
+            "industry": "Materials"
+        },
+        {
+            "name": "Centum Electronics",
+            "industry": "Electronics"
+        },
+        {
+            "name": "Central Bank of India",
+            "industry": "Banks"
+        },
+        {
+            "name": "CESC Limited",
+            "industry": "Conventional electricity"
+        },
+        {
+            "name": "Chennai Petroleum Corporation",
+            "industry": "Exploration & production"
+        },
+        {
+            "name": "Cipla",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "City Union Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "CMC",
+            "industry": "Business support services"
+        },
+        {
+            "name": "Coal India Limited",
+            "industry": "Coal"
+        },
+        {
+            "name": "Cochin Minerals and Rutile Limited",
+            "industry": "Specialty chemicals"
+        },
+        {
+            "name": "Cochin Shipyard Limited",
+            "industry": "Shipbuilding"
+        },
+        {
+            "name": "Computer Age Management Services",
+            "industry": "Stocks"
+        },
+        {
+            "name": "Container Corporation of India",
+            "industry": "Rail transportation"
+        },
+        {
+            "name": "Coromandel International",
+            "industry": "Specialty chemicals"
+        },
+        {
+            "name": "Cosmic Circuits",
+            "industry": "Semiconductors"
+        },
+        {
+            "name": "Crompton Greaves",
+            "industry": "Conventional electricity"
+        },
+        {
+            "name": "Crossword Bookstores",
+            "industry": "Bookstore"
+        },
+        {
+            "name": "CSB Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "Cyient",
+            "industry": "Software & IT services"
+        },
+        {
+            "name": "Dabur",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "Damodar Valley Corporation",
+            "industry": "Conventional electricity"
+        },
+        {
+            "name": "Datamatics",
+            "industry": "Software"
+        },
+        {
+            "name": "Deccan Charters",
+            "industry": "Airlines"
+        },
+        {
+            "name": "Dedicated Freight Corridor Corporation of India",
+            "industry": "Freight rail"
+        },
+        {
+            "name": "Dempo",
+            "industry": "General mining"
+        },
+        {
+            "name": "Dena Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "Dish TV",
+            "industry": "Broadcasting & entertainment"
+        },
+        {
+            "name": "Dixon Technologies",
+            "industry": "Electronics"
+        },
+        {
+            "name": "DLF",
+            "industry": "Real estate holding & development"
+        },
+        {
+            "name": "DMart",
+            "industry": "Retail"
+        },
+        {
+            "name": "Dr. Reddy's Laboratories",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "Dynamatic Technologies",
+            "industry": "Aerospace, Automotive, Hydraulics, Security"
+        },
+        {
+            "name": "EaseMyTrip",
+            "industry": "Travel"
+        },
+        {
+            "name": "Edelweiss Group",
+            "industry": "Finance"
+        },
+        {
+            "name": "Electronics Corporation of India Limited",
+            "industry": "Nuclear electronics"
+        },
+        {
+            "name": "Eicher Motors",
+            "industry": "Commercial vehicles & trucks"
+        },
+        {
+            "name": "EID Parry",
+            "industry": "Food products"
+        },
+        {
+            "name": "Emami",
+            "industry": "-"
+        },
+        {
+            "name": "Emcure Pharmaceuticals",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "Engineers India",
+            "industry": "Equipment & services"
+        },
+        {
+            "name": "English Indian Clays",
+            "industry": "General mining"
+        },
+        {
+            "name": "Escorts Group",
+            "industry": "Industrial engineering"
+        },
+        {
+            "name": "Essar Group",
+            "industry": "-"
+        },
+        {
+            "name": "Essel Group",
+            "industry": "-"
+        },
+        {
+            "name": "Eureka Forbes",
+            "industry": "Consumer electronics"
+        },
+        {
+            "name": "Eveready Industries India",
+            "industry": "Durable household products"
+        },
+        {
+            "name": "Exide Industries",
+            "industry": "Electrical components & equipment"
+        },
+        {
+            "name": "Exide Life Insurance",
+            "industry": "Life insurance"
+        },
+        {
+            "name": "Federal Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "Financial Technologies Group",
+            "industry": "Software"
+        },
+        {
+            "name": "Firstsource",
+            "industry": "Business support services"
+        },
+        {
+            "name": "Flipkart",
+            "industry": "E-commerce"
+        },
+        {
+            "name": "Forbes & Company Limited",
+            "industry": "Banking Kiosk, ATM, Robotics, Industrial Automation"
+        },
+        {
+            "name": "Force Motors",
+            "industry": "Automobiles"
+        },
+        {
+            "name": "Fortis Healthcare",
+            "industry": "Health care providers"
+        },
+        {
+            "name": "Future Group",
+            "industry": "Diversified retailers"
+        },
+        {
+            "name": "Findoc",
+            "industry": "Financial Services"
+        },
+        {
+            "name": "GAIL",
+            "industry": "Gas distribution"
+        },
+        {
+            "name": "Galaxy Surfactants",
+            "industry": "Chemicals"
+        },
+        {
+            "name": "Garden Reach Shipbuilders & Engineers",
+            "industry": "Shipbuilding"
+        },
+        {
+            "name": "Geojit Financial Services",
+            "industry": "Investment Services"
+        },
+        {
+            "name": "Gini & Jony",
+            "industry": "Textile"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "GMR Group",
+            "industry": "Real estate holding & development"
+        },
+        {
+            "name": "Goa Shipyard",
+            "industry": "Shipbuilding"
+        },
+        {
+            "name": "GoAir Airlines",
+            "industry": "Airlines"
+        },
+        {
+            "name": "Godrej Group",
+            "industry": "-"
+        },
+        {
+            "name": "Great Eastern Shipping",
+            "industry": "Marine transportation"
+        },
+        {
+            "name": "Greaves Cotton",
+            "industry": "Industrial engineering"
+        },
+        {
+            "name": "Greenply",
+            "industry": "Materials"
+        },
+        {
+            "name": "Gujarat Alkalies and Chemicals Limited (GACL)",
+            "industry": "Speciality chemicals"
+        },
+        {
+            "name": "Gujarat Mineral Development Corporation (GMDC)",
+            "industry": "General mining"
+        },
+        {
+            "name": "Gujarat State Fertilizers and Chemicals (GSFC)",
+            "industry": "Fertilizers"
+        },
+        {
+            "name": "Gujarat State Petroleum Corporation (GSPC)",
+            "industry": "Exploration & production"
+        },
+        {
+            "name": "GVK",
+            "industry": "-"
+        },
+        {
+            "name": "Haldiram's",
+            "industry": "Food products"
+        },
+        {
+            "name": "Hatsun Agro Product",
+            "industry": "Food products"
+        },
+        {
+            "name": "Havells",
+            "industry": "Electrical components & equipment"
+        },
+        {
+            "name": "Hawkins Cookers",
+            "industry": "Durable household products"
+        },
+        {
+            "name": "HCL Technologies",
+            "industry": "Business support services"
+        },
+        {
+            "name": "HDFC Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "HDIL",
+            "industry": "Real estate holding & development"
+        },
+        {
+            "name": "Hero Cycles",
+            "industry": "Recreational products"
+        },
+        {
+            "name": "Hero FinCorp",
+            "industry": "Banks"
+        },
+        {
+            "name": "Hero MotoCorp",
+            "industry": "Automobiles"
+        },
+        {
+            "name": "HFCL",
+            "industry": "optical fiber, telecom equipment"
+        },
+        {
+            "name": "Hindalco Industries",
+            "industry": "Aluminium"
+        },
+        {
+            "name": "Hindustan Aeronautics Limited",
+            "industry": "Aerospace & defense"
+        },
+        {
+            "name": "Hindustan Construction Company",
+            "industry": "Real estate holding & development"
+        },
+        {
+            "name": "Hindustan Copper",
+            "industry": "Nonferrous metals"
+        },
+        {
+            "name": "Hindustan Motors",
+            "industry": "Automobiles"
+        },
+        {
+            "name": "Hindustan Petroleum",
+            "industry": "Exploration & production"
+        },
+        {
+            "name": "Hindustan Shipyard",
+            "industry": "Shipbuilding"
+        },
+        {
+            "name": "Hindustan Times",
+            "industry": "Publishing"
+        },
+        {
+            "name": "Hindustan Unilever",
+            "industry": "FMCG"
+        },
+        {
+            "name": "Hindustan Zinc",
+            "industry": "Nonferrous metals"
+        },
+        {
+            "name": "HLL Lifecare",
+            "industry": "Pharmaceuticals & life sciences"
+        },
+        {
+            "name": "HMT",
+            "industry": "General industry"
+        },
+        {
+            "name": "Housing Development Finance Corporation (HDFC)",
+            "industry": "Financial services"
+        },
+        {
+            "name": "iball",
+            "industry": "Consumer electronics"
+        },
+        {
+            "name": "ICICI Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "IDBI Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "Idea Cellular",
+            "industry": "Mobile telecommunications"
+        },
+        {
+            "name": "Ideal Jawa",
+            "industry": "Automobiles"
+        },
+        {
+            "name": "IDFC First Bank",
+            "industry": "Banking"
+        },
+        {
+            "name": "IIFL Holdings Limited",
+            "industry": "Financial services"
+        },
+        {
+            "name": "Integral Coach Factory",
+            "industry": "Railway coach"
+        },
+        {
+            "name": "Ircon International",
+            "industry": "Railway construction"
+        },
+        {
+            "name": "Indian Railway Finance Corporation",
+            "industry": "Railway finance"
+        },
+        {
+            "name": "Infrastructure Development Finance Company (IDFC)",
+            "industry": "Asset managers"
+        },
+        {
+            "name": "Infrastructure Leasing & Financial Services (IL&FS)",
+            "industry": "Financial services"
+        },
+        {
+            "name": "India Cements",
+            "industry": "Building materials & fixtures"
+        },
+        {
+            "name": "India Optel",
+            "industry": "Defense"
+        },
+        {
+            "name": "Indiabulls",
+            "industry": "Financial services"
+        },
+        {
+            "name": "Indian Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "Indian Express Limited",
+            "industry": "Publishing"
+        },
+        {
+            "name": "Indian Oil Corporation",
+            "industry": "Exploration & production"
+        },
+        {
+            "name": "Indian Overseas Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "Indian Railways",
+            "industry": "Railroads"
+        },
+        {
+            "name": "Indian Railway Stations Development Corporation",
+            "industry": "Railroads"
+        },
+        {
+            "name": "Indian Telephone Industries Limited",
+            "industry": "Telecommunications equipment"
+        },
+        {
+            "name": "IndiGo",
+            "industry": "Airlines"
+        },
+        {
+            "name": "Indo Gulf Fertilisers",
+            "industry": "Specialty chemicals"
+        },
+        {
+            "name": "IndusInd Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "Infibeam",
+            "industry": "Broadline retailers"
+        },
+        {
+            "name": "Infosys",
+            "industry": "Business support services"
+        },
+        {
+            "name": "InMobi",
+            "industry": "Internet"
+        },
+        {
+            "name": "Inox Air Products",
+            "industry": "Industrial suppliers"
+        },
+        {
+            "name": "Inox Wind",
+            "industry": "Alternative electricity"
+        },
+        {
+            "name": "Intelenet Global Services",
+            "industry": "Business support services"
+        },
+        {
+            "name": "Intex Technologies",
+            "industry": "Consumer electronics"
+        },
+        {
+            "name": "ITC",
+            "industry": "-"
+        },
+        {
+            "name": "Ittiam Systems",
+            "industry": "Software & IT services"
+        },
+        {
+            "name": "Jabong.com",
+            "industry": "Broadline retailers"
+        },
+        {
+            "name": "Jain Irrigation Systems",
+            "industry": "Agricultural & farm machinery"
+        },
+        {
+            "name": "Jaypee Group",
+            "industry": "-"
+        },
+        {
+            "name": "Jet Airways",
+            "industry": "Airlines"
+        },
+        {
+            "name": "Jindal Steel and Power",
+            "industry": "Iron & steel"
+        },
+        {
+            "name": "JSW Ispat Steel",
+            "industry": "Iron & steel"
+        },
+        {
+            "name": "JSW Steel Ltd",
+            "industry": "Iron & steel"
+        },
+        {
+            "name": "Jubilant FoodWorks",
+            "industry": "Restaurants & bars"
+        },
+        {
+            "name": "Kerala Electrical and Allied Engineering Company (KEL)",
+            "industry": "Electrical components & equipment"
+        },
+        {
+            "name": "Khadim's",
+            "industry": "Footwear"
+        },
+        {
+            "name": "Kalyani Group",
+            "industry": "-"
+        },
+        {
+            "name": "Karbonn Mobiles",
+            "industry": "Mobile telecommunications"
+        },
+        {
+            "name": "Karnataka Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "Karur Vysya Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "Kingfisher",
+            "industry": "Brewers"
+        },
+        {
+            "name": "Kirloskar Group",
+            "industry": "-"
+        },
+        {
+            "name": "KPIT Technologies",
+            "industry": "Automotive"
+        },
+        {
+            "name": "Kokuyo Camlin",
+            "industry": "Nondurable household products"
+        },
+        {
+            "name": "Konkan Railway Corporation",
+            "industry": "Railroads"
+        },
+        {
+            "name": "Kotak Mahindra Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "KSK Energy Ventures",
+            "industry": "Conventional electricity"
+        },
+        {
+            "name": "Kudremukh Iron Ore Company",
+            "industry": "Iron & steel"
+        },
+        {
+            "name": "Lakshmi Machine Works",
+            "industry": "General industry"
+        },
+        {
+            "name": "Lakshmi Vilas Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "Lanco Infratech",
+            "industry": "-"
+        },
+        {
+            "name": "Larsen & Toubro",
+            "industry": "-"
+        },
+        {
+            "name": "Lava International",
+            "industry": "Consumer electronics"
+        },
+        {
+            "name": "Liberty Shoes",
+            "industry": "Clothing & accessories"
+        },
+        {
+            "name": "Life Insurance Corporation",
+            "industry": "Insurance"
+        },
+        {
+            "name": "Lifestyle",
+            "industry": "Store"
+        },
+        {
+            "name": "Living Media",
+            "industry": "Publishing"
+        },
+        {
+            "name": "Mahanadi Coalfields",
+            "industry": "Coal mining"
+        },
+        {
+            "name": "Mahindra Aerospace",
+            "industry": "Aerospace"
+        },
+        {
+            "name": "Mahindra & Mahindra",
+            "industry": "Automobiles"
+        },
+        {
+            "name": "Mahindra Group",
+            "industry": "-"
+        },
+        {
+            "name": "MakeMyTrip",
+            "industry": "Internet"
+        },
+        {
+            "name": "Mangalore Chemicals & Fertilizers",
+            "industry": "Specialty chemicals"
+        },
+        {
+            "name": "Mangalore Refinery and Petrochemicals Limited",
+            "industry": "Exploration & production"
+        },
+        {
+            "name": "Marico",
+            "industry": "Personal products"
+        },
+        {
+            "name": "Maruti Suzuki",
+            "industry": "Automobiles"
+        },
+        {
+            "name": "Mastek",
+            "industry": "Business support services"
+        },
+        {
+            "name": "Mazagon Dock Shipbuilders",
+            "industry": "Shipbuilding"
+        },
+        {
+            "name": "MECON",
+            "industry": "Business support services"
+        },
+        {
+            "name": "Metro Shoes",
+            "industry": "Clothing & accessories"
+        },
+        {
+            "name": "Microland",
+            "industry": "Software"
+        },
+        {
+            "name": "Micromax Informatics",
+            "industry": "Consumer electronics"
+        },
+        {
+            "name": "Milky Mist Dairy",
+            "industry": "Food products"
+        },
+        {
+            "name": "Mindtree",
+            "industry": "Business support services"
+        },
+        {
+            "name": "Mindspace",
+            "industry": "Business support services"
+        },
+        {
+            "name": "Mishra Dhatu Nigam Limited(MIDHANI)",
+            "industry": "Specialized metals"
+        },
+        {
+            "name": "MMTC Ltd",
+            "industry": "Investment services"
+        },
+        {
+            "name": "Mistral Solutions",
+            "industry": "Business support services"
+        },
+        {
+            "name": "MKU (company)",
+            "industry": "Defense"
+        },
+        {
+            "name": "MOIL",
+            "industry": "General mining"
+        },
+        {
+            "name": "Moser Baer",
+            "industry": "Computer hardware"
+        },
+        {
+            "name": "Mother Dairy",
+            "industry": "Food products"
+        },
+        {
+            "name": "Max Healthcare",
+            "industry": "Health care providers"
+        },
+        {
+            "name": "Max Life Insurance",
+            "industry": "Insurance"
+        },
+        {
+            "name": "Max Ventures and Industries",
+            "industry": "Real estate"
+        },
+        {
+            "name": "Max Group",
+            "industry": "-"
+        },
+        {
+            "name": "Mercator",
+            "industry": "Marine transportation"
+        },
+        {
+            "name": "Modern Coach Factory, Raebareli",
+            "industry": "Railway Factory"
+        },
+        {
+            "name": "Mphasis",
+            "industry": "Business support services"
+        },
+        {
+            "name": "MRF",
+            "industry": "Tires"
+        },
+        {
+            "name": "MS Shoes",
+            "industry": "Clothing & accessories"
+        },
+        {
+            "name": "MSTC Limited",
+            "industry": "E-commerce"
+        },
+        {
+            "name": "Mukand",
+            "industry": "Iron & steel"
+        },
+        {
+            "name": "Murugappa Group",
+            "industry": "-"
+        },
+        {
+            "name": "Muthoot Finance",
+            "industry": "Investment services"
+        },
+        {
+            "name": "The Muthoot Group",
+            "industry": "-"
+        },
+        {
+            "name": "Myntra",
+            "industry": "Broadline retailers"
+        },
+        {
+            "name": "National Aerospace Laboratories",
+            "industry": "Aerospace"
+        },
+        {
+            "name": "National Aluminium Company",
+            "industry": "Aluminium"
+        },
+        {
+            "name": "Nayara Energy",
+            "industry": "Exploration & production"
+        },
+        {
+            "name": "NBCC",
+            "industry": "Real estate holding & development"
+        },
+        {
+            "name": "National Fertilizers",
+            "industry": "Specialty chemicals"
+        },
+        {
+            "name": "NHPC Limited",
+            "industry": "Alternative electricity"
+        },
+        {
+            "name": "National Mineral Development Corporation (NMDC)",
+            "industry": "General mining"
+        },
+        {
+            "name": "National Payments Corporation of India (NPCI)",
+            "industry": "Payment"
+        },
+        {
+            "name": "NTPC Limited",
+            "industry": "Conventional electricity"
+        },
+        {
+            "name": "NBC Bearings",
+            "industry": "General industry"
+        },
+        {
+            "name": "NDTV",
+            "industry": "Broadcasting & entertainment"
+        },
+        {
+            "name": "Nectar Lifesciences",
+            "industry": "Pharmaceuticals & life sciences"
+        },
+        {
+            "name": "Network 18",
+            "industry": "Broadcasting & entertainment"
+        },
+        {
+            "name": "NIIT",
+            "industry": "Business support services"
+        },
+        {
+            "name": "Nilkamal Plastics",
+            "industry": "Commodity chemicals"
+        },
+        {
+            "name": "Nirma",
+            "industry": "Specialty chemicals"
+        },
+        {
+            "name": "NLC India Limited",
+            "industry": "Conventional electricity"
+        },
+        {
+            "name": "Novanet",
+            "industry": "Cloud computing"
+        },
+        {
+            "name": "Nuclear Power Corporation of India",
+            "industry": "Nuclear industry"
+        },
+        {
+            "name": "Nykaa",
+            "industry": "E-commerce"
+        },
+        {
+            "name": "Oil and Natural Gas Corporation",
+            "industry": "Exploration & production"
+        },
+        {
+            "name": "Oil India",
+            "industry": "Exploration & production"
+        },
+        {
+            "name": "One 97 Paytm",
+            "industry": ""
+        },
+        {
+            "name": "ONGC Videsh",
+            "industry": "Oil exploration"
+        },
+        {
+            "name": "OMPL",
+            "industry": "Oil exploration"
+        },
+        {
+            "name": "Onida Electronics",
+            "industry": "Consumer electronics"
+        },
+        {
+            "name": "OnMobile",
+            "industry": "Mobile telecommunications"
+        },
+        {
+            "name": "Oracle Financial Services Software",
+            "industry": "Banking"
+        },
+        {
+            "name": "Ordnance Factories Board",
+            "industry": "Defense"
+        },
+        {
+            "name": "Oswald Labs",
+            "industry": "Internet"
+        },
+        {
+            "name": "Pantaloons Fashion & Retail",
+            "industry": "Apparel retailers"
+        },
+        {
+            "name": "Paramount Airways",
+            "industry": "Airlines"
+        },
+        {
+            "name": "Parle Agro",
+            "industry": "Beverages"
+        },
+        {
+            "name": "Parle Products",
+            "industry": "Food products"
+        },
+        {
+            "name": "Patanjali Ayurved",
+            "industry": "FMCG"
+        },
+        {
+            "name": "Pawan Hans",
+            "industry": "Airlines"
+        },
+        {
+            "name": "Pentamedia Graphics",
+            "industry": "Broadcasting & entertainment"
+        },
+        {
+            "name": "Persistent Systems",
+            "industry": "Software"
+        },
+        {
+            "name": "Petronet LNG",
+            "industry": "Exploration & production"
+        },
+        {
+            "name": "Pidilite Industries",
+            "industry": "Specialty chemicals"
+        },
+        {
+            "name": "Pine Labs",
+            "industry": "Fintech"
+        },
+        {
+            "name": "Piramal Enterprises",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "POSCO India",
+            "industry": "Iron & steel"
+        },
+        {
+            "name": "Power Finance Corporation",
+            "industry": "Financial services"
+        },
+        {
+            "name": "Power Grid Corporation of India",
+            "industry": "Conventional electricity"
+        },
+        {
+            "name": "Power Trading Corporation of India",
+            "industry": "Conventional electricity"
+        },
+        {
+            "name": "Praj",
+            "industry": "Speciality chemicals"
+        },
+        {
+            "name": "Punj Lloyd",
+            "industry": "Construction"
+        },
+        {
+            "name": "Punjab & Sind Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "Punjab National Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "PVR Cinemas",
+            "industry": "Movie"
+        },
+        {
+            "name": "R K Global",
+            "industry": "Investment services"
+        },
+        {
+            "name": "Raheja Developers",
+            "industry": "Real estate"
+        },
+        {
+            "name": "Raheja Group",
+            "industry": "Real estate"
+        },
+        {
+            "name": "Rajesh Exports",
+            "industry": "Gold"
+        },
+        {
+            "name": "Ramco Systems",
+            "industry": "Software"
+        },
+        {
+            "name": "Ramco Group",
+            "industry": "-"
+        },
+        {
+            "name": "Ranbaxy Laboratories",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "Rapido (company)",
+            "industry": "Transport"
+        },
+        {
+            "name": "Rashtriya Chemicals & Fertilizers",
+            "industry": "Specialty chemicals"
+        },
+        {
+            "name": "Rashtriya Ispat Nigam",
+            "industry": "Iron & steel"
+        },
+        {
+            "name": "Raymond Group",
+            "industry": "Apparel retailers"
+        },
+        {
+            "name": "Rediff.com",
+            "industry": "Internet"
+        },
+        {
+            "name": "Reliance Capital",
+            "industry": "Asset managers"
+        },
+        {
+            "name": "Reliance Communications",
+            "industry": "Mobile telecommunications"
+        },
+        {
+            "name": "Reliance Naval and Engineering Limited",
+            "industry": "Shipbuilding"
+        },
+        {
+            "name": "Reliance Digital",
+            "industry": "Specialty retailers"
+        },
+        {
+            "name": "Reliance Entertainment",
+            "industry": "Broadcasting & entertainment"
+        },
+        {
+            "name": "Reliance Fresh",
+            "industry": "Food products"
+        },
+        {
+            "name": "Reliance Group",
+            "industry": "-"
+        },
+        {
+            "name": "Reliance Health",
+            "industry": "Health care providers"
+        },
+        {
+            "name": "Reliance Industries",
+            "industry": "-"
+        },
+        {
+            "name": "Reliance Infrastructure",
+            "industry": "Construction"
+        },
+        {
+            "name": "Reliance Life Insurance",
+            "industry": "Life insurance"
+        },
+        {
+            "name": "Reliance MediaWorks",
+            "industry": "Broadcasting & entertainment"
+        },
+        {
+            "name": "Reliance Petroleum",
+            "industry": "Exploration & production"
+        },
+        {
+            "name": "Reliance Power",
+            "industry": "Conventional electricity"
+        },
+        {
+            "name": "Reliance Retail",
+            "industry": "Broadline retailers"
+        },
+        {
+            "name": "RITES",
+            "industry": "Transportation services"
+        },
+        {
+            "name": "Royal Enfield",
+            "industry": "Automobiles"
+        },
+        {
+            "name": "Route Mobile",
+            "industry": "Internet"
+        },
+        {
+            "name": "RPSG Group",
+            "industry": "-"
+        },
+        {
+            "name": "RPG Group",
+            "industry": "-"
+        },
+        {
+            "name": "Rural Electrification Corporation",
+            "industry": "Financial services"
+        },
+        {
+            "name": "Sahara India Pariwar",
+            "industry": "-"
+        },
+        {
+            "name": "Samtel Avionics",
+            "industry": "Aerospace"
+        },
+        {
+            "name": "Samtel Group",
+            "industry": "-"
+        },
+        {
+            "name": "Saravana Bhavan",
+            "industry": "Food products"
+        },
+        {
+            "name": "SAS Motors",
+            "industry": "Agricultural & farm machinery"
+        },
+        {
+            "name": "Sasken Technologies",
+            "industry": "Business support services"
+        },
+        {
+            "name": "Sea6 Energy",
+            "industry": "Alternative energy"
+        },
+        {
+            "name": "Serum Institute of India",
+            "industry": "Pharmaceuticals & biotecnology"
+        },
+        {
+            "name": "Shapoorji Pallonji Group",
+            "industry": "-"
+        },
+        {
+            "name": "Shipping Corporation of India",
+            "industry": "Marine transportation"
+        },
+        {
+            "name": "Shoppers Stop",
+            "industry": "Broadline retailers"
+        },
+        {
+            "name": "Shree Cement",
+            "industry": "Building materials & fixtures"
+        },
+        {
+            "name": "Shree Ganesh Jewellery House",
+            "industry": "Specialty retailers"
+        },
+        {
+            "name": "Shree Renuka Sugars",
+            "industry": "Food products"
+        },
+        {
+            "name": "Shriram Group",
+            "industry": "-"
+        },
+        {
+            "name": "Singareni Collieries Company",
+            "industry": "Coal"
+        },
+        {
+            "name": "Skipper Limited",
+            "industry": "Electrical components & equipment"
+        },
+        {
+            "name": "Skyroot Aerospace",
+            "industry": "Rockets & Space"
+        },
+        {
+            "name": "Snapdeal",
+            "industry": "E-commerece"
+        },
+        {
+            "name": "Sobha Ltd.",
+            "industry": "Real estate holding & development"
+        },
+        {
+            "name": "Sonata Software",
+            "industry": "Software"
+        },
+        {
+            "name": "South Indian Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "SpiceJet",
+            "industry": "Airlines"
+        },
+        {
+            "name": "SPI Cinemas",
+            "industry": "Movie"
+        },
+        {
+            "name": "State Bank of India",
+            "industry": "Banks"
+        },
+        {
+            "name": "Steel Authority of India",
+            "industry": "Iron & steel"
+        },
+        {
+            "name": "Sterlite Industries",
+            "industry": "General mining"
+        },
+        {
+            "name": "Sterlite Technologies",
+            "industry": "Telecommunications equipment"
+        },
+        {
+            "name": "Suminter India Organics",
+            "industry": "Food products"
+        },
+        {
+            "name": "Sun Group",
+            "industry": "Broadcasting & entertainment"
+        },
+        {
+            "name": "Sun Pharmaceutical",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "Surya Roshni Limited",
+            "industry": "General industry"
+        },
+        {
+            "name": "Suzlon",
+            "industry": "Alternative energy"
+        },
+        {
+            "name": "Swaraj Mazda",
+            "industry": "Automobiles"
+        },
+        {
+            "name": "Swiggy",
+            "industry": "Internet"
+        },
+        {
+            "name": "Synthite",
+            "industry": "Food products"
+        },
+        {
+            "name": "Tamil Nadu Newsprint and Papers Limited",
+            "industry": "Publishing"
+        },
+        {
+            "name": "Tamilnad Mercantile Bank Limited",
+            "industry": "Banks"
+        },
+        {
+            "name": "TANLA",
+            "industry": "Internet"
+        },
+        {
+            "name": "Tata Advanced Systems",
+            "industry": "Aerospace & defense"
+        },
+        {
+            "name": "Tata Business Support Services",
+            "industry": "Business support services"
+        },
+        {
+            "name": "Tata Chemicals",
+            "industry": "Commodity chemicals"
+        },
+        {
+            "name": "Tata Communications",
+            "industry": "Fixed line telecommunications"
+        },
+        {
+            "name": "Tata Consultancy Services",
+            "industry": "Business support services"
+        },
+        {
+            "name": "Tata Global Beverages",
+            "industry": "Beverages"
+        },
+        {
+            "name": "Tata Group",
+            "industry": "-"
+        },
+        {
+            "name": "Tata Interactive Systems",
+            "industry": "Business support services"
+        },
+        {
+            "name": "Tata Motors",
+            "industry": "Automobiles"
+        },
+        {
+            "name": "Tata Power",
+            "industry": "Conventional electricity"
+        },
+        {
+            "name": "Tata Sky",
+            "industry": "Mobile telecommunications"
+        },
+        {
+            "name": "Tata Steel",
+            "industry": "Iron & steel"
+        },
+        {
+            "name": "Tata Steel BSL",
+            "industry": "Iron & steel"
+        },
+        {
+            "name": "Tata Technologies",
+            "industry": "Business support services"
+        },
+        {
+            "name": "Tech Mahindra",
+            "industry": "Business support services"
+        },
+        {
+            "name": "Tega Industries Ltd.",
+            "industry": "Mining Equipments"
+        },
+        {
+            "name": "Terumo Penpol",
+            "industry": "Medical equipment"
+        },
+        {
+            "name": "The Himalaya Drug Company",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "The Hindu",
+            "industry": "Publishing"
+        },
+        {
+            "name": "The Times Group",
+            "industry": "Broadcasting & entertainment"
+        },
+        {
+            "name": "Thermax",
+            "industry": "Electrical components & equipment"
+        },
+        {
+            "name": "Thyrocare",
+            "industry": "-"
+        },
+        {
+            "name": "Titagarh Wagons",
+            "industry": "Commercial rail vehicles"
+        },
+        {
+            "name": "Titan Company",
+            "industry": "Clothing & accessories"
+        },
+        {
+            "name": "Torrent Group",
+            "industry": "-"
+        },
+        {
+            "name": "Tractors and Farm Equipment Limited",
+            "industry": "Agricultural & farm machinery"
+        },
+        {
+            "name": "TradeIndia",
+            "industry": "Internet"
+        },
+        {
+            "name": "Travancore Cochin Chemicals",
+            "industry": "Commodity chemicals"
+        },
+        {
+            "name": "Travancore Titanium Products",
+            "industry": "Specialty chemicals"
+        },
+        {
+            "name": "TTK Prestige",
+            "industry": "Durable household products"
+        },
+        {
+            "name": "T-Series",
+            "industry": "Broadcasting & entertainment"
+        },
+        {
+            "name": "TVS Motor Company",
+            "industry": "Automobiles"
+        },
+        {
+            "name": "UCO Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "UltraTech Cement",
+            "industry": "Building materials & fixtures"
+        },
+        {
+            "name": "Union Bank of India",
+            "industry": "Banks"
+        },
+        {
+            "name": "Unitech Group",
+            "industry": "Real estate holding & development"
+        },
+        {
+            "name": "United Breweries Group",
+            "industry": "-"
+        },
+        {
+            "name": "UPL (company)",
+            "industry": "Speciality chemicals"
+        },
+        {
+            "name": "USV Private Limited",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "VA Tech Wabag",
+            "industry": "Water"
+        },
+        {
+            "name": "Vadilal",
+            "industry": "-"
+        },
+        {
+            "name": "Vedanta Limited",
+            "industry": "General mining"
+        },
+        {
+            "name": "V-Guard Industries",
+            "industry": "Consumer electronics"
+        },
+        {
+            "name": "Vicco Group",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "Videocon",
+            "industry": "-"
+        },
+        {
+            "name": "Vijaya Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "VIP Industries",
+            "industry": "Recreational products"
+        },
+        {
+            "name": "Voltas",
+            "industry": "Consumer electronics"
+        },
+        {
+            "name": "Voonik",
+            "industry": "Broadline retailers"
+        },
+        {
+            "name": "VST Industries",
+            "industry": "Tobacco"
+        },
+        {
+            "name": "Wadia Group",
+            "industry": "-"
+        },
+        {
+            "name": "Walchandnagar Industries",
+            "industry": "-"
+        },
+        {
+            "name": "WAPCOS Limited",
+            "industry": "Consultancy"
+        },
+        {
+            "name": "Welspun Corp",
+            "industry": "General industry"
+        },
+        {
+            "name": "Welspun Energy",
+            "industry": "Electricity"
+        },
+        {
+            "name": "Welspun Investments and Commercials",
+            "industry": "Investment"
+        },
+        {
+            "name": "Welspun Group",
+            "industry": "-"
+        },
+        {
+            "name": "Welspun India",
+            "industry": "Clothing & accessories"
+        },
+        {
+            "name": "Welspun Retail",
+            "industry": "-"
+        },
+        {
+            "name": "Welspun Maxsteel",
+            "industry": "Iron & steel"
+        },
+        {
+            "name": "West Bengal Electronics Industry Development Corporation (WEBEL)",
+            "industry": "Electrical components & equipment"
+        },
+        {
+            "name": "West Bengal Power Development Corporation",
+            "industry": "Conventional electricity"
+        },
+        {
+            "name": "West Bengal State Coop Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "West Bengal State Electricity Distribution Company",
+            "industry": "Conventional electricity"
+        },
+        {
+            "name": "West Bengal State Electricity Transmission Company",
+            "industry": "Conventional electricity"
+        },
+        {
+            "name": "Wipro",
+            "industry": "Business support services"
+        },
+        {
+            "name": "XOLO",
+            "industry": "Consumer electronics"
+        },
+        {
+            "name": "Yantra",
+            "industry": "Defense"
+        },
+        {
+            "name": "Yatra",
+            "industry": "Travel & tourism"
+        },
+        {
+            "name": "Yebhi",
+            "industry": "Broadline retailers"
+        },
+        {
+            "name": "Yepme",
+            "industry": "Broadline retailers"
+        },
+        {
+            "name": "Yes Bank",
+            "industry": "Banks"
+        },
+        {
+            "name": "Zandu Realty",
+            "industry": "Pharmaceuticals"
+        },
+        {
+            "name": "Zee Entertainment Enterprises",
+            "industry": "Broadcasting & entertainment"
+        },
+        {
+            "name": "Zee News",
+            "industry": "Broadcasting & entertainment"
+        },
+        {
+            "name": "Zeta",
+            "industry": "Fintech"
+        },
+        {
+            "name": "Zensar Technologies",
+            "industry": "Software"
+        },
+        {
+            "name": "Zoho Corporation",
+            "industry": "Software"
+        },
+        {
+            "name": "Zomato",
+            "industry": "Internet"
+        },
+        {
+            "name": "Reliance Industries",
+            "industry": null
+        },
+        {
+            "name": "Tata Consultancy Services",
+            "industry": null
+        },
+        {
+            "name": "HDFC Bank",
+            "industry": null
+        },
+        {
+            "name": "ICICI Bank",
+            "industry": null
+        },
+        {
+            "name": "Infosys",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Unilever",
+            "industry": null
+        },
+        {
+            "name": "State Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Housing Development Finance Corporation",
+            "industry": null
+        },
+        {
+            "name": "Bharti Airtel",
+            "industry": null
+        },
+        {
+            "name": "Life Insurance Corporation of India (LIC)",
+            "industry": null
+        },
+        {
+            "name": "Adani Enterprises",
+            "industry": null
+        },
+        {
+            "name": "ITC",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finance",
+            "industry": null
+        },
+        {
+            "name": "Adani Total Gas",
+            "industry": null
+        },
+        {
+            "name": "Kotak Mahindra Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Green Energy",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro",
+            "industry": null
+        },
+        {
+            "name": "Asian Paints",
+            "industry": null
+        },
+        {
+            "name": "Axis Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Transmission",
+            "industry": null
+        },
+        {
+            "name": "HCL Technologies",
+            "industry": null
+        },
+        {
+            "name": "DMart",
+            "industry": null
+        },
+        {
+            "name": "Maruti Suzuki India",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finserv",
+            "industry": null
+        },
+        {
+            "name": "Sun Pharmaceutical",
+            "industry": null
+        },
+        {
+            "name": "Titan Company",
+            "industry": null
+        },
+        {
+            "name": "Wipro",
+            "industry": null
+        },
+        {
+            "name": "UltraTech Cement",
+            "industry": null
+        },
+        {
+            "name": "Oil & Natural Gas",
+            "industry": null
+        },
+        {
+            "name": "Nestl\u00e9 India",
+            "industry": null
+        },
+        {
+            "name": "JSW Steel",
+            "industry": null
+        },
+        {
+            "name": "Adani Ports & SEZ",
+            "industry": null
+        },
+        {
+            "name": "NTPC Limited",
+            "industry": null
+        },
+        {
+            "name": "Mahindra & Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Powergrid Corporation of India",
+            "industry": null
+        },
+        {
+            "name": "Tata Motors",
+            "industry": null
+        },
+        {
+            "name": "Tata Steel",
+            "industry": null
+        },
+        {
+            "name": "Coal India",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Zinc",
+            "industry": null
+        },
+        {
+            "name": "Pidilite",
+            "industry": null
+        },
+        {
+            "name": "SBI Life Insurance",
+            "industry": null
+        },
+        {
+            "name": "HDFC Life",
+            "industry": null
+        },
+        {
+            "name": "Vedanta",
+            "industry": null
+        },
+        {
+            "name": "Adani Power",
+            "industry": null
+        },
+        {
+            "name": "Grasim Industries",
+            "industry": null
+        },
+        {
+            "name": "Indian Oil",
+            "industry": null
+        },
+        {
+            "name": "Hindalco Industries",
+            "industry": null
+        },
+        {
+            "name": "Ambuja Cements",
+            "industry": null
+        },
+        {
+            "name": "Britannia Industries",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Auto",
+            "industry": null
+        },
+        {
+            "name": "Siemens India",
+            "industry": null
+        },
+        {
+            "name": "Dabur",
+            "industry": null
+        },
+        {
+            "name": "Tech Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Bank of Baroda",
+            "industry": null
+        },
+        {
+            "name": "IndusInd Bank",
+            "industry": null
+        },
+        {
+            "name": "DLF",
+            "industry": null
+        },
+        {
+            "name": "Godrej",
+            "industry": null
+        },
+        {
+            "name": "Divis Laboratories",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro Infotech",
+            "industry": null
+        },
+        {
+            "name": "Eicher Motors",
+            "industry": null
+        },
+        {
+            "name": "JSW Energy",
+            "industry": null
+        },
+        {
+            "name": "Cipla",
+            "industry": null
+        },
+        {
+            "name": "Varun Beverages",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Aeronautics",
+            "industry": null
+        },
+        {
+            "name": "Shree Cement",
+            "industry": null
+        },
+        {
+            "name": "InterGlobe Aviation",
+            "industry": null
+        },
+        {
+            "name": "Adani Wilmar",
+            "industry": null
+        },
+        {
+            "name": "SBI Card",
+            "industry": null
+        },
+        {
+            "name": "Bharat Electronics",
+            "industry": null
+        },
+        {
+            "name": "Bharat Petroleum",
+            "industry": null
+        },
+        {
+            "name": "Dr. Reddy's",
+            "industry": null
+        },
+        {
+            "name": "Tata Consumer Products",
+            "industry": null
+        },
+        {
+            "name": "Havells India",
+            "industry": null
+        },
+        {
+            "name": "SRF Limited",
+            "industry": null
+        },
+        {
+            "name": "Tata Power",
+            "industry": null
+        },
+        {
+            "name": "Marico",
+            "industry": null
+        },
+        {
+            "name": "ICICI Prulife",
+            "industry": null
+        },
+        {
+            "name": "Apollo Hospitals",
+            "industry": null
+        },
+        {
+            "name": "GAIL",
+            "industry": null
+        },
+        {
+            "name": "Punjab National Bank",
+            "industry": null
+        },
+        {
+            "name": "Yes Bank",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Holdings & Investment",
+            "industry": null
+        },
+        {
+            "name": "United Spirits",
+            "industry": null
+        },
+        {
+            "name": "ICICI Lombard",
+            "industry": null
+        },
+        {
+            "name": "Canara Bank",
+            "industry": null
+        },
+        {
+            "name": "Jindal Steel & Power",
+            "industry": null
+        },
+        {
+            "name": "Indian Overseas Bank",
+            "industry": null
+        },
+        {
+            "name": "Cholamandalam Investment and Finance",
+            "industry": null
+        },
+        {
+            "name": "IDBI Bank",
+            "industry": null
+        },
+        {
+            "name": "ABB India",
+            "industry": null
+        },
+        {
+            "name": "Mindtree",
+            "industry": null
+        },
+        {
+            "name": "Berger Paints",
+            "industry": null
+        },
+        {
+            "name": "Union Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Hero MotoCorp",
+            "industry": null
+        },
+        {
+            "name": "UPL",
+            "industry": null
+        },
+        {
+            "name": "Tube Investments of India",
+            "industry": null
+        },
+        {
+            "name": "Lodha Group",
+            "industry": null
+        },
+        {
+            "name": "Torrent Pharmaceuticals",
+            "industry": null
+        },
+        {
+            "name": "PI Industries",
+            "industry": null
+        },
+        {
+            "name": "Zomato",
+            "industry": null
+        },
+        {
+            "name": "Reliance Industries",
+            "industry": null
+        },
+        {
+            "name": "Tata Consultancy Services",
+            "industry": null
+        },
+        {
+            "name": "HDFC Bank",
+            "industry": null
+        },
+        {
+            "name": "ICICI Bank",
+            "industry": null
+        },
+        {
+            "name": "Infosys",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Unilever",
+            "industry": null
+        },
+        {
+            "name": "State Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Housing Development Finance Corporation",
+            "industry": null
+        },
+        {
+            "name": "Bharti Airtel",
+            "industry": null
+        },
+        {
+            "name": "Life Insurance Corporation of India (LIC)",
+            "industry": null
+        },
+        {
+            "name": "Adani Enterprises",
+            "industry": null
+        },
+        {
+            "name": "ITC",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finance",
+            "industry": null
+        },
+        {
+            "name": "Adani Total Gas",
+            "industry": null
+        },
+        {
+            "name": "Kotak Mahindra Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Green Energy",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro",
+            "industry": null
+        },
+        {
+            "name": "Asian Paints",
+            "industry": null
+        },
+        {
+            "name": "Axis Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Transmission",
+            "industry": null
+        },
+        {
+            "name": "HCL Technologies",
+            "industry": null
+        },
+        {
+            "name": "DMart",
+            "industry": null
+        },
+        {
+            "name": "Maruti Suzuki India",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finserv",
+            "industry": null
+        },
+        {
+            "name": "Sun Pharmaceutical",
+            "industry": null
+        },
+        {
+            "name": "Titan Company",
+            "industry": null
+        },
+        {
+            "name": "Wipro",
+            "industry": null
+        },
+        {
+            "name": "UltraTech Cement",
+            "industry": null
+        },
+        {
+            "name": "Oil & Natural Gas",
+            "industry": null
+        },
+        {
+            "name": "Nestl\u00e9 India",
+            "industry": null
+        },
+        {
+            "name": "JSW Steel",
+            "industry": null
+        },
+        {
+            "name": "Adani Ports & SEZ",
+            "industry": null
+        },
+        {
+            "name": "NTPC Limited",
+            "industry": null
+        },
+        {
+            "name": "Mahindra & Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Powergrid Corporation of India",
+            "industry": null
+        },
+        {
+            "name": "Tata Motors",
+            "industry": null
+        },
+        {
+            "name": "Tata Steel",
+            "industry": null
+        },
+        {
+            "name": "Coal India",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Zinc",
+            "industry": null
+        },
+        {
+            "name": "Pidilite",
+            "industry": null
+        },
+        {
+            "name": "SBI Life Insurance",
+            "industry": null
+        },
+        {
+            "name": "HDFC Life",
+            "industry": null
+        },
+        {
+            "name": "Vedanta",
+            "industry": null
+        },
+        {
+            "name": "Adani Power",
+            "industry": null
+        },
+        {
+            "name": "Grasim Industries",
+            "industry": null
+        },
+        {
+            "name": "Indian Oil",
+            "industry": null
+        },
+        {
+            "name": "Hindalco Industries",
+            "industry": null
+        },
+        {
+            "name": "Ambuja Cements",
+            "industry": null
+        },
+        {
+            "name": "Britannia Industries",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Auto",
+            "industry": null
+        },
+        {
+            "name": "Siemens India",
+            "industry": null
+        },
+        {
+            "name": "Dabur",
+            "industry": null
+        },
+        {
+            "name": "Tech Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Bank of Baroda",
+            "industry": null
+        },
+        {
+            "name": "IndusInd Bank",
+            "industry": null
+        },
+        {
+            "name": "DLF",
+            "industry": null
+        },
+        {
+            "name": "Godrej",
+            "industry": null
+        },
+        {
+            "name": "Divis Laboratories",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro Infotech",
+            "industry": null
+        },
+        {
+            "name": "Eicher Motors",
+            "industry": null
+        },
+        {
+            "name": "JSW Energy",
+            "industry": null
+        },
+        {
+            "name": "Cipla",
+            "industry": null
+        },
+        {
+            "name": "Varun Beverages",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Aeronautics",
+            "industry": null
+        },
+        {
+            "name": "Shree Cement",
+            "industry": null
+        },
+        {
+            "name": "InterGlobe Aviation",
+            "industry": null
+        },
+        {
+            "name": "Adani Wilmar",
+            "industry": null
+        },
+        {
+            "name": "SBI Card",
+            "industry": null
+        },
+        {
+            "name": "Bharat Electronics",
+            "industry": null
+        },
+        {
+            "name": "Bharat Petroleum",
+            "industry": null
+        },
+        {
+            "name": "Dr. Reddy's",
+            "industry": null
+        },
+        {
+            "name": "Tata Consumer Products",
+            "industry": null
+        },
+        {
+            "name": "Havells India",
+            "industry": null
+        },
+        {
+            "name": "SRF Limited",
+            "industry": null
+        },
+        {
+            "name": "Tata Power",
+            "industry": null
+        },
+        {
+            "name": "Marico",
+            "industry": null
+        },
+        {
+            "name": "ICICI Prulife",
+            "industry": null
+        },
+        {
+            "name": "Apollo Hospitals",
+            "industry": null
+        },
+        {
+            "name": "GAIL",
+            "industry": null
+        },
+        {
+            "name": "Punjab National Bank",
+            "industry": null
+        },
+        {
+            "name": "Yes Bank",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Holdings & Investment",
+            "industry": null
+        },
+        {
+            "name": "United Spirits",
+            "industry": null
+        },
+        {
+            "name": "ICICI Lombard",
+            "industry": null
+        },
+        {
+            "name": "Canara Bank",
+            "industry": null
+        },
+        {
+            "name": "Jindal Steel & Power",
+            "industry": null
+        },
+        {
+            "name": "Indian Overseas Bank",
+            "industry": null
+        },
+        {
+            "name": "Cholamandalam Investment and Finance",
+            "industry": null
+        },
+        {
+            "name": "IDBI Bank",
+            "industry": null
+        },
+        {
+            "name": "ABB India",
+            "industry": null
+        },
+        {
+            "name": "Mindtree",
+            "industry": null
+        },
+        {
+            "name": "Berger Paints",
+            "industry": null
+        },
+        {
+            "name": "Union Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Hero MotoCorp",
+            "industry": null
+        },
+        {
+            "name": "UPL",
+            "industry": null
+        },
+        {
+            "name": "Tube Investments of India",
+            "industry": null
+        },
+        {
+            "name": "Lodha Group",
+            "industry": null
+        },
+        {
+            "name": "Torrent Pharmaceuticals",
+            "industry": null
+        },
+        {
+            "name": "PI Industries",
+            "industry": null
+        },
+        {
+            "name": "Zomato",
+            "industry": null
+        },
+        {
+            "name": "Reliance Industries",
+            "industry": null
+        },
+        {
+            "name": "Tata Consultancy Services",
+            "industry": null
+        },
+        {
+            "name": "HDFC Bank",
+            "industry": null
+        },
+        {
+            "name": "ICICI Bank",
+            "industry": null
+        },
+        {
+            "name": "Infosys",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Unilever",
+            "industry": null
+        },
+        {
+            "name": "State Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Housing Development Finance Corporation",
+            "industry": null
+        },
+        {
+            "name": "Bharti Airtel",
+            "industry": null
+        },
+        {
+            "name": "Life Insurance Corporation of India (LIC)",
+            "industry": null
+        },
+        {
+            "name": "Adani Enterprises",
+            "industry": null
+        },
+        {
+            "name": "ITC",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finance",
+            "industry": null
+        },
+        {
+            "name": "Adani Total Gas",
+            "industry": null
+        },
+        {
+            "name": "Kotak Mahindra Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Green Energy",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro",
+            "industry": null
+        },
+        {
+            "name": "Asian Paints",
+            "industry": null
+        },
+        {
+            "name": "Axis Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Transmission",
+            "industry": null
+        },
+        {
+            "name": "HCL Technologies",
+            "industry": null
+        },
+        {
+            "name": "DMart",
+            "industry": null
+        },
+        {
+            "name": "Maruti Suzuki India",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finserv",
+            "industry": null
+        },
+        {
+            "name": "Sun Pharmaceutical",
+            "industry": null
+        },
+        {
+            "name": "Titan Company",
+            "industry": null
+        },
+        {
+            "name": "Wipro",
+            "industry": null
+        },
+        {
+            "name": "UltraTech Cement",
+            "industry": null
+        },
+        {
+            "name": "Oil & Natural Gas",
+            "industry": null
+        },
+        {
+            "name": "Nestl\u00e9 India",
+            "industry": null
+        },
+        {
+            "name": "JSW Steel",
+            "industry": null
+        },
+        {
+            "name": "Adani Ports & SEZ",
+            "industry": null
+        },
+        {
+            "name": "NTPC Limited",
+            "industry": null
+        },
+        {
+            "name": "Mahindra & Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Powergrid Corporation of India",
+            "industry": null
+        },
+        {
+            "name": "Tata Motors",
+            "industry": null
+        },
+        {
+            "name": "Tata Steel",
+            "industry": null
+        },
+        {
+            "name": "Coal India",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Zinc",
+            "industry": null
+        },
+        {
+            "name": "Pidilite",
+            "industry": null
+        },
+        {
+            "name": "SBI Life Insurance",
+            "industry": null
+        },
+        {
+            "name": "HDFC Life",
+            "industry": null
+        },
+        {
+            "name": "Vedanta",
+            "industry": null
+        },
+        {
+            "name": "Adani Power",
+            "industry": null
+        },
+        {
+            "name": "Grasim Industries",
+            "industry": null
+        },
+        {
+            "name": "Indian Oil",
+            "industry": null
+        },
+        {
+            "name": "Hindalco Industries",
+            "industry": null
+        },
+        {
+            "name": "Ambuja Cements",
+            "industry": null
+        },
+        {
+            "name": "Britannia Industries",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Auto",
+            "industry": null
+        },
+        {
+            "name": "Siemens India",
+            "industry": null
+        },
+        {
+            "name": "Dabur",
+            "industry": null
+        },
+        {
+            "name": "Tech Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Bank of Baroda",
+            "industry": null
+        },
+        {
+            "name": "IndusInd Bank",
+            "industry": null
+        },
+        {
+            "name": "DLF",
+            "industry": null
+        },
+        {
+            "name": "Godrej",
+            "industry": null
+        },
+        {
+            "name": "Divis Laboratories",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro Infotech",
+            "industry": null
+        },
+        {
+            "name": "Eicher Motors",
+            "industry": null
+        },
+        {
+            "name": "JSW Energy",
+            "industry": null
+        },
+        {
+            "name": "Cipla",
+            "industry": null
+        },
+        {
+            "name": "Varun Beverages",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Aeronautics",
+            "industry": null
+        },
+        {
+            "name": "Shree Cement",
+            "industry": null
+        },
+        {
+            "name": "InterGlobe Aviation",
+            "industry": null
+        },
+        {
+            "name": "Adani Wilmar",
+            "industry": null
+        },
+        {
+            "name": "SBI Card",
+            "industry": null
+        },
+        {
+            "name": "Bharat Electronics",
+            "industry": null
+        },
+        {
+            "name": "Bharat Petroleum",
+            "industry": null
+        },
+        {
+            "name": "Dr. Reddy's",
+            "industry": null
+        },
+        {
+            "name": "Tata Consumer Products",
+            "industry": null
+        },
+        {
+            "name": "Havells India",
+            "industry": null
+        },
+        {
+            "name": "SRF Limited",
+            "industry": null
+        },
+        {
+            "name": "Tata Power",
+            "industry": null
+        },
+        {
+            "name": "Marico",
+            "industry": null
+        },
+        {
+            "name": "ICICI Prulife",
+            "industry": null
+        },
+        {
+            "name": "Apollo Hospitals",
+            "industry": null
+        },
+        {
+            "name": "GAIL",
+            "industry": null
+        },
+        {
+            "name": "Punjab National Bank",
+            "industry": null
+        },
+        {
+            "name": "Yes Bank",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Holdings & Investment",
+            "industry": null
+        },
+        {
+            "name": "United Spirits",
+            "industry": null
+        },
+        {
+            "name": "ICICI Lombard",
+            "industry": null
+        },
+        {
+            "name": "Canara Bank",
+            "industry": null
+        },
+        {
+            "name": "Jindal Steel & Power",
+            "industry": null
+        },
+        {
+            "name": "Indian Overseas Bank",
+            "industry": null
+        },
+        {
+            "name": "Cholamandalam Investment and Finance",
+            "industry": null
+        },
+        {
+            "name": "IDBI Bank",
+            "industry": null
+        },
+        {
+            "name": "ABB India",
+            "industry": null
+        },
+        {
+            "name": "Mindtree",
+            "industry": null
+        },
+        {
+            "name": "Berger Paints",
+            "industry": null
+        },
+        {
+            "name": "Union Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Hero MotoCorp",
+            "industry": null
+        },
+        {
+            "name": "UPL",
+            "industry": null
+        },
+        {
+            "name": "Tube Investments of India",
+            "industry": null
+        },
+        {
+            "name": "Lodha Group",
+            "industry": null
+        },
+        {
+            "name": "Torrent Pharmaceuticals",
+            "industry": null
+        },
+        {
+            "name": "PI Industries",
+            "industry": null
+        },
+        {
+            "name": "Zomato",
+            "industry": null
+        },
+        {
+            "name": "Reliance Industries",
+            "industry": null
+        },
+        {
+            "name": "Tata Consultancy Services",
+            "industry": null
+        },
+        {
+            "name": "HDFC Bank",
+            "industry": null
+        },
+        {
+            "name": "ICICI Bank",
+            "industry": null
+        },
+        {
+            "name": "Infosys",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Unilever",
+            "industry": null
+        },
+        {
+            "name": "State Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Housing Development Finance Corporation",
+            "industry": null
+        },
+        {
+            "name": "Bharti Airtel",
+            "industry": null
+        },
+        {
+            "name": "Life Insurance Corporation of India (LIC)",
+            "industry": null
+        },
+        {
+            "name": "Adani Enterprises",
+            "industry": null
+        },
+        {
+            "name": "ITC",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finance",
+            "industry": null
+        },
+        {
+            "name": "Adani Total Gas",
+            "industry": null
+        },
+        {
+            "name": "Kotak Mahindra Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Green Energy",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro",
+            "industry": null
+        },
+        {
+            "name": "Asian Paints",
+            "industry": null
+        },
+        {
+            "name": "Axis Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Transmission",
+            "industry": null
+        },
+        {
+            "name": "HCL Technologies",
+            "industry": null
+        },
+        {
+            "name": "DMart",
+            "industry": null
+        },
+        {
+            "name": "Maruti Suzuki India",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finserv",
+            "industry": null
+        },
+        {
+            "name": "Sun Pharmaceutical",
+            "industry": null
+        },
+        {
+            "name": "Titan Company",
+            "industry": null
+        },
+        {
+            "name": "Wipro",
+            "industry": null
+        },
+        {
+            "name": "UltraTech Cement",
+            "industry": null
+        },
+        {
+            "name": "Oil & Natural Gas",
+            "industry": null
+        },
+        {
+            "name": "Nestl\u00e9 India",
+            "industry": null
+        },
+        {
+            "name": "JSW Steel",
+            "industry": null
+        },
+        {
+            "name": "Adani Ports & SEZ",
+            "industry": null
+        },
+        {
+            "name": "NTPC Limited",
+            "industry": null
+        },
+        {
+            "name": "Mahindra & Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Powergrid Corporation of India",
+            "industry": null
+        },
+        {
+            "name": "Tata Motors",
+            "industry": null
+        },
+        {
+            "name": "Tata Steel",
+            "industry": null
+        },
+        {
+            "name": "Coal India",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Zinc",
+            "industry": null
+        },
+        {
+            "name": "Pidilite",
+            "industry": null
+        },
+        {
+            "name": "SBI Life Insurance",
+            "industry": null
+        },
+        {
+            "name": "HDFC Life",
+            "industry": null
+        },
+        {
+            "name": "Vedanta",
+            "industry": null
+        },
+        {
+            "name": "Adani Power",
+            "industry": null
+        },
+        {
+            "name": "Grasim Industries",
+            "industry": null
+        },
+        {
+            "name": "Indian Oil",
+            "industry": null
+        },
+        {
+            "name": "Hindalco Industries",
+            "industry": null
+        },
+        {
+            "name": "Ambuja Cements",
+            "industry": null
+        },
+        {
+            "name": "Britannia Industries",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Auto",
+            "industry": null
+        },
+        {
+            "name": "Siemens India",
+            "industry": null
+        },
+        {
+            "name": "Dabur",
+            "industry": null
+        },
+        {
+            "name": "Tech Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Bank of Baroda",
+            "industry": null
+        },
+        {
+            "name": "IndusInd Bank",
+            "industry": null
+        },
+        {
+            "name": "DLF",
+            "industry": null
+        },
+        {
+            "name": "Godrej",
+            "industry": null
+        },
+        {
+            "name": "Divis Laboratories",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro Infotech",
+            "industry": null
+        },
+        {
+            "name": "Eicher Motors",
+            "industry": null
+        },
+        {
+            "name": "JSW Energy",
+            "industry": null
+        },
+        {
+            "name": "Cipla",
+            "industry": null
+        },
+        {
+            "name": "Varun Beverages",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Aeronautics",
+            "industry": null
+        },
+        {
+            "name": "Shree Cement",
+            "industry": null
+        },
+        {
+            "name": "InterGlobe Aviation",
+            "industry": null
+        },
+        {
+            "name": "Adani Wilmar",
+            "industry": null
+        },
+        {
+            "name": "SBI Card",
+            "industry": null
+        },
+        {
+            "name": "Bharat Electronics",
+            "industry": null
+        },
+        {
+            "name": "Bharat Petroleum",
+            "industry": null
+        },
+        {
+            "name": "Dr. Reddy's",
+            "industry": null
+        },
+        {
+            "name": "Tata Consumer Products",
+            "industry": null
+        },
+        {
+            "name": "Havells India",
+            "industry": null
+        },
+        {
+            "name": "SRF Limited",
+            "industry": null
+        },
+        {
+            "name": "Tata Power",
+            "industry": null
+        },
+        {
+            "name": "Marico",
+            "industry": null
+        },
+        {
+            "name": "ICICI Prulife",
+            "industry": null
+        },
+        {
+            "name": "Apollo Hospitals",
+            "industry": null
+        },
+        {
+            "name": "GAIL",
+            "industry": null
+        },
+        {
+            "name": "Punjab National Bank",
+            "industry": null
+        },
+        {
+            "name": "Yes Bank",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Holdings & Investment",
+            "industry": null
+        },
+        {
+            "name": "United Spirits",
+            "industry": null
+        },
+        {
+            "name": "ICICI Lombard",
+            "industry": null
+        },
+        {
+            "name": "Canara Bank",
+            "industry": null
+        },
+        {
+            "name": "Jindal Steel & Power",
+            "industry": null
+        },
+        {
+            "name": "Indian Overseas Bank",
+            "industry": null
+        },
+        {
+            "name": "Cholamandalam Investment and Finance",
+            "industry": null
+        },
+        {
+            "name": "IDBI Bank",
+            "industry": null
+        },
+        {
+            "name": "ABB India",
+            "industry": null
+        },
+        {
+            "name": "Mindtree",
+            "industry": null
+        },
+        {
+            "name": "Berger Paints",
+            "industry": null
+        },
+        {
+            "name": "Union Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Hero MotoCorp",
+            "industry": null
+        },
+        {
+            "name": "UPL",
+            "industry": null
+        },
+        {
+            "name": "Tube Investments of India",
+            "industry": null
+        },
+        {
+            "name": "Lodha Group",
+            "industry": null
+        },
+        {
+            "name": "Torrent Pharmaceuticals",
+            "industry": null
+        },
+        {
+            "name": "PI Industries",
+            "industry": null
+        },
+        {
+            "name": "Zomato",
+            "industry": null
+        },
+        {
+            "name": "Reliance Industries",
+            "industry": null
+        },
+        {
+            "name": "Tata Consultancy Services",
+            "industry": null
+        },
+        {
+            "name": "HDFC Bank",
+            "industry": null
+        },
+        {
+            "name": "ICICI Bank",
+            "industry": null
+        },
+        {
+            "name": "Infosys",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Unilever",
+            "industry": null
+        },
+        {
+            "name": "State Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Housing Development Finance Corporation",
+            "industry": null
+        },
+        {
+            "name": "Bharti Airtel",
+            "industry": null
+        },
+        {
+            "name": "Life Insurance Corporation of India (LIC)",
+            "industry": null
+        },
+        {
+            "name": "Adani Enterprises",
+            "industry": null
+        },
+        {
+            "name": "ITC",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finance",
+            "industry": null
+        },
+        {
+            "name": "Adani Total Gas",
+            "industry": null
+        },
+        {
+            "name": "Kotak Mahindra Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Green Energy",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro",
+            "industry": null
+        },
+        {
+            "name": "Asian Paints",
+            "industry": null
+        },
+        {
+            "name": "Axis Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Transmission",
+            "industry": null
+        },
+        {
+            "name": "HCL Technologies",
+            "industry": null
+        },
+        {
+            "name": "DMart",
+            "industry": null
+        },
+        {
+            "name": "Maruti Suzuki India",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finserv",
+            "industry": null
+        },
+        {
+            "name": "Sun Pharmaceutical",
+            "industry": null
+        },
+        {
+            "name": "Titan Company",
+            "industry": null
+        },
+        {
+            "name": "Wipro",
+            "industry": null
+        },
+        {
+            "name": "UltraTech Cement",
+            "industry": null
+        },
+        {
+            "name": "Oil & Natural Gas",
+            "industry": null
+        },
+        {
+            "name": "Nestl\u00e9 India",
+            "industry": null
+        },
+        {
+            "name": "JSW Steel",
+            "industry": null
+        },
+        {
+            "name": "Adani Ports & SEZ",
+            "industry": null
+        },
+        {
+            "name": "NTPC Limited",
+            "industry": null
+        },
+        {
+            "name": "Mahindra & Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Powergrid Corporation of India",
+            "industry": null
+        },
+        {
+            "name": "Tata Motors",
+            "industry": null
+        },
+        {
+            "name": "Tata Steel",
+            "industry": null
+        },
+        {
+            "name": "Coal India",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Zinc",
+            "industry": null
+        },
+        {
+            "name": "Pidilite",
+            "industry": null
+        },
+        {
+            "name": "SBI Life Insurance",
+            "industry": null
+        },
+        {
+            "name": "HDFC Life",
+            "industry": null
+        },
+        {
+            "name": "Vedanta",
+            "industry": null
+        },
+        {
+            "name": "Adani Power",
+            "industry": null
+        },
+        {
+            "name": "Grasim Industries",
+            "industry": null
+        },
+        {
+            "name": "Indian Oil",
+            "industry": null
+        },
+        {
+            "name": "Hindalco Industries",
+            "industry": null
+        },
+        {
+            "name": "Ambuja Cements",
+            "industry": null
+        },
+        {
+            "name": "Britannia Industries",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Auto",
+            "industry": null
+        },
+        {
+            "name": "Siemens India",
+            "industry": null
+        },
+        {
+            "name": "Dabur",
+            "industry": null
+        },
+        {
+            "name": "Tech Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Bank of Baroda",
+            "industry": null
+        },
+        {
+            "name": "IndusInd Bank",
+            "industry": null
+        },
+        {
+            "name": "DLF",
+            "industry": null
+        },
+        {
+            "name": "Godrej",
+            "industry": null
+        },
+        {
+            "name": "Divis Laboratories",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro Infotech",
+            "industry": null
+        },
+        {
+            "name": "Eicher Motors",
+            "industry": null
+        },
+        {
+            "name": "JSW Energy",
+            "industry": null
+        },
+        {
+            "name": "Cipla",
+            "industry": null
+        },
+        {
+            "name": "Varun Beverages",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Aeronautics",
+            "industry": null
+        },
+        {
+            "name": "Shree Cement",
+            "industry": null
+        },
+        {
+            "name": "InterGlobe Aviation",
+            "industry": null
+        },
+        {
+            "name": "Adani Wilmar",
+            "industry": null
+        },
+        {
+            "name": "SBI Card",
+            "industry": null
+        },
+        {
+            "name": "Bharat Electronics",
+            "industry": null
+        },
+        {
+            "name": "Bharat Petroleum",
+            "industry": null
+        },
+        {
+            "name": "Dr. Reddy's",
+            "industry": null
+        },
+        {
+            "name": "Tata Consumer Products",
+            "industry": null
+        },
+        {
+            "name": "Havells India",
+            "industry": null
+        },
+        {
+            "name": "SRF Limited",
+            "industry": null
+        },
+        {
+            "name": "Tata Power",
+            "industry": null
+        },
+        {
+            "name": "Marico",
+            "industry": null
+        },
+        {
+            "name": "ICICI Prulife",
+            "industry": null
+        },
+        {
+            "name": "Apollo Hospitals",
+            "industry": null
+        },
+        {
+            "name": "GAIL",
+            "industry": null
+        },
+        {
+            "name": "Punjab National Bank",
+            "industry": null
+        },
+        {
+            "name": "Yes Bank",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Holdings & Investment",
+            "industry": null
+        },
+        {
+            "name": "United Spirits",
+            "industry": null
+        },
+        {
+            "name": "ICICI Lombard",
+            "industry": null
+        },
+        {
+            "name": "Canara Bank",
+            "industry": null
+        },
+        {
+            "name": "Jindal Steel & Power",
+            "industry": null
+        },
+        {
+            "name": "Indian Overseas Bank",
+            "industry": null
+        },
+        {
+            "name": "Cholamandalam Investment and Finance",
+            "industry": null
+        },
+        {
+            "name": "IDBI Bank",
+            "industry": null
+        },
+        {
+            "name": "ABB India",
+            "industry": null
+        },
+        {
+            "name": "Mindtree",
+            "industry": null
+        },
+        {
+            "name": "Berger Paints",
+            "industry": null
+        },
+        {
+            "name": "Union Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Hero MotoCorp",
+            "industry": null
+        },
+        {
+            "name": "UPL",
+            "industry": null
+        },
+        {
+            "name": "Tube Investments of India",
+            "industry": null
+        },
+        {
+            "name": "Lodha Group",
+            "industry": null
+        },
+        {
+            "name": "Torrent Pharmaceuticals",
+            "industry": null
+        },
+        {
+            "name": "PI Industries",
+            "industry": null
+        },
+        {
+            "name": "Zomato",
+            "industry": null
+        },
+        {
+            "name": "Reliance Industries",
+            "industry": null
+        },
+        {
+            "name": "Tata Consultancy Services",
+            "industry": null
+        },
+        {
+            "name": "HDFC Bank",
+            "industry": null
+        },
+        {
+            "name": "ICICI Bank",
+            "industry": null
+        },
+        {
+            "name": "Infosys",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Unilever",
+            "industry": null
+        },
+        {
+            "name": "State Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Housing Development Finance Corporation",
+            "industry": null
+        },
+        {
+            "name": "Bharti Airtel",
+            "industry": null
+        },
+        {
+            "name": "Life Insurance Corporation of India (LIC)",
+            "industry": null
+        },
+        {
+            "name": "Adani Enterprises",
+            "industry": null
+        },
+        {
+            "name": "ITC",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finance",
+            "industry": null
+        },
+        {
+            "name": "Adani Total Gas",
+            "industry": null
+        },
+        {
+            "name": "Kotak Mahindra Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Green Energy",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro",
+            "industry": null
+        },
+        {
+            "name": "Asian Paints",
+            "industry": null
+        },
+        {
+            "name": "Axis Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Transmission",
+            "industry": null
+        },
+        {
+            "name": "HCL Technologies",
+            "industry": null
+        },
+        {
+            "name": "DMart",
+            "industry": null
+        },
+        {
+            "name": "Maruti Suzuki India",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finserv",
+            "industry": null
+        },
+        {
+            "name": "Sun Pharmaceutical",
+            "industry": null
+        },
+        {
+            "name": "Titan Company",
+            "industry": null
+        },
+        {
+            "name": "Wipro",
+            "industry": null
+        },
+        {
+            "name": "UltraTech Cement",
+            "industry": null
+        },
+        {
+            "name": "Oil & Natural Gas",
+            "industry": null
+        },
+        {
+            "name": "Nestl\u00e9 India",
+            "industry": null
+        },
+        {
+            "name": "JSW Steel",
+            "industry": null
+        },
+        {
+            "name": "Adani Ports & SEZ",
+            "industry": null
+        },
+        {
+            "name": "NTPC Limited",
+            "industry": null
+        },
+        {
+            "name": "Mahindra & Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Powergrid Corporation of India",
+            "industry": null
+        },
+        {
+            "name": "Tata Motors",
+            "industry": null
+        },
+        {
+            "name": "Tata Steel",
+            "industry": null
+        },
+        {
+            "name": "Coal India",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Zinc",
+            "industry": null
+        },
+        {
+            "name": "Pidilite",
+            "industry": null
+        },
+        {
+            "name": "SBI Life Insurance",
+            "industry": null
+        },
+        {
+            "name": "HDFC Life",
+            "industry": null
+        },
+        {
+            "name": "Vedanta",
+            "industry": null
+        },
+        {
+            "name": "Adani Power",
+            "industry": null
+        },
+        {
+            "name": "Grasim Industries",
+            "industry": null
+        },
+        {
+            "name": "Indian Oil",
+            "industry": null
+        },
+        {
+            "name": "Hindalco Industries",
+            "industry": null
+        },
+        {
+            "name": "Ambuja Cements",
+            "industry": null
+        },
+        {
+            "name": "Britannia Industries",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Auto",
+            "industry": null
+        },
+        {
+            "name": "Siemens India",
+            "industry": null
+        },
+        {
+            "name": "Dabur",
+            "industry": null
+        },
+        {
+            "name": "Tech Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Bank of Baroda",
+            "industry": null
+        },
+        {
+            "name": "IndusInd Bank",
+            "industry": null
+        },
+        {
+            "name": "DLF",
+            "industry": null
+        },
+        {
+            "name": "Godrej",
+            "industry": null
+        },
+        {
+            "name": "Divis Laboratories",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro Infotech",
+            "industry": null
+        },
+        {
+            "name": "Eicher Motors",
+            "industry": null
+        },
+        {
+            "name": "JSW Energy",
+            "industry": null
+        },
+        {
+            "name": "Cipla",
+            "industry": null
+        },
+        {
+            "name": "Varun Beverages",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Aeronautics",
+            "industry": null
+        },
+        {
+            "name": "Shree Cement",
+            "industry": null
+        },
+        {
+            "name": "InterGlobe Aviation",
+            "industry": null
+        },
+        {
+            "name": "Adani Wilmar",
+            "industry": null
+        },
+        {
+            "name": "SBI Card",
+            "industry": null
+        },
+        {
+            "name": "Bharat Electronics",
+            "industry": null
+        },
+        {
+            "name": "Bharat Petroleum",
+            "industry": null
+        },
+        {
+            "name": "Dr. Reddy's",
+            "industry": null
+        },
+        {
+            "name": "Tata Consumer Products",
+            "industry": null
+        },
+        {
+            "name": "Havells India",
+            "industry": null
+        },
+        {
+            "name": "SRF Limited",
+            "industry": null
+        },
+        {
+            "name": "Tata Power",
+            "industry": null
+        },
+        {
+            "name": "Marico",
+            "industry": null
+        },
+        {
+            "name": "ICICI Prulife",
+            "industry": null
+        },
+        {
+            "name": "Apollo Hospitals",
+            "industry": null
+        },
+        {
+            "name": "GAIL",
+            "industry": null
+        },
+        {
+            "name": "Punjab National Bank",
+            "industry": null
+        },
+        {
+            "name": "Yes Bank",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Holdings & Investment",
+            "industry": null
+        },
+        {
+            "name": "United Spirits",
+            "industry": null
+        },
+        {
+            "name": "ICICI Lombard",
+            "industry": null
+        },
+        {
+            "name": "Canara Bank",
+            "industry": null
+        },
+        {
+            "name": "Jindal Steel & Power",
+            "industry": null
+        },
+        {
+            "name": "Indian Overseas Bank",
+            "industry": null
+        },
+        {
+            "name": "Cholamandalam Investment and Finance",
+            "industry": null
+        },
+        {
+            "name": "IDBI Bank",
+            "industry": null
+        },
+        {
+            "name": "ABB India",
+            "industry": null
+        },
+        {
+            "name": "Mindtree",
+            "industry": null
+        },
+        {
+            "name": "Berger Paints",
+            "industry": null
+        },
+        {
+            "name": "Union Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Hero MotoCorp",
+            "industry": null
+        },
+        {
+            "name": "UPL",
+            "industry": null
+        },
+        {
+            "name": "Tube Investments of India",
+            "industry": null
+        },
+        {
+            "name": "Lodha Group",
+            "industry": null
+        },
+        {
+            "name": "Torrent Pharmaceuticals",
+            "industry": null
+        },
+        {
+            "name": "PI Industries",
+            "industry": null
+        },
+        {
+            "name": "Zomato",
+            "industry": null
+        },
+        {
+            "name": "Reliance Industries",
+            "industry": null
+        },
+        {
+            "name": "Tata Consultancy Services",
+            "industry": null
+        },
+        {
+            "name": "HDFC Bank",
+            "industry": null
+        },
+        {
+            "name": "ICICI Bank",
+            "industry": null
+        },
+        {
+            "name": "Infosys",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Unilever",
+            "industry": null
+        },
+        {
+            "name": "State Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Housing Development Finance Corporation",
+            "industry": null
+        },
+        {
+            "name": "Bharti Airtel",
+            "industry": null
+        },
+        {
+            "name": "Life Insurance Corporation of India (LIC)",
+            "industry": null
+        },
+        {
+            "name": "Adani Enterprises",
+            "industry": null
+        },
+        {
+            "name": "ITC",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finance",
+            "industry": null
+        },
+        {
+            "name": "Adani Total Gas",
+            "industry": null
+        },
+        {
+            "name": "Kotak Mahindra Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Green Energy",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro",
+            "industry": null
+        },
+        {
+            "name": "Asian Paints",
+            "industry": null
+        },
+        {
+            "name": "Axis Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Transmission",
+            "industry": null
+        },
+        {
+            "name": "HCL Technologies",
+            "industry": null
+        },
+        {
+            "name": "DMart",
+            "industry": null
+        },
+        {
+            "name": "Maruti Suzuki India",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finserv",
+            "industry": null
+        },
+        {
+            "name": "Sun Pharmaceutical",
+            "industry": null
+        },
+        {
+            "name": "Titan Company",
+            "industry": null
+        },
+        {
+            "name": "Wipro",
+            "industry": null
+        },
+        {
+            "name": "UltraTech Cement",
+            "industry": null
+        },
+        {
+            "name": "Oil & Natural Gas",
+            "industry": null
+        },
+        {
+            "name": "Nestl\u00e9 India",
+            "industry": null
+        },
+        {
+            "name": "JSW Steel",
+            "industry": null
+        },
+        {
+            "name": "Adani Ports & SEZ",
+            "industry": null
+        },
+        {
+            "name": "NTPC Limited",
+            "industry": null
+        },
+        {
+            "name": "Mahindra & Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Powergrid Corporation of India",
+            "industry": null
+        },
+        {
+            "name": "Tata Motors",
+            "industry": null
+        },
+        {
+            "name": "Tata Steel",
+            "industry": null
+        },
+        {
+            "name": "Coal India",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Zinc",
+            "industry": null
+        },
+        {
+            "name": "Pidilite",
+            "industry": null
+        },
+        {
+            "name": "SBI Life Insurance",
+            "industry": null
+        },
+        {
+            "name": "HDFC Life",
+            "industry": null
+        },
+        {
+            "name": "Vedanta",
+            "industry": null
+        },
+        {
+            "name": "Adani Power",
+            "industry": null
+        },
+        {
+            "name": "Grasim Industries",
+            "industry": null
+        },
+        {
+            "name": "Indian Oil",
+            "industry": null
+        },
+        {
+            "name": "Hindalco Industries",
+            "industry": null
+        },
+        {
+            "name": "Ambuja Cements",
+            "industry": null
+        },
+        {
+            "name": "Britannia Industries",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Auto",
+            "industry": null
+        },
+        {
+            "name": "Siemens India",
+            "industry": null
+        },
+        {
+            "name": "Dabur",
+            "industry": null
+        },
+        {
+            "name": "Tech Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Bank of Baroda",
+            "industry": null
+        },
+        {
+            "name": "IndusInd Bank",
+            "industry": null
+        },
+        {
+            "name": "DLF",
+            "industry": null
+        },
+        {
+            "name": "Godrej",
+            "industry": null
+        },
+        {
+            "name": "Divis Laboratories",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro Infotech",
+            "industry": null
+        },
+        {
+            "name": "Eicher Motors",
+            "industry": null
+        },
+        {
+            "name": "JSW Energy",
+            "industry": null
+        },
+        {
+            "name": "Cipla",
+            "industry": null
+        },
+        {
+            "name": "Varun Beverages",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Aeronautics",
+            "industry": null
+        },
+        {
+            "name": "Shree Cement",
+            "industry": null
+        },
+        {
+            "name": "InterGlobe Aviation",
+            "industry": null
+        },
+        {
+            "name": "Adani Wilmar",
+            "industry": null
+        },
+        {
+            "name": "SBI Card",
+            "industry": null
+        },
+        {
+            "name": "Bharat Electronics",
+            "industry": null
+        },
+        {
+            "name": "Bharat Petroleum",
+            "industry": null
+        },
+        {
+            "name": "Dr. Reddy's",
+            "industry": null
+        },
+        {
+            "name": "Tata Consumer Products",
+            "industry": null
+        },
+        {
+            "name": "Havells India",
+            "industry": null
+        },
+        {
+            "name": "SRF Limited",
+            "industry": null
+        },
+        {
+            "name": "Tata Power",
+            "industry": null
+        },
+        {
+            "name": "Marico",
+            "industry": null
+        },
+        {
+            "name": "ICICI Prulife",
+            "industry": null
+        },
+        {
+            "name": "Apollo Hospitals",
+            "industry": null
+        },
+        {
+            "name": "GAIL",
+            "industry": null
+        },
+        {
+            "name": "Punjab National Bank",
+            "industry": null
+        },
+        {
+            "name": "Yes Bank",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Holdings & Investment",
+            "industry": null
+        },
+        {
+            "name": "United Spirits",
+            "industry": null
+        },
+        {
+            "name": "ICICI Lombard",
+            "industry": null
+        },
+        {
+            "name": "Canara Bank",
+            "industry": null
+        },
+        {
+            "name": "Jindal Steel & Power",
+            "industry": null
+        },
+        {
+            "name": "Indian Overseas Bank",
+            "industry": null
+        },
+        {
+            "name": "Cholamandalam Investment and Finance",
+            "industry": null
+        },
+        {
+            "name": "IDBI Bank",
+            "industry": null
+        },
+        {
+            "name": "ABB India",
+            "industry": null
+        },
+        {
+            "name": "Mindtree",
+            "industry": null
+        },
+        {
+            "name": "Berger Paints",
+            "industry": null
+        },
+        {
+            "name": "Union Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Hero MotoCorp",
+            "industry": null
+        },
+        {
+            "name": "UPL",
+            "industry": null
+        },
+        {
+            "name": "Tube Investments of India",
+            "industry": null
+        },
+        {
+            "name": "Lodha Group",
+            "industry": null
+        },
+        {
+            "name": "Torrent Pharmaceuticals",
+            "industry": null
+        },
+        {
+            "name": "PI Industries",
+            "industry": null
+        },
+        {
+            "name": "Zomato",
+            "industry": null
+        },
+        {
+            "name": "Reliance Industries",
+            "industry": null
+        },
+        {
+            "name": "Tata Consultancy Services",
+            "industry": null
+        },
+        {
+            "name": "HDFC Bank",
+            "industry": null
+        },
+        {
+            "name": "ICICI Bank",
+            "industry": null
+        },
+        {
+            "name": "Infosys",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Unilever",
+            "industry": null
+        },
+        {
+            "name": "State Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Housing Development Finance Corporation",
+            "industry": null
+        },
+        {
+            "name": "Bharti Airtel",
+            "industry": null
+        },
+        {
+            "name": "Life Insurance Corporation of India (LIC)",
+            "industry": null
+        },
+        {
+            "name": "Adani Enterprises",
+            "industry": null
+        },
+        {
+            "name": "ITC",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finance",
+            "industry": null
+        },
+        {
+            "name": "Adani Total Gas",
+            "industry": null
+        },
+        {
+            "name": "Kotak Mahindra Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Green Energy",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro",
+            "industry": null
+        },
+        {
+            "name": "Asian Paints",
+            "industry": null
+        },
+        {
+            "name": "Axis Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Transmission",
+            "industry": null
+        },
+        {
+            "name": "HCL Technologies",
+            "industry": null
+        },
+        {
+            "name": "DMart",
+            "industry": null
+        },
+        {
+            "name": "Maruti Suzuki India",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finserv",
+            "industry": null
+        },
+        {
+            "name": "Sun Pharmaceutical",
+            "industry": null
+        },
+        {
+            "name": "Titan Company",
+            "industry": null
+        },
+        {
+            "name": "Wipro",
+            "industry": null
+        },
+        {
+            "name": "UltraTech Cement",
+            "industry": null
+        },
+        {
+            "name": "Oil & Natural Gas",
+            "industry": null
+        },
+        {
+            "name": "Nestl\u00e9 India",
+            "industry": null
+        },
+        {
+            "name": "JSW Steel",
+            "industry": null
+        },
+        {
+            "name": "Adani Ports & SEZ",
+            "industry": null
+        },
+        {
+            "name": "NTPC Limited",
+            "industry": null
+        },
+        {
+            "name": "Mahindra & Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Powergrid Corporation of India",
+            "industry": null
+        },
+        {
+            "name": "Tata Motors",
+            "industry": null
+        },
+        {
+            "name": "Tata Steel",
+            "industry": null
+        },
+        {
+            "name": "Coal India",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Zinc",
+            "industry": null
+        },
+        {
+            "name": "Pidilite",
+            "industry": null
+        },
+        {
+            "name": "SBI Life Insurance",
+            "industry": null
+        },
+        {
+            "name": "HDFC Life",
+            "industry": null
+        },
+        {
+            "name": "Vedanta",
+            "industry": null
+        },
+        {
+            "name": "Adani Power",
+            "industry": null
+        },
+        {
+            "name": "Grasim Industries",
+            "industry": null
+        },
+        {
+            "name": "Indian Oil",
+            "industry": null
+        },
+        {
+            "name": "Hindalco Industries",
+            "industry": null
+        },
+        {
+            "name": "Ambuja Cements",
+            "industry": null
+        },
+        {
+            "name": "Britannia Industries",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Auto",
+            "industry": null
+        },
+        {
+            "name": "Siemens India",
+            "industry": null
+        },
+        {
+            "name": "Dabur",
+            "industry": null
+        },
+        {
+            "name": "Tech Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Bank of Baroda",
+            "industry": null
+        },
+        {
+            "name": "IndusInd Bank",
+            "industry": null
+        },
+        {
+            "name": "DLF",
+            "industry": null
+        },
+        {
+            "name": "Godrej",
+            "industry": null
+        },
+        {
+            "name": "Divis Laboratories",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro Infotech",
+            "industry": null
+        },
+        {
+            "name": "Eicher Motors",
+            "industry": null
+        },
+        {
+            "name": "JSW Energy",
+            "industry": null
+        },
+        {
+            "name": "Cipla",
+            "industry": null
+        },
+        {
+            "name": "Varun Beverages",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Aeronautics",
+            "industry": null
+        },
+        {
+            "name": "Shree Cement",
+            "industry": null
+        },
+        {
+            "name": "InterGlobe Aviation",
+            "industry": null
+        },
+        {
+            "name": "Adani Wilmar",
+            "industry": null
+        },
+        {
+            "name": "SBI Card",
+            "industry": null
+        },
+        {
+            "name": "Bharat Electronics",
+            "industry": null
+        },
+        {
+            "name": "Bharat Petroleum",
+            "industry": null
+        },
+        {
+            "name": "Dr. Reddy's",
+            "industry": null
+        },
+        {
+            "name": "Tata Consumer Products",
+            "industry": null
+        },
+        {
+            "name": "Havells India",
+            "industry": null
+        },
+        {
+            "name": "SRF Limited",
+            "industry": null
+        },
+        {
+            "name": "Tata Power",
+            "industry": null
+        },
+        {
+            "name": "Marico",
+            "industry": null
+        },
+        {
+            "name": "ICICI Prulife",
+            "industry": null
+        },
+        {
+            "name": "Apollo Hospitals",
+            "industry": null
+        },
+        {
+            "name": "GAIL",
+            "industry": null
+        },
+        {
+            "name": "Punjab National Bank",
+            "industry": null
+        },
+        {
+            "name": "Yes Bank",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Holdings & Investment",
+            "industry": null
+        },
+        {
+            "name": "United Spirits",
+            "industry": null
+        },
+        {
+            "name": "ICICI Lombard",
+            "industry": null
+        },
+        {
+            "name": "Canara Bank",
+            "industry": null
+        },
+        {
+            "name": "Jindal Steel & Power",
+            "industry": null
+        },
+        {
+            "name": "Indian Overseas Bank",
+            "industry": null
+        },
+        {
+            "name": "Cholamandalam Investment and Finance",
+            "industry": null
+        },
+        {
+            "name": "IDBI Bank",
+            "industry": null
+        },
+        {
+            "name": "ABB India",
+            "industry": null
+        },
+        {
+            "name": "Mindtree",
+            "industry": null
+        },
+        {
+            "name": "Berger Paints",
+            "industry": null
+        },
+        {
+            "name": "Union Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Hero MotoCorp",
+            "industry": null
+        },
+        {
+            "name": "UPL",
+            "industry": null
+        },
+        {
+            "name": "Tube Investments of India",
+            "industry": null
+        },
+        {
+            "name": "Lodha Group",
+            "industry": null
+        },
+        {
+            "name": "Torrent Pharmaceuticals",
+            "industry": null
+        },
+        {
+            "name": "PI Industries",
+            "industry": null
+        },
+        {
+            "name": "Zomato",
+            "industry": null
+        },
+        {
+            "name": "Reliance Industries",
+            "industry": null
+        },
+        {
+            "name": "Tata Consultancy Services",
+            "industry": null
+        },
+        {
+            "name": "HDFC Bank",
+            "industry": null
+        },
+        {
+            "name": "ICICI Bank",
+            "industry": null
+        },
+        {
+            "name": "Infosys",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Unilever",
+            "industry": null
+        },
+        {
+            "name": "State Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Housing Development Finance Corporation",
+            "industry": null
+        },
+        {
+            "name": "Bharti Airtel",
+            "industry": null
+        },
+        {
+            "name": "Life Insurance Corporation of India (LIC)",
+            "industry": null
+        },
+        {
+            "name": "Adani Enterprises",
+            "industry": null
+        },
+        {
+            "name": "ITC",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finance",
+            "industry": null
+        },
+        {
+            "name": "Adani Total Gas",
+            "industry": null
+        },
+        {
+            "name": "Kotak Mahindra Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Green Energy",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro",
+            "industry": null
+        },
+        {
+            "name": "Asian Paints",
+            "industry": null
+        },
+        {
+            "name": "Axis Bank",
+            "industry": null
+        },
+        {
+            "name": "Adani Transmission",
+            "industry": null
+        },
+        {
+            "name": "HCL Technologies",
+            "industry": null
+        },
+        {
+            "name": "DMart",
+            "industry": null
+        },
+        {
+            "name": "Maruti Suzuki India",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Finserv",
+            "industry": null
+        },
+        {
+            "name": "Sun Pharmaceutical",
+            "industry": null
+        },
+        {
+            "name": "Titan Company",
+            "industry": null
+        },
+        {
+            "name": "Wipro",
+            "industry": null
+        },
+        {
+            "name": "UltraTech Cement",
+            "industry": null
+        },
+        {
+            "name": "Oil & Natural Gas",
+            "industry": null
+        },
+        {
+            "name": "Nestl\u00e9 India",
+            "industry": null
+        },
+        {
+            "name": "JSW Steel",
+            "industry": null
+        },
+        {
+            "name": "Adani Ports & SEZ",
+            "industry": null
+        },
+        {
+            "name": "NTPC Limited",
+            "industry": null
+        },
+        {
+            "name": "Mahindra & Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Powergrid Corporation of India",
+            "industry": null
+        },
+        {
+            "name": "Tata Motors",
+            "industry": null
+        },
+        {
+            "name": "Tata Steel",
+            "industry": null
+        },
+        {
+            "name": "Coal India",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Zinc",
+            "industry": null
+        },
+        {
+            "name": "Pidilite",
+            "industry": null
+        },
+        {
+            "name": "SBI Life Insurance",
+            "industry": null
+        },
+        {
+            "name": "HDFC Life",
+            "industry": null
+        },
+        {
+            "name": "Vedanta",
+            "industry": null
+        },
+        {
+            "name": "Adani Power",
+            "industry": null
+        },
+        {
+            "name": "Grasim Industries",
+            "industry": null
+        },
+        {
+            "name": "Indian Oil",
+            "industry": null
+        },
+        {
+            "name": "Hindalco Industries",
+            "industry": null
+        },
+        {
+            "name": "Ambuja Cements",
+            "industry": null
+        },
+        {
+            "name": "Britannia Industries",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Auto",
+            "industry": null
+        },
+        {
+            "name": "Siemens India",
+            "industry": null
+        },
+        {
+            "name": "Dabur",
+            "industry": null
+        },
+        {
+            "name": "Tech Mahindra",
+            "industry": null
+        },
+        {
+            "name": "Bank of Baroda",
+            "industry": null
+        },
+        {
+            "name": "IndusInd Bank",
+            "industry": null
+        },
+        {
+            "name": "DLF",
+            "industry": null
+        },
+        {
+            "name": "Godrej",
+            "industry": null
+        },
+        {
+            "name": "Divis Laboratories",
+            "industry": null
+        },
+        {
+            "name": "Larsen & Toubro Infotech",
+            "industry": null
+        },
+        {
+            "name": "Eicher Motors",
+            "industry": null
+        },
+        {
+            "name": "JSW Energy",
+            "industry": null
+        },
+        {
+            "name": "Cipla",
+            "industry": null
+        },
+        {
+            "name": "Varun Beverages",
+            "industry": null
+        },
+        {
+            "name": "Hindustan Aeronautics",
+            "industry": null
+        },
+        {
+            "name": "Shree Cement",
+            "industry": null
+        },
+        {
+            "name": "InterGlobe Aviation",
+            "industry": null
+        },
+        {
+            "name": "Adani Wilmar",
+            "industry": null
+        },
+        {
+            "name": "SBI Card",
+            "industry": null
+        },
+        {
+            "name": "Bharat Electronics",
+            "industry": null
+        },
+        {
+            "name": "Bharat Petroleum",
+            "industry": null
+        },
+        {
+            "name": "Dr. Reddy's",
+            "industry": null
+        },
+        {
+            "name": "Tata Consumer Products",
+            "industry": null
+        },
+        {
+            "name": "Havells India",
+            "industry": null
+        },
+        {
+            "name": "SRF Limited",
+            "industry": null
+        },
+        {
+            "name": "Tata Power",
+            "industry": null
+        },
+        {
+            "name": "Marico",
+            "industry": null
+        },
+        {
+            "name": "ICICI Prulife",
+            "industry": null
+        },
+        {
+            "name": "Apollo Hospitals",
+            "industry": null
+        },
+        {
+            "name": "GAIL",
+            "industry": null
+        },
+        {
+            "name": "Punjab National Bank",
+            "industry": null
+        },
+        {
+            "name": "Yes Bank",
+            "industry": null
+        },
+        {
+            "name": "Bajaj Holdings & Investment",
+            "industry": null
+        },
+        {
+            "name": "United Spirits",
+            "industry": null
+        },
+        {
+            "name": "ICICI Lombard",
+            "industry": null
+        },
+        {
+            "name": "Canara Bank",
+            "industry": null
+        },
+        {
+            "name": "Jindal Steel & Power",
+            "industry": null
+        },
+        {
+            "name": "Indian Overseas Bank",
+            "industry": null
+        },
+        {
+            "name": "Cholamandalam Investment and Finance",
+            "industry": null
+        },
+        {
+            "name": "IDBI Bank",
+            "industry": null
+        },
+        {
+            "name": "ABB India",
+            "industry": null
+        },
+        {
+            "name": "Mindtree",
+            "industry": null
+        },
+        {
+            "name": "Berger Paints",
+            "industry": null
+        },
+        {
+            "name": "Union Bank of India",
+            "industry": null
+        },
+        {
+            "name": "Hero MotoCorp",
+            "industry": null
+        },
+        {
+            "name": "UPL",
+            "industry": null
+        },
+        {
+            "name": "Tube Investments of India",
+            "industry": null
+        },
+        {
+            "name": "Lodha Group",
+            "industry": null
+        },
+        {
+            "name": "Torrent Pharmaceuticals",
+            "industry": null
+        },
+        {
+            "name": "PI Industries",
+            "industry": null
+        },
+        {
+            "name": "Zomato",
+            "industry": null
+        }
+    ]
+}

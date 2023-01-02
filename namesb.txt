@@ -1,0 +1,196 @@
+361 Degrees	Consumer goods	Clothing & accessories	Jinjiang	2003	Sporting goods
+Agricultural Bank of China	Financials	Banks	Beijing	1951	Bank
+Aigo	Consumer goods	Consumer electronics	Beijing	1993	Consumer electronics
+Air China	Consumer services	Airlines	Beijing	1988	Flag-carrier airline
+Alibaba Group	Technology	Internet	Hangzhou	1999	Online holdings
+Aluminum Corporation of China Limited	Basic materials	Aluminum	Beijing	2001	Aluminum
+Amoi	Industrials	Electronic equipment	Xiamen	1997	Electronics manufacturing
+Anta Sports	Consumer goods	Clothing & accessories	Jinjiang	1994	Sportswear
+Baidu	Technology	Internet	Beijing	2000	Web services
+Bank of China	Financials	Banks	Beijing	1912	State-owned bank
+Bank of Communications	Financials	Banks	Shanghai	1908	Bank
+China Baowu Steel Group	Basic materials	Iron & steel	Shanghai	1978	Steel
+BBK Electronics	Consumer goods	Consumer Electronics	Dongguang	1998	Smartphones
+Bosideng	Consumer goods	Clothing & accessories	Shanghai	1975	Apparel
+Brilliance Auto	Consumer goods	Automobiles	Shenyang	1991	Automobiles
+BYD Auto	Consumer goods	Automobiles	Xi'an	2003	Automobile, bus, etc.
+Changan Automobile	Consumer goods	Automobiles	Chongqing	1962	State-owned automotive
+Changhe	Consumer goods	Automobiles	Jingdezhen	1970	Automobiles
+Changhong	Consumer goods	Durable household products	Mianyang	1958	Appliances
+Changhong Technology	Basic materials	Commodity chemicals	Shenzhen	1987	Plastic
+ChemChina	Basic materials	Speciality chemicals	Beijing	1984	Chemicals
+Chery Automobile	Consumer goods	Automobiles	Wuhu	1997	Automobiles
+Chicecream	Consumer staples	Food producers	Shanghai	2018	Ice cream
+China Clean Energy	Basic materials	Specialty chemicals	Fuqing	1995	Specialty chemicals, Energy
+China Communications Construction	Industrials	Heavy construction	Beijing	2005	Construction
+China Construction Bank	Financials	Banks	Beijing	1954	Bank
+China COSCO Shipping	Industrials	Marine transportation	Shanghai	2016	Formed from COSCO and China Shipping Group
+China Dongxiang	Consumer goods	Clothing & accessories	Beijing	2007	Sportswear
+China Eastern Airlines	Consumer services	Airlines	Shanghai	1988	Airline
+China Electronics Corporation	Consumer goods	Consumer electronics	Shenzhen	1989	Computer software
+China Housing and Land Development	Financials	Banks	Xi'an	1992	Real estate
+China International Marine Containers	Industrials	Marine transportation	Shenzhen	1980	Shipping, logistics
+China Life Insurance Company	Financials	Life insurance	Beijing	1949	Life insurance
+China Medical Technologies	Health care	Medical technology	Beijing	2004	Medical devices
+China Merchants Bank	Financials	Banks	Shenzhen	1987	Bank
+China Merchants Energy Shipping	Industrials	Marine transportation	Shanghai	2004	Shipping line
+China Metal Recycling	Industrials	Waste & disposal services	Guangzhou	2000	Recycling
+China Minmetals	Basic materials	Metals & minerals	Beijing	1950	Trading
+China Mobile	Telecommunications	Mobile telecommunications	Beijing	1997	State-owned mobile
+China National Building Material	Industrials	Building materials	Beijing	1984	Construction
+China National Erzhong Group	Industrials	Diversified industrials	Deyang	1958[3]	Forge and metal working
+China National Nuclear Corporation	Energy	Nuclear power	Beijing	1955	Nuclear technology
+China National Offshore Oil Corporation	Oil & gas	Exploration & production	Beijing	1982	Oil company
+China National Petroleum Corporation	Oil & gas	Exploration & production	Beijing	1988	State-owned oil & gas
+China Natural Gas	Oil & gas	Exploration & production	Xi'an	2005	Oil & gas
+China Nepstar	Health care	Pharmaceuticals	Shenzhen	1995	Pharmacy chain
+China Netcom	Technology	Internet	Beijing	1999	Internet, defunct 2008
+China Pabst Blue Ribbon	Consumer goods	Brewers	Zhaoqing	1988	Brewery
+China Poly Group	Conglomerate	Fine arts	Beijing	1999	auctions
+China Post	Industrials	Delivery services	Beijing	1997	Postal service, shipping
+China Railway	Industrials	Rail transport	Beijing	2013	Passenger rail
+China Shipping Group	Industrials	Marine transportation	Beijing	1997	Merged into China COSCO Shipping
+China Southern Airlines	Consumer services	Airlines	Guangzhou	1988	Airline
+China State Construction Engineering	Industrials	Heavy construction	Beijing	1957	State construction and contracting
+China Telecom	Telecommunications	Fixed line telecommunications	Beijing	2000	State-owned communications
+China Three Gorges Corporation	Utilities	Alternative electricity	Beijing	1993	Principal for the Three Gorges Dam
+China Tobacco	Consumer goods	Tobacco	Beijing	1982	Tobacco
+China Unicom	Telecommunications	Mobile telecommunications	Beijing	1994	State-owned mobile network
+China Universal	Financials	Investment services	Shanghai	2005	Investment management
+China Wu Yi	Industrials	Heavy construction	Fuzhou	1994	Construction
+China Zhongwang	Basic materials	Aluminum	Liaoyang	1993	Aluminum
+Chunlan Group	Industrials	Electronic equipment	Taizhou	1985	Air conditioners, engines
+CITIC Group	Financials	Investment services	Beijing	1979	Investment management
+CNHLS	Consumer services	Restaurants & bars	Fuzhou	1994	Fast food chain
+COFCO Group	Consumer goods	Food processing	Beijing	1949	Food
+Comac	Industrials	Aerospace	Shanghai	2008	Aircraft
+Commercial Press	Consumer services	Publishing	Beijing	1897	Publishing
+COSCO	Industrials	Marine transportation	Beijing	1961	Shipping line, now China COSCO Shipping
+CRRC	Industrials	Railroads	Beijing	2015	Railway transport
+CSG Holding	Industrials	Glass	Shenzhen	1984	Glass
+Dalian Hi-Think Computer (DHC)	Industrials	Business support services	Dalian	1996	Outsourcing
+Dashang Group	Consumer services	Broadline retailers	Dalian	1995	Department stores
+Dayun Group	Industrials	Automobiles	Yuncheng	1987	Engines, trucks, motorcycles, etc.
+Dicos	Consumer services	Restaurants & bars	Chengdu	1994	Fast food
+Dongfeng Motor Corporation	Consumer goods	Automobiles	Wuhan	1969	State-owned automotive
+DXY.cn	Technology	Internet	Zhenjiang	2000	Online community
+Eisoo	Technology	Internet	Shanghai	2006	cloud computing
+Eno	Consumer goods	Clothing & accessories	Shanghai	2006	Apparel
+ERKE	Consumer goods	Clothing & accessories	Quanzhou	2000	Sportwear
+FAW Group	Consumer goods	Automobiles	Changchun	1953	State-owned automotive
+Feicheng Acid Chemicals	Basic materials	Specialty chemicals	Feicheng	1994	Chemicals
+Feiyue	Consumer goods	Footwear	Shanghai	1920	Shoes
+Foshan Haitian	Consumer goods	Food products	Foshan	1955	Food
+Founder Group	Technology	Computer services	Beijing	1986	Information technology, part of Peking University
+Fushi Copperweld	Industrials	Electronic equipment	Beijing	1915	Electrical conductors
+GAC Group	Consumer goods	Automobiles	Guangzhou	1997	State-owned automotive
+Geely	Consumer goods	Automobiles	Hangzhou	1986	Automobiles
+Gome	Consumer services	Specialty retailers	Beijing	1987	Appliance retailer
+Great Leap Brewing	Consumer goods	Brewers	Beijing	2010	Microbrewery
+Gree Electric	Consumer goods	Durable household products	Zhuhai	1989	Appliances
+GreenTree Inns	Consumer services	Hotels	Shanghai	2004	Hotel chain
+Gushan Environmental Energy	Oil & gas	Exploration & production	Fuzhou	2001	Energy
+Hafei	Industrials	Electronic equipment	Harbin	1950	Engines, trucks
+Haier	Consumer goods	Durable household products	Qingdao	1984	Consumer electronics, home appliances
+Hainan Airlines	Consumer services	Airlines	Haikou	1993	Airline
+Hangzhou Wahaha Group	Consumer goods	Soft drinks	Hangzhou	1987	Beverages
+Harbin Brewery	Consumer goods	Brewers	Harbin	1900	Brewery
+Hasee	Consumer goods	Consumer electronics	Shenzhen	1995	Computers, tablets, mobile phones
+Hefei Meiling	Consumer goods	Durable household products	Hefei	1992	Appliances
+Hisense	Consumer goods	Consumer electronics	Qingdao	1969	Consumer electronics, home appliances, mobile phones
+HiSilicon	Technology	Semiconductors	Shenzhen	2004	Semiconductors, part of Huawei
+Huawei	Consumer goods	Consumer electronics, Telecommunications equipment	Shenzhen	1987	Computers, mobile phones, tablets, telecommunication equipment
+Huayi Brothers Media Corporation	Consumer services	Broadcasting & entertainment	Beijing	1994	Media
+Huiyuan Juice	Consumer goods	Soft drinks	Beijing	1992	Privately owned juice and beverage
+Hytera	Industrials	Electronic equipment	Shenzhen	1993	Radios and telecommunications
+Industrial and Commercial Bank of China	Financials	Banks	Beijing	1984	Commercial bank
+Inspur	Technology	Computer services	Jinan	2000	IT
+JDB Group	Consumer goods	Soft drinks	Dongguan	1995	Beverage
+Jiangling Motors	Consumer goods	Automobiles	Nanchang	1952	Automotive
+Jianlibao Group	Consumer goods	Soft drinks	Foshan	1984	Soft drink
+Jiuguang Department Store	Consumer services	Broadline retailers	Shanghai	2004	Retail
+Joyoung	Consumer goods	Durable household products	Jinan	1994	Home appliances
+JXD	Industrials	Electronic equipment	Shenzhen	1995	Consumer electronics and games
+Kingsoft	Technology	Software	Beijing	1989	Software
+Kingway Brewery	Consumer goods	Brewers	Shenzhen	1990	State-owned brewery
+Lenovo	Consumer goods	Consumer electronics	Hong Kong	1984	Computers, tablets, mobile phones
+Li-Ning	Consumer goods	Footwear	Beijing	1990	Sporting goods
+Little Sheep Group	Consumer services	Restaurants & bars	Baotou	1999	Restaurants, condiments
+Loncin Holdings	Consumer goods	Automobiles	Chongqing	1983[4]	Motorcycles
+Lonking	Industrials	Commercial vehicles & trucks	Longyan	1993	Construction machinery
+Mailman Group	Technology	Internet	Shanghai	1999	Technology and social media agency
+Maoye International	Consumer services	Broadline retailers	Shenzhen	1996	Department stores
+Meizu	Consumer goods	Telecommunications equipment	Zhuhai	2003	Mobile phones
+Mengniu Dairy	Consumer goods	Food products	Hohhot	1995	Dairy products, ice cream
+Meters/bonwe	Consumer goods	Clothing & accessories	Shanghai	1995	Apparel
+Midea Group	Consumer goods	Durable household products	Beijiao	1968	Appliances
+Mingyang Wind Power	Utilities	Alternative electricity	Zhongshan	2006	Wind power
+Miniso	Consumer services	Broadline retailers	Guangzhou	2011	Low-cost variety stores
+Mr. Lee	Consumer services	Restaurants & bars	Beijing	1988	Fast food
+Nanjing Automobile	Consumer goods	Automobiles	Nanjing	1947	State-owned automotive
+Neusoft	Technology	Software	Shenyang	1991	Software
+Ningbo Bird	Telecommunications	Mobile telecommunications	Fenghua District	1992	Mobile phones
+Opple Lighting	Industrials	Building materials & fixtures	Zhongshan	1996	Lighting
+Panda Electronics	Consumer goods	Consumer electronics	Nanjing	1936	Consumer electronics
+Peak Sport Products	Consumer goods	Clothing & accessories	Quanzhou	1989	Sportswear
+Pearl River Piano Group	Consumer goods	Recreational products	Guangzhou	1956	Pianos
+People's Insurance Company of China	Financials	Full line insurance	Beijing	1949	Insurance
+Ping An Bank	Financials	Banks	Shenzhen	1995	Bank, part of Ping An Insurance
+Ping An Insurance	Financials	Full line insurance	Shenzhen	1988	Insurance
+Qihoo 360	Technology	Software	Beijing	2005	Software
+Qinghai Huading Industrial	Industrials	Industrial machinery	Xining	1998	Mechanical products
+SAIC-GM	Consumer goods	Automobiles	Shanghai	1997	Joint venture with General Motors (US) and SAIC Motor
+SAIC Motor	Consumer goods	Automobiles	Shanghai	2011	Automobiles
+Sany	Industrials	Industrial machinery	Changsha	1989	Machinery
+Septwolves	Consumer goods	Clothing	Jinjiang	1990	Clothing
+SF Express	Industrials	Delivery services	Shenzhen	1993	Logistics
+Shaanxi Automobile Group	Industrials	Commercial vehicles & trucks	Xi'an	1968	Trucks, buses
+Shaanxi Yanchang Petroleum	Oil & gas	Exploration & production	Xi'an	1905	State-owned oil & gas
+Shanghai Film Group Corporation	Consumer services	Broadcasting & entertainment	Shanghai	2001	Film production
+Shanghai Pudong Development Bank	Financials	Banks	Shanghai	1993	Commercial bank
+AVIC	Industrials	Aerospace and defense	Beijing	1951	Aircraft
+Shenzhen Airlines	Consumer services	Airlines	Shenzhen	1992	Airline
+Shenzhen Energy	Utilities	Conventional electricity	Shenzhen	1993	Power generation
+Shenzhen Media Group	Consumer services	Broadcasting & entertainment	Shenzhen	2004	Television and radio
+Shinho	Consumer goods	Food products	Yantai	1992	Food
+Shougang	Basic materials	Iron & steel	Beijing	1919	Steel
+Shui On Land	Financials	Real estate holding & development	Shanghai	2004	Real estate
+Sichuan Airlines	Consumer services	Airlines	Chengdu	1986	Airline
+Simcere Pharmaceutical	Health care	Pharmaceuticals	Nanjing	1995[5]	Generic drug manufacturer
+Sinoenergy	Oil & gas	Exploration & production	Qingdao	2004	Natural gas
+Sinopec	Oil & gas	Exploration & production	Beijing	2000	Oil company
+Sinopharm Group	Health care	Pharmaceuticals	Shanghai	1998	Pharmaceticals, traditional medicine
+Sinosteel	Basic materials	Iron & steel	Beijing	1993	Iron, steel
+Sinovac Biotech	Health care	Pharmaceuticals	Beijing	1999	Research, development, manufacture and commercialization of vaccines
+Skyworth	Consumer goods	Consumer electronics	Shenzhen	1988	Consumer electronics
+SmithStreetSolutions	Industrials	Business support services	Shanghai	2007	Consulting
+State Grid Corporation of China	Utilities	Conventional electricity	Beijing	2002	Former State Power, national electric company
+Suning Commerce Group	Consumer services	Broadline retailers	Nanjing	1990	Retail
+Suntech Power	Industrials	Electronic equipment	Wuxi	2001	Photovoltaics (solar cell) manufacturer
+Suzhou Synta Optical Technology	Consumer goods	Recreational products	Suzhou	1988	Telescopes, optics, part of Synta Technology Corporation of Taiwan
+TCL Technology	Consumer goods	Consumer electronics	Huizhou	1981	Consumer electronics
+Telesail Technology	Telecommunications	Fixed line telecommunications	Beijing	2005	Telecom equipment, services
+Tencent	Conglomerates	Internet services, software, entertainment, artificial intelligence, technology	Shenzhen	1998	Internet, software, mobile phones, online advertising, online gaming
+Tianan Insurance	Financials	Full line insurance	Shanghai[6]	1994	Insurance
+Tianjin FAW	Consumer goods	Automobiles	Tianjin	1965	Automobiles
+Tongrentang	Health care	Pharmaceuticals	Beijing	1669	Pharmaceuticals, traditional medicine
+Topray Solar	Utilities	Alternative electricity	Shenzhen	1999	Solar energy
+TP-Link	Technology	Telecommunications equipment	Shenzhen	1996	Computer networking devices
+Trands	Consumer goods	Clothing & accessories	Dalian	1995	Menswear
+Tsingtao Brewery	Consumer goods	Brewers	Qingdao	1903	Brewery
+UnionPay	Financials	Consumer services	Shanghai	2002	Financial services
+Vanke	Financials	Real estate holding & development	Shenzhen	1984	Real estate
+Vinda International	Basic materials	Paper	Xinhui District	1985	Paper
+Vsun	Technology	Telecommunications equipment	Shenzhen	2011	Mobile phones
+Wanda Group	Conglomerates	-	Beijing	1988	Property developer, real estate, hospitality, retail, tourism, culture
+WuXi PharmaTech	Health care	Pharmaceuticals	Shanghai	2000	Laboratory and manufacturing services
+Xiaomi	Technology	Consumer electronics	Beijing	2010	Mobile phones
+Yili Group	Consumer goods	Food products	Hohhot	1993	Dairy and ice-cream
+Yonyou	Technology	Software	Beijing	1988	Software
+Yutong Group	Industrials	Commercial vehicles & trucks	Zhengzhou	1963	Bus manufacturing
+Zhongjin Gold	Basic materials	Gold mining	Beijing	2000[7]	Gold mining
+Zhongjin Lingnan	Basic materials	Nonferrous metals	Shenzhen	1984	Metal
+Zhujiang Beer	Consumer goods	Brewers	Guangzhou	1985	Brewery
+Zoomlion	Industrials	Industrial machinery	Changsha	1992	Heavy machinery
+ZTE	Technology	Telecommunications equipment	Shenzhen	1985	Telecom equipment
+ZX Auto	Consumer goods	Automobiles	Baoding	1999	Automobiles

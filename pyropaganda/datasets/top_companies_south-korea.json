@@ -1,0 +1,4862 @@
+[
+    {
+        "name": "Samsung",
+        "code": "005930.KS",
+        "country": "S. Korea",
+        "rank": 1
+    },
+    {
+        "name": "LG Energy Solution",
+        "code": "373220.KS",
+        "country": "S. Korea",
+        "rank": 2
+    },
+    {
+        "name": "Samsung Biologics",
+        "code": "207940.KS",
+        "country": "S. Korea",
+        "rank": 3
+    },
+    {
+        "name": "SK Hynix",
+        "code": "000660.KS",
+        "country": "S. Korea",
+        "rank": 4
+    },
+    {
+        "name": "LG Chem",
+        "code": "051910.KS",
+        "country": "S. Korea",
+        "rank": 5
+    },
+    {
+        "name": "Samsung SDI",
+        "code": "006405.KS",
+        "country": "S. Korea",
+        "rank": 6
+    },
+    {
+        "name": "Hyundai",
+        "code": "HYMTF",
+        "country": "S. Korea",
+        "rank": 7
+    },
+    {
+        "name": "Coupang",
+        "code": "CPNG",
+        "country": "S. Korea",
+        "rank": 8
+    },
+    {
+        "name": "Naver",
+        "code": "035420.KS",
+        "country": "S. Korea",
+        "rank": 9
+    },
+    {
+        "name": "Kia",
+        "code": "000270.KS",
+        "country": "S. Korea",
+        "rank": 10
+    },
+    {
+        "name": "Kakao",
+        "code": "035720.KS",
+        "country": "S. Korea",
+        "rank": 11
+    },
+    {
+        "name": "Celltrion",
+        "code": "068270.KS",
+        "country": "S. Korea",
+        "rank": 12
+    },
+    {
+        "name": "POSCO",
+        "code": "PKX",
+        "country": "S. Korea",
+        "rank": 13
+    },
+    {
+        "name": "KB Financial Group",
+        "code": "KB",
+        "country": "S. Korea",
+        "rank": 14
+    },
+    {
+        "name": "Hyundai Mobis",
+        "code": "012330.KS",
+        "country": "S. Korea",
+        "rank": 15
+    },
+    {
+        "name": "Shinhan Financial Group",
+        "code": "SHG",
+        "country": "S. Korea",
+        "rank": 16
+    },
+    {
+        "name": "LG Electronics",
+        "code": "LGLG.F",
+        "country": "S. Korea",
+        "rank": 17
+    },
+    {
+        "name": "POSCO Chemical",
+        "code": "003670.KS",
+        "country": "S. Korea",
+        "rank": 18
+    },
+    {
+        "name": "Korea Electric Power",
+        "code": "KEP",
+        "country": "S. Korea",
+        "rank": 19
+    },
+    {
+        "name": "SK Innovation",
+        "code": "096775.KS",
+        "country": "S. Korea",
+        "rank": 20
+    },
+    {
+        "name": "Samsung Life Insurance",
+        "code": "032830.KS",
+        "country": "S. Korea",
+        "rank": 21
+    },
+    {
+        "name": "LG Corp",
+        "code": "003550.KS",
+        "country": "S. Korea",
+        "rank": 22
+    },
+    {
+        "name": "Hana Financial Group",
+        "code": "086790.KS",
+        "country": "S. Korea",
+        "rank": 23
+    },
+    {
+        "name": "KakaoBank",
+        "code": "323410.KS",
+        "country": "S. Korea",
+        "rank": 24
+    },
+    {
+        "name": "LG Household & Health Care",
+        "code": "051905.KS",
+        "country": "S. Korea",
+        "rank": 25
+    },
+    {
+        "name": "KT&G (Korea Tobacco)",
+        "code": "033780.KS",
+        "country": "S. Korea",
+        "rank": 26
+    },
+    {
+        "name": "SK Telecom",
+        "code": "SKM",
+        "country": "S. Korea",
+        "rank": 27
+    },
+    {
+        "name": "SK Group",
+        "code": "034730.KS",
+        "country": "S. Korea",
+        "rank": 28
+    },
+    {
+        "name": "Korea Zinc",
+        "code": "010130.KS",
+        "country": "S. Korea",
+        "rank": 29
+    },
+    {
+        "name": "Samsung Electro-Mechanics",
+        "code": "009155.KS",
+        "country": "S. Korea",
+        "rank": 30
+    },
+    {
+        "name": "Doosan Enerbility",
+        "code": "034020.KS",
+        "country": "S. Korea",
+        "rank": 31
+    },
+    {
+        "name": "S-OIL",
+        "code": "010950.KS",
+        "country": "S. Korea",
+        "rank": 32
+    },
+    {
+        "name": "HMM",
+        "code": "011200.KS",
+        "country": "S. Korea",
+        "rank": 33
+    },
+    {
+        "name": "NCsoft",
+        "code": "036570.KS",
+        "country": "S. Korea",
+        "rank": 34
+    },
+    {
+        "name": "KT Corporation",
+        "code": "KT",
+        "country": "S. Korea",
+        "rank": 35
+    },
+    {
+        "name": "Woori Financial Group",
+        "code": "WF",
+        "country": "S. Korea",
+        "rank": 36
+    },
+    {
+        "name": "Amorepacific",
+        "code": "090430.KS",
+        "country": "S. Korea",
+        "rank": 37
+    },
+    {
+        "name": "Korean Air Lines",
+        "code": "003495.KS",
+        "country": "S. Korea",
+        "rank": 38
+    },
+    {
+        "name": "Hanwha Solutions",
+        "code": "009830.KS",
+        "country": "S. Korea",
+        "rank": 39
+    },
+    {
+        "name": "Krafton",
+        "code": "259960.KS",
+        "country": "S. Korea",
+        "rank": 40
+    },
+    {
+        "name": "Industrial Bank of Korea (IBK)",
+        "code": "024110.KS",
+        "country": "S. Korea",
+        "rank": 41
+    },
+    {
+        "name": "Kakao Pay",
+        "code": "377300.KS",
+        "country": "S. Korea",
+        "rank": 42
+    },
+    {
+        "name": "HYBE",
+        "code": "352820.KS",
+        "country": "S. Korea",
+        "rank": 43
+    },
+    {
+        "name": "LOTTE Chemical",
+        "code": "011170.KS",
+        "country": "S. Korea",
+        "rank": 44
+    },
+    {
+        "name": "Hyundai Glovis",
+        "code": "086280.KS",
+        "country": "S. Korea",
+        "rank": 45
+    },
+    {
+        "name": "F&F Co",
+        "code": "383220.KS",
+        "country": "S. Korea",
+        "rank": 46
+    },
+    {
+        "name": "Korea Aerospace Industries",
+        "code": "047810.KS",
+        "country": "S. Korea",
+        "rank": 47
+    },
+    {
+        "name": "Kangwon Land",
+        "code": "035250.KS",
+        "country": "S. Korea",
+        "rank": 48
+    },
+    {
+        "name": "Netmarble",
+        "code": "251270.KS",
+        "country": "S. Korea",
+        "rank": 49
+    },
+    {
+        "name": "LG Display",
+        "code": "LPL",
+        "country": "S. Korea",
+        "rank": 50
+    },
+    {
+        "name": "Coway",
+        "code": "021240.KS",
+        "country": "S. Korea",
+        "rank": 51
+    },
+    {
+        "name": "Yuhan",
+        "code": "000100.KS",
+        "country": "S. Korea",
+        "rank": 52
+    },
+    {
+        "name": "Hankook Tire",
+        "code": "161390.KS",
+        "country": "S. Korea",
+        "rank": 53
+    },
+    {
+        "name": "BGF Retail",
+        "code": "282330.KS",
+        "country": "S. Korea",
+        "rank": 54
+    },
+    {
+        "name": "Doosan Bobcat",
+        "code": "241560.KS",
+        "country": "S. Korea",
+        "rank": 55
+    },
+    {
+        "name": "Kumho Petrochemical",
+        "code": "011780.KS",
+        "country": "S. Korea",
+        "rank": 56
+    },
+    {
+        "name": "Pan Ocean",
+        "code": "028670.KS",
+        "country": "S. Korea",
+        "rank": 57
+    },
+    {
+        "name": "SD BioSensor",
+        "code": "137310.KS",
+        "country": "S. Korea",
+        "rank": 58
+    },
+    {
+        "name": "Korea Gas",
+        "code": "036460.KS",
+        "country": "S. Korea",
+        "rank": 59
+    },
+    {
+        "name": "Samsung Heavy Industries",
+        "code": "010145.KS",
+        "country": "S. Korea",
+        "rank": 60
+    },
+    {
+        "name": "Doosan Fuel Cell",
+        "code": "336260.KS",
+        "country": "S. Korea",
+        "rank": 61
+    },
+    {
+        "name": "CJ Group",
+        "code": "001040.KS",
+        "country": "S. Korea",
+        "rank": 62
+    },
+    {
+        "name": "JYP Entertainment",
+        "code": "035900.KQ",
+        "country": "S. Korea",
+        "rank": 63
+    },
+    {
+        "name": "Hanmi Pharmaceutical",
+        "code": "008930.KS",
+        "country": "S. Korea",
+        "rank": 64
+    },
+    {
+        "name": "Shinsegae",
+        "code": "004170.KS",
+        "country": "S. Korea",
+        "rank": 65
+    },
+    {
+        "name": "LOTTE Corporation",
+        "code": "004990.KS",
+        "country": "S. Korea",
+        "rank": 66
+    },
+    {
+        "name": "Nongshim",
+        "code": "004370.KS",
+        "country": "S. Korea",
+        "rank": 67
+    },
+    {
+        "name": "Fila",
+        "code": "081660.KS",
+        "country": "S. Korea",
+        "rank": 68
+    },
+    {
+        "name": "DSME (Daewoo Shipbuilding)",
+        "code": "042660.KS",
+        "country": "S. Korea",
+        "rank": 69
+    },
+    {
+        "name": "SM Entertainment",
+        "code": "041510.KQ",
+        "country": "S. Korea",
+        "rank": 70
+    },
+    {
+        "name": "Ottogi",
+        "code": "007310.KS",
+        "country": "S. Korea",
+        "rank": 71
+    },
+    {
+        "name": "HiteJinro",
+        "code": "000080.KS",
+        "country": "S. Korea",
+        "rank": 72
+    },
+    {
+        "name": "KCC Corp",
+        "code": "002380.KS",
+        "country": "S. Korea",
+        "rank": 73
+    },
+    {
+        "name": "Doosan",
+        "code": "000150.KS",
+        "country": "S. Korea",
+        "rank": 74
+    },
+    {
+        "name": "Jeju Air",
+        "code": "089590.KS",
+        "country": "S. Korea",
+        "rank": 75
+    },
+    {
+        "name": "Asiana Airlines",
+        "code": "020560.KS",
+        "country": "S. Korea",
+        "rank": 76
+    },
+    {
+        "name": "Shinpoong Pharm",
+        "code": "019170.KS",
+        "country": "S. Korea",
+        "rank": 77
+    },
+    {
+        "name": "Samyang Foods",
+        "code": "003230.KS",
+        "country": "S. Korea",
+        "rank": 78
+    },
+    {
+        "name": "YG Entertainment",
+        "code": "122870.KQ",
+        "country": "S. Korea",
+        "rank": 79
+    },
+    {
+        "name": "Jin Air",
+        "code": "272450.KS",
+        "country": "S. Korea",
+        "rank": 80
+    },
+    {
+        "name": "NHN Corp",
+        "code": "181710.KS",
+        "country": "S. Korea",
+        "rank": 81
+    },
+    {
+        "name": "DoubleUGames",
+        "code": "192080.KS",
+        "country": "S. Korea",
+        "rank": 82
+    },
+    {
+        "name": "Neowiz Games",
+        "code": "095660.KQ",
+        "country": "S. Korea",
+        "rank": 83
+    },
+    {
+        "name": "Com2uS",
+        "code": "078340.KQ",
+        "country": "S. Korea",
+        "rank": 84
+    },
+    {
+        "name": "Pearl Abyss",
+        "code": "263750.KQ",
+        "country": "S. Korea",
+        "rank": 85
+    },
+    {
+        "name": "Webzen",
+        "code": "069080.KQ",
+        "country": "S. Korea",
+        "rank": 86
+    },
+    {
+        "name": "Wemade",
+        "code": "112040.KQ",
+        "country": "S. Korea",
+        "rank": 87
+    },
+    {
+        "name": "T\u2019way Air",
+        "code": "091810.KS",
+        "country": "S. Korea",
+        "rank": 88
+    },
+    {
+        "name": "Gravity Co.",
+        "code": "GRVY",
+        "country": "S. Korea",
+        "rank": 89
+    },
+    {
+        "name": "Air Busan",
+        "code": "298690.KS",
+        "country": "S. Korea",
+        "rank": 90
+    },
+    {
+        "name": "Samsung",
+        "code": "005930.KS",
+        "country": "S. Korea",
+        "rank": 91
+    },
+    {
+        "name": "LG Energy Solution",
+        "code": "373220.KS",
+        "country": "S. Korea",
+        "rank": 92
+    },
+    {
+        "name": "Samsung Biologics",
+        "code": "207940.KS",
+        "country": "S. Korea",
+        "rank": 93
+    },
+    {
+        "name": "SK Hynix",
+        "code": "000660.KS",
+        "country": "S. Korea",
+        "rank": 94
+    },
+    {
+        "name": "LG Chem",
+        "code": "051910.KS",
+        "country": "S. Korea",
+        "rank": 95
+    },
+    {
+        "name": "Samsung SDI",
+        "code": "006405.KS",
+        "country": "S. Korea",
+        "rank": 96
+    },
+    {
+        "name": "Hyundai",
+        "code": "HYMTF",
+        "country": "S. Korea",
+        "rank": 97
+    },
+    {
+        "name": "Coupang",
+        "code": "CPNG",
+        "country": "S. Korea",
+        "rank": 98
+    },
+    {
+        "name": "Naver",
+        "code": "035420.KS",
+        "country": "S. Korea",
+        "rank": 99
+    },
+    {
+        "name": "Kia",
+        "code": "000270.KS",
+        "country": "S. Korea",
+        "rank": 100
+    },
+    {
+        "name": "Kakao",
+        "code": "035720.KS",
+        "country": "S. Korea",
+        "rank": 101
+    },
+    {
+        "name": "Celltrion",
+        "code": "068270.KS",
+        "country": "S. Korea",
+        "rank": 102
+    },
+    {
+        "name": "POSCO",
+        "code": "PKX",
+        "country": "S. Korea",
+        "rank": 103
+    },
+    {
+        "name": "KB Financial Group",
+        "code": "KB",
+        "country": "S. Korea",
+        "rank": 104
+    },
+    {
+        "name": "Hyundai Mobis",
+        "code": "012330.KS",
+        "country": "S. Korea",
+        "rank": 105
+    },
+    {
+        "name": "Shinhan Financial Group",
+        "code": "SHG",
+        "country": "S. Korea",
+        "rank": 106
+    },
+    {
+        "name": "LG Electronics",
+        "code": "LGLG.F",
+        "country": "S. Korea",
+        "rank": 107
+    },
+    {
+        "name": "POSCO Chemical",
+        "code": "003670.KS",
+        "country": "S. Korea",
+        "rank": 108
+    },
+    {
+        "name": "Korea Electric Power",
+        "code": "KEP",
+        "country": "S. Korea",
+        "rank": 109
+    },
+    {
+        "name": "SK Innovation",
+        "code": "096775.KS",
+        "country": "S. Korea",
+        "rank": 110
+    },
+    {
+        "name": "Samsung Life Insurance",
+        "code": "032830.KS",
+        "country": "S. Korea",
+        "rank": 111
+    },
+    {
+        "name": "LG Corp",
+        "code": "003550.KS",
+        "country": "S. Korea",
+        "rank": 112
+    },
+    {
+        "name": "Hana Financial Group",
+        "code": "086790.KS",
+        "country": "S. Korea",
+        "rank": 113
+    },
+    {
+        "name": "KakaoBank",
+        "code": "323410.KS",
+        "country": "S. Korea",
+        "rank": 114
+    },
+    {
+        "name": "LG Household & Health Care",
+        "code": "051905.KS",
+        "country": "S. Korea",
+        "rank": 115
+    },
+    {
+        "name": "KT&G (Korea Tobacco)",
+        "code": "033780.KS",
+        "country": "S. Korea",
+        "rank": 116
+    },
+    {
+        "name": "SK Telecom",
+        "code": "SKM",
+        "country": "S. Korea",
+        "rank": 117
+    },
+    {
+        "name": "SK Group",
+        "code": "034730.KS",
+        "country": "S. Korea",
+        "rank": 118
+    },
+    {
+        "name": "Korea Zinc",
+        "code": "010130.KS",
+        "country": "S. Korea",
+        "rank": 119
+    },
+    {
+        "name": "Samsung Electro-Mechanics",
+        "code": "009155.KS",
+        "country": "S. Korea",
+        "rank": 120
+    },
+    {
+        "name": "Doosan Enerbility",
+        "code": "034020.KS",
+        "country": "S. Korea",
+        "rank": 121
+    },
+    {
+        "name": "S-OIL",
+        "code": "010950.KS",
+        "country": "S. Korea",
+        "rank": 122
+    },
+    {
+        "name": "HMM",
+        "code": "011200.KS",
+        "country": "S. Korea",
+        "rank": 123
+    },
+    {
+        "name": "NCsoft",
+        "code": "036570.KS",
+        "country": "S. Korea",
+        "rank": 124
+    },
+    {
+        "name": "KT Corporation",
+        "code": "KT",
+        "country": "S. Korea",
+        "rank": 125
+    },
+    {
+        "name": "Woori Financial Group",
+        "code": "WF",
+        "country": "S. Korea",
+        "rank": 126
+    },
+    {
+        "name": "Amorepacific",
+        "code": "090430.KS",
+        "country": "S. Korea",
+        "rank": 127
+    },
+    {
+        "name": "Korean Air Lines",
+        "code": "003495.KS",
+        "country": "S. Korea",
+        "rank": 128
+    },
+    {
+        "name": "Hanwha Solutions",
+        "code": "009830.KS",
+        "country": "S. Korea",
+        "rank": 129
+    },
+    {
+        "name": "Krafton",
+        "code": "259960.KS",
+        "country": "S. Korea",
+        "rank": 130
+    },
+    {
+        "name": "Industrial Bank of Korea (IBK)",
+        "code": "024110.KS",
+        "country": "S. Korea",
+        "rank": 131
+    },
+    {
+        "name": "Kakao Pay",
+        "code": "377300.KS",
+        "country": "S. Korea",
+        "rank": 132
+    },
+    {
+        "name": "HYBE",
+        "code": "352820.KS",
+        "country": "S. Korea",
+        "rank": 133
+    },
+    {
+        "name": "LOTTE Chemical",
+        "code": "011170.KS",
+        "country": "S. Korea",
+        "rank": 134
+    },
+    {
+        "name": "Hyundai Glovis",
+        "code": "086280.KS",
+        "country": "S. Korea",
+        "rank": 135
+    },
+    {
+        "name": "F&F Co",
+        "code": "383220.KS",
+        "country": "S. Korea",
+        "rank": 136
+    },
+    {
+        "name": "Korea Aerospace Industries",
+        "code": "047810.KS",
+        "country": "S. Korea",
+        "rank": 137
+    },
+    {
+        "name": "Kangwon Land",
+        "code": "035250.KS",
+        "country": "S. Korea",
+        "rank": 138
+    },
+    {
+        "name": "Netmarble",
+        "code": "251270.KS",
+        "country": "S. Korea",
+        "rank": 139
+    },
+    {
+        "name": "LG Display",
+        "code": "LPL",
+        "country": "S. Korea",
+        "rank": 140
+    },
+    {
+        "name": "Coway",
+        "code": "021240.KS",
+        "country": "S. Korea",
+        "rank": 141
+    },
+    {
+        "name": "Yuhan",
+        "code": "000100.KS",
+        "country": "S. Korea",
+        "rank": 142
+    },
+    {
+        "name": "Hankook Tire",
+        "code": "161390.KS",
+        "country": "S. Korea",
+        "rank": 143
+    },
+    {
+        "name": "BGF Retail",
+        "code": "282330.KS",
+        "country": "S. Korea",
+        "rank": 144
+    },
+    {
+        "name": "Doosan Bobcat",
+        "code": "241560.KS",
+        "country": "S. Korea",
+        "rank": 145
+    },
+    {
+        "name": "Kumho Petrochemical",
+        "code": "011780.KS",
+        "country": "S. Korea",
+        "rank": 146
+    },
+    {
+        "name": "Pan Ocean",
+        "code": "028670.KS",
+        "country": "S. Korea",
+        "rank": 147
+    },
+    {
+        "name": "SD BioSensor",
+        "code": "137310.KS",
+        "country": "S. Korea",
+        "rank": 148
+    },
+    {
+        "name": "Korea Gas",
+        "code": "036460.KS",
+        "country": "S. Korea",
+        "rank": 149
+    },
+    {
+        "name": "Samsung Heavy Industries",
+        "code": "010145.KS",
+        "country": "S. Korea",
+        "rank": 150
+    },
+    {
+        "name": "Doosan Fuel Cell",
+        "code": "336260.KS",
+        "country": "S. Korea",
+        "rank": 151
+    },
+    {
+        "name": "CJ Group",
+        "code": "001040.KS",
+        "country": "S. Korea",
+        "rank": 152
+    },
+    {
+        "name": "JYP Entertainment",
+        "code": "035900.KQ",
+        "country": "S. Korea",
+        "rank": 153
+    },
+    {
+        "name": "Hanmi Pharmaceutical",
+        "code": "008930.KS",
+        "country": "S. Korea",
+        "rank": 154
+    },
+    {
+        "name": "Shinsegae",
+        "code": "004170.KS",
+        "country": "S. Korea",
+        "rank": 155
+    },
+    {
+        "name": "LOTTE Corporation",
+        "code": "004990.KS",
+        "country": "S. Korea",
+        "rank": 156
+    },
+    {
+        "name": "Nongshim",
+        "code": "004370.KS",
+        "country": "S. Korea",
+        "rank": 157
+    },
+    {
+        "name": "Fila",
+        "code": "081660.KS",
+        "country": "S. Korea",
+        "rank": 158
+    },
+    {
+        "name": "DSME (Daewoo Shipbuilding)",
+        "code": "042660.KS",
+        "country": "S. Korea",
+        "rank": 159
+    },
+    {
+        "name": "SM Entertainment",
+        "code": "041510.KQ",
+        "country": "S. Korea",
+        "rank": 160
+    },
+    {
+        "name": "Ottogi",
+        "code": "007310.KS",
+        "country": "S. Korea",
+        "rank": 161
+    },
+    {
+        "name": "HiteJinro",
+        "code": "000080.KS",
+        "country": "S. Korea",
+        "rank": 162
+    },
+    {
+        "name": "KCC Corp",
+        "code": "002380.KS",
+        "country": "S. Korea",
+        "rank": 163
+    },
+    {
+        "name": "Doosan",
+        "code": "000150.KS",
+        "country": "S. Korea",
+        "rank": 164
+    },
+    {
+        "name": "Jeju Air",
+        "code": "089590.KS",
+        "country": "S. Korea",
+        "rank": 165
+    },
+    {
+        "name": "Asiana Airlines",
+        "code": "020560.KS",
+        "country": "S. Korea",
+        "rank": 166
+    },
+    {
+        "name": "Shinpoong Pharm",
+        "code": "019170.KS",
+        "country": "S. Korea",
+        "rank": 167
+    },
+    {
+        "name": "Samyang Foods",
+        "code": "003230.KS",
+        "country": "S. Korea",
+        "rank": 168
+    },
+    {
+        "name": "YG Entertainment",
+        "code": "122870.KQ",
+        "country": "S. Korea",
+        "rank": 169
+    },
+    {
+        "name": "Jin Air",
+        "code": "272450.KS",
+        "country": "S. Korea",
+        "rank": 170
+    },
+    {
+        "name": "NHN Corp",
+        "code": "181710.KS",
+        "country": "S. Korea",
+        "rank": 171
+    },
+    {
+        "name": "DoubleUGames",
+        "code": "192080.KS",
+        "country": "S. Korea",
+        "rank": 172
+    },
+    {
+        "name": "Neowiz Games",
+        "code": "095660.KQ",
+        "country": "S. Korea",
+        "rank": 173
+    },
+    {
+        "name": "Com2uS",
+        "code": "078340.KQ",
+        "country": "S. Korea",
+        "rank": 174
+    },
+    {
+        "name": "Pearl Abyss",
+        "code": "263750.KQ",
+        "country": "S. Korea",
+        "rank": 175
+    },
+    {
+        "name": "Webzen",
+        "code": "069080.KQ",
+        "country": "S. Korea",
+        "rank": 176
+    },
+    {
+        "name": "Wemade",
+        "code": "112040.KQ",
+        "country": "S. Korea",
+        "rank": 177
+    },
+    {
+        "name": "T\u2019way Air",
+        "code": "091810.KS",
+        "country": "S. Korea",
+        "rank": 178
+    },
+    {
+        "name": "Gravity Co.",
+        "code": "GRVY",
+        "country": "S. Korea",
+        "rank": 179
+    },
+    {
+        "name": "Air Busan",
+        "code": "298690.KS",
+        "country": "S. Korea",
+        "rank": 180
+    },
+    {
+        "name": "Samsung",
+        "code": "005930.KS",
+        "country": "S. Korea",
+        "rank": 181
+    },
+    {
+        "name": "LG Energy Solution",
+        "code": "373220.KS",
+        "country": "S. Korea",
+        "rank": 182
+    },
+    {
+        "name": "Samsung Biologics",
+        "code": "207940.KS",
+        "country": "S. Korea",
+        "rank": 183
+    },
+    {
+        "name": "SK Hynix",
+        "code": "000660.KS",
+        "country": "S. Korea",
+        "rank": 184
+    },
+    {
+        "name": "LG Chem",
+        "code": "051910.KS",
+        "country": "S. Korea",
+        "rank": 185
+    },
+    {
+        "name": "Samsung SDI",
+        "code": "006405.KS",
+        "country": "S. Korea",
+        "rank": 186
+    },
+    {
+        "name": "Hyundai",
+        "code": "HYMTF",
+        "country": "S. Korea",
+        "rank": 187
+    },
+    {
+        "name": "Coupang",
+        "code": "CPNG",
+        "country": "S. Korea",
+        "rank": 188
+    },
+    {
+        "name": "Naver",
+        "code": "035420.KS",
+        "country": "S. Korea",
+        "rank": 189
+    },
+    {
+        "name": "Kia",
+        "code": "000270.KS",
+        "country": "S. Korea",
+        "rank": 190
+    },
+    {
+        "name": "Kakao",
+        "code": "035720.KS",
+        "country": "S. Korea",
+        "rank": 191
+    },
+    {
+        "name": "Celltrion",
+        "code": "068270.KS",
+        "country": "S. Korea",
+        "rank": 192
+    },
+    {
+        "name": "POSCO",
+        "code": "PKX",
+        "country": "S. Korea",
+        "rank": 193
+    },
+    {
+        "name": "KB Financial Group",
+        "code": "KB",
+        "country": "S. Korea",
+        "rank": 194
+    },
+    {
+        "name": "Hyundai Mobis",
+        "code": "012330.KS",
+        "country": "S. Korea",
+        "rank": 195
+    },
+    {
+        "name": "Shinhan Financial Group",
+        "code": "SHG",
+        "country": "S. Korea",
+        "rank": 196
+    },
+    {
+        "name": "LG Electronics",
+        "code": "LGLG.F",
+        "country": "S. Korea",
+        "rank": 197
+    },
+    {
+        "name": "POSCO Chemical",
+        "code": "003670.KS",
+        "country": "S. Korea",
+        "rank": 198
+    },
+    {
+        "name": "Korea Electric Power",
+        "code": "KEP",
+        "country": "S. Korea",
+        "rank": 199
+    },
+    {
+        "name": "SK Innovation",
+        "code": "096775.KS",
+        "country": "S. Korea",
+        "rank": 200
+    },
+    {
+        "name": "Samsung Life Insurance",
+        "code": "032830.KS",
+        "country": "S. Korea",
+        "rank": 201
+    },
+    {
+        "name": "LG Corp",
+        "code": "003550.KS",
+        "country": "S. Korea",
+        "rank": 202
+    },
+    {
+        "name": "Hana Financial Group",
+        "code": "086790.KS",
+        "country": "S. Korea",
+        "rank": 203
+    },
+    {
+        "name": "KakaoBank",
+        "code": "323410.KS",
+        "country": "S. Korea",
+        "rank": 204
+    },
+    {
+        "name": "LG Household & Health Care",
+        "code": "051905.KS",
+        "country": "S. Korea",
+        "rank": 205
+    },
+    {
+        "name": "KT&G (Korea Tobacco)",
+        "code": "033780.KS",
+        "country": "S. Korea",
+        "rank": 206
+    },
+    {
+        "name": "SK Telecom",
+        "code": "SKM",
+        "country": "S. Korea",
+        "rank": 207
+    },
+    {
+        "name": "SK Group",
+        "code": "034730.KS",
+        "country": "S. Korea",
+        "rank": 208
+    },
+    {
+        "name": "Korea Zinc",
+        "code": "010130.KS",
+        "country": "S. Korea",
+        "rank": 209
+    },
+    {
+        "name": "Samsung Electro-Mechanics",
+        "code": "009155.KS",
+        "country": "S. Korea",
+        "rank": 210
+    },
+    {
+        "name": "Doosan Enerbility",
+        "code": "034020.KS",
+        "country": "S. Korea",
+        "rank": 211
+    },
+    {
+        "name": "S-OIL",
+        "code": "010950.KS",
+        "country": "S. Korea",
+        "rank": 212
+    },
+    {
+        "name": "HMM",
+        "code": "011200.KS",
+        "country": "S. Korea",
+        "rank": 213
+    },
+    {
+        "name": "NCsoft",
+        "code": "036570.KS",
+        "country": "S. Korea",
+        "rank": 214
+    },
+    {
+        "name": "KT Corporation",
+        "code": "KT",
+        "country": "S. Korea",
+        "rank": 215
+    },
+    {
+        "name": "Woori Financial Group",
+        "code": "WF",
+        "country": "S. Korea",
+        "rank": 216
+    },
+    {
+        "name": "Amorepacific",
+        "code": "090430.KS",
+        "country": "S. Korea",
+        "rank": 217
+    },
+    {
+        "name": "Korean Air Lines",
+        "code": "003495.KS",
+        "country": "S. Korea",
+        "rank": 218
+    },
+    {
+        "name": "Hanwha Solutions",
+        "code": "009830.KS",
+        "country": "S. Korea",
+        "rank": 219
+    },
+    {
+        "name": "Krafton",
+        "code": "259960.KS",
+        "country": "S. Korea",
+        "rank": 220
+    },
+    {
+        "name": "Industrial Bank of Korea (IBK)",
+        "code": "024110.KS",
+        "country": "S. Korea",
+        "rank": 221
+    },
+    {
+        "name": "Kakao Pay",
+        "code": "377300.KS",
+        "country": "S. Korea",
+        "rank": 222
+    },
+    {
+        "name": "HYBE",
+        "code": "352820.KS",
+        "country": "S. Korea",
+        "rank": 223
+    },
+    {
+        "name": "LOTTE Chemical",
+        "code": "011170.KS",
+        "country": "S. Korea",
+        "rank": 224
+    },
+    {
+        "name": "Hyundai Glovis",
+        "code": "086280.KS",
+        "country": "S. Korea",
+        "rank": 225
+    },
+    {
+        "name": "F&F Co",
+        "code": "383220.KS",
+        "country": "S. Korea",
+        "rank": 226
+    },
+    {
+        "name": "Korea Aerospace Industries",
+        "code": "047810.KS",
+        "country": "S. Korea",
+        "rank": 227
+    },
+    {
+        "name": "Kangwon Land",
+        "code": "035250.KS",
+        "country": "S. Korea",
+        "rank": 228
+    },
+    {
+        "name": "Netmarble",
+        "code": "251270.KS",
+        "country": "S. Korea",
+        "rank": 229
+    },
+    {
+        "name": "LG Display",
+        "code": "LPL",
+        "country": "S. Korea",
+        "rank": 230
+    },
+    {
+        "name": "Coway",
+        "code": "021240.KS",
+        "country": "S. Korea",
+        "rank": 231
+    },
+    {
+        "name": "Yuhan",
+        "code": "000100.KS",
+        "country": "S. Korea",
+        "rank": 232
+    },
+    {
+        "name": "Hankook Tire",
+        "code": "161390.KS",
+        "country": "S. Korea",
+        "rank": 233
+    },
+    {
+        "name": "BGF Retail",
+        "code": "282330.KS",
+        "country": "S. Korea",
+        "rank": 234
+    },
+    {
+        "name": "Doosan Bobcat",
+        "code": "241560.KS",
+        "country": "S. Korea",
+        "rank": 235
+    },
+    {
+        "name": "Kumho Petrochemical",
+        "code": "011780.KS",
+        "country": "S. Korea",
+        "rank": 236
+    },
+    {
+        "name": "Pan Ocean",
+        "code": "028670.KS",
+        "country": "S. Korea",
+        "rank": 237
+    },
+    {
+        "name": "SD BioSensor",
+        "code": "137310.KS",
+        "country": "S. Korea",
+        "rank": 238
+    },
+    {
+        "name": "Korea Gas",
+        "code": "036460.KS",
+        "country": "S. Korea",
+        "rank": 239
+    },
+    {
+        "name": "Samsung Heavy Industries",
+        "code": "010145.KS",
+        "country": "S. Korea",
+        "rank": 240
+    },
+    {
+        "name": "Doosan Fuel Cell",
+        "code": "336260.KS",
+        "country": "S. Korea",
+        "rank": 241
+    },
+    {
+        "name": "CJ Group",
+        "code": "001040.KS",
+        "country": "S. Korea",
+        "rank": 242
+    },
+    {
+        "name": "JYP Entertainment",
+        "code": "035900.KQ",
+        "country": "S. Korea",
+        "rank": 243
+    },
+    {
+        "name": "Hanmi Pharmaceutical",
+        "code": "008930.KS",
+        "country": "S. Korea",
+        "rank": 244
+    },
+    {
+        "name": "Shinsegae",
+        "code": "004170.KS",
+        "country": "S. Korea",
+        "rank": 245
+    },
+    {
+        "name": "LOTTE Corporation",
+        "code": "004990.KS",
+        "country": "S. Korea",
+        "rank": 246
+    },
+    {
+        "name": "Nongshim",
+        "code": "004370.KS",
+        "country": "S. Korea",
+        "rank": 247
+    },
+    {
+        "name": "Fila",
+        "code": "081660.KS",
+        "country": "S. Korea",
+        "rank": 248
+    },
+    {
+        "name": "DSME (Daewoo Shipbuilding)",
+        "code": "042660.KS",
+        "country": "S. Korea",
+        "rank": 249
+    },
+    {
+        "name": "SM Entertainment",
+        "code": "041510.KQ",
+        "country": "S. Korea",
+        "rank": 250
+    },
+    {
+        "name": "Ottogi",
+        "code": "007310.KS",
+        "country": "S. Korea",
+        "rank": 251
+    },
+    {
+        "name": "HiteJinro",
+        "code": "000080.KS",
+        "country": "S. Korea",
+        "rank": 252
+    },
+    {
+        "name": "KCC Corp",
+        "code": "002380.KS",
+        "country": "S. Korea",
+        "rank": 253
+    },
+    {
+        "name": "Doosan",
+        "code": "000150.KS",
+        "country": "S. Korea",
+        "rank": 254
+    },
+    {
+        "name": "Jeju Air",
+        "code": "089590.KS",
+        "country": "S. Korea",
+        "rank": 255
+    },
+    {
+        "name": "Asiana Airlines",
+        "code": "020560.KS",
+        "country": "S. Korea",
+        "rank": 256
+    },
+    {
+        "name": "Shinpoong Pharm",
+        "code": "019170.KS",
+        "country": "S. Korea",
+        "rank": 257
+    },
+    {
+        "name": "Samyang Foods",
+        "code": "003230.KS",
+        "country": "S. Korea",
+        "rank": 258
+    },
+    {
+        "name": "YG Entertainment",
+        "code": "122870.KQ",
+        "country": "S. Korea",
+        "rank": 259
+    },
+    {
+        "name": "Jin Air",
+        "code": "272450.KS",
+        "country": "S. Korea",
+        "rank": 260
+    },
+    {
+        "name": "NHN Corp",
+        "code": "181710.KS",
+        "country": "S. Korea",
+        "rank": 261
+    },
+    {
+        "name": "DoubleUGames",
+        "code": "192080.KS",
+        "country": "S. Korea",
+        "rank": 262
+    },
+    {
+        "name": "Neowiz Games",
+        "code": "095660.KQ",
+        "country": "S. Korea",
+        "rank": 263
+    },
+    {
+        "name": "Com2uS",
+        "code": "078340.KQ",
+        "country": "S. Korea",
+        "rank": 264
+    },
+    {
+        "name": "Pearl Abyss",
+        "code": "263750.KQ",
+        "country": "S. Korea",
+        "rank": 265
+    },
+    {
+        "name": "Webzen",
+        "code": "069080.KQ",
+        "country": "S. Korea",
+        "rank": 266
+    },
+    {
+        "name": "Wemade",
+        "code": "112040.KQ",
+        "country": "S. Korea",
+        "rank": 267
+    },
+    {
+        "name": "T\u2019way Air",
+        "code": "091810.KS",
+        "country": "S. Korea",
+        "rank": 268
+    },
+    {
+        "name": "Gravity Co.",
+        "code": "GRVY",
+        "country": "S. Korea",
+        "rank": 269
+    },
+    {
+        "name": "Air Busan",
+        "code": "298690.KS",
+        "country": "S. Korea",
+        "rank": 270
+    },
+    {
+        "name": "Samsung",
+        "code": "005930.KS",
+        "country": "S. Korea",
+        "rank": 271
+    },
+    {
+        "name": "LG Energy Solution",
+        "code": "373220.KS",
+        "country": "S. Korea",
+        "rank": 272
+    },
+    {
+        "name": "Samsung Biologics",
+        "code": "207940.KS",
+        "country": "S. Korea",
+        "rank": 273
+    },
+    {
+        "name": "SK Hynix",
+        "code": "000660.KS",
+        "country": "S. Korea",
+        "rank": 274
+    },
+    {
+        "name": "LG Chem",
+        "code": "051910.KS",
+        "country": "S. Korea",
+        "rank": 275
+    },
+    {
+        "name": "Samsung SDI",
+        "code": "006405.KS",
+        "country": "S. Korea",
+        "rank": 276
+    },
+    {
+        "name": "Hyundai",
+        "code": "HYMTF",
+        "country": "S. Korea",
+        "rank": 277
+    },
+    {
+        "name": "Coupang",
+        "code": "CPNG",
+        "country": "S. Korea",
+        "rank": 278
+    },
+    {
+        "name": "Naver",
+        "code": "035420.KS",
+        "country": "S. Korea",
+        "rank": 279
+    },
+    {
+        "name": "Kia",
+        "code": "000270.KS",
+        "country": "S. Korea",
+        "rank": 280
+    },
+    {
+        "name": "Kakao",
+        "code": "035720.KS",
+        "country": "S. Korea",
+        "rank": 281
+    },
+    {
+        "name": "Celltrion",
+        "code": "068270.KS",
+        "country": "S. Korea",
+        "rank": 282
+    },
+    {
+        "name": "POSCO",
+        "code": "PKX",
+        "country": "S. Korea",
+        "rank": 283
+    },
+    {
+        "name": "KB Financial Group",
+        "code": "KB",
+        "country": "S. Korea",
+        "rank": 284
+    },
+    {
+        "name": "Hyundai Mobis",
+        "code": "012330.KS",
+        "country": "S. Korea",
+        "rank": 285
+    },
+    {
+        "name": "Shinhan Financial Group",
+        "code": "SHG",
+        "country": "S. Korea",
+        "rank": 286
+    },
+    {
+        "name": "LG Electronics",
+        "code": "LGLG.F",
+        "country": "S. Korea",
+        "rank": 287
+    },
+    {
+        "name": "POSCO Chemical",
+        "code": "003670.KS",
+        "country": "S. Korea",
+        "rank": 288
+    },
+    {
+        "name": "Korea Electric Power",
+        "code": "KEP",
+        "country": "S. Korea",
+        "rank": 289
+    },
+    {
+        "name": "SK Innovation",
+        "code": "096775.KS",
+        "country": "S. Korea",
+        "rank": 290
+    },
+    {
+        "name": "Samsung Life Insurance",
+        "code": "032830.KS",
+        "country": "S. Korea",
+        "rank": 291
+    },
+    {
+        "name": "LG Corp",
+        "code": "003550.KS",
+        "country": "S. Korea",
+        "rank": 292
+    },
+    {
+        "name": "Hana Financial Group",
+        "code": "086790.KS",
+        "country": "S. Korea",
+        "rank": 293
+    },
+    {
+        "name": "KakaoBank",
+        "code": "323410.KS",
+        "country": "S. Korea",
+        "rank": 294
+    },
+    {
+        "name": "LG Household & Health Care",
+        "code": "051905.KS",
+        "country": "S. Korea",
+        "rank": 295
+    },
+    {
+        "name": "KT&G (Korea Tobacco)",
+        "code": "033780.KS",
+        "country": "S. Korea",
+        "rank": 296
+    },
+    {
+        "name": "SK Telecom",
+        "code": "SKM",
+        "country": "S. Korea",
+        "rank": 297
+    },
+    {
+        "name": "SK Group",
+        "code": "034730.KS",
+        "country": "S. Korea",
+        "rank": 298
+    },
+    {
+        "name": "Korea Zinc",
+        "code": "010130.KS",
+        "country": "S. Korea",
+        "rank": 299
+    },
+    {
+        "name": "Samsung Electro-Mechanics",
+        "code": "009155.KS",
+        "country": "S. Korea",
+        "rank": 300
+    },
+    {
+        "name": "Doosan Enerbility",
+        "code": "034020.KS",
+        "country": "S. Korea",
+        "rank": 301
+    },
+    {
+        "name": "S-OIL",
+        "code": "010950.KS",
+        "country": "S. Korea",
+        "rank": 302
+    },
+    {
+        "name": "HMM",
+        "code": "011200.KS",
+        "country": "S. Korea",
+        "rank": 303
+    },
+    {
+        "name": "NCsoft",
+        "code": "036570.KS",
+        "country": "S. Korea",
+        "rank": 304
+    },
+    {
+        "name": "KT Corporation",
+        "code": "KT",
+        "country": "S. Korea",
+        "rank": 305
+    },
+    {
+        "name": "Woori Financial Group",
+        "code": "WF",
+        "country": "S. Korea",
+        "rank": 306
+    },
+    {
+        "name": "Amorepacific",
+        "code": "090430.KS",
+        "country": "S. Korea",
+        "rank": 307
+    },
+    {
+        "name": "Korean Air Lines",
+        "code": "003495.KS",
+        "country": "S. Korea",
+        "rank": 308
+    },
+    {
+        "name": "Hanwha Solutions",
+        "code": "009830.KS",
+        "country": "S. Korea",
+        "rank": 309
+    },
+    {
+        "name": "Krafton",
+        "code": "259960.KS",
+        "country": "S. Korea",
+        "rank": 310
+    },
+    {
+        "name": "Industrial Bank of Korea (IBK)",
+        "code": "024110.KS",
+        "country": "S. Korea",
+        "rank": 311
+    },
+    {
+        "name": "Kakao Pay",
+        "code": "377300.KS",
+        "country": "S. Korea",
+        "rank": 312
+    },
+    {
+        "name": "HYBE",
+        "code": "352820.KS",
+        "country": "S. Korea",
+        "rank": 313
+    },
+    {
+        "name": "LOTTE Chemical",
+        "code": "011170.KS",
+        "country": "S. Korea",
+        "rank": 314
+    },
+    {
+        "name": "Hyundai Glovis",
+        "code": "086280.KS",
+        "country": "S. Korea",
+        "rank": 315
+    },
+    {
+        "name": "F&F Co",
+        "code": "383220.KS",
+        "country": "S. Korea",
+        "rank": 316
+    },
+    {
+        "name": "Korea Aerospace Industries",
+        "code": "047810.KS",
+        "country": "S. Korea",
+        "rank": 317
+    },
+    {
+        "name": "Kangwon Land",
+        "code": "035250.KS",
+        "country": "S. Korea",
+        "rank": 318
+    },
+    {
+        "name": "Netmarble",
+        "code": "251270.KS",
+        "country": "S. Korea",
+        "rank": 319
+    },
+    {
+        "name": "LG Display",
+        "code": "LPL",
+        "country": "S. Korea",
+        "rank": 320
+    },
+    {
+        "name": "Coway",
+        "code": "021240.KS",
+        "country": "S. Korea",
+        "rank": 321
+    },
+    {
+        "name": "Yuhan",
+        "code": "000100.KS",
+        "country": "S. Korea",
+        "rank": 322
+    },
+    {
+        "name": "Hankook Tire",
+        "code": "161390.KS",
+        "country": "S. Korea",
+        "rank": 323
+    },
+    {
+        "name": "BGF Retail",
+        "code": "282330.KS",
+        "country": "S. Korea",
+        "rank": 324
+    },
+    {
+        "name": "Doosan Bobcat",
+        "code": "241560.KS",
+        "country": "S. Korea",
+        "rank": 325
+    },
+    {
+        "name": "Kumho Petrochemical",
+        "code": "011780.KS",
+        "country": "S. Korea",
+        "rank": 326
+    },
+    {
+        "name": "Pan Ocean",
+        "code": "028670.KS",
+        "country": "S. Korea",
+        "rank": 327
+    },
+    {
+        "name": "SD BioSensor",
+        "code": "137310.KS",
+        "country": "S. Korea",
+        "rank": 328
+    },
+    {
+        "name": "Korea Gas",
+        "code": "036460.KS",
+        "country": "S. Korea",
+        "rank": 329
+    },
+    {
+        "name": "Samsung Heavy Industries",
+        "code": "010145.KS",
+        "country": "S. Korea",
+        "rank": 330
+    },
+    {
+        "name": "Doosan Fuel Cell",
+        "code": "336260.KS",
+        "country": "S. Korea",
+        "rank": 331
+    },
+    {
+        "name": "CJ Group",
+        "code": "001040.KS",
+        "country": "S. Korea",
+        "rank": 332
+    },
+    {
+        "name": "JYP Entertainment",
+        "code": "035900.KQ",
+        "country": "S. Korea",
+        "rank": 333
+    },
+    {
+        "name": "Hanmi Pharmaceutical",
+        "code": "008930.KS",
+        "country": "S. Korea",
+        "rank": 334
+    },
+    {
+        "name": "Shinsegae",
+        "code": "004170.KS",
+        "country": "S. Korea",
+        "rank": 335
+    },
+    {
+        "name": "LOTTE Corporation",
+        "code": "004990.KS",
+        "country": "S. Korea",
+        "rank": 336
+    },
+    {
+        "name": "Nongshim",
+        "code": "004370.KS",
+        "country": "S. Korea",
+        "rank": 337
+    },
+    {
+        "name": "Fila",
+        "code": "081660.KS",
+        "country": "S. Korea",
+        "rank": 338
+    },
+    {
+        "name": "DSME (Daewoo Shipbuilding)",
+        "code": "042660.KS",
+        "country": "S. Korea",
+        "rank": 339
+    },
+    {
+        "name": "SM Entertainment",
+        "code": "041510.KQ",
+        "country": "S. Korea",
+        "rank": 340
+    },
+    {
+        "name": "Ottogi",
+        "code": "007310.KS",
+        "country": "S. Korea",
+        "rank": 341
+    },
+    {
+        "name": "HiteJinro",
+        "code": "000080.KS",
+        "country": "S. Korea",
+        "rank": 342
+    },
+    {
+        "name": "KCC Corp",
+        "code": "002380.KS",
+        "country": "S. Korea",
+        "rank": 343
+    },
+    {
+        "name": "Doosan",
+        "code": "000150.KS",
+        "country": "S. Korea",
+        "rank": 344
+    },
+    {
+        "name": "Jeju Air",
+        "code": "089590.KS",
+        "country": "S. Korea",
+        "rank": 345
+    },
+    {
+        "name": "Asiana Airlines",
+        "code": "020560.KS",
+        "country": "S. Korea",
+        "rank": 346
+    },
+    {
+        "name": "Shinpoong Pharm",
+        "code": "019170.KS",
+        "country": "S. Korea",
+        "rank": 347
+    },
+    {
+        "name": "Samyang Foods",
+        "code": "003230.KS",
+        "country": "S. Korea",
+        "rank": 348
+    },
+    {
+        "name": "YG Entertainment",
+        "code": "122870.KQ",
+        "country": "S. Korea",
+        "rank": 349
+    },
+    {
+        "name": "Jin Air",
+        "code": "272450.KS",
+        "country": "S. Korea",
+        "rank": 350
+    },
+    {
+        "name": "NHN Corp",
+        "code": "181710.KS",
+        "country": "S. Korea",
+        "rank": 351
+    },
+    {
+        "name": "DoubleUGames",
+        "code": "192080.KS",
+        "country": "S. Korea",
+        "rank": 352
+    },
+    {
+        "name": "Neowiz Games",
+        "code": "095660.KQ",
+        "country": "S. Korea",
+        "rank": 353
+    },
+    {
+        "name": "Com2uS",
+        "code": "078340.KQ",
+        "country": "S. Korea",
+        "rank": 354
+    },
+    {
+        "name": "Pearl Abyss",
+        "code": "263750.KQ",
+        "country": "S. Korea",
+        "rank": 355
+    },
+    {
+        "name": "Webzen",
+        "code": "069080.KQ",
+        "country": "S. Korea",
+        "rank": 356
+    },
+    {
+        "name": "Wemade",
+        "code": "112040.KQ",
+        "country": "S. Korea",
+        "rank": 357
+    },
+    {
+        "name": "T\u2019way Air",
+        "code": "091810.KS",
+        "country": "S. Korea",
+        "rank": 358
+    },
+    {
+        "name": "Gravity Co.",
+        "code": "GRVY",
+        "country": "S. Korea",
+        "rank": 359
+    },
+    {
+        "name": "Air Busan",
+        "code": "298690.KS",
+        "country": "S. Korea",
+        "rank": 360
+    },
+    {
+        "name": "Samsung",
+        "code": "005930.KS",
+        "country": "S. Korea",
+        "rank": 361
+    },
+    {
+        "name": "LG Energy Solution",
+        "code": "373220.KS",
+        "country": "S. Korea",
+        "rank": 362
+    },
+    {
+        "name": "Samsung Biologics",
+        "code": "207940.KS",
+        "country": "S. Korea",
+        "rank": 363
+    },
+    {
+        "name": "SK Hynix",
+        "code": "000660.KS",
+        "country": "S. Korea",
+        "rank": 364
+    },
+    {
+        "name": "LG Chem",
+        "code": "051910.KS",
+        "country": "S. Korea",
+        "rank": 365
+    },
+    {
+        "name": "Samsung SDI",
+        "code": "006405.KS",
+        "country": "S. Korea",
+        "rank": 366
+    },
+    {
+        "name": "Hyundai",
+        "code": "HYMTF",
+        "country": "S. Korea",
+        "rank": 367
+    },
+    {
+        "name": "Coupang",
+        "code": "CPNG",
+        "country": "S. Korea",
+        "rank": 368
+    },
+    {
+        "name": "Naver",
+        "code": "035420.KS",
+        "country": "S. Korea",
+        "rank": 369
+    },
+    {
+        "name": "Kia",
+        "code": "000270.KS",
+        "country": "S. Korea",
+        "rank": 370
+    },
+    {
+        "name": "Kakao",
+        "code": "035720.KS",
+        "country": "S. Korea",
+        "rank": 371
+    },
+    {
+        "name": "Celltrion",
+        "code": "068270.KS",
+        "country": "S. Korea",
+        "rank": 372
+    },
+    {
+        "name": "POSCO",
+        "code": "PKX",
+        "country": "S. Korea",
+        "rank": 373
+    },
+    {
+        "name": "KB Financial Group",
+        "code": "KB",
+        "country": "S. Korea",
+        "rank": 374
+    },
+    {
+        "name": "Hyundai Mobis",
+        "code": "012330.KS",
+        "country": "S. Korea",
+        "rank": 375
+    },
+    {
+        "name": "Shinhan Financial Group",
+        "code": "SHG",
+        "country": "S. Korea",
+        "rank": 376
+    },
+    {
+        "name": "LG Electronics",
+        "code": "LGLG.F",
+        "country": "S. Korea",
+        "rank": 377
+    },
+    {
+        "name": "POSCO Chemical",
+        "code": "003670.KS",
+        "country": "S. Korea",
+        "rank": 378
+    },
+    {
+        "name": "Korea Electric Power",
+        "code": "KEP",
+        "country": "S. Korea",
+        "rank": 379
+    },
+    {
+        "name": "SK Innovation",
+        "code": "096775.KS",
+        "country": "S. Korea",
+        "rank": 380
+    },
+    {
+        "name": "Samsung Life Insurance",
+        "code": "032830.KS",
+        "country": "S. Korea",
+        "rank": 381
+    },
+    {
+        "name": "LG Corp",
+        "code": "003550.KS",
+        "country": "S. Korea",
+        "rank": 382
+    },
+    {
+        "name": "Hana Financial Group",
+        "code": "086790.KS",
+        "country": "S. Korea",
+        "rank": 383
+    },
+    {
+        "name": "KakaoBank",
+        "code": "323410.KS",
+        "country": "S. Korea",
+        "rank": 384
+    },
+    {
+        "name": "LG Household & Health Care",
+        "code": "051905.KS",
+        "country": "S. Korea",
+        "rank": 385
+    },
+    {
+        "name": "KT&G (Korea Tobacco)",
+        "code": "033780.KS",
+        "country": "S. Korea",
+        "rank": 386
+    },
+    {
+        "name": "SK Telecom",
+        "code": "SKM",
+        "country": "S. Korea",
+        "rank": 387
+    },
+    {
+        "name": "SK Group",
+        "code": "034730.KS",
+        "country": "S. Korea",
+        "rank": 388
+    },
+    {
+        "name": "Korea Zinc",
+        "code": "010130.KS",
+        "country": "S. Korea",
+        "rank": 389
+    },
+    {
+        "name": "Samsung Electro-Mechanics",
+        "code": "009155.KS",
+        "country": "S. Korea",
+        "rank": 390
+    },
+    {
+        "name": "Doosan Enerbility",
+        "code": "034020.KS",
+        "country": "S. Korea",
+        "rank": 391
+    },
+    {
+        "name": "S-OIL",
+        "code": "010950.KS",
+        "country": "S. Korea",
+        "rank": 392
+    },
+    {
+        "name": "HMM",
+        "code": "011200.KS",
+        "country": "S. Korea",
+        "rank": 393
+    },
+    {
+        "name": "NCsoft",
+        "code": "036570.KS",
+        "country": "S. Korea",
+        "rank": 394
+    },
+    {
+        "name": "KT Corporation",
+        "code": "KT",
+        "country": "S. Korea",
+        "rank": 395
+    },
+    {
+        "name": "Woori Financial Group",
+        "code": "WF",
+        "country": "S. Korea",
+        "rank": 396
+    },
+    {
+        "name": "Amorepacific",
+        "code": "090430.KS",
+        "country": "S. Korea",
+        "rank": 397
+    },
+    {
+        "name": "Korean Air Lines",
+        "code": "003495.KS",
+        "country": "S. Korea",
+        "rank": 398
+    },
+    {
+        "name": "Hanwha Solutions",
+        "code": "009830.KS",
+        "country": "S. Korea",
+        "rank": 399
+    },
+    {
+        "name": "Krafton",
+        "code": "259960.KS",
+        "country": "S. Korea",
+        "rank": 400
+    },
+    {
+        "name": "Industrial Bank of Korea (IBK)",
+        "code": "024110.KS",
+        "country": "S. Korea",
+        "rank": 401
+    },
+    {
+        "name": "Kakao Pay",
+        "code": "377300.KS",
+        "country": "S. Korea",
+        "rank": 402
+    },
+    {
+        "name": "HYBE",
+        "code": "352820.KS",
+        "country": "S. Korea",
+        "rank": 403
+    },
+    {
+        "name": "LOTTE Chemical",
+        "code": "011170.KS",
+        "country": "S. Korea",
+        "rank": 404
+    },
+    {
+        "name": "Hyundai Glovis",
+        "code": "086280.KS",
+        "country": "S. Korea",
+        "rank": 405
+    },
+    {
+        "name": "F&F Co",
+        "code": "383220.KS",
+        "country": "S. Korea",
+        "rank": 406
+    },
+    {
+        "name": "Korea Aerospace Industries",
+        "code": "047810.KS",
+        "country": "S. Korea",
+        "rank": 407
+    },
+    {
+        "name": "Kangwon Land",
+        "code": "035250.KS",
+        "country": "S. Korea",
+        "rank": 408
+    },
+    {
+        "name": "Netmarble",
+        "code": "251270.KS",
+        "country": "S. Korea",
+        "rank": 409
+    },
+    {
+        "name": "LG Display",
+        "code": "LPL",
+        "country": "S. Korea",
+        "rank": 410
+    },
+    {
+        "name": "Coway",
+        "code": "021240.KS",
+        "country": "S. Korea",
+        "rank": 411
+    },
+    {
+        "name": "Yuhan",
+        "code": "000100.KS",
+        "country": "S. Korea",
+        "rank": 412
+    },
+    {
+        "name": "Hankook Tire",
+        "code": "161390.KS",
+        "country": "S. Korea",
+        "rank": 413
+    },
+    {
+        "name": "BGF Retail",
+        "code": "282330.KS",
+        "country": "S. Korea",
+        "rank": 414
+    },
+    {
+        "name": "Doosan Bobcat",
+        "code": "241560.KS",
+        "country": "S. Korea",
+        "rank": 415
+    },
+    {
+        "name": "Kumho Petrochemical",
+        "code": "011780.KS",
+        "country": "S. Korea",
+        "rank": 416
+    },
+    {
+        "name": "Pan Ocean",
+        "code": "028670.KS",
+        "country": "S. Korea",
+        "rank": 417
+    },
+    {
+        "name": "SD BioSensor",
+        "code": "137310.KS",
+        "country": "S. Korea",
+        "rank": 418
+    },
+    {
+        "name": "Korea Gas",
+        "code": "036460.KS",
+        "country": "S. Korea",
+        "rank": 419
+    },
+    {
+        "name": "Samsung Heavy Industries",
+        "code": "010145.KS",
+        "country": "S. Korea",
+        "rank": 420
+    },
+    {
+        "name": "Doosan Fuel Cell",
+        "code": "336260.KS",
+        "country": "S. Korea",
+        "rank": 421
+    },
+    {
+        "name": "CJ Group",
+        "code": "001040.KS",
+        "country": "S. Korea",
+        "rank": 422
+    },
+    {
+        "name": "JYP Entertainment",
+        "code": "035900.KQ",
+        "country": "S. Korea",
+        "rank": 423
+    },
+    {
+        "name": "Hanmi Pharmaceutical",
+        "code": "008930.KS",
+        "country": "S. Korea",
+        "rank": 424
+    },
+    {
+        "name": "Shinsegae",
+        "code": "004170.KS",
+        "country": "S. Korea",
+        "rank": 425
+    },
+    {
+        "name": "LOTTE Corporation",
+        "code": "004990.KS",
+        "country": "S. Korea",
+        "rank": 426
+    },
+    {
+        "name": "Nongshim",
+        "code": "004370.KS",
+        "country": "S. Korea",
+        "rank": 427
+    },
+    {
+        "name": "Fila",
+        "code": "081660.KS",
+        "country": "S. Korea",
+        "rank": 428
+    },
+    {
+        "name": "DSME (Daewoo Shipbuilding)",
+        "code": "042660.KS",
+        "country": "S. Korea",
+        "rank": 429
+    },
+    {
+        "name": "SM Entertainment",
+        "code": "041510.KQ",
+        "country": "S. Korea",
+        "rank": 430
+    },
+    {
+        "name": "Ottogi",
+        "code": "007310.KS",
+        "country": "S. Korea",
+        "rank": 431
+    },
+    {
+        "name": "HiteJinro",
+        "code": "000080.KS",
+        "country": "S. Korea",
+        "rank": 432
+    },
+    {
+        "name": "KCC Corp",
+        "code": "002380.KS",
+        "country": "S. Korea",
+        "rank": 433
+    },
+    {
+        "name": "Doosan",
+        "code": "000150.KS",
+        "country": "S. Korea",
+        "rank": 434
+    },
+    {
+        "name": "Jeju Air",
+        "code": "089590.KS",
+        "country": "S. Korea",
+        "rank": 435
+    },
+    {
+        "name": "Asiana Airlines",
+        "code": "020560.KS",
+        "country": "S. Korea",
+        "rank": 436
+    },
+    {
+        "name": "Shinpoong Pharm",
+        "code": "019170.KS",
+        "country": "S. Korea",
+        "rank": 437
+    },
+    {
+        "name": "Samyang Foods",
+        "code": "003230.KS",
+        "country": "S. Korea",
+        "rank": 438
+    },
+    {
+        "name": "YG Entertainment",
+        "code": "122870.KQ",
+        "country": "S. Korea",
+        "rank": 439
+    },
+    {
+        "name": "Jin Air",
+        "code": "272450.KS",
+        "country": "S. Korea",
+        "rank": 440
+    },
+    {
+        "name": "NHN Corp",
+        "code": "181710.KS",
+        "country": "S. Korea",
+        "rank": 441
+    },
+    {
+        "name": "DoubleUGames",
+        "code": "192080.KS",
+        "country": "S. Korea",
+        "rank": 442
+    },
+    {
+        "name": "Neowiz Games",
+        "code": "095660.KQ",
+        "country": "S. Korea",
+        "rank": 443
+    },
+    {
+        "name": "Com2uS",
+        "code": "078340.KQ",
+        "country": "S. Korea",
+        "rank": 444
+    },
+    {
+        "name": "Pearl Abyss",
+        "code": "263750.KQ",
+        "country": "S. Korea",
+        "rank": 445
+    },
+    {
+        "name": "Webzen",
+        "code": "069080.KQ",
+        "country": "S. Korea",
+        "rank": 446
+    },
+    {
+        "name": "Wemade",
+        "code": "112040.KQ",
+        "country": "S. Korea",
+        "rank": 447
+    },
+    {
+        "name": "T\u2019way Air",
+        "code": "091810.KS",
+        "country": "S. Korea",
+        "rank": 448
+    },
+    {
+        "name": "Gravity Co.",
+        "code": "GRVY",
+        "country": "S. Korea",
+        "rank": 449
+    },
+    {
+        "name": "Air Busan",
+        "code": "298690.KS",
+        "country": "S. Korea",
+        "rank": 450
+    },
+    {
+        "name": "Samsung",
+        "code": "005930.KS",
+        "country": "S. Korea",
+        "rank": 451
+    },
+    {
+        "name": "LG Energy Solution",
+        "code": "373220.KS",
+        "country": "S. Korea",
+        "rank": 452
+    },
+    {
+        "name": "Samsung Biologics",
+        "code": "207940.KS",
+        "country": "S. Korea",
+        "rank": 453
+    },
+    {
+        "name": "SK Hynix",
+        "code": "000660.KS",
+        "country": "S. Korea",
+        "rank": 454
+    },
+    {
+        "name": "LG Chem",
+        "code": "051910.KS",
+        "country": "S. Korea",
+        "rank": 455
+    },
+    {
+        "name": "Samsung SDI",
+        "code": "006405.KS",
+        "country": "S. Korea",
+        "rank": 456
+    },
+    {
+        "name": "Hyundai",
+        "code": "HYMTF",
+        "country": "S. Korea",
+        "rank": 457
+    },
+    {
+        "name": "Coupang",
+        "code": "CPNG",
+        "country": "S. Korea",
+        "rank": 458
+    },
+    {
+        "name": "Naver",
+        "code": "035420.KS",
+        "country": "S. Korea",
+        "rank": 459
+    },
+    {
+        "name": "Kia",
+        "code": "000270.KS",
+        "country": "S. Korea",
+        "rank": 460
+    },
+    {
+        "name": "Kakao",
+        "code": "035720.KS",
+        "country": "S. Korea",
+        "rank": 461
+    },
+    {
+        "name": "Celltrion",
+        "code": "068270.KS",
+        "country": "S. Korea",
+        "rank": 462
+    },
+    {
+        "name": "POSCO",
+        "code": "PKX",
+        "country": "S. Korea",
+        "rank": 463
+    },
+    {
+        "name": "KB Financial Group",
+        "code": "KB",
+        "country": "S. Korea",
+        "rank": 464
+    },
+    {
+        "name": "Hyundai Mobis",
+        "code": "012330.KS",
+        "country": "S. Korea",
+        "rank": 465
+    },
+    {
+        "name": "Shinhan Financial Group",
+        "code": "SHG",
+        "country": "S. Korea",
+        "rank": 466
+    },
+    {
+        "name": "LG Electronics",
+        "code": "LGLG.F",
+        "country": "S. Korea",
+        "rank": 467
+    },
+    {
+        "name": "POSCO Chemical",
+        "code": "003670.KS",
+        "country": "S. Korea",
+        "rank": 468
+    },
+    {
+        "name": "Korea Electric Power",
+        "code": "KEP",
+        "country": "S. Korea",
+        "rank": 469
+    },
+    {
+        "name": "SK Innovation",
+        "code": "096775.KS",
+        "country": "S. Korea",
+        "rank": 470
+    },
+    {
+        "name": "Samsung Life Insurance",
+        "code": "032830.KS",
+        "country": "S. Korea",
+        "rank": 471
+    },
+    {
+        "name": "LG Corp",
+        "code": "003550.KS",
+        "country": "S. Korea",
+        "rank": 472
+    },
+    {
+        "name": "Hana Financial Group",
+        "code": "086790.KS",
+        "country": "S. Korea",
+        "rank": 473
+    },
+    {
+        "name": "KakaoBank",
+        "code": "323410.KS",
+        "country": "S. Korea",
+        "rank": 474
+    },
+    {
+        "name": "LG Household & Health Care",
+        "code": "051905.KS",
+        "country": "S. Korea",
+        "rank": 475
+    },
+    {
+        "name": "KT&G (Korea Tobacco)",
+        "code": "033780.KS",
+        "country": "S. Korea",
+        "rank": 476
+    },
+    {
+        "name": "SK Telecom",
+        "code": "SKM",
+        "country": "S. Korea",
+        "rank": 477
+    },
+    {
+        "name": "SK Group",
+        "code": "034730.KS",
+        "country": "S. Korea",
+        "rank": 478
+    },
+    {
+        "name": "Korea Zinc",
+        "code": "010130.KS",
+        "country": "S. Korea",
+        "rank": 479
+    },
+    {
+        "name": "Samsung Electro-Mechanics",
+        "code": "009155.KS",
+        "country": "S. Korea",
+        "rank": 480
+    },
+    {
+        "name": "Doosan Enerbility",
+        "code": "034020.KS",
+        "country": "S. Korea",
+        "rank": 481
+    },
+    {
+        "name": "S-OIL",
+        "code": "010950.KS",
+        "country": "S. Korea",
+        "rank": 482
+    },
+    {
+        "name": "HMM",
+        "code": "011200.KS",
+        "country": "S. Korea",
+        "rank": 483
+    },
+    {
+        "name": "NCsoft",
+        "code": "036570.KS",
+        "country": "S. Korea",
+        "rank": 484
+    },
+    {
+        "name": "KT Corporation",
+        "code": "KT",
+        "country": "S. Korea",
+        "rank": 485
+    },
+    {
+        "name": "Woori Financial Group",
+        "code": "WF",
+        "country": "S. Korea",
+        "rank": 486
+    },
+    {
+        "name": "Amorepacific",
+        "code": "090430.KS",
+        "country": "S. Korea",
+        "rank": 487
+    },
+    {
+        "name": "Korean Air Lines",
+        "code": "003495.KS",
+        "country": "S. Korea",
+        "rank": 488
+    },
+    {
+        "name": "Hanwha Solutions",
+        "code": "009830.KS",
+        "country": "S. Korea",
+        "rank": 489
+    },
+    {
+        "name": "Krafton",
+        "code": "259960.KS",
+        "country": "S. Korea",
+        "rank": 490
+    },
+    {
+        "name": "Industrial Bank of Korea (IBK)",
+        "code": "024110.KS",
+        "country": "S. Korea",
+        "rank": 491
+    },
+    {
+        "name": "Kakao Pay",
+        "code": "377300.KS",
+        "country": "S. Korea",
+        "rank": 492
+    },
+    {
+        "name": "HYBE",
+        "code": "352820.KS",
+        "country": "S. Korea",
+        "rank": 493
+    },
+    {
+        "name": "LOTTE Chemical",
+        "code": "011170.KS",
+        "country": "S. Korea",
+        "rank": 494
+    },
+    {
+        "name": "Hyundai Glovis",
+        "code": "086280.KS",
+        "country": "S. Korea",
+        "rank": 495
+    },
+    {
+        "name": "F&F Co",
+        "code": "383220.KS",
+        "country": "S. Korea",
+        "rank": 496
+    },
+    {
+        "name": "Korea Aerospace Industries",
+        "code": "047810.KS",
+        "country": "S. Korea",
+        "rank": 497
+    },
+    {
+        "name": "Kangwon Land",
+        "code": "035250.KS",
+        "country": "S. Korea",
+        "rank": 498
+    },
+    {
+        "name": "Netmarble",
+        "code": "251270.KS",
+        "country": "S. Korea",
+        "rank": 499
+    },
+    {
+        "name": "LG Display",
+        "code": "LPL",
+        "country": "S. Korea",
+        "rank": 500
+    },
+    {
+        "name": "Coway",
+        "code": "021240.KS",
+        "country": "S. Korea",
+        "rank": 501
+    },
+    {
+        "name": "Yuhan",
+        "code": "000100.KS",
+        "country": "S. Korea",
+        "rank": 502
+    },
+    {
+        "name": "Hankook Tire",
+        "code": "161390.KS",
+        "country": "S. Korea",
+        "rank": 503
+    },
+    {
+        "name": "BGF Retail",
+        "code": "282330.KS",
+        "country": "S. Korea",
+        "rank": 504
+    },
+    {
+        "name": "Doosan Bobcat",
+        "code": "241560.KS",
+        "country": "S. Korea",
+        "rank": 505
+    },
+    {
+        "name": "Kumho Petrochemical",
+        "code": "011780.KS",
+        "country": "S. Korea",
+        "rank": 506
+    },
+    {
+        "name": "Pan Ocean",
+        "code": "028670.KS",
+        "country": "S. Korea",
+        "rank": 507
+    },
+    {
+        "name": "SD BioSensor",
+        "code": "137310.KS",
+        "country": "S. Korea",
+        "rank": 508
+    },
+    {
+        "name": "Korea Gas",
+        "code": "036460.KS",
+        "country": "S. Korea",
+        "rank": 509
+    },
+    {
+        "name": "Samsung Heavy Industries",
+        "code": "010145.KS",
+        "country": "S. Korea",
+        "rank": 510
+    },
+    {
+        "name": "Doosan Fuel Cell",
+        "code": "336260.KS",
+        "country": "S. Korea",
+        "rank": 511
+    },
+    {
+        "name": "CJ Group",
+        "code": "001040.KS",
+        "country": "S. Korea",
+        "rank": 512
+    },
+    {
+        "name": "JYP Entertainment",
+        "code": "035900.KQ",
+        "country": "S. Korea",
+        "rank": 513
+    },
+    {
+        "name": "Hanmi Pharmaceutical",
+        "code": "008930.KS",
+        "country": "S. Korea",
+        "rank": 514
+    },
+    {
+        "name": "Shinsegae",
+        "code": "004170.KS",
+        "country": "S. Korea",
+        "rank": 515
+    },
+    {
+        "name": "LOTTE Corporation",
+        "code": "004990.KS",
+        "country": "S. Korea",
+        "rank": 516
+    },
+    {
+        "name": "Nongshim",
+        "code": "004370.KS",
+        "country": "S. Korea",
+        "rank": 517
+    },
+    {
+        "name": "Fila",
+        "code": "081660.KS",
+        "country": "S. Korea",
+        "rank": 518
+    },
+    {
+        "name": "DSME (Daewoo Shipbuilding)",
+        "code": "042660.KS",
+        "country": "S. Korea",
+        "rank": 519
+    },
+    {
+        "name": "SM Entertainment",
+        "code": "041510.KQ",
+        "country": "S. Korea",
+        "rank": 520
+    },
+    {
+        "name": "Ottogi",
+        "code": "007310.KS",
+        "country": "S. Korea",
+        "rank": 521
+    },
+    {
+        "name": "HiteJinro",
+        "code": "000080.KS",
+        "country": "S. Korea",
+        "rank": 522
+    },
+    {
+        "name": "KCC Corp",
+        "code": "002380.KS",
+        "country": "S. Korea",
+        "rank": 523
+    },
+    {
+        "name": "Doosan",
+        "code": "000150.KS",
+        "country": "S. Korea",
+        "rank": 524
+    },
+    {
+        "name": "Jeju Air",
+        "code": "089590.KS",
+        "country": "S. Korea",
+        "rank": 525
+    },
+    {
+        "name": "Asiana Airlines",
+        "code": "020560.KS",
+        "country": "S. Korea",
+        "rank": 526
+    },
+    {
+        "name": "Shinpoong Pharm",
+        "code": "019170.KS",
+        "country": "S. Korea",
+        "rank": 527
+    },
+    {
+        "name": "Samyang Foods",
+        "code": "003230.KS",
+        "country": "S. Korea",
+        "rank": 528
+    },
+    {
+        "name": "YG Entertainment",
+        "code": "122870.KQ",
+        "country": "S. Korea",
+        "rank": 529
+    },
+    {
+        "name": "Jin Air",
+        "code": "272450.KS",
+        "country": "S. Korea",
+        "rank": 530
+    },
+    {
+        "name": "NHN Corp",
+        "code": "181710.KS",
+        "country": "S. Korea",
+        "rank": 531
+    },
+    {
+        "name": "DoubleUGames",
+        "code": "192080.KS",
+        "country": "S. Korea",
+        "rank": 532
+    },
+    {
+        "name": "Neowiz Games",
+        "code": "095660.KQ",
+        "country": "S. Korea",
+        "rank": 533
+    },
+    {
+        "name": "Com2uS",
+        "code": "078340.KQ",
+        "country": "S. Korea",
+        "rank": 534
+    },
+    {
+        "name": "Pearl Abyss",
+        "code": "263750.KQ",
+        "country": "S. Korea",
+        "rank": 535
+    },
+    {
+        "name": "Webzen",
+        "code": "069080.KQ",
+        "country": "S. Korea",
+        "rank": 536
+    },
+    {
+        "name": "Wemade",
+        "code": "112040.KQ",
+        "country": "S. Korea",
+        "rank": 537
+    },
+    {
+        "name": "T\u2019way Air",
+        "code": "091810.KS",
+        "country": "S. Korea",
+        "rank": 538
+    },
+    {
+        "name": "Gravity Co.",
+        "code": "GRVY",
+        "country": "S. Korea",
+        "rank": 539
+    },
+    {
+        "name": "Air Busan",
+        "code": "298690.KS",
+        "country": "S. Korea",
+        "rank": 540
+    },
+    {
+        "name": "Samsung",
+        "code": "005930.KS",
+        "country": "S. Korea",
+        "rank": 541
+    },
+    {
+        "name": "LG Energy Solution",
+        "code": "373220.KS",
+        "country": "S. Korea",
+        "rank": 542
+    },
+    {
+        "name": "Samsung Biologics",
+        "code": "207940.KS",
+        "country": "S. Korea",
+        "rank": 543
+    },
+    {
+        "name": "SK Hynix",
+        "code": "000660.KS",
+        "country": "S. Korea",
+        "rank": 544
+    },
+    {
+        "name": "LG Chem",
+        "code": "051910.KS",
+        "country": "S. Korea",
+        "rank": 545
+    },
+    {
+        "name": "Samsung SDI",
+        "code": "006405.KS",
+        "country": "S. Korea",
+        "rank": 546
+    },
+    {
+        "name": "Hyundai",
+        "code": "HYMTF",
+        "country": "S. Korea",
+        "rank": 547
+    },
+    {
+        "name": "Coupang",
+        "code": "CPNG",
+        "country": "S. Korea",
+        "rank": 548
+    },
+    {
+        "name": "Naver",
+        "code": "035420.KS",
+        "country": "S. Korea",
+        "rank": 549
+    },
+    {
+        "name": "Kia",
+        "code": "000270.KS",
+        "country": "S. Korea",
+        "rank": 550
+    },
+    {
+        "name": "Kakao",
+        "code": "035720.KS",
+        "country": "S. Korea",
+        "rank": 551
+    },
+    {
+        "name": "Celltrion",
+        "code": "068270.KS",
+        "country": "S. Korea",
+        "rank": 552
+    },
+    {
+        "name": "POSCO",
+        "code": "PKX",
+        "country": "S. Korea",
+        "rank": 553
+    },
+    {
+        "name": "KB Financial Group",
+        "code": "KB",
+        "country": "S. Korea",
+        "rank": 554
+    },
+    {
+        "name": "Hyundai Mobis",
+        "code": "012330.KS",
+        "country": "S. Korea",
+        "rank": 555
+    },
+    {
+        "name": "Shinhan Financial Group",
+        "code": "SHG",
+        "country": "S. Korea",
+        "rank": 556
+    },
+    {
+        "name": "LG Electronics",
+        "code": "LGLG.F",
+        "country": "S. Korea",
+        "rank": 557
+    },
+    {
+        "name": "POSCO Chemical",
+        "code": "003670.KS",
+        "country": "S. Korea",
+        "rank": 558
+    },
+    {
+        "name": "Korea Electric Power",
+        "code": "KEP",
+        "country": "S. Korea",
+        "rank": 559
+    },
+    {
+        "name": "SK Innovation",
+        "code": "096775.KS",
+        "country": "S. Korea",
+        "rank": 560
+    },
+    {
+        "name": "Samsung Life Insurance",
+        "code": "032830.KS",
+        "country": "S. Korea",
+        "rank": 561
+    },
+    {
+        "name": "LG Corp",
+        "code": "003550.KS",
+        "country": "S. Korea",
+        "rank": 562
+    },
+    {
+        "name": "Hana Financial Group",
+        "code": "086790.KS",
+        "country": "S. Korea",
+        "rank": 563
+    },
+    {
+        "name": "KakaoBank",
+        "code": "323410.KS",
+        "country": "S. Korea",
+        "rank": 564
+    },
+    {
+        "name": "LG Household & Health Care",
+        "code": "051905.KS",
+        "country": "S. Korea",
+        "rank": 565
+    },
+    {
+        "name": "KT&G (Korea Tobacco)",
+        "code": "033780.KS",
+        "country": "S. Korea",
+        "rank": 566
+    },
+    {
+        "name": "SK Telecom",
+        "code": "SKM",
+        "country": "S. Korea",
+        "rank": 567
+    },
+    {
+        "name": "SK Group",
+        "code": "034730.KS",
+        "country": "S. Korea",
+        "rank": 568
+    },
+    {
+        "name": "Korea Zinc",
+        "code": "010130.KS",
+        "country": "S. Korea",
+        "rank": 569
+    },
+    {
+        "name": "Samsung Electro-Mechanics",
+        "code": "009155.KS",
+        "country": "S. Korea",
+        "rank": 570
+    },
+    {
+        "name": "Doosan Enerbility",
+        "code": "034020.KS",
+        "country": "S. Korea",
+        "rank": 571
+    },
+    {
+        "name": "S-OIL",
+        "code": "010950.KS",
+        "country": "S. Korea",
+        "rank": 572
+    },
+    {
+        "name": "HMM",
+        "code": "011200.KS",
+        "country": "S. Korea",
+        "rank": 573
+    },
+    {
+        "name": "NCsoft",
+        "code": "036570.KS",
+        "country": "S. Korea",
+        "rank": 574
+    },
+    {
+        "name": "KT Corporation",
+        "code": "KT",
+        "country": "S. Korea",
+        "rank": 575
+    },
+    {
+        "name": "Woori Financial Group",
+        "code": "WF",
+        "country": "S. Korea",
+        "rank": 576
+    },
+    {
+        "name": "Amorepacific",
+        "code": "090430.KS",
+        "country": "S. Korea",
+        "rank": 577
+    },
+    {
+        "name": "Korean Air Lines",
+        "code": "003495.KS",
+        "country": "S. Korea",
+        "rank": 578
+    },
+    {
+        "name": "Hanwha Solutions",
+        "code": "009830.KS",
+        "country": "S. Korea",
+        "rank": 579
+    },
+    {
+        "name": "Krafton",
+        "code": "259960.KS",
+        "country": "S. Korea",
+        "rank": 580
+    },
+    {
+        "name": "Industrial Bank of Korea (IBK)",
+        "code": "024110.KS",
+        "country": "S. Korea",
+        "rank": 581
+    },
+    {
+        "name": "Kakao Pay",
+        "code": "377300.KS",
+        "country": "S. Korea",
+        "rank": 582
+    },
+    {
+        "name": "HYBE",
+        "code": "352820.KS",
+        "country": "S. Korea",
+        "rank": 583
+    },
+    {
+        "name": "LOTTE Chemical",
+        "code": "011170.KS",
+        "country": "S. Korea",
+        "rank": 584
+    },
+    {
+        "name": "Hyundai Glovis",
+        "code": "086280.KS",
+        "country": "S. Korea",
+        "rank": 585
+    },
+    {
+        "name": "F&F Co",
+        "code": "383220.KS",
+        "country": "S. Korea",
+        "rank": 586
+    },
+    {
+        "name": "Korea Aerospace Industries",
+        "code": "047810.KS",
+        "country": "S. Korea",
+        "rank": 587
+    },
+    {
+        "name": "Kangwon Land",
+        "code": "035250.KS",
+        "country": "S. Korea",
+        "rank": 588
+    },
+    {
+        "name": "Netmarble",
+        "code": "251270.KS",
+        "country": "S. Korea",
+        "rank": 589
+    },
+    {
+        "name": "LG Display",
+        "code": "LPL",
+        "country": "S. Korea",
+        "rank": 590
+    },
+    {
+        "name": "Coway",
+        "code": "021240.KS",
+        "country": "S. Korea",
+        "rank": 591
+    },
+    {
+        "name": "Yuhan",
+        "code": "000100.KS",
+        "country": "S. Korea",
+        "rank": 592
+    },
+    {
+        "name": "Hankook Tire",
+        "code": "161390.KS",
+        "country": "S. Korea",
+        "rank": 593
+    },
+    {
+        "name": "BGF Retail",
+        "code": "282330.KS",
+        "country": "S. Korea",
+        "rank": 594
+    },
+    {
+        "name": "Doosan Bobcat",
+        "code": "241560.KS",
+        "country": "S. Korea",
+        "rank": 595
+    },
+    {
+        "name": "Kumho Petrochemical",
+        "code": "011780.KS",
+        "country": "S. Korea",
+        "rank": 596
+    },
+    {
+        "name": "Pan Ocean",
+        "code": "028670.KS",
+        "country": "S. Korea",
+        "rank": 597
+    },
+    {
+        "name": "SD BioSensor",
+        "code": "137310.KS",
+        "country": "S. Korea",
+        "rank": 598
+    },
+    {
+        "name": "Korea Gas",
+        "code": "036460.KS",
+        "country": "S. Korea",
+        "rank": 599
+    },
+    {
+        "name": "Samsung Heavy Industries",
+        "code": "010145.KS",
+        "country": "S. Korea",
+        "rank": 600
+    },
+    {
+        "name": "Doosan Fuel Cell",
+        "code": "336260.KS",
+        "country": "S. Korea",
+        "rank": 601
+    },
+    {
+        "name": "CJ Group",
+        "code": "001040.KS",
+        "country": "S. Korea",
+        "rank": 602
+    },
+    {
+        "name": "JYP Entertainment",
+        "code": "035900.KQ",
+        "country": "S. Korea",
+        "rank": 603
+    },
+    {
+        "name": "Hanmi Pharmaceutical",
+        "code": "008930.KS",
+        "country": "S. Korea",
+        "rank": 604
+    },
+    {
+        "name": "Shinsegae",
+        "code": "004170.KS",
+        "country": "S. Korea",
+        "rank": 605
+    },
+    {
+        "name": "LOTTE Corporation",
+        "code": "004990.KS",
+        "country": "S. Korea",
+        "rank": 606
+    },
+    {
+        "name": "Nongshim",
+        "code": "004370.KS",
+        "country": "S. Korea",
+        "rank": 607
+    },
+    {
+        "name": "Fila",
+        "code": "081660.KS",
+        "country": "S. Korea",
+        "rank": 608
+    },
+    {
+        "name": "DSME (Daewoo Shipbuilding)",
+        "code": "042660.KS",
+        "country": "S. Korea",
+        "rank": 609
+    },
+    {
+        "name": "SM Entertainment",
+        "code": "041510.KQ",
+        "country": "S. Korea",
+        "rank": 610
+    },
+    {
+        "name": "Ottogi",
+        "code": "007310.KS",
+        "country": "S. Korea",
+        "rank": 611
+    },
+    {
+        "name": "HiteJinro",
+        "code": "000080.KS",
+        "country": "S. Korea",
+        "rank": 612
+    },
+    {
+        "name": "KCC Corp",
+        "code": "002380.KS",
+        "country": "S. Korea",
+        "rank": 613
+    },
+    {
+        "name": "Doosan",
+        "code": "000150.KS",
+        "country": "S. Korea",
+        "rank": 614
+    },
+    {
+        "name": "Jeju Air",
+        "code": "089590.KS",
+        "country": "S. Korea",
+        "rank": 615
+    },
+    {
+        "name": "Asiana Airlines",
+        "code": "020560.KS",
+        "country": "S. Korea",
+        "rank": 616
+    },
+    {
+        "name": "Shinpoong Pharm",
+        "code": "019170.KS",
+        "country": "S. Korea",
+        "rank": 617
+    },
+    {
+        "name": "Samyang Foods",
+        "code": "003230.KS",
+        "country": "S. Korea",
+        "rank": 618
+    },
+    {
+        "name": "YG Entertainment",
+        "code": "122870.KQ",
+        "country": "S. Korea",
+        "rank": 619
+    },
+    {
+        "name": "Jin Air",
+        "code": "272450.KS",
+        "country": "S. Korea",
+        "rank": 620
+    },
+    {
+        "name": "NHN Corp",
+        "code": "181710.KS",
+        "country": "S. Korea",
+        "rank": 621
+    },
+    {
+        "name": "DoubleUGames",
+        "code": "192080.KS",
+        "country": "S. Korea",
+        "rank": 622
+    },
+    {
+        "name": "Neowiz Games",
+        "code": "095660.KQ",
+        "country": "S. Korea",
+        "rank": 623
+    },
+    {
+        "name": "Com2uS",
+        "code": "078340.KQ",
+        "country": "S. Korea",
+        "rank": 624
+    },
+    {
+        "name": "Pearl Abyss",
+        "code": "263750.KQ",
+        "country": "S. Korea",
+        "rank": 625
+    },
+    {
+        "name": "Webzen",
+        "code": "069080.KQ",
+        "country": "S. Korea",
+        "rank": 626
+    },
+    {
+        "name": "Wemade",
+        "code": "112040.KQ",
+        "country": "S. Korea",
+        "rank": 627
+    },
+    {
+        "name": "T\u2019way Air",
+        "code": "091810.KS",
+        "country": "S. Korea",
+        "rank": 628
+    },
+    {
+        "name": "Gravity Co.",
+        "code": "GRVY",
+        "country": "S. Korea",
+        "rank": 629
+    },
+    {
+        "name": "Air Busan",
+        "code": "298690.KS",
+        "country": "S. Korea",
+        "rank": 630
+    },
+    {
+        "name": "Samsung",
+        "code": "005930.KS",
+        "country": "S. Korea",
+        "rank": 631
+    },
+    {
+        "name": "LG Energy Solution",
+        "code": "373220.KS",
+        "country": "S. Korea",
+        "rank": 632
+    },
+    {
+        "name": "Samsung Biologics",
+        "code": "207940.KS",
+        "country": "S. Korea",
+        "rank": 633
+    },
+    {
+        "name": "SK Hynix",
+        "code": "000660.KS",
+        "country": "S. Korea",
+        "rank": 634
+    },
+    {
+        "name": "LG Chem",
+        "code": "051910.KS",
+        "country": "S. Korea",
+        "rank": 635
+    },
+    {
+        "name": "Samsung SDI",
+        "code": "006405.KS",
+        "country": "S. Korea",
+        "rank": 636
+    },
+    {
+        "name": "Hyundai",
+        "code": "HYMTF",
+        "country": "S. Korea",
+        "rank": 637
+    },
+    {
+        "name": "Coupang",
+        "code": "CPNG",
+        "country": "S. Korea",
+        "rank": 638
+    },
+    {
+        "name": "Naver",
+        "code": "035420.KS",
+        "country": "S. Korea",
+        "rank": 639
+    },
+    {
+        "name": "Kia",
+        "code": "000270.KS",
+        "country": "S. Korea",
+        "rank": 640
+    },
+    {
+        "name": "Kakao",
+        "code": "035720.KS",
+        "country": "S. Korea",
+        "rank": 641
+    },
+    {
+        "name": "Celltrion",
+        "code": "068270.KS",
+        "country": "S. Korea",
+        "rank": 642
+    },
+    {
+        "name": "POSCO",
+        "code": "PKX",
+        "country": "S. Korea",
+        "rank": 643
+    },
+    {
+        "name": "KB Financial Group",
+        "code": "KB",
+        "country": "S. Korea",
+        "rank": 644
+    },
+    {
+        "name": "Hyundai Mobis",
+        "code": "012330.KS",
+        "country": "S. Korea",
+        "rank": 645
+    },
+    {
+        "name": "Shinhan Financial Group",
+        "code": "SHG",
+        "country": "S. Korea",
+        "rank": 646
+    },
+    {
+        "name": "LG Electronics",
+        "code": "LGLG.F",
+        "country": "S. Korea",
+        "rank": 647
+    },
+    {
+        "name": "POSCO Chemical",
+        "code": "003670.KS",
+        "country": "S. Korea",
+        "rank": 648
+    },
+    {
+        "name": "Korea Electric Power",
+        "code": "KEP",
+        "country": "S. Korea",
+        "rank": 649
+    },
+    {
+        "name": "SK Innovation",
+        "code": "096775.KS",
+        "country": "S. Korea",
+        "rank": 650
+    },
+    {
+        "name": "Samsung Life Insurance",
+        "code": "032830.KS",
+        "country": "S. Korea",
+        "rank": 651
+    },
+    {
+        "name": "LG Corp",
+        "code": "003550.KS",
+        "country": "S. Korea",
+        "rank": 652
+    },
+    {
+        "name": "Hana Financial Group",
+        "code": "086790.KS",
+        "country": "S. Korea",
+        "rank": 653
+    },
+    {
+        "name": "KakaoBank",
+        "code": "323410.KS",
+        "country": "S. Korea",
+        "rank": 654
+    },
+    {
+        "name": "LG Household & Health Care",
+        "code": "051905.KS",
+        "country": "S. Korea",
+        "rank": 655
+    },
+    {
+        "name": "KT&G (Korea Tobacco)",
+        "code": "033780.KS",
+        "country": "S. Korea",
+        "rank": 656
+    },
+    {
+        "name": "SK Telecom",
+        "code": "SKM",
+        "country": "S. Korea",
+        "rank": 657
+    },
+    {
+        "name": "SK Group",
+        "code": "034730.KS",
+        "country": "S. Korea",
+        "rank": 658
+    },
+    {
+        "name": "Korea Zinc",
+        "code": "010130.KS",
+        "country": "S. Korea",
+        "rank": 659
+    },
+    {
+        "name": "Samsung Electro-Mechanics",
+        "code": "009155.KS",
+        "country": "S. Korea",
+        "rank": 660
+    },
+    {
+        "name": "Doosan Enerbility",
+        "code": "034020.KS",
+        "country": "S. Korea",
+        "rank": 661
+    },
+    {
+        "name": "S-OIL",
+        "code": "010950.KS",
+        "country": "S. Korea",
+        "rank": 662
+    },
+    {
+        "name": "HMM",
+        "code": "011200.KS",
+        "country": "S. Korea",
+        "rank": 663
+    },
+    {
+        "name": "NCsoft",
+        "code": "036570.KS",
+        "country": "S. Korea",
+        "rank": 664
+    },
+    {
+        "name": "KT Corporation",
+        "code": "KT",
+        "country": "S. Korea",
+        "rank": 665
+    },
+    {
+        "name": "Woori Financial Group",
+        "code": "WF",
+        "country": "S. Korea",
+        "rank": 666
+    },
+    {
+        "name": "Amorepacific",
+        "code": "090430.KS",
+        "country": "S. Korea",
+        "rank": 667
+    },
+    {
+        "name": "Korean Air Lines",
+        "code": "003495.KS",
+        "country": "S. Korea",
+        "rank": 668
+    },
+    {
+        "name": "Hanwha Solutions",
+        "code": "009830.KS",
+        "country": "S. Korea",
+        "rank": 669
+    },
+    {
+        "name": "Krafton",
+        "code": "259960.KS",
+        "country": "S. Korea",
+        "rank": 670
+    },
+    {
+        "name": "Industrial Bank of Korea (IBK)",
+        "code": "024110.KS",
+        "country": "S. Korea",
+        "rank": 671
+    },
+    {
+        "name": "Kakao Pay",
+        "code": "377300.KS",
+        "country": "S. Korea",
+        "rank": 672
+    },
+    {
+        "name": "HYBE",
+        "code": "352820.KS",
+        "country": "S. Korea",
+        "rank": 673
+    },
+    {
+        "name": "LOTTE Chemical",
+        "code": "011170.KS",
+        "country": "S. Korea",
+        "rank": 674
+    },
+    {
+        "name": "Hyundai Glovis",
+        "code": "086280.KS",
+        "country": "S. Korea",
+        "rank": 675
+    },
+    {
+        "name": "F&F Co",
+        "code": "383220.KS",
+        "country": "S. Korea",
+        "rank": 676
+    },
+    {
+        "name": "Korea Aerospace Industries",
+        "code": "047810.KS",
+        "country": "S. Korea",
+        "rank": 677
+    },
+    {
+        "name": "Kangwon Land",
+        "code": "035250.KS",
+        "country": "S. Korea",
+        "rank": 678
+    },
+    {
+        "name": "Netmarble",
+        "code": "251270.KS",
+        "country": "S. Korea",
+        "rank": 679
+    },
+    {
+        "name": "LG Display",
+        "code": "LPL",
+        "country": "S. Korea",
+        "rank": 680
+    },
+    {
+        "name": "Coway",
+        "code": "021240.KS",
+        "country": "S. Korea",
+        "rank": 681
+    },
+    {
+        "name": "Yuhan",
+        "code": "000100.KS",
+        "country": "S. Korea",
+        "rank": 682
+    },
+    {
+        "name": "Hankook Tire",
+        "code": "161390.KS",
+        "country": "S. Korea",
+        "rank": 683
+    },
+    {
+        "name": "BGF Retail",
+        "code": "282330.KS",
+        "country": "S. Korea",
+        "rank": 684
+    },
+    {
+        "name": "Doosan Bobcat",
+        "code": "241560.KS",
+        "country": "S. Korea",
+        "rank": 685
+    },
+    {
+        "name": "Kumho Petrochemical",
+        "code": "011780.KS",
+        "country": "S. Korea",
+        "rank": 686
+    },
+    {
+        "name": "Pan Ocean",
+        "code": "028670.KS",
+        "country": "S. Korea",
+        "rank": 687
+    },
+    {
+        "name": "SD BioSensor",
+        "code": "137310.KS",
+        "country": "S. Korea",
+        "rank": 688
+    },
+    {
+        "name": "Korea Gas",
+        "code": "036460.KS",
+        "country": "S. Korea",
+        "rank": 689
+    },
+    {
+        "name": "Samsung Heavy Industries",
+        "code": "010145.KS",
+        "country": "S. Korea",
+        "rank": 690
+    },
+    {
+        "name": "Doosan Fuel Cell",
+        "code": "336260.KS",
+        "country": "S. Korea",
+        "rank": 691
+    },
+    {
+        "name": "CJ Group",
+        "code": "001040.KS",
+        "country": "S. Korea",
+        "rank": 692
+    },
+    {
+        "name": "JYP Entertainment",
+        "code": "035900.KQ",
+        "country": "S. Korea",
+        "rank": 693
+    },
+    {
+        "name": "Hanmi Pharmaceutical",
+        "code": "008930.KS",
+        "country": "S. Korea",
+        "rank": 694
+    },
+    {
+        "name": "Shinsegae",
+        "code": "004170.KS",
+        "country": "S. Korea",
+        "rank": 695
+    },
+    {
+        "name": "LOTTE Corporation",
+        "code": "004990.KS",
+        "country": "S. Korea",
+        "rank": 696
+    },
+    {
+        "name": "Nongshim",
+        "code": "004370.KS",
+        "country": "S. Korea",
+        "rank": 697
+    },
+    {
+        "name": "Fila",
+        "code": "081660.KS",
+        "country": "S. Korea",
+        "rank": 698
+    },
+    {
+        "name": "DSME (Daewoo Shipbuilding)",
+        "code": "042660.KS",
+        "country": "S. Korea",
+        "rank": 699
+    },
+    {
+        "name": "SM Entertainment",
+        "code": "041510.KQ",
+        "country": "S. Korea",
+        "rank": 700
+    },
+    {
+        "name": "Ottogi",
+        "code": "007310.KS",
+        "country": "S. Korea",
+        "rank": 701
+    },
+    {
+        "name": "HiteJinro",
+        "code": "000080.KS",
+        "country": "S. Korea",
+        "rank": 702
+    },
+    {
+        "name": "KCC Corp",
+        "code": "002380.KS",
+        "country": "S. Korea",
+        "rank": 703
+    },
+    {
+        "name": "Doosan",
+        "code": "000150.KS",
+        "country": "S. Korea",
+        "rank": 704
+    },
+    {
+        "name": "Jeju Air",
+        "code": "089590.KS",
+        "country": "S. Korea",
+        "rank": 705
+    },
+    {
+        "name": "Asiana Airlines",
+        "code": "020560.KS",
+        "country": "S. Korea",
+        "rank": 706
+    },
+    {
+        "name": "Shinpoong Pharm",
+        "code": "019170.KS",
+        "country": "S. Korea",
+        "rank": 707
+    },
+    {
+        "name": "Samyang Foods",
+        "code": "003230.KS",
+        "country": "S. Korea",
+        "rank": 708
+    },
+    {
+        "name": "YG Entertainment",
+        "code": "122870.KQ",
+        "country": "S. Korea",
+        "rank": 709
+    },
+    {
+        "name": "Jin Air",
+        "code": "272450.KS",
+        "country": "S. Korea",
+        "rank": 710
+    },
+    {
+        "name": "NHN Corp",
+        "code": "181710.KS",
+        "country": "S. Korea",
+        "rank": 711
+    },
+    {
+        "name": "DoubleUGames",
+        "code": "192080.KS",
+        "country": "S. Korea",
+        "rank": 712
+    },
+    {
+        "name": "Neowiz Games",
+        "code": "095660.KQ",
+        "country": "S. Korea",
+        "rank": 713
+    },
+    {
+        "name": "Com2uS",
+        "code": "078340.KQ",
+        "country": "S. Korea",
+        "rank": 714
+    },
+    {
+        "name": "Pearl Abyss",
+        "code": "263750.KQ",
+        "country": "S. Korea",
+        "rank": 715
+    },
+    {
+        "name": "Webzen",
+        "code": "069080.KQ",
+        "country": "S. Korea",
+        "rank": 716
+    },
+    {
+        "name": "Wemade",
+        "code": "112040.KQ",
+        "country": "S. Korea",
+        "rank": 717
+    },
+    {
+        "name": "T\u2019way Air",
+        "code": "091810.KS",
+        "country": "S. Korea",
+        "rank": 718
+    },
+    {
+        "name": "Gravity Co.",
+        "code": "GRVY",
+        "country": "S. Korea",
+        "rank": 719
+    },
+    {
+        "name": "Air Busan",
+        "code": "298690.KS",
+        "country": "S. Korea",
+        "rank": 720
+    },
+    {
+        "name": "Samsung",
+        "code": "005930.KS",
+        "country": "S. Korea",
+        "rank": 721
+    },
+    {
+        "name": "LG Energy Solution",
+        "code": "373220.KS",
+        "country": "S. Korea",
+        "rank": 722
+    },
+    {
+        "name": "Samsung Biologics",
+        "code": "207940.KS",
+        "country": "S. Korea",
+        "rank": 723
+    },
+    {
+        "name": "SK Hynix",
+        "code": "000660.KS",
+        "country": "S. Korea",
+        "rank": 724
+    },
+    {
+        "name": "LG Chem",
+        "code": "051910.KS",
+        "country": "S. Korea",
+        "rank": 725
+    },
+    {
+        "name": "Samsung SDI",
+        "code": "006405.KS",
+        "country": "S. Korea",
+        "rank": 726
+    },
+    {
+        "name": "Hyundai",
+        "code": "HYMTF",
+        "country": "S. Korea",
+        "rank": 727
+    },
+    {
+        "name": "Coupang",
+        "code": "CPNG",
+        "country": "S. Korea",
+        "rank": 728
+    },
+    {
+        "name": "Naver",
+        "code": "035420.KS",
+        "country": "S. Korea",
+        "rank": 729
+    },
+    {
+        "name": "Kia",
+        "code": "000270.KS",
+        "country": "S. Korea",
+        "rank": 730
+    },
+    {
+        "name": "Kakao",
+        "code": "035720.KS",
+        "country": "S. Korea",
+        "rank": 731
+    },
+    {
+        "name": "Celltrion",
+        "code": "068270.KS",
+        "country": "S. Korea",
+        "rank": 732
+    },
+    {
+        "name": "POSCO",
+        "code": "PKX",
+        "country": "S. Korea",
+        "rank": 733
+    },
+    {
+        "name": "KB Financial Group",
+        "code": "KB",
+        "country": "S. Korea",
+        "rank": 734
+    },
+    {
+        "name": "Hyundai Mobis",
+        "code": "012330.KS",
+        "country": "S. Korea",
+        "rank": 735
+    },
+    {
+        "name": "Shinhan Financial Group",
+        "code": "SHG",
+        "country": "S. Korea",
+        "rank": 736
+    },
+    {
+        "name": "LG Electronics",
+        "code": "LGLG.F",
+        "country": "S. Korea",
+        "rank": 737
+    },
+    {
+        "name": "POSCO Chemical",
+        "code": "003670.KS",
+        "country": "S. Korea",
+        "rank": 738
+    },
+    {
+        "name": "Korea Electric Power",
+        "code": "KEP",
+        "country": "S. Korea",
+        "rank": 739
+    },
+    {
+        "name": "SK Innovation",
+        "code": "096775.KS",
+        "country": "S. Korea",
+        "rank": 740
+    },
+    {
+        "name": "Samsung Life Insurance",
+        "code": "032830.KS",
+        "country": "S. Korea",
+        "rank": 741
+    },
+    {
+        "name": "LG Corp",
+        "code": "003550.KS",
+        "country": "S. Korea",
+        "rank": 742
+    },
+    {
+        "name": "Hana Financial Group",
+        "code": "086790.KS",
+        "country": "S. Korea",
+        "rank": 743
+    },
+    {
+        "name": "KakaoBank",
+        "code": "323410.KS",
+        "country": "S. Korea",
+        "rank": 744
+    },
+    {
+        "name": "LG Household & Health Care",
+        "code": "051905.KS",
+        "country": "S. Korea",
+        "rank": 745
+    },
+    {
+        "name": "KT&G (Korea Tobacco)",
+        "code": "033780.KS",
+        "country": "S. Korea",
+        "rank": 746
+    },
+    {
+        "name": "SK Telecom",
+        "code": "SKM",
+        "country": "S. Korea",
+        "rank": 747
+    },
+    {
+        "name": "SK Group",
+        "code": "034730.KS",
+        "country": "S. Korea",
+        "rank": 748
+    },
+    {
+        "name": "Korea Zinc",
+        "code": "010130.KS",
+        "country": "S. Korea",
+        "rank": 749
+    },
+    {
+        "name": "Samsung Electro-Mechanics",
+        "code": "009155.KS",
+        "country": "S. Korea",
+        "rank": 750
+    },
+    {
+        "name": "Doosan Enerbility",
+        "code": "034020.KS",
+        "country": "S. Korea",
+        "rank": 751
+    },
+    {
+        "name": "S-OIL",
+        "code": "010950.KS",
+        "country": "S. Korea",
+        "rank": 752
+    },
+    {
+        "name": "HMM",
+        "code": "011200.KS",
+        "country": "S. Korea",
+        "rank": 753
+    },
+    {
+        "name": "NCsoft",
+        "code": "036570.KS",
+        "country": "S. Korea",
+        "rank": 754
+    },
+    {
+        "name": "KT Corporation",
+        "code": "KT",
+        "country": "S. Korea",
+        "rank": 755
+    },
+    {
+        "name": "Woori Financial Group",
+        "code": "WF",
+        "country": "S. Korea",
+        "rank": 756
+    },
+    {
+        "name": "Amorepacific",
+        "code": "090430.KS",
+        "country": "S. Korea",
+        "rank": 757
+    },
+    {
+        "name": "Korean Air Lines",
+        "code": "003495.KS",
+        "country": "S. Korea",
+        "rank": 758
+    },
+    {
+        "name": "Hanwha Solutions",
+        "code": "009830.KS",
+        "country": "S. Korea",
+        "rank": 759
+    },
+    {
+        "name": "Krafton",
+        "code": "259960.KS",
+        "country": "S. Korea",
+        "rank": 760
+    },
+    {
+        "name": "Industrial Bank of Korea (IBK)",
+        "code": "024110.KS",
+        "country": "S. Korea",
+        "rank": 761
+    },
+    {
+        "name": "Kakao Pay",
+        "code": "377300.KS",
+        "country": "S. Korea",
+        "rank": 762
+    },
+    {
+        "name": "HYBE",
+        "code": "352820.KS",
+        "country": "S. Korea",
+        "rank": 763
+    },
+    {
+        "name": "LOTTE Chemical",
+        "code": "011170.KS",
+        "country": "S. Korea",
+        "rank": 764
+    },
+    {
+        "name": "Hyundai Glovis",
+        "code": "086280.KS",
+        "country": "S. Korea",
+        "rank": 765
+    },
+    {
+        "name": "F&F Co",
+        "code": "383220.KS",
+        "country": "S. Korea",
+        "rank": 766
+    },
+    {
+        "name": "Korea Aerospace Industries",
+        "code": "047810.KS",
+        "country": "S. Korea",
+        "rank": 767
+    },
+    {
+        "name": "Kangwon Land",
+        "code": "035250.KS",
+        "country": "S. Korea",
+        "rank": 768
+    },
+    {
+        "name": "Netmarble",
+        "code": "251270.KS",
+        "country": "S. Korea",
+        "rank": 769
+    },
+    {
+        "name": "LG Display",
+        "code": "LPL",
+        "country": "S. Korea",
+        "rank": 770
+    },
+    {
+        "name": "Coway",
+        "code": "021240.KS",
+        "country": "S. Korea",
+        "rank": 771
+    },
+    {
+        "name": "Yuhan",
+        "code": "000100.KS",
+        "country": "S. Korea",
+        "rank": 772
+    },
+    {
+        "name": "Hankook Tire",
+        "code": "161390.KS",
+        "country": "S. Korea",
+        "rank": 773
+    },
+    {
+        "name": "BGF Retail",
+        "code": "282330.KS",
+        "country": "S. Korea",
+        "rank": 774
+    },
+    {
+        "name": "Doosan Bobcat",
+        "code": "241560.KS",
+        "country": "S. Korea",
+        "rank": 775
+    },
+    {
+        "name": "Kumho Petrochemical",
+        "code": "011780.KS",
+        "country": "S. Korea",
+        "rank": 776
+    },
+    {
+        "name": "Pan Ocean",
+        "code": "028670.KS",
+        "country": "S. Korea",
+        "rank": 777
+    },
+    {
+        "name": "SD BioSensor",
+        "code": "137310.KS",
+        "country": "S. Korea",
+        "rank": 778
+    },
+    {
+        "name": "Korea Gas",
+        "code": "036460.KS",
+        "country": "S. Korea",
+        "rank": 779
+    },
+    {
+        "name": "Samsung Heavy Industries",
+        "code": "010145.KS",
+        "country": "S. Korea",
+        "rank": 780
+    },
+    {
+        "name": "Doosan Fuel Cell",
+        "code": "336260.KS",
+        "country": "S. Korea",
+        "rank": 781
+    },
+    {
+        "name": "CJ Group",
+        "code": "001040.KS",
+        "country": "S. Korea",
+        "rank": 782
+    },
+    {
+        "name": "JYP Entertainment",
+        "code": "035900.KQ",
+        "country": "S. Korea",
+        "rank": 783
+    },
+    {
+        "name": "Hanmi Pharmaceutical",
+        "code": "008930.KS",
+        "country": "S. Korea",
+        "rank": 784
+    },
+    {
+        "name": "Shinsegae",
+        "code": "004170.KS",
+        "country": "S. Korea",
+        "rank": 785
+    },
+    {
+        "name": "LOTTE Corporation",
+        "code": "004990.KS",
+        "country": "S. Korea",
+        "rank": 786
+    },
+    {
+        "name": "Nongshim",
+        "code": "004370.KS",
+        "country": "S. Korea",
+        "rank": 787
+    },
+    {
+        "name": "Fila",
+        "code": "081660.KS",
+        "country": "S. Korea",
+        "rank": 788
+    },
+    {
+        "name": "DSME (Daewoo Shipbuilding)",
+        "code": "042660.KS",
+        "country": "S. Korea",
+        "rank": 789
+    },
+    {
+        "name": "SM Entertainment",
+        "code": "041510.KQ",
+        "country": "S. Korea",
+        "rank": 790
+    },
+    {
+        "name": "Ottogi",
+        "code": "007310.KS",
+        "country": "S. Korea",
+        "rank": 791
+    },
+    {
+        "name": "HiteJinro",
+        "code": "000080.KS",
+        "country": "S. Korea",
+        "rank": 792
+    },
+    {
+        "name": "KCC Corp",
+        "code": "002380.KS",
+        "country": "S. Korea",
+        "rank": 793
+    },
+    {
+        "name": "Doosan",
+        "code": "000150.KS",
+        "country": "S. Korea",
+        "rank": 794
+    },
+    {
+        "name": "Jeju Air",
+        "code": "089590.KS",
+        "country": "S. Korea",
+        "rank": 795
+    },
+    {
+        "name": "Asiana Airlines",
+        "code": "020560.KS",
+        "country": "S. Korea",
+        "rank": 796
+    },
+    {
+        "name": "Shinpoong Pharm",
+        "code": "019170.KS",
+        "country": "S. Korea",
+        "rank": 797
+    },
+    {
+        "name": "Samyang Foods",
+        "code": "003230.KS",
+        "country": "S. Korea",
+        "rank": 798
+    },
+    {
+        "name": "YG Entertainment",
+        "code": "122870.KQ",
+        "country": "S. Korea",
+        "rank": 799
+    },
+    {
+        "name": "Jin Air",
+        "code": "272450.KS",
+        "country": "S. Korea",
+        "rank": 800
+    },
+    {
+        "name": "NHN Corp",
+        "code": "181710.KS",
+        "country": "S. Korea",
+        "rank": 801
+    },
+    {
+        "name": "DoubleUGames",
+        "code": "192080.KS",
+        "country": "S. Korea",
+        "rank": 802
+    },
+    {
+        "name": "Neowiz Games",
+        "code": "095660.KQ",
+        "country": "S. Korea",
+        "rank": 803
+    },
+    {
+        "name": "Com2uS",
+        "code": "078340.KQ",
+        "country": "S. Korea",
+        "rank": 804
+    },
+    {
+        "name": "Pearl Abyss",
+        "code": "263750.KQ",
+        "country": "S. Korea",
+        "rank": 805
+    },
+    {
+        "name": "Webzen",
+        "code": "069080.KQ",
+        "country": "S. Korea",
+        "rank": 806
+    },
+    {
+        "name": "Wemade",
+        "code": "112040.KQ",
+        "country": "S. Korea",
+        "rank": 807
+    },
+    {
+        "name": "T\u2019way Air",
+        "code": "091810.KS",
+        "country": "S. Korea",
+        "rank": 808
+    },
+    {
+        "name": "Gravity Co.",
+        "code": "GRVY",
+        "country": "S. Korea",
+        "rank": 809
+    },
+    {
+        "name": "Air Busan",
+        "code": "298690.KS",
+        "country": "S. Korea",
+        "rank": 810
+    }
+]

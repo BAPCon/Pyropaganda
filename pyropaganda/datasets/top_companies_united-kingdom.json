@@ -1,0 +1,5402 @@
+[
+    {
+        "name": "AstraZeneca",
+        "code": "AZN",
+        "country": "UK",
+        "rank": 1
+    },
+    {
+        "name": "Shell",
+        "code": "SHEL",
+        "country": "UK",
+        "rank": 2
+    },
+    {
+        "name": "Linde",
+        "code": "LIN",
+        "country": "UK",
+        "rank": 3
+    },
+    {
+        "name": "Unilever",
+        "code": "UL",
+        "country": "UK",
+        "rank": 4
+    },
+    {
+        "name": "HSBC",
+        "code": "HSBC",
+        "country": "UK",
+        "rank": 5
+    },
+    {
+        "name": "Rio Tinto",
+        "code": "RIO",
+        "country": "UK",
+        "rank": 6
+    },
+    {
+        "name": "BP",
+        "code": "BP",
+        "country": "UK",
+        "rank": 7
+    },
+    {
+        "name": "Diageo",
+        "code": "DEO",
+        "country": "UK",
+        "rank": 8
+    },
+    {
+        "name": "British American Tobacco",
+        "code": "BTI",
+        "country": "UK",
+        "rank": 9
+    },
+    {
+        "name": "GlaxoSmithKline",
+        "code": "GSK",
+        "country": "UK",
+        "rank": 10
+    },
+    {
+        "name": "Aon",
+        "code": "AON",
+        "country": "UK",
+        "rank": 11
+    },
+    {
+        "name": "RELX",
+        "code": "RELX",
+        "country": "UK",
+        "rank": 12
+    },
+    {
+        "name": "Anglo American",
+        "code": "AAL.L",
+        "country": "UK",
+        "rank": 13
+    },
+    {
+        "name": "Reckitt Benckiser",
+        "code": "RKT.L",
+        "country": "UK",
+        "rank": 14
+    },
+    {
+        "name": "London Stock Exchange",
+        "code": "LS4C.F",
+        "country": "UK",
+        "rank": 15
+    },
+    {
+        "name": "National Grid",
+        "code": "NGG",
+        "country": "UK",
+        "rank": 16
+    },
+    {
+        "name": "Compass Group",
+        "code": "CPG.L",
+        "country": "UK",
+        "rank": 17
+    },
+    {
+        "name": "Prudential",
+        "code": "PUK",
+        "country": "UK",
+        "rank": 18
+    },
+    {
+        "name": "Lloyds Banking Group",
+        "code": "LYG",
+        "country": "UK",
+        "rank": 19
+    },
+    {
+        "name": "Haleon",
+        "code": "HLN",
+        "country": "UK",
+        "rank": 20
+    },
+    {
+        "name": "BAE Systems",
+        "code": "BSP.F",
+        "country": "UK",
+        "rank": 21
+    },
+    {
+        "name": "NatWest Group",
+        "code": "NWG",
+        "country": "UK",
+        "rank": 22
+    },
+    {
+        "name": "Barclays",
+        "code": "BCS",
+        "country": "UK",
+        "rank": 23
+    },
+    {
+        "name": "Vodafone",
+        "code": "VOD",
+        "country": "UK",
+        "rank": 24
+    },
+    {
+        "name": "Willis Towers Watson ",
+        "code": "WTW",
+        "country": "UK",
+        "rank": 25
+    },
+    {
+        "name": "Ferguson",
+        "code": "FERG",
+        "country": "UK",
+        "rank": 26
+    },
+    {
+        "name": "Ashtead",
+        "code": "0LC.F",
+        "country": "UK",
+        "rank": 27
+    },
+    {
+        "name": "Coca-Cola European Partners",
+        "code": "CCEP",
+        "country": "UK",
+        "rank": 28
+    },
+    {
+        "name": "Imperial Brands",
+        "code": "ITBA.F",
+        "country": "UK",
+        "rank": 29
+    },
+    {
+        "name": "SSE",
+        "code": "SCT.F",
+        "country": "UK",
+        "rank": 30
+    },
+    {
+        "name": "Standard Chartered",
+        "code": "STAN.L",
+        "country": "UK",
+        "rank": 31
+    },
+    {
+        "name": "CNH Industrial",
+        "code": "CNHI",
+        "country": "UK",
+        "rank": 32
+    },
+    {
+        "name": "Tesco",
+        "code": "TSCDF",
+        "country": "UK",
+        "rank": 33
+    },
+    {
+        "name": "Antofagasta",
+        "code": "ANTO.L",
+        "country": "UK",
+        "rank": 34
+    },
+    {
+        "name": "Legal & General",
+        "code": "LGEN.L",
+        "country": "UK",
+        "rank": 35
+    },
+    {
+        "name": "Royalty Pharma",
+        "code": "RPRX",
+        "country": "UK",
+        "rank": 36
+    },
+    {
+        "name": "3i Group",
+        "code": "III.L",
+        "country": "UK",
+        "rank": 37
+    },
+    {
+        "name": "Rentokil Initial",
+        "code": "RTO.L",
+        "country": "UK",
+        "rank": 38
+    },
+    {
+        "name": "Associated British Foods",
+        "code": "ABF.L",
+        "country": "UK",
+        "rank": 39
+    },
+    {
+        "name": "Aviva",
+        "code": "AV.L",
+        "country": "UK",
+        "rank": 40
+    },
+    {
+        "name": "BT Group",
+        "code": "BT-A.L",
+        "country": "UK",
+        "rank": 41
+    },
+    {
+        "name": "AVEVA",
+        "code": "AVV.L",
+        "country": "UK",
+        "rank": 42
+    },
+    {
+        "name": "Smith & Nephew",
+        "code": "SNN",
+        "country": "UK",
+        "rank": 43
+    },
+    {
+        "name": "Bunzl",
+        "code": "BNZL.L",
+        "country": "UK",
+        "rank": 44
+    },
+    {
+        "name": "SEGRO",
+        "code": "SGRO.L",
+        "country": "UK",
+        "rank": 45
+    },
+    {
+        "name": "Croda International",
+        "code": "CRDA.L",
+        "country": "UK",
+        "rank": 46
+    },
+    {
+        "name": "Informa plc",
+        "code": "INF.L",
+        "country": "UK",
+        "rank": 47
+    },
+    {
+        "name": "WPP",
+        "code": "WPP",
+        "country": "UK",
+        "rank": 48
+    },
+    {
+        "name": "InterContinental Hotels Group",
+        "code": "IHG",
+        "country": "UK",
+        "rank": 49
+    },
+    {
+        "name": "Spirax-Sarco Engineering",
+        "code": "SPX.L",
+        "country": "UK",
+        "rank": 50
+    },
+    {
+        "name": "Rolls-Royce Holdings",
+        "code": "RR.L",
+        "country": "UK",
+        "rank": 51
+    },
+    {
+        "name": "Burberry",
+        "code": "BRBY.L",
+        "country": "UK",
+        "rank": 52
+    },
+    {
+        "name": "Halma",
+        "code": "HLMA.L",
+        "country": "UK",
+        "rank": 53
+    },
+    {
+        "name": "Sage Group",
+        "code": "SGE.L",
+        "country": "UK",
+        "rank": 54
+    },
+    {
+        "name": "Next plc",
+        "code": "NXT.L",
+        "country": "UK",
+        "rank": 55
+    },
+    {
+        "name": "Liberty Global",
+        "code": "LBTYB",
+        "country": "UK",
+        "rank": 56
+    },
+    {
+        "name": "Schroders",
+        "code": "SDR.L",
+        "country": "UK",
+        "rank": 57
+    },
+    {
+        "name": "Mondi",
+        "code": "MNDI.L",
+        "country": "UK",
+        "rank": 58
+    },
+    {
+        "name": "United Utilities",
+        "code": "UU.L",
+        "country": "UK",
+        "rank": 59
+    },
+    {
+        "name": "Pearson",
+        "code": "PSO",
+        "country": "UK",
+        "rank": 60
+    },
+    {
+        "name": "Intertek",
+        "code": "ITRK.L",
+        "country": "UK",
+        "rank": 61
+    },
+    {
+        "name": "JD Sports Fashion",
+        "code": "JD.L",
+        "country": "UK",
+        "rank": 62
+    },
+    {
+        "name": "Admiral Group",
+        "code": "ADM.L",
+        "country": "UK",
+        "rank": 63
+    },
+    {
+        "name": "Pentair",
+        "code": "PNR",
+        "country": "UK",
+        "rank": 64
+    },
+    {
+        "name": "Phoenix Group",
+        "code": "PHNX.L",
+        "country": "UK",
+        "rank": 65
+    },
+    {
+        "name": "Capri Holdings",
+        "code": "CPRI",
+        "country": "UK",
+        "rank": 66
+    },
+    {
+        "name": "St. James's Place",
+        "code": "STJ.L",
+        "country": "UK",
+        "rank": 67
+    },
+    {
+        "name": "Centrica",
+        "code": "CNA.L",
+        "country": "UK",
+        "rank": 68
+    },
+    {
+        "name": "Melrose Industries",
+        "code": "MRO.L",
+        "country": "UK",
+        "rank": 69
+    },
+    {
+        "name": "nVent Electric",
+        "code": "NVT",
+        "country": "UK",
+        "rank": 70
+    },
+    {
+        "name": "Whitbread",
+        "code": "WTB.L",
+        "country": "UK",
+        "rank": 71
+    },
+    {
+        "name": "Ocado",
+        "code": "OCDO.L",
+        "country": "UK",
+        "rank": 72
+    },
+    {
+        "name": "Sainsbury's",
+        "code": "SBRY.L",
+        "country": "UK",
+        "rank": 73
+    },
+    {
+        "name": "Investec",
+        "code": "INVR.L",
+        "country": "UK",
+        "rank": 74
+    },
+    {
+        "name": "Roivant Sciences",
+        "code": "ROIV",
+        "country": "UK",
+        "rank": 75
+    },
+    {
+        "name": "Convatec Group",
+        "code": "CTEC.L",
+        "country": "UK",
+        "rank": 76
+    },
+    {
+        "name": "Clarivate",
+        "code": "CLVT",
+        "country": "UK",
+        "rank": 77
+    },
+    {
+        "name": "Land Securities Group",
+        "code": "LAND.L",
+        "country": "UK",
+        "rank": 78
+    },
+    {
+        "name": "Kingfisher",
+        "code": "KFI1.F",
+        "country": "UK",
+        "rank": 79
+    },
+    {
+        "name": "Beazley",
+        "code": "BEZ.L",
+        "country": "UK",
+        "rank": 80
+    },
+    {
+        "name": "TechnipFMC",
+        "code": "FTI",
+        "country": "UK",
+        "rank": 81
+    },
+    {
+        "name": "DS Smith",
+        "code": "SMDS.L",
+        "country": "UK",
+        "rank": 82
+    },
+    {
+        "name": "M&G plc",
+        "code": "MNG.L",
+        "country": "UK",
+        "rank": 83
+    },
+    {
+        "name": "Endeavour Mining",
+        "code": "EDV.TO",
+        "country": "UK",
+        "rank": 84
+    },
+    {
+        "name": "The Weir Group",
+        "code": "WEIR.L",
+        "country": "UK",
+        "rank": 85
+    },
+    {
+        "name": "Airtel Africa",
+        "code": "AAF.L",
+        "country": "UK",
+        "rank": 86
+    },
+    {
+        "name": "Rightmove",
+        "code": "3JDA.F",
+        "country": "UK",
+        "rank": 87
+    },
+    {
+        "name": "Valaris",
+        "code": "VAL",
+        "country": "UK",
+        "rank": 88
+    },
+    {
+        "name": "Noble Corporation",
+        "code": "NE",
+        "country": "UK",
+        "rank": 89
+    },
+    {
+        "name": "Hargreaves Lansdown",
+        "code": "HL.L",
+        "country": "UK",
+        "rank": 90
+    },
+    {
+        "name": "HomeServe",
+        "code": "HSV.L",
+        "country": "UK",
+        "rank": 91
+    },
+    {
+        "name": "Persimmon",
+        "code": "PSN.L",
+        "country": "UK",
+        "rank": 92
+    },
+    {
+        "name": "Barratt Developments",
+        "code": "BDEV.L",
+        "country": "UK",
+        "rank": 93
+    },
+    {
+        "name": "Johnson Matthey",
+        "code": "JMAT.L",
+        "country": "UK",
+        "rank": 94
+    },
+    {
+        "name": "International Game Technology",
+        "code": "IGT",
+        "country": "UK",
+        "rank": 95
+    },
+    {
+        "name": "British Land",
+        "code": "BLDA.F",
+        "country": "UK",
+        "rank": 96
+    },
+    {
+        "name": "Unite Group (Unite Students)",
+        "code": "UTG.L",
+        "country": "UK",
+        "rank": 97
+    },
+    {
+        "name": "Endava",
+        "code": "DAVA",
+        "country": "UK",
+        "rank": 98
+    },
+    {
+        "name": "Diploma plc",
+        "code": "DPLM.L",
+        "country": "UK",
+        "rank": 99
+    },
+    {
+        "name": "Hikma Pharmaceuticals",
+        "code": "H5P.F",
+        "country": "UK",
+        "rank": 100
+    },
+    {
+        "name": "AstraZeneca",
+        "code": "AZN",
+        "country": "UK",
+        "rank": 101
+    },
+    {
+        "name": "Shell",
+        "code": "SHEL",
+        "country": "UK",
+        "rank": 102
+    },
+    {
+        "name": "Linde",
+        "code": "LIN",
+        "country": "UK",
+        "rank": 103
+    },
+    {
+        "name": "Unilever",
+        "code": "UL",
+        "country": "UK",
+        "rank": 104
+    },
+    {
+        "name": "HSBC",
+        "code": "HSBC",
+        "country": "UK",
+        "rank": 105
+    },
+    {
+        "name": "Rio Tinto",
+        "code": "RIO",
+        "country": "UK",
+        "rank": 106
+    },
+    {
+        "name": "BP",
+        "code": "BP",
+        "country": "UK",
+        "rank": 107
+    },
+    {
+        "name": "Diageo",
+        "code": "DEO",
+        "country": "UK",
+        "rank": 108
+    },
+    {
+        "name": "British American Tobacco",
+        "code": "BTI",
+        "country": "UK",
+        "rank": 109
+    },
+    {
+        "name": "GlaxoSmithKline",
+        "code": "GSK",
+        "country": "UK",
+        "rank": 110
+    },
+    {
+        "name": "Aon",
+        "code": "AON",
+        "country": "UK",
+        "rank": 111
+    },
+    {
+        "name": "RELX",
+        "code": "RELX",
+        "country": "UK",
+        "rank": 112
+    },
+    {
+        "name": "Anglo American",
+        "code": "AAL.L",
+        "country": "UK",
+        "rank": 113
+    },
+    {
+        "name": "Reckitt Benckiser",
+        "code": "RKT.L",
+        "country": "UK",
+        "rank": 114
+    },
+    {
+        "name": "London Stock Exchange",
+        "code": "LS4C.F",
+        "country": "UK",
+        "rank": 115
+    },
+    {
+        "name": "National Grid",
+        "code": "NGG",
+        "country": "UK",
+        "rank": 116
+    },
+    {
+        "name": "Compass Group",
+        "code": "CPG.L",
+        "country": "UK",
+        "rank": 117
+    },
+    {
+        "name": "Prudential",
+        "code": "PUK",
+        "country": "UK",
+        "rank": 118
+    },
+    {
+        "name": "Lloyds Banking Group",
+        "code": "LYG",
+        "country": "UK",
+        "rank": 119
+    },
+    {
+        "name": "Haleon",
+        "code": "HLN",
+        "country": "UK",
+        "rank": 120
+    },
+    {
+        "name": "BAE Systems",
+        "code": "BSP.F",
+        "country": "UK",
+        "rank": 121
+    },
+    {
+        "name": "NatWest Group",
+        "code": "NWG",
+        "country": "UK",
+        "rank": 122
+    },
+    {
+        "name": "Barclays",
+        "code": "BCS",
+        "country": "UK",
+        "rank": 123
+    },
+    {
+        "name": "Vodafone",
+        "code": "VOD",
+        "country": "UK",
+        "rank": 124
+    },
+    {
+        "name": "Willis Towers Watson ",
+        "code": "WTW",
+        "country": "UK",
+        "rank": 125
+    },
+    {
+        "name": "Ferguson",
+        "code": "FERG",
+        "country": "UK",
+        "rank": 126
+    },
+    {
+        "name": "Ashtead",
+        "code": "0LC.F",
+        "country": "UK",
+        "rank": 127
+    },
+    {
+        "name": "Coca-Cola European Partners",
+        "code": "CCEP",
+        "country": "UK",
+        "rank": 128
+    },
+    {
+        "name": "Imperial Brands",
+        "code": "ITBA.F",
+        "country": "UK",
+        "rank": 129
+    },
+    {
+        "name": "SSE",
+        "code": "SCT.F",
+        "country": "UK",
+        "rank": 130
+    },
+    {
+        "name": "Standard Chartered",
+        "code": "STAN.L",
+        "country": "UK",
+        "rank": 131
+    },
+    {
+        "name": "CNH Industrial",
+        "code": "CNHI",
+        "country": "UK",
+        "rank": 132
+    },
+    {
+        "name": "Tesco",
+        "code": "TSCDF",
+        "country": "UK",
+        "rank": 133
+    },
+    {
+        "name": "Antofagasta",
+        "code": "ANTO.L",
+        "country": "UK",
+        "rank": 134
+    },
+    {
+        "name": "Legal & General",
+        "code": "LGEN.L",
+        "country": "UK",
+        "rank": 135
+    },
+    {
+        "name": "Royalty Pharma",
+        "code": "RPRX",
+        "country": "UK",
+        "rank": 136
+    },
+    {
+        "name": "3i Group",
+        "code": "III.L",
+        "country": "UK",
+        "rank": 137
+    },
+    {
+        "name": "Rentokil Initial",
+        "code": "RTO.L",
+        "country": "UK",
+        "rank": 138
+    },
+    {
+        "name": "Associated British Foods",
+        "code": "ABF.L",
+        "country": "UK",
+        "rank": 139
+    },
+    {
+        "name": "Aviva",
+        "code": "AV.L",
+        "country": "UK",
+        "rank": 140
+    },
+    {
+        "name": "BT Group",
+        "code": "BT-A.L",
+        "country": "UK",
+        "rank": 141
+    },
+    {
+        "name": "AVEVA",
+        "code": "AVV.L",
+        "country": "UK",
+        "rank": 142
+    },
+    {
+        "name": "Smith & Nephew",
+        "code": "SNN",
+        "country": "UK",
+        "rank": 143
+    },
+    {
+        "name": "Bunzl",
+        "code": "BNZL.L",
+        "country": "UK",
+        "rank": 144
+    },
+    {
+        "name": "SEGRO",
+        "code": "SGRO.L",
+        "country": "UK",
+        "rank": 145
+    },
+    {
+        "name": "Croda International",
+        "code": "CRDA.L",
+        "country": "UK",
+        "rank": 146
+    },
+    {
+        "name": "Informa plc",
+        "code": "INF.L",
+        "country": "UK",
+        "rank": 147
+    },
+    {
+        "name": "WPP",
+        "code": "WPP",
+        "country": "UK",
+        "rank": 148
+    },
+    {
+        "name": "InterContinental Hotels Group",
+        "code": "IHG",
+        "country": "UK",
+        "rank": 149
+    },
+    {
+        "name": "Spirax-Sarco Engineering",
+        "code": "SPX.L",
+        "country": "UK",
+        "rank": 150
+    },
+    {
+        "name": "Rolls-Royce Holdings",
+        "code": "RR.L",
+        "country": "UK",
+        "rank": 151
+    },
+    {
+        "name": "Burberry",
+        "code": "BRBY.L",
+        "country": "UK",
+        "rank": 152
+    },
+    {
+        "name": "Halma",
+        "code": "HLMA.L",
+        "country": "UK",
+        "rank": 153
+    },
+    {
+        "name": "Sage Group",
+        "code": "SGE.L",
+        "country": "UK",
+        "rank": 154
+    },
+    {
+        "name": "Next plc",
+        "code": "NXT.L",
+        "country": "UK",
+        "rank": 155
+    },
+    {
+        "name": "Liberty Global",
+        "code": "LBTYB",
+        "country": "UK",
+        "rank": 156
+    },
+    {
+        "name": "Schroders",
+        "code": "SDR.L",
+        "country": "UK",
+        "rank": 157
+    },
+    {
+        "name": "Mondi",
+        "code": "MNDI.L",
+        "country": "UK",
+        "rank": 158
+    },
+    {
+        "name": "United Utilities",
+        "code": "UU.L",
+        "country": "UK",
+        "rank": 159
+    },
+    {
+        "name": "Pearson",
+        "code": "PSO",
+        "country": "UK",
+        "rank": 160
+    },
+    {
+        "name": "Intertek",
+        "code": "ITRK.L",
+        "country": "UK",
+        "rank": 161
+    },
+    {
+        "name": "JD Sports Fashion",
+        "code": "JD.L",
+        "country": "UK",
+        "rank": 162
+    },
+    {
+        "name": "Admiral Group",
+        "code": "ADM.L",
+        "country": "UK",
+        "rank": 163
+    },
+    {
+        "name": "Pentair",
+        "code": "PNR",
+        "country": "UK",
+        "rank": 164
+    },
+    {
+        "name": "Phoenix Group",
+        "code": "PHNX.L",
+        "country": "UK",
+        "rank": 165
+    },
+    {
+        "name": "Capri Holdings",
+        "code": "CPRI",
+        "country": "UK",
+        "rank": 166
+    },
+    {
+        "name": "St. James's Place",
+        "code": "STJ.L",
+        "country": "UK",
+        "rank": 167
+    },
+    {
+        "name": "Centrica",
+        "code": "CNA.L",
+        "country": "UK",
+        "rank": 168
+    },
+    {
+        "name": "Melrose Industries",
+        "code": "MRO.L",
+        "country": "UK",
+        "rank": 169
+    },
+    {
+        "name": "nVent Electric",
+        "code": "NVT",
+        "country": "UK",
+        "rank": 170
+    },
+    {
+        "name": "Whitbread",
+        "code": "WTB.L",
+        "country": "UK",
+        "rank": 171
+    },
+    {
+        "name": "Ocado",
+        "code": "OCDO.L",
+        "country": "UK",
+        "rank": 172
+    },
+    {
+        "name": "Sainsbury's",
+        "code": "SBRY.L",
+        "country": "UK",
+        "rank": 173
+    },
+    {
+        "name": "Investec",
+        "code": "INVR.L",
+        "country": "UK",
+        "rank": 174
+    },
+    {
+        "name": "Roivant Sciences",
+        "code": "ROIV",
+        "country": "UK",
+        "rank": 175
+    },
+    {
+        "name": "Convatec Group",
+        "code": "CTEC.L",
+        "country": "UK",
+        "rank": 176
+    },
+    {
+        "name": "Clarivate",
+        "code": "CLVT",
+        "country": "UK",
+        "rank": 177
+    },
+    {
+        "name": "Land Securities Group",
+        "code": "LAND.L",
+        "country": "UK",
+        "rank": 178
+    },
+    {
+        "name": "Kingfisher",
+        "code": "KFI1.F",
+        "country": "UK",
+        "rank": 179
+    },
+    {
+        "name": "Beazley",
+        "code": "BEZ.L",
+        "country": "UK",
+        "rank": 180
+    },
+    {
+        "name": "TechnipFMC",
+        "code": "FTI",
+        "country": "UK",
+        "rank": 181
+    },
+    {
+        "name": "DS Smith",
+        "code": "SMDS.L",
+        "country": "UK",
+        "rank": 182
+    },
+    {
+        "name": "M&G plc",
+        "code": "MNG.L",
+        "country": "UK",
+        "rank": 183
+    },
+    {
+        "name": "Endeavour Mining",
+        "code": "EDV.TO",
+        "country": "UK",
+        "rank": 184
+    },
+    {
+        "name": "The Weir Group",
+        "code": "WEIR.L",
+        "country": "UK",
+        "rank": 185
+    },
+    {
+        "name": "Airtel Africa",
+        "code": "AAF.L",
+        "country": "UK",
+        "rank": 186
+    },
+    {
+        "name": "Rightmove",
+        "code": "3JDA.F",
+        "country": "UK",
+        "rank": 187
+    },
+    {
+        "name": "Valaris",
+        "code": "VAL",
+        "country": "UK",
+        "rank": 188
+    },
+    {
+        "name": "Noble Corporation",
+        "code": "NE",
+        "country": "UK",
+        "rank": 189
+    },
+    {
+        "name": "Hargreaves Lansdown",
+        "code": "HL.L",
+        "country": "UK",
+        "rank": 190
+    },
+    {
+        "name": "HomeServe",
+        "code": "HSV.L",
+        "country": "UK",
+        "rank": 191
+    },
+    {
+        "name": "Persimmon",
+        "code": "PSN.L",
+        "country": "UK",
+        "rank": 192
+    },
+    {
+        "name": "Barratt Developments",
+        "code": "BDEV.L",
+        "country": "UK",
+        "rank": 193
+    },
+    {
+        "name": "Johnson Matthey",
+        "code": "JMAT.L",
+        "country": "UK",
+        "rank": 194
+    },
+    {
+        "name": "International Game Technology",
+        "code": "IGT",
+        "country": "UK",
+        "rank": 195
+    },
+    {
+        "name": "British Land",
+        "code": "BLDA.F",
+        "country": "UK",
+        "rank": 196
+    },
+    {
+        "name": "Unite Group (Unite Students)",
+        "code": "UTG.L",
+        "country": "UK",
+        "rank": 197
+    },
+    {
+        "name": "Endava",
+        "code": "DAVA",
+        "country": "UK",
+        "rank": 198
+    },
+    {
+        "name": "Diploma plc",
+        "code": "DPLM.L",
+        "country": "UK",
+        "rank": 199
+    },
+    {
+        "name": "Hikma Pharmaceuticals",
+        "code": "H5P.F",
+        "country": "UK",
+        "rank": 200
+    },
+    {
+        "name": "AstraZeneca",
+        "code": "AZN",
+        "country": "UK",
+        "rank": 201
+    },
+    {
+        "name": "Shell",
+        "code": "SHEL",
+        "country": "UK",
+        "rank": 202
+    },
+    {
+        "name": "Linde",
+        "code": "LIN",
+        "country": "UK",
+        "rank": 203
+    },
+    {
+        "name": "Unilever",
+        "code": "UL",
+        "country": "UK",
+        "rank": 204
+    },
+    {
+        "name": "HSBC",
+        "code": "HSBC",
+        "country": "UK",
+        "rank": 205
+    },
+    {
+        "name": "Rio Tinto",
+        "code": "RIO",
+        "country": "UK",
+        "rank": 206
+    },
+    {
+        "name": "BP",
+        "code": "BP",
+        "country": "UK",
+        "rank": 207
+    },
+    {
+        "name": "Diageo",
+        "code": "DEO",
+        "country": "UK",
+        "rank": 208
+    },
+    {
+        "name": "British American Tobacco",
+        "code": "BTI",
+        "country": "UK",
+        "rank": 209
+    },
+    {
+        "name": "GlaxoSmithKline",
+        "code": "GSK",
+        "country": "UK",
+        "rank": 210
+    },
+    {
+        "name": "Aon",
+        "code": "AON",
+        "country": "UK",
+        "rank": 211
+    },
+    {
+        "name": "RELX",
+        "code": "RELX",
+        "country": "UK",
+        "rank": 212
+    },
+    {
+        "name": "Anglo American",
+        "code": "AAL.L",
+        "country": "UK",
+        "rank": 213
+    },
+    {
+        "name": "Reckitt Benckiser",
+        "code": "RKT.L",
+        "country": "UK",
+        "rank": 214
+    },
+    {
+        "name": "London Stock Exchange",
+        "code": "LS4C.F",
+        "country": "UK",
+        "rank": 215
+    },
+    {
+        "name": "National Grid",
+        "code": "NGG",
+        "country": "UK",
+        "rank": 216
+    },
+    {
+        "name": "Compass Group",
+        "code": "CPG.L",
+        "country": "UK",
+        "rank": 217
+    },
+    {
+        "name": "Prudential",
+        "code": "PUK",
+        "country": "UK",
+        "rank": 218
+    },
+    {
+        "name": "Lloyds Banking Group",
+        "code": "LYG",
+        "country": "UK",
+        "rank": 219
+    },
+    {
+        "name": "Haleon",
+        "code": "HLN",
+        "country": "UK",
+        "rank": 220
+    },
+    {
+        "name": "BAE Systems",
+        "code": "BSP.F",
+        "country": "UK",
+        "rank": 221
+    },
+    {
+        "name": "NatWest Group",
+        "code": "NWG",
+        "country": "UK",
+        "rank": 222
+    },
+    {
+        "name": "Barclays",
+        "code": "BCS",
+        "country": "UK",
+        "rank": 223
+    },
+    {
+        "name": "Vodafone",
+        "code": "VOD",
+        "country": "UK",
+        "rank": 224
+    },
+    {
+        "name": "Willis Towers Watson ",
+        "code": "WTW",
+        "country": "UK",
+        "rank": 225
+    },
+    {
+        "name": "Ferguson",
+        "code": "FERG",
+        "country": "UK",
+        "rank": 226
+    },
+    {
+        "name": "Ashtead",
+        "code": "0LC.F",
+        "country": "UK",
+        "rank": 227
+    },
+    {
+        "name": "Coca-Cola European Partners",
+        "code": "CCEP",
+        "country": "UK",
+        "rank": 228
+    },
+    {
+        "name": "Imperial Brands",
+        "code": "ITBA.F",
+        "country": "UK",
+        "rank": 229
+    },
+    {
+        "name": "SSE",
+        "code": "SCT.F",
+        "country": "UK",
+        "rank": 230
+    },
+    {
+        "name": "Standard Chartered",
+        "code": "STAN.L",
+        "country": "UK",
+        "rank": 231
+    },
+    {
+        "name": "CNH Industrial",
+        "code": "CNHI",
+        "country": "UK",
+        "rank": 232
+    },
+    {
+        "name": "Tesco",
+        "code": "TSCDF",
+        "country": "UK",
+        "rank": 233
+    },
+    {
+        "name": "Antofagasta",
+        "code": "ANTO.L",
+        "country": "UK",
+        "rank": 234
+    },
+    {
+        "name": "Legal & General",
+        "code": "LGEN.L",
+        "country": "UK",
+        "rank": 235
+    },
+    {
+        "name": "Royalty Pharma",
+        "code": "RPRX",
+        "country": "UK",
+        "rank": 236
+    },
+    {
+        "name": "3i Group",
+        "code": "III.L",
+        "country": "UK",
+        "rank": 237
+    },
+    {
+        "name": "Rentokil Initial",
+        "code": "RTO.L",
+        "country": "UK",
+        "rank": 238
+    },
+    {
+        "name": "Associated British Foods",
+        "code": "ABF.L",
+        "country": "UK",
+        "rank": 239
+    },
+    {
+        "name": "Aviva",
+        "code": "AV.L",
+        "country": "UK",
+        "rank": 240
+    },
+    {
+        "name": "BT Group",
+        "code": "BT-A.L",
+        "country": "UK",
+        "rank": 241
+    },
+    {
+        "name": "AVEVA",
+        "code": "AVV.L",
+        "country": "UK",
+        "rank": 242
+    },
+    {
+        "name": "Smith & Nephew",
+        "code": "SNN",
+        "country": "UK",
+        "rank": 243
+    },
+    {
+        "name": "Bunzl",
+        "code": "BNZL.L",
+        "country": "UK",
+        "rank": 244
+    },
+    {
+        "name": "SEGRO",
+        "code": "SGRO.L",
+        "country": "UK",
+        "rank": 245
+    },
+    {
+        "name": "Croda International",
+        "code": "CRDA.L",
+        "country": "UK",
+        "rank": 246
+    },
+    {
+        "name": "Informa plc",
+        "code": "INF.L",
+        "country": "UK",
+        "rank": 247
+    },
+    {
+        "name": "WPP",
+        "code": "WPP",
+        "country": "UK",
+        "rank": 248
+    },
+    {
+        "name": "InterContinental Hotels Group",
+        "code": "IHG",
+        "country": "UK",
+        "rank": 249
+    },
+    {
+        "name": "Spirax-Sarco Engineering",
+        "code": "SPX.L",
+        "country": "UK",
+        "rank": 250
+    },
+    {
+        "name": "Rolls-Royce Holdings",
+        "code": "RR.L",
+        "country": "UK",
+        "rank": 251
+    },
+    {
+        "name": "Burberry",
+        "code": "BRBY.L",
+        "country": "UK",
+        "rank": 252
+    },
+    {
+        "name": "Halma",
+        "code": "HLMA.L",
+        "country": "UK",
+        "rank": 253
+    },
+    {
+        "name": "Sage Group",
+        "code": "SGE.L",
+        "country": "UK",
+        "rank": 254
+    },
+    {
+        "name": "Next plc",
+        "code": "NXT.L",
+        "country": "UK",
+        "rank": 255
+    },
+    {
+        "name": "Liberty Global",
+        "code": "LBTYB",
+        "country": "UK",
+        "rank": 256
+    },
+    {
+        "name": "Schroders",
+        "code": "SDR.L",
+        "country": "UK",
+        "rank": 257
+    },
+    {
+        "name": "Mondi",
+        "code": "MNDI.L",
+        "country": "UK",
+        "rank": 258
+    },
+    {
+        "name": "United Utilities",
+        "code": "UU.L",
+        "country": "UK",
+        "rank": 259
+    },
+    {
+        "name": "Pearson",
+        "code": "PSO",
+        "country": "UK",
+        "rank": 260
+    },
+    {
+        "name": "Intertek",
+        "code": "ITRK.L",
+        "country": "UK",
+        "rank": 261
+    },
+    {
+        "name": "JD Sports Fashion",
+        "code": "JD.L",
+        "country": "UK",
+        "rank": 262
+    },
+    {
+        "name": "Admiral Group",
+        "code": "ADM.L",
+        "country": "UK",
+        "rank": 263
+    },
+    {
+        "name": "Pentair",
+        "code": "PNR",
+        "country": "UK",
+        "rank": 264
+    },
+    {
+        "name": "Phoenix Group",
+        "code": "PHNX.L",
+        "country": "UK",
+        "rank": 265
+    },
+    {
+        "name": "Capri Holdings",
+        "code": "CPRI",
+        "country": "UK",
+        "rank": 266
+    },
+    {
+        "name": "St. James's Place",
+        "code": "STJ.L",
+        "country": "UK",
+        "rank": 267
+    },
+    {
+        "name": "Centrica",
+        "code": "CNA.L",
+        "country": "UK",
+        "rank": 268
+    },
+    {
+        "name": "Melrose Industries",
+        "code": "MRO.L",
+        "country": "UK",
+        "rank": 269
+    },
+    {
+        "name": "nVent Electric",
+        "code": "NVT",
+        "country": "UK",
+        "rank": 270
+    },
+    {
+        "name": "Whitbread",
+        "code": "WTB.L",
+        "country": "UK",
+        "rank": 271
+    },
+    {
+        "name": "Ocado",
+        "code": "OCDO.L",
+        "country": "UK",
+        "rank": 272
+    },
+    {
+        "name": "Sainsbury's",
+        "code": "SBRY.L",
+        "country": "UK",
+        "rank": 273
+    },
+    {
+        "name": "Investec",
+        "code": "INVR.L",
+        "country": "UK",
+        "rank": 274
+    },
+    {
+        "name": "Roivant Sciences",
+        "code": "ROIV",
+        "country": "UK",
+        "rank": 275
+    },
+    {
+        "name": "Convatec Group",
+        "code": "CTEC.L",
+        "country": "UK",
+        "rank": 276
+    },
+    {
+        "name": "Clarivate",
+        "code": "CLVT",
+        "country": "UK",
+        "rank": 277
+    },
+    {
+        "name": "Land Securities Group",
+        "code": "LAND.L",
+        "country": "UK",
+        "rank": 278
+    },
+    {
+        "name": "Kingfisher",
+        "code": "KFI1.F",
+        "country": "UK",
+        "rank": 279
+    },
+    {
+        "name": "Beazley",
+        "code": "BEZ.L",
+        "country": "UK",
+        "rank": 280
+    },
+    {
+        "name": "TechnipFMC",
+        "code": "FTI",
+        "country": "UK",
+        "rank": 281
+    },
+    {
+        "name": "DS Smith",
+        "code": "SMDS.L",
+        "country": "UK",
+        "rank": 282
+    },
+    {
+        "name": "M&G plc",
+        "code": "MNG.L",
+        "country": "UK",
+        "rank": 283
+    },
+    {
+        "name": "Endeavour Mining",
+        "code": "EDV.TO",
+        "country": "UK",
+        "rank": 284
+    },
+    {
+        "name": "The Weir Group",
+        "code": "WEIR.L",
+        "country": "UK",
+        "rank": 285
+    },
+    {
+        "name": "Airtel Africa",
+        "code": "AAF.L",
+        "country": "UK",
+        "rank": 286
+    },
+    {
+        "name": "Rightmove",
+        "code": "3JDA.F",
+        "country": "UK",
+        "rank": 287
+    },
+    {
+        "name": "Valaris",
+        "code": "VAL",
+        "country": "UK",
+        "rank": 288
+    },
+    {
+        "name": "Noble Corporation",
+        "code": "NE",
+        "country": "UK",
+        "rank": 289
+    },
+    {
+        "name": "Hargreaves Lansdown",
+        "code": "HL.L",
+        "country": "UK",
+        "rank": 290
+    },
+    {
+        "name": "HomeServe",
+        "code": "HSV.L",
+        "country": "UK",
+        "rank": 291
+    },
+    {
+        "name": "Persimmon",
+        "code": "PSN.L",
+        "country": "UK",
+        "rank": 292
+    },
+    {
+        "name": "Barratt Developments",
+        "code": "BDEV.L",
+        "country": "UK",
+        "rank": 293
+    },
+    {
+        "name": "Johnson Matthey",
+        "code": "JMAT.L",
+        "country": "UK",
+        "rank": 294
+    },
+    {
+        "name": "International Game Technology",
+        "code": "IGT",
+        "country": "UK",
+        "rank": 295
+    },
+    {
+        "name": "British Land",
+        "code": "BLDA.F",
+        "country": "UK",
+        "rank": 296
+    },
+    {
+        "name": "Unite Group (Unite Students)",
+        "code": "UTG.L",
+        "country": "UK",
+        "rank": 297
+    },
+    {
+        "name": "Endava",
+        "code": "DAVA",
+        "country": "UK",
+        "rank": 298
+    },
+    {
+        "name": "Diploma plc",
+        "code": "DPLM.L",
+        "country": "UK",
+        "rank": 299
+    },
+    {
+        "name": "Hikma Pharmaceuticals",
+        "code": "H5P.F",
+        "country": "UK",
+        "rank": 300
+    },
+    {
+        "name": "AstraZeneca",
+        "code": "AZN",
+        "country": "UK",
+        "rank": 301
+    },
+    {
+        "name": "Shell",
+        "code": "SHEL",
+        "country": "UK",
+        "rank": 302
+    },
+    {
+        "name": "Linde",
+        "code": "LIN",
+        "country": "UK",
+        "rank": 303
+    },
+    {
+        "name": "Unilever",
+        "code": "UL",
+        "country": "UK",
+        "rank": 304
+    },
+    {
+        "name": "HSBC",
+        "code": "HSBC",
+        "country": "UK",
+        "rank": 305
+    },
+    {
+        "name": "Rio Tinto",
+        "code": "RIO",
+        "country": "UK",
+        "rank": 306
+    },
+    {
+        "name": "BP",
+        "code": "BP",
+        "country": "UK",
+        "rank": 307
+    },
+    {
+        "name": "Diageo",
+        "code": "DEO",
+        "country": "UK",
+        "rank": 308
+    },
+    {
+        "name": "British American Tobacco",
+        "code": "BTI",
+        "country": "UK",
+        "rank": 309
+    },
+    {
+        "name": "GlaxoSmithKline",
+        "code": "GSK",
+        "country": "UK",
+        "rank": 310
+    },
+    {
+        "name": "Aon",
+        "code": "AON",
+        "country": "UK",
+        "rank": 311
+    },
+    {
+        "name": "RELX",
+        "code": "RELX",
+        "country": "UK",
+        "rank": 312
+    },
+    {
+        "name": "Anglo American",
+        "code": "AAL.L",
+        "country": "UK",
+        "rank": 313
+    },
+    {
+        "name": "Reckitt Benckiser",
+        "code": "RKT.L",
+        "country": "UK",
+        "rank": 314
+    },
+    {
+        "name": "London Stock Exchange",
+        "code": "LS4C.F",
+        "country": "UK",
+        "rank": 315
+    },
+    {
+        "name": "National Grid",
+        "code": "NGG",
+        "country": "UK",
+        "rank": 316
+    },
+    {
+        "name": "Compass Group",
+        "code": "CPG.L",
+        "country": "UK",
+        "rank": 317
+    },
+    {
+        "name": "Prudential",
+        "code": "PUK",
+        "country": "UK",
+        "rank": 318
+    },
+    {
+        "name": "Lloyds Banking Group",
+        "code": "LYG",
+        "country": "UK",
+        "rank": 319
+    },
+    {
+        "name": "Haleon",
+        "code": "HLN",
+        "country": "UK",
+        "rank": 320
+    },
+    {
+        "name": "BAE Systems",
+        "code": "BSP.F",
+        "country": "UK",
+        "rank": 321
+    },
+    {
+        "name": "NatWest Group",
+        "code": "NWG",
+        "country": "UK",
+        "rank": 322
+    },
+    {
+        "name": "Barclays",
+        "code": "BCS",
+        "country": "UK",
+        "rank": 323
+    },
+    {
+        "name": "Vodafone",
+        "code": "VOD",
+        "country": "UK",
+        "rank": 324
+    },
+    {
+        "name": "Willis Towers Watson ",
+        "code": "WTW",
+        "country": "UK",
+        "rank": 325
+    },
+    {
+        "name": "Ferguson",
+        "code": "FERG",
+        "country": "UK",
+        "rank": 326
+    },
+    {
+        "name": "Ashtead",
+        "code": "0LC.F",
+        "country": "UK",
+        "rank": 327
+    },
+    {
+        "name": "Coca-Cola European Partners",
+        "code": "CCEP",
+        "country": "UK",
+        "rank": 328
+    },
+    {
+        "name": "Imperial Brands",
+        "code": "ITBA.F",
+        "country": "UK",
+        "rank": 329
+    },
+    {
+        "name": "SSE",
+        "code": "SCT.F",
+        "country": "UK",
+        "rank": 330
+    },
+    {
+        "name": "Standard Chartered",
+        "code": "STAN.L",
+        "country": "UK",
+        "rank": 331
+    },
+    {
+        "name": "CNH Industrial",
+        "code": "CNHI",
+        "country": "UK",
+        "rank": 332
+    },
+    {
+        "name": "Tesco",
+        "code": "TSCDF",
+        "country": "UK",
+        "rank": 333
+    },
+    {
+        "name": "Antofagasta",
+        "code": "ANTO.L",
+        "country": "UK",
+        "rank": 334
+    },
+    {
+        "name": "Legal & General",
+        "code": "LGEN.L",
+        "country": "UK",
+        "rank": 335
+    },
+    {
+        "name": "Royalty Pharma",
+        "code": "RPRX",
+        "country": "UK",
+        "rank": 336
+    },
+    {
+        "name": "3i Group",
+        "code": "III.L",
+        "country": "UK",
+        "rank": 337
+    },
+    {
+        "name": "Rentokil Initial",
+        "code": "RTO.L",
+        "country": "UK",
+        "rank": 338
+    },
+    {
+        "name": "Associated British Foods",
+        "code": "ABF.L",
+        "country": "UK",
+        "rank": 339
+    },
+    {
+        "name": "Aviva",
+        "code": "AV.L",
+        "country": "UK",
+        "rank": 340
+    },
+    {
+        "name": "BT Group",
+        "code": "BT-A.L",
+        "country": "UK",
+        "rank": 341
+    },
+    {
+        "name": "AVEVA",
+        "code": "AVV.L",
+        "country": "UK",
+        "rank": 342
+    },
+    {
+        "name": "Smith & Nephew",
+        "code": "SNN",
+        "country": "UK",
+        "rank": 343
+    },
+    {
+        "name": "Bunzl",
+        "code": "BNZL.L",
+        "country": "UK",
+        "rank": 344
+    },
+    {
+        "name": "SEGRO",
+        "code": "SGRO.L",
+        "country": "UK",
+        "rank": 345
+    },
+    {
+        "name": "Croda International",
+        "code": "CRDA.L",
+        "country": "UK",
+        "rank": 346
+    },
+    {
+        "name": "Informa plc",
+        "code": "INF.L",
+        "country": "UK",
+        "rank": 347
+    },
+    {
+        "name": "WPP",
+        "code": "WPP",
+        "country": "UK",
+        "rank": 348
+    },
+    {
+        "name": "InterContinental Hotels Group",
+        "code": "IHG",
+        "country": "UK",
+        "rank": 349
+    },
+    {
+        "name": "Spirax-Sarco Engineering",
+        "code": "SPX.L",
+        "country": "UK",
+        "rank": 350
+    },
+    {
+        "name": "Rolls-Royce Holdings",
+        "code": "RR.L",
+        "country": "UK",
+        "rank": 351
+    },
+    {
+        "name": "Burberry",
+        "code": "BRBY.L",
+        "country": "UK",
+        "rank": 352
+    },
+    {
+        "name": "Halma",
+        "code": "HLMA.L",
+        "country": "UK",
+        "rank": 353
+    },
+    {
+        "name": "Sage Group",
+        "code": "SGE.L",
+        "country": "UK",
+        "rank": 354
+    },
+    {
+        "name": "Next plc",
+        "code": "NXT.L",
+        "country": "UK",
+        "rank": 355
+    },
+    {
+        "name": "Liberty Global",
+        "code": "LBTYB",
+        "country": "UK",
+        "rank": 356
+    },
+    {
+        "name": "Schroders",
+        "code": "SDR.L",
+        "country": "UK",
+        "rank": 357
+    },
+    {
+        "name": "Mondi",
+        "code": "MNDI.L",
+        "country": "UK",
+        "rank": 358
+    },
+    {
+        "name": "United Utilities",
+        "code": "UU.L",
+        "country": "UK",
+        "rank": 359
+    },
+    {
+        "name": "Pearson",
+        "code": "PSO",
+        "country": "UK",
+        "rank": 360
+    },
+    {
+        "name": "Intertek",
+        "code": "ITRK.L",
+        "country": "UK",
+        "rank": 361
+    },
+    {
+        "name": "JD Sports Fashion",
+        "code": "JD.L",
+        "country": "UK",
+        "rank": 362
+    },
+    {
+        "name": "Admiral Group",
+        "code": "ADM.L",
+        "country": "UK",
+        "rank": 363
+    },
+    {
+        "name": "Pentair",
+        "code": "PNR",
+        "country": "UK",
+        "rank": 364
+    },
+    {
+        "name": "Phoenix Group",
+        "code": "PHNX.L",
+        "country": "UK",
+        "rank": 365
+    },
+    {
+        "name": "Capri Holdings",
+        "code": "CPRI",
+        "country": "UK",
+        "rank": 366
+    },
+    {
+        "name": "St. James's Place",
+        "code": "STJ.L",
+        "country": "UK",
+        "rank": 367
+    },
+    {
+        "name": "Centrica",
+        "code": "CNA.L",
+        "country": "UK",
+        "rank": 368
+    },
+    {
+        "name": "Melrose Industries",
+        "code": "MRO.L",
+        "country": "UK",
+        "rank": 369
+    },
+    {
+        "name": "nVent Electric",
+        "code": "NVT",
+        "country": "UK",
+        "rank": 370
+    },
+    {
+        "name": "Whitbread",
+        "code": "WTB.L",
+        "country": "UK",
+        "rank": 371
+    },
+    {
+        "name": "Ocado",
+        "code": "OCDO.L",
+        "country": "UK",
+        "rank": 372
+    },
+    {
+        "name": "Sainsbury's",
+        "code": "SBRY.L",
+        "country": "UK",
+        "rank": 373
+    },
+    {
+        "name": "Investec",
+        "code": "INVR.L",
+        "country": "UK",
+        "rank": 374
+    },
+    {
+        "name": "Roivant Sciences",
+        "code": "ROIV",
+        "country": "UK",
+        "rank": 375
+    },
+    {
+        "name": "Convatec Group",
+        "code": "CTEC.L",
+        "country": "UK",
+        "rank": 376
+    },
+    {
+        "name": "Clarivate",
+        "code": "CLVT",
+        "country": "UK",
+        "rank": 377
+    },
+    {
+        "name": "Land Securities Group",
+        "code": "LAND.L",
+        "country": "UK",
+        "rank": 378
+    },
+    {
+        "name": "Kingfisher",
+        "code": "KFI1.F",
+        "country": "UK",
+        "rank": 379
+    },
+    {
+        "name": "Beazley",
+        "code": "BEZ.L",
+        "country": "UK",
+        "rank": 380
+    },
+    {
+        "name": "TechnipFMC",
+        "code": "FTI",
+        "country": "UK",
+        "rank": 381
+    },
+    {
+        "name": "DS Smith",
+        "code": "SMDS.L",
+        "country": "UK",
+        "rank": 382
+    },
+    {
+        "name": "M&G plc",
+        "code": "MNG.L",
+        "country": "UK",
+        "rank": 383
+    },
+    {
+        "name": "Endeavour Mining",
+        "code": "EDV.TO",
+        "country": "UK",
+        "rank": 384
+    },
+    {
+        "name": "The Weir Group",
+        "code": "WEIR.L",
+        "country": "UK",
+        "rank": 385
+    },
+    {
+        "name": "Airtel Africa",
+        "code": "AAF.L",
+        "country": "UK",
+        "rank": 386
+    },
+    {
+        "name": "Rightmove",
+        "code": "3JDA.F",
+        "country": "UK",
+        "rank": 387
+    },
+    {
+        "name": "Valaris",
+        "code": "VAL",
+        "country": "UK",
+        "rank": 388
+    },
+    {
+        "name": "Noble Corporation",
+        "code": "NE",
+        "country": "UK",
+        "rank": 389
+    },
+    {
+        "name": "Hargreaves Lansdown",
+        "code": "HL.L",
+        "country": "UK",
+        "rank": 390
+    },
+    {
+        "name": "HomeServe",
+        "code": "HSV.L",
+        "country": "UK",
+        "rank": 391
+    },
+    {
+        "name": "Persimmon",
+        "code": "PSN.L",
+        "country": "UK",
+        "rank": 392
+    },
+    {
+        "name": "Barratt Developments",
+        "code": "BDEV.L",
+        "country": "UK",
+        "rank": 393
+    },
+    {
+        "name": "Johnson Matthey",
+        "code": "JMAT.L",
+        "country": "UK",
+        "rank": 394
+    },
+    {
+        "name": "International Game Technology",
+        "code": "IGT",
+        "country": "UK",
+        "rank": 395
+    },
+    {
+        "name": "British Land",
+        "code": "BLDA.F",
+        "country": "UK",
+        "rank": 396
+    },
+    {
+        "name": "Unite Group (Unite Students)",
+        "code": "UTG.L",
+        "country": "UK",
+        "rank": 397
+    },
+    {
+        "name": "Endava",
+        "code": "DAVA",
+        "country": "UK",
+        "rank": 398
+    },
+    {
+        "name": "Diploma plc",
+        "code": "DPLM.L",
+        "country": "UK",
+        "rank": 399
+    },
+    {
+        "name": "Hikma Pharmaceuticals",
+        "code": "H5P.F",
+        "country": "UK",
+        "rank": 400
+    },
+    {
+        "name": "AstraZeneca",
+        "code": "AZN",
+        "country": "UK",
+        "rank": 401
+    },
+    {
+        "name": "Shell",
+        "code": "SHEL",
+        "country": "UK",
+        "rank": 402
+    },
+    {
+        "name": "Linde",
+        "code": "LIN",
+        "country": "UK",
+        "rank": 403
+    },
+    {
+        "name": "Unilever",
+        "code": "UL",
+        "country": "UK",
+        "rank": 404
+    },
+    {
+        "name": "HSBC",
+        "code": "HSBC",
+        "country": "UK",
+        "rank": 405
+    },
+    {
+        "name": "Rio Tinto",
+        "code": "RIO",
+        "country": "UK",
+        "rank": 406
+    },
+    {
+        "name": "BP",
+        "code": "BP",
+        "country": "UK",
+        "rank": 407
+    },
+    {
+        "name": "Diageo",
+        "code": "DEO",
+        "country": "UK",
+        "rank": 408
+    },
+    {
+        "name": "British American Tobacco",
+        "code": "BTI",
+        "country": "UK",
+        "rank": 409
+    },
+    {
+        "name": "GlaxoSmithKline",
+        "code": "GSK",
+        "country": "UK",
+        "rank": 410
+    },
+    {
+        "name": "Aon",
+        "code": "AON",
+        "country": "UK",
+        "rank": 411
+    },
+    {
+        "name": "RELX",
+        "code": "RELX",
+        "country": "UK",
+        "rank": 412
+    },
+    {
+        "name": "Anglo American",
+        "code": "AAL.L",
+        "country": "UK",
+        "rank": 413
+    },
+    {
+        "name": "Reckitt Benckiser",
+        "code": "RKT.L",
+        "country": "UK",
+        "rank": 414
+    },
+    {
+        "name": "London Stock Exchange",
+        "code": "LS4C.F",
+        "country": "UK",
+        "rank": 415
+    },
+    {
+        "name": "National Grid",
+        "code": "NGG",
+        "country": "UK",
+        "rank": 416
+    },
+    {
+        "name": "Compass Group",
+        "code": "CPG.L",
+        "country": "UK",
+        "rank": 417
+    },
+    {
+        "name": "Prudential",
+        "code": "PUK",
+        "country": "UK",
+        "rank": 418
+    },
+    {
+        "name": "Lloyds Banking Group",
+        "code": "LYG",
+        "country": "UK",
+        "rank": 419
+    },
+    {
+        "name": "Haleon",
+        "code": "HLN",
+        "country": "UK",
+        "rank": 420
+    },
+    {
+        "name": "BAE Systems",
+        "code": "BSP.F",
+        "country": "UK",
+        "rank": 421
+    },
+    {
+        "name": "NatWest Group",
+        "code": "NWG",
+        "country": "UK",
+        "rank": 422
+    },
+    {
+        "name": "Barclays",
+        "code": "BCS",
+        "country": "UK",
+        "rank": 423
+    },
+    {
+        "name": "Vodafone",
+        "code": "VOD",
+        "country": "UK",
+        "rank": 424
+    },
+    {
+        "name": "Willis Towers Watson ",
+        "code": "WTW",
+        "country": "UK",
+        "rank": 425
+    },
+    {
+        "name": "Ferguson",
+        "code": "FERG",
+        "country": "UK",
+        "rank": 426
+    },
+    {
+        "name": "Ashtead",
+        "code": "0LC.F",
+        "country": "UK",
+        "rank": 427
+    },
+    {
+        "name": "Coca-Cola European Partners",
+        "code": "CCEP",
+        "country": "UK",
+        "rank": 428
+    },
+    {
+        "name": "Imperial Brands",
+        "code": "ITBA.F",
+        "country": "UK",
+        "rank": 429
+    },
+    {
+        "name": "SSE",
+        "code": "SCT.F",
+        "country": "UK",
+        "rank": 430
+    },
+    {
+        "name": "Standard Chartered",
+        "code": "STAN.L",
+        "country": "UK",
+        "rank": 431
+    },
+    {
+        "name": "CNH Industrial",
+        "code": "CNHI",
+        "country": "UK",
+        "rank": 432
+    },
+    {
+        "name": "Tesco",
+        "code": "TSCDF",
+        "country": "UK",
+        "rank": 433
+    },
+    {
+        "name": "Antofagasta",
+        "code": "ANTO.L",
+        "country": "UK",
+        "rank": 434
+    },
+    {
+        "name": "Legal & General",
+        "code": "LGEN.L",
+        "country": "UK",
+        "rank": 435
+    },
+    {
+        "name": "Royalty Pharma",
+        "code": "RPRX",
+        "country": "UK",
+        "rank": 436
+    },
+    {
+        "name": "3i Group",
+        "code": "III.L",
+        "country": "UK",
+        "rank": 437
+    },
+    {
+        "name": "Rentokil Initial",
+        "code": "RTO.L",
+        "country": "UK",
+        "rank": 438
+    },
+    {
+        "name": "Associated British Foods",
+        "code": "ABF.L",
+        "country": "UK",
+        "rank": 439
+    },
+    {
+        "name": "Aviva",
+        "code": "AV.L",
+        "country": "UK",
+        "rank": 440
+    },
+    {
+        "name": "BT Group",
+        "code": "BT-A.L",
+        "country": "UK",
+        "rank": 441
+    },
+    {
+        "name": "AVEVA",
+        "code": "AVV.L",
+        "country": "UK",
+        "rank": 442
+    },
+    {
+        "name": "Smith & Nephew",
+        "code": "SNN",
+        "country": "UK",
+        "rank": 443
+    },
+    {
+        "name": "Bunzl",
+        "code": "BNZL.L",
+        "country": "UK",
+        "rank": 444
+    },
+    {
+        "name": "SEGRO",
+        "code": "SGRO.L",
+        "country": "UK",
+        "rank": 445
+    },
+    {
+        "name": "Croda International",
+        "code": "CRDA.L",
+        "country": "UK",
+        "rank": 446
+    },
+    {
+        "name": "Informa plc",
+        "code": "INF.L",
+        "country": "UK",
+        "rank": 447
+    },
+    {
+        "name": "WPP",
+        "code": "WPP",
+        "country": "UK",
+        "rank": 448
+    },
+    {
+        "name": "InterContinental Hotels Group",
+        "code": "IHG",
+        "country": "UK",
+        "rank": 449
+    },
+    {
+        "name": "Spirax-Sarco Engineering",
+        "code": "SPX.L",
+        "country": "UK",
+        "rank": 450
+    },
+    {
+        "name": "Rolls-Royce Holdings",
+        "code": "RR.L",
+        "country": "UK",
+        "rank": 451
+    },
+    {
+        "name": "Burberry",
+        "code": "BRBY.L",
+        "country": "UK",
+        "rank": 452
+    },
+    {
+        "name": "Halma",
+        "code": "HLMA.L",
+        "country": "UK",
+        "rank": 453
+    },
+    {
+        "name": "Sage Group",
+        "code": "SGE.L",
+        "country": "UK",
+        "rank": 454
+    },
+    {
+        "name": "Next plc",
+        "code": "NXT.L",
+        "country": "UK",
+        "rank": 455
+    },
+    {
+        "name": "Liberty Global",
+        "code": "LBTYB",
+        "country": "UK",
+        "rank": 456
+    },
+    {
+        "name": "Schroders",
+        "code": "SDR.L",
+        "country": "UK",
+        "rank": 457
+    },
+    {
+        "name": "Mondi",
+        "code": "MNDI.L",
+        "country": "UK",
+        "rank": 458
+    },
+    {
+        "name": "United Utilities",
+        "code": "UU.L",
+        "country": "UK",
+        "rank": 459
+    },
+    {
+        "name": "Pearson",
+        "code": "PSO",
+        "country": "UK",
+        "rank": 460
+    },
+    {
+        "name": "Intertek",
+        "code": "ITRK.L",
+        "country": "UK",
+        "rank": 461
+    },
+    {
+        "name": "JD Sports Fashion",
+        "code": "JD.L",
+        "country": "UK",
+        "rank": 462
+    },
+    {
+        "name": "Admiral Group",
+        "code": "ADM.L",
+        "country": "UK",
+        "rank": 463
+    },
+    {
+        "name": "Pentair",
+        "code": "PNR",
+        "country": "UK",
+        "rank": 464
+    },
+    {
+        "name": "Phoenix Group",
+        "code": "PHNX.L",
+        "country": "UK",
+        "rank": 465
+    },
+    {
+        "name": "Capri Holdings",
+        "code": "CPRI",
+        "country": "UK",
+        "rank": 466
+    },
+    {
+        "name": "St. James's Place",
+        "code": "STJ.L",
+        "country": "UK",
+        "rank": 467
+    },
+    {
+        "name": "Centrica",
+        "code": "CNA.L",
+        "country": "UK",
+        "rank": 468
+    },
+    {
+        "name": "Melrose Industries",
+        "code": "MRO.L",
+        "country": "UK",
+        "rank": 469
+    },
+    {
+        "name": "nVent Electric",
+        "code": "NVT",
+        "country": "UK",
+        "rank": 470
+    },
+    {
+        "name": "Whitbread",
+        "code": "WTB.L",
+        "country": "UK",
+        "rank": 471
+    },
+    {
+        "name": "Ocado",
+        "code": "OCDO.L",
+        "country": "UK",
+        "rank": 472
+    },
+    {
+        "name": "Sainsbury's",
+        "code": "SBRY.L",
+        "country": "UK",
+        "rank": 473
+    },
+    {
+        "name": "Investec",
+        "code": "INVR.L",
+        "country": "UK",
+        "rank": 474
+    },
+    {
+        "name": "Roivant Sciences",
+        "code": "ROIV",
+        "country": "UK",
+        "rank": 475
+    },
+    {
+        "name": "Convatec Group",
+        "code": "CTEC.L",
+        "country": "UK",
+        "rank": 476
+    },
+    {
+        "name": "Clarivate",
+        "code": "CLVT",
+        "country": "UK",
+        "rank": 477
+    },
+    {
+        "name": "Land Securities Group",
+        "code": "LAND.L",
+        "country": "UK",
+        "rank": 478
+    },
+    {
+        "name": "Kingfisher",
+        "code": "KFI1.F",
+        "country": "UK",
+        "rank": 479
+    },
+    {
+        "name": "Beazley",
+        "code": "BEZ.L",
+        "country": "UK",
+        "rank": 480
+    },
+    {
+        "name": "TechnipFMC",
+        "code": "FTI",
+        "country": "UK",
+        "rank": 481
+    },
+    {
+        "name": "DS Smith",
+        "code": "SMDS.L",
+        "country": "UK",
+        "rank": 482
+    },
+    {
+        "name": "M&G plc",
+        "code": "MNG.L",
+        "country": "UK",
+        "rank": 483
+    },
+    {
+        "name": "Endeavour Mining",
+        "code": "EDV.TO",
+        "country": "UK",
+        "rank": 484
+    },
+    {
+        "name": "The Weir Group",
+        "code": "WEIR.L",
+        "country": "UK",
+        "rank": 485
+    },
+    {
+        "name": "Airtel Africa",
+        "code": "AAF.L",
+        "country": "UK",
+        "rank": 486
+    },
+    {
+        "name": "Rightmove",
+        "code": "3JDA.F",
+        "country": "UK",
+        "rank": 487
+    },
+    {
+        "name": "Valaris",
+        "code": "VAL",
+        "country": "UK",
+        "rank": 488
+    },
+    {
+        "name": "Noble Corporation",
+        "code": "NE",
+        "country": "UK",
+        "rank": 489
+    },
+    {
+        "name": "Hargreaves Lansdown",
+        "code": "HL.L",
+        "country": "UK",
+        "rank": 490
+    },
+    {
+        "name": "HomeServe",
+        "code": "HSV.L",
+        "country": "UK",
+        "rank": 491
+    },
+    {
+        "name": "Persimmon",
+        "code": "PSN.L",
+        "country": "UK",
+        "rank": 492
+    },
+    {
+        "name": "Barratt Developments",
+        "code": "BDEV.L",
+        "country": "UK",
+        "rank": 493
+    },
+    {
+        "name": "Johnson Matthey",
+        "code": "JMAT.L",
+        "country": "UK",
+        "rank": 494
+    },
+    {
+        "name": "International Game Technology",
+        "code": "IGT",
+        "country": "UK",
+        "rank": 495
+    },
+    {
+        "name": "British Land",
+        "code": "BLDA.F",
+        "country": "UK",
+        "rank": 496
+    },
+    {
+        "name": "Unite Group (Unite Students)",
+        "code": "UTG.L",
+        "country": "UK",
+        "rank": 497
+    },
+    {
+        "name": "Endava",
+        "code": "DAVA",
+        "country": "UK",
+        "rank": 498
+    },
+    {
+        "name": "Diploma plc",
+        "code": "DPLM.L",
+        "country": "UK",
+        "rank": 499
+    },
+    {
+        "name": "Hikma Pharmaceuticals",
+        "code": "H5P.F",
+        "country": "UK",
+        "rank": 500
+    },
+    {
+        "name": "AstraZeneca",
+        "code": "AZN",
+        "country": "UK",
+        "rank": 501
+    },
+    {
+        "name": "Shell",
+        "code": "SHEL",
+        "country": "UK",
+        "rank": 502
+    },
+    {
+        "name": "Linde",
+        "code": "LIN",
+        "country": "UK",
+        "rank": 503
+    },
+    {
+        "name": "Unilever",
+        "code": "UL",
+        "country": "UK",
+        "rank": 504
+    },
+    {
+        "name": "HSBC",
+        "code": "HSBC",
+        "country": "UK",
+        "rank": 505
+    },
+    {
+        "name": "Rio Tinto",
+        "code": "RIO",
+        "country": "UK",
+        "rank": 506
+    },
+    {
+        "name": "BP",
+        "code": "BP",
+        "country": "UK",
+        "rank": 507
+    },
+    {
+        "name": "Diageo",
+        "code": "DEO",
+        "country": "UK",
+        "rank": 508
+    },
+    {
+        "name": "British American Tobacco",
+        "code": "BTI",
+        "country": "UK",
+        "rank": 509
+    },
+    {
+        "name": "GlaxoSmithKline",
+        "code": "GSK",
+        "country": "UK",
+        "rank": 510
+    },
+    {
+        "name": "Aon",
+        "code": "AON",
+        "country": "UK",
+        "rank": 511
+    },
+    {
+        "name": "RELX",
+        "code": "RELX",
+        "country": "UK",
+        "rank": 512
+    },
+    {
+        "name": "Anglo American",
+        "code": "AAL.L",
+        "country": "UK",
+        "rank": 513
+    },
+    {
+        "name": "Reckitt Benckiser",
+        "code": "RKT.L",
+        "country": "UK",
+        "rank": 514
+    },
+    {
+        "name": "London Stock Exchange",
+        "code": "LS4C.F",
+        "country": "UK",
+        "rank": 515
+    },
+    {
+        "name": "National Grid",
+        "code": "NGG",
+        "country": "UK",
+        "rank": 516
+    },
+    {
+        "name": "Compass Group",
+        "code": "CPG.L",
+        "country": "UK",
+        "rank": 517
+    },
+    {
+        "name": "Prudential",
+        "code": "PUK",
+        "country": "UK",
+        "rank": 518
+    },
+    {
+        "name": "Lloyds Banking Group",
+        "code": "LYG",
+        "country": "UK",
+        "rank": 519
+    },
+    {
+        "name": "Haleon",
+        "code": "HLN",
+        "country": "UK",
+        "rank": 520
+    },
+    {
+        "name": "BAE Systems",
+        "code": "BSP.F",
+        "country": "UK",
+        "rank": 521
+    },
+    {
+        "name": "NatWest Group",
+        "code": "NWG",
+        "country": "UK",
+        "rank": 522
+    },
+    {
+        "name": "Barclays",
+        "code": "BCS",
+        "country": "UK",
+        "rank": 523
+    },
+    {
+        "name": "Vodafone",
+        "code": "VOD",
+        "country": "UK",
+        "rank": 524
+    },
+    {
+        "name": "Willis Towers Watson ",
+        "code": "WTW",
+        "country": "UK",
+        "rank": 525
+    },
+    {
+        "name": "Ferguson",
+        "code": "FERG",
+        "country": "UK",
+        "rank": 526
+    },
+    {
+        "name": "Ashtead",
+        "code": "0LC.F",
+        "country": "UK",
+        "rank": 527
+    },
+    {
+        "name": "Coca-Cola European Partners",
+        "code": "CCEP",
+        "country": "UK",
+        "rank": 528
+    },
+    {
+        "name": "Imperial Brands",
+        "code": "ITBA.F",
+        "country": "UK",
+        "rank": 529
+    },
+    {
+        "name": "SSE",
+        "code": "SCT.F",
+        "country": "UK",
+        "rank": 530
+    },
+    {
+        "name": "Standard Chartered",
+        "code": "STAN.L",
+        "country": "UK",
+        "rank": 531
+    },
+    {
+        "name": "CNH Industrial",
+        "code": "CNHI",
+        "country": "UK",
+        "rank": 532
+    },
+    {
+        "name": "Tesco",
+        "code": "TSCDF",
+        "country": "UK",
+        "rank": 533
+    },
+    {
+        "name": "Antofagasta",
+        "code": "ANTO.L",
+        "country": "UK",
+        "rank": 534
+    },
+    {
+        "name": "Legal & General",
+        "code": "LGEN.L",
+        "country": "UK",
+        "rank": 535
+    },
+    {
+        "name": "Royalty Pharma",
+        "code": "RPRX",
+        "country": "UK",
+        "rank": 536
+    },
+    {
+        "name": "3i Group",
+        "code": "III.L",
+        "country": "UK",
+        "rank": 537
+    },
+    {
+        "name": "Rentokil Initial",
+        "code": "RTO.L",
+        "country": "UK",
+        "rank": 538
+    },
+    {
+        "name": "Associated British Foods",
+        "code": "ABF.L",
+        "country": "UK",
+        "rank": 539
+    },
+    {
+        "name": "Aviva",
+        "code": "AV.L",
+        "country": "UK",
+        "rank": 540
+    },
+    {
+        "name": "BT Group",
+        "code": "BT-A.L",
+        "country": "UK",
+        "rank": 541
+    },
+    {
+        "name": "AVEVA",
+        "code": "AVV.L",
+        "country": "UK",
+        "rank": 542
+    },
+    {
+        "name": "Smith & Nephew",
+        "code": "SNN",
+        "country": "UK",
+        "rank": 543
+    },
+    {
+        "name": "Bunzl",
+        "code": "BNZL.L",
+        "country": "UK",
+        "rank": 544
+    },
+    {
+        "name": "SEGRO",
+        "code": "SGRO.L",
+        "country": "UK",
+        "rank": 545
+    },
+    {
+        "name": "Croda International",
+        "code": "CRDA.L",
+        "country": "UK",
+        "rank": 546
+    },
+    {
+        "name": "Informa plc",
+        "code": "INF.L",
+        "country": "UK",
+        "rank": 547
+    },
+    {
+        "name": "WPP",
+        "code": "WPP",
+        "country": "UK",
+        "rank": 548
+    },
+    {
+        "name": "InterContinental Hotels Group",
+        "code": "IHG",
+        "country": "UK",
+        "rank": 549
+    },
+    {
+        "name": "Spirax-Sarco Engineering",
+        "code": "SPX.L",
+        "country": "UK",
+        "rank": 550
+    },
+    {
+        "name": "Rolls-Royce Holdings",
+        "code": "RR.L",
+        "country": "UK",
+        "rank": 551
+    },
+    {
+        "name": "Burberry",
+        "code": "BRBY.L",
+        "country": "UK",
+        "rank": 552
+    },
+    {
+        "name": "Halma",
+        "code": "HLMA.L",
+        "country": "UK",
+        "rank": 553
+    },
+    {
+        "name": "Sage Group",
+        "code": "SGE.L",
+        "country": "UK",
+        "rank": 554
+    },
+    {
+        "name": "Next plc",
+        "code": "NXT.L",
+        "country": "UK",
+        "rank": 555
+    },
+    {
+        "name": "Liberty Global",
+        "code": "LBTYB",
+        "country": "UK",
+        "rank": 556
+    },
+    {
+        "name": "Schroders",
+        "code": "SDR.L",
+        "country": "UK",
+        "rank": 557
+    },
+    {
+        "name": "Mondi",
+        "code": "MNDI.L",
+        "country": "UK",
+        "rank": 558
+    },
+    {
+        "name": "United Utilities",
+        "code": "UU.L",
+        "country": "UK",
+        "rank": 559
+    },
+    {
+        "name": "Pearson",
+        "code": "PSO",
+        "country": "UK",
+        "rank": 560
+    },
+    {
+        "name": "Intertek",
+        "code": "ITRK.L",
+        "country": "UK",
+        "rank": 561
+    },
+    {
+        "name": "JD Sports Fashion",
+        "code": "JD.L",
+        "country": "UK",
+        "rank": 562
+    },
+    {
+        "name": "Admiral Group",
+        "code": "ADM.L",
+        "country": "UK",
+        "rank": 563
+    },
+    {
+        "name": "Pentair",
+        "code": "PNR",
+        "country": "UK",
+        "rank": 564
+    },
+    {
+        "name": "Phoenix Group",
+        "code": "PHNX.L",
+        "country": "UK",
+        "rank": 565
+    },
+    {
+        "name": "Capri Holdings",
+        "code": "CPRI",
+        "country": "UK",
+        "rank": 566
+    },
+    {
+        "name": "St. James's Place",
+        "code": "STJ.L",
+        "country": "UK",
+        "rank": 567
+    },
+    {
+        "name": "Centrica",
+        "code": "CNA.L",
+        "country": "UK",
+        "rank": 568
+    },
+    {
+        "name": "Melrose Industries",
+        "code": "MRO.L",
+        "country": "UK",
+        "rank": 569
+    },
+    {
+        "name": "nVent Electric",
+        "code": "NVT",
+        "country": "UK",
+        "rank": 570
+    },
+    {
+        "name": "Whitbread",
+        "code": "WTB.L",
+        "country": "UK",
+        "rank": 571
+    },
+    {
+        "name": "Ocado",
+        "code": "OCDO.L",
+        "country": "UK",
+        "rank": 572
+    },
+    {
+        "name": "Sainsbury's",
+        "code": "SBRY.L",
+        "country": "UK",
+        "rank": 573
+    },
+    {
+        "name": "Investec",
+        "code": "INVR.L",
+        "country": "UK",
+        "rank": 574
+    },
+    {
+        "name": "Roivant Sciences",
+        "code": "ROIV",
+        "country": "UK",
+        "rank": 575
+    },
+    {
+        "name": "Convatec Group",
+        "code": "CTEC.L",
+        "country": "UK",
+        "rank": 576
+    },
+    {
+        "name": "Clarivate",
+        "code": "CLVT",
+        "country": "UK",
+        "rank": 577
+    },
+    {
+        "name": "Land Securities Group",
+        "code": "LAND.L",
+        "country": "UK",
+        "rank": 578
+    },
+    {
+        "name": "Kingfisher",
+        "code": "KFI1.F",
+        "country": "UK",
+        "rank": 579
+    },
+    {
+        "name": "Beazley",
+        "code": "BEZ.L",
+        "country": "UK",
+        "rank": 580
+    },
+    {
+        "name": "TechnipFMC",
+        "code": "FTI",
+        "country": "UK",
+        "rank": 581
+    },
+    {
+        "name": "DS Smith",
+        "code": "SMDS.L",
+        "country": "UK",
+        "rank": 582
+    },
+    {
+        "name": "M&G plc",
+        "code": "MNG.L",
+        "country": "UK",
+        "rank": 583
+    },
+    {
+        "name": "Endeavour Mining",
+        "code": "EDV.TO",
+        "country": "UK",
+        "rank": 584
+    },
+    {
+        "name": "The Weir Group",
+        "code": "WEIR.L",
+        "country": "UK",
+        "rank": 585
+    },
+    {
+        "name": "Airtel Africa",
+        "code": "AAF.L",
+        "country": "UK",
+        "rank": 586
+    },
+    {
+        "name": "Rightmove",
+        "code": "3JDA.F",
+        "country": "UK",
+        "rank": 587
+    },
+    {
+        "name": "Valaris",
+        "code": "VAL",
+        "country": "UK",
+        "rank": 588
+    },
+    {
+        "name": "Noble Corporation",
+        "code": "NE",
+        "country": "UK",
+        "rank": 589
+    },
+    {
+        "name": "Hargreaves Lansdown",
+        "code": "HL.L",
+        "country": "UK",
+        "rank": 590
+    },
+    {
+        "name": "HomeServe",
+        "code": "HSV.L",
+        "country": "UK",
+        "rank": 591
+    },
+    {
+        "name": "Persimmon",
+        "code": "PSN.L",
+        "country": "UK",
+        "rank": 592
+    },
+    {
+        "name": "Barratt Developments",
+        "code": "BDEV.L",
+        "country": "UK",
+        "rank": 593
+    },
+    {
+        "name": "Johnson Matthey",
+        "code": "JMAT.L",
+        "country": "UK",
+        "rank": 594
+    },
+    {
+        "name": "International Game Technology",
+        "code": "IGT",
+        "country": "UK",
+        "rank": 595
+    },
+    {
+        "name": "British Land",
+        "code": "BLDA.F",
+        "country": "UK",
+        "rank": 596
+    },
+    {
+        "name": "Unite Group (Unite Students)",
+        "code": "UTG.L",
+        "country": "UK",
+        "rank": 597
+    },
+    {
+        "name": "Endava",
+        "code": "DAVA",
+        "country": "UK",
+        "rank": 598
+    },
+    {
+        "name": "Diploma plc",
+        "code": "DPLM.L",
+        "country": "UK",
+        "rank": 599
+    },
+    {
+        "name": "Hikma Pharmaceuticals",
+        "code": "H5P.F",
+        "country": "UK",
+        "rank": 600
+    },
+    {
+        "name": "AstraZeneca",
+        "code": "AZN",
+        "country": "UK",
+        "rank": 601
+    },
+    {
+        "name": "Shell",
+        "code": "SHEL",
+        "country": "UK",
+        "rank": 602
+    },
+    {
+        "name": "Linde",
+        "code": "LIN",
+        "country": "UK",
+        "rank": 603
+    },
+    {
+        "name": "Unilever",
+        "code": "UL",
+        "country": "UK",
+        "rank": 604
+    },
+    {
+        "name": "HSBC",
+        "code": "HSBC",
+        "country": "UK",
+        "rank": 605
+    },
+    {
+        "name": "Rio Tinto",
+        "code": "RIO",
+        "country": "UK",
+        "rank": 606
+    },
+    {
+        "name": "BP",
+        "code": "BP",
+        "country": "UK",
+        "rank": 607
+    },
+    {
+        "name": "Diageo",
+        "code": "DEO",
+        "country": "UK",
+        "rank": 608
+    },
+    {
+        "name": "British American Tobacco",
+        "code": "BTI",
+        "country": "UK",
+        "rank": 609
+    },
+    {
+        "name": "GlaxoSmithKline",
+        "code": "GSK",
+        "country": "UK",
+        "rank": 610
+    },
+    {
+        "name": "Aon",
+        "code": "AON",
+        "country": "UK",
+        "rank": 611
+    },
+    {
+        "name": "RELX",
+        "code": "RELX",
+        "country": "UK",
+        "rank": 612
+    },
+    {
+        "name": "Anglo American",
+        "code": "AAL.L",
+        "country": "UK",
+        "rank": 613
+    },
+    {
+        "name": "Reckitt Benckiser",
+        "code": "RKT.L",
+        "country": "UK",
+        "rank": 614
+    },
+    {
+        "name": "London Stock Exchange",
+        "code": "LS4C.F",
+        "country": "UK",
+        "rank": 615
+    },
+    {
+        "name": "National Grid",
+        "code": "NGG",
+        "country": "UK",
+        "rank": 616
+    },
+    {
+        "name": "Compass Group",
+        "code": "CPG.L",
+        "country": "UK",
+        "rank": 617
+    },
+    {
+        "name": "Prudential",
+        "code": "PUK",
+        "country": "UK",
+        "rank": 618
+    },
+    {
+        "name": "Lloyds Banking Group",
+        "code": "LYG",
+        "country": "UK",
+        "rank": 619
+    },
+    {
+        "name": "Haleon",
+        "code": "HLN",
+        "country": "UK",
+        "rank": 620
+    },
+    {
+        "name": "BAE Systems",
+        "code": "BSP.F",
+        "country": "UK",
+        "rank": 621
+    },
+    {
+        "name": "NatWest Group",
+        "code": "NWG",
+        "country": "UK",
+        "rank": 622
+    },
+    {
+        "name": "Barclays",
+        "code": "BCS",
+        "country": "UK",
+        "rank": 623
+    },
+    {
+        "name": "Vodafone",
+        "code": "VOD",
+        "country": "UK",
+        "rank": 624
+    },
+    {
+        "name": "Willis Towers Watson ",
+        "code": "WTW",
+        "country": "UK",
+        "rank": 625
+    },
+    {
+        "name": "Ferguson",
+        "code": "FERG",
+        "country": "UK",
+        "rank": 626
+    },
+    {
+        "name": "Ashtead",
+        "code": "0LC.F",
+        "country": "UK",
+        "rank": 627
+    },
+    {
+        "name": "Coca-Cola European Partners",
+        "code": "CCEP",
+        "country": "UK",
+        "rank": 628
+    },
+    {
+        "name": "Imperial Brands",
+        "code": "ITBA.F",
+        "country": "UK",
+        "rank": 629
+    },
+    {
+        "name": "SSE",
+        "code": "SCT.F",
+        "country": "UK",
+        "rank": 630
+    },
+    {
+        "name": "Standard Chartered",
+        "code": "STAN.L",
+        "country": "UK",
+        "rank": 631
+    },
+    {
+        "name": "CNH Industrial",
+        "code": "CNHI",
+        "country": "UK",
+        "rank": 632
+    },
+    {
+        "name": "Tesco",
+        "code": "TSCDF",
+        "country": "UK",
+        "rank": 633
+    },
+    {
+        "name": "Antofagasta",
+        "code": "ANTO.L",
+        "country": "UK",
+        "rank": 634
+    },
+    {
+        "name": "Legal & General",
+        "code": "LGEN.L",
+        "country": "UK",
+        "rank": 635
+    },
+    {
+        "name": "Royalty Pharma",
+        "code": "RPRX",
+        "country": "UK",
+        "rank": 636
+    },
+    {
+        "name": "3i Group",
+        "code": "III.L",
+        "country": "UK",
+        "rank": 637
+    },
+    {
+        "name": "Rentokil Initial",
+        "code": "RTO.L",
+        "country": "UK",
+        "rank": 638
+    },
+    {
+        "name": "Associated British Foods",
+        "code": "ABF.L",
+        "country": "UK",
+        "rank": 639
+    },
+    {
+        "name": "Aviva",
+        "code": "AV.L",
+        "country": "UK",
+        "rank": 640
+    },
+    {
+        "name": "BT Group",
+        "code": "BT-A.L",
+        "country": "UK",
+        "rank": 641
+    },
+    {
+        "name": "AVEVA",
+        "code": "AVV.L",
+        "country": "UK",
+        "rank": 642
+    },
+    {
+        "name": "Smith & Nephew",
+        "code": "SNN",
+        "country": "UK",
+        "rank": 643
+    },
+    {
+        "name": "Bunzl",
+        "code": "BNZL.L",
+        "country": "UK",
+        "rank": 644
+    },
+    {
+        "name": "SEGRO",
+        "code": "SGRO.L",
+        "country": "UK",
+        "rank": 645
+    },
+    {
+        "name": "Croda International",
+        "code": "CRDA.L",
+        "country": "UK",
+        "rank": 646
+    },
+    {
+        "name": "Informa plc",
+        "code": "INF.L",
+        "country": "UK",
+        "rank": 647
+    },
+    {
+        "name": "WPP",
+        "code": "WPP",
+        "country": "UK",
+        "rank": 648
+    },
+    {
+        "name": "InterContinental Hotels Group",
+        "code": "IHG",
+        "country": "UK",
+        "rank": 649
+    },
+    {
+        "name": "Spirax-Sarco Engineering",
+        "code": "SPX.L",
+        "country": "UK",
+        "rank": 650
+    },
+    {
+        "name": "Rolls-Royce Holdings",
+        "code": "RR.L",
+        "country": "UK",
+        "rank": 651
+    },
+    {
+        "name": "Burberry",
+        "code": "BRBY.L",
+        "country": "UK",
+        "rank": 652
+    },
+    {
+        "name": "Halma",
+        "code": "HLMA.L",
+        "country": "UK",
+        "rank": 653
+    },
+    {
+        "name": "Sage Group",
+        "code": "SGE.L",
+        "country": "UK",
+        "rank": 654
+    },
+    {
+        "name": "Next plc",
+        "code": "NXT.L",
+        "country": "UK",
+        "rank": 655
+    },
+    {
+        "name": "Liberty Global",
+        "code": "LBTYB",
+        "country": "UK",
+        "rank": 656
+    },
+    {
+        "name": "Schroders",
+        "code": "SDR.L",
+        "country": "UK",
+        "rank": 657
+    },
+    {
+        "name": "Mondi",
+        "code": "MNDI.L",
+        "country": "UK",
+        "rank": 658
+    },
+    {
+        "name": "United Utilities",
+        "code": "UU.L",
+        "country": "UK",
+        "rank": 659
+    },
+    {
+        "name": "Pearson",
+        "code": "PSO",
+        "country": "UK",
+        "rank": 660
+    },
+    {
+        "name": "Intertek",
+        "code": "ITRK.L",
+        "country": "UK",
+        "rank": 661
+    },
+    {
+        "name": "JD Sports Fashion",
+        "code": "JD.L",
+        "country": "UK",
+        "rank": 662
+    },
+    {
+        "name": "Admiral Group",
+        "code": "ADM.L",
+        "country": "UK",
+        "rank": 663
+    },
+    {
+        "name": "Pentair",
+        "code": "PNR",
+        "country": "UK",
+        "rank": 664
+    },
+    {
+        "name": "Phoenix Group",
+        "code": "PHNX.L",
+        "country": "UK",
+        "rank": 665
+    },
+    {
+        "name": "Capri Holdings",
+        "code": "CPRI",
+        "country": "UK",
+        "rank": 666
+    },
+    {
+        "name": "St. James's Place",
+        "code": "STJ.L",
+        "country": "UK",
+        "rank": 667
+    },
+    {
+        "name": "Centrica",
+        "code": "CNA.L",
+        "country": "UK",
+        "rank": 668
+    },
+    {
+        "name": "Melrose Industries",
+        "code": "MRO.L",
+        "country": "UK",
+        "rank": 669
+    },
+    {
+        "name": "nVent Electric",
+        "code": "NVT",
+        "country": "UK",
+        "rank": 670
+    },
+    {
+        "name": "Whitbread",
+        "code": "WTB.L",
+        "country": "UK",
+        "rank": 671
+    },
+    {
+        "name": "Ocado",
+        "code": "OCDO.L",
+        "country": "UK",
+        "rank": 672
+    },
+    {
+        "name": "Sainsbury's",
+        "code": "SBRY.L",
+        "country": "UK",
+        "rank": 673
+    },
+    {
+        "name": "Investec",
+        "code": "INVR.L",
+        "country": "UK",
+        "rank": 674
+    },
+    {
+        "name": "Roivant Sciences",
+        "code": "ROIV",
+        "country": "UK",
+        "rank": 675
+    },
+    {
+        "name": "Convatec Group",
+        "code": "CTEC.L",
+        "country": "UK",
+        "rank": 676
+    },
+    {
+        "name": "Clarivate",
+        "code": "CLVT",
+        "country": "UK",
+        "rank": 677
+    },
+    {
+        "name": "Land Securities Group",
+        "code": "LAND.L",
+        "country": "UK",
+        "rank": 678
+    },
+    {
+        "name": "Kingfisher",
+        "code": "KFI1.F",
+        "country": "UK",
+        "rank": 679
+    },
+    {
+        "name": "Beazley",
+        "code": "BEZ.L",
+        "country": "UK",
+        "rank": 680
+    },
+    {
+        "name": "TechnipFMC",
+        "code": "FTI",
+        "country": "UK",
+        "rank": 681
+    },
+    {
+        "name": "DS Smith",
+        "code": "SMDS.L",
+        "country": "UK",
+        "rank": 682
+    },
+    {
+        "name": "M&G plc",
+        "code": "MNG.L",
+        "country": "UK",
+        "rank": 683
+    },
+    {
+        "name": "Endeavour Mining",
+        "code": "EDV.TO",
+        "country": "UK",
+        "rank": 684
+    },
+    {
+        "name": "The Weir Group",
+        "code": "WEIR.L",
+        "country": "UK",
+        "rank": 685
+    },
+    {
+        "name": "Airtel Africa",
+        "code": "AAF.L",
+        "country": "UK",
+        "rank": 686
+    },
+    {
+        "name": "Rightmove",
+        "code": "3JDA.F",
+        "country": "UK",
+        "rank": 687
+    },
+    {
+        "name": "Valaris",
+        "code": "VAL",
+        "country": "UK",
+        "rank": 688
+    },
+    {
+        "name": "Noble Corporation",
+        "code": "NE",
+        "country": "UK",
+        "rank": 689
+    },
+    {
+        "name": "Hargreaves Lansdown",
+        "code": "HL.L",
+        "country": "UK",
+        "rank": 690
+    },
+    {
+        "name": "HomeServe",
+        "code": "HSV.L",
+        "country": "UK",
+        "rank": 691
+    },
+    {
+        "name": "Persimmon",
+        "code": "PSN.L",
+        "country": "UK",
+        "rank": 692
+    },
+    {
+        "name": "Barratt Developments",
+        "code": "BDEV.L",
+        "country": "UK",
+        "rank": 693
+    },
+    {
+        "name": "Johnson Matthey",
+        "code": "JMAT.L",
+        "country": "UK",
+        "rank": 694
+    },
+    {
+        "name": "International Game Technology",
+        "code": "IGT",
+        "country": "UK",
+        "rank": 695
+    },
+    {
+        "name": "British Land",
+        "code": "BLDA.F",
+        "country": "UK",
+        "rank": 696
+    },
+    {
+        "name": "Unite Group (Unite Students)",
+        "code": "UTG.L",
+        "country": "UK",
+        "rank": 697
+    },
+    {
+        "name": "Endava",
+        "code": "DAVA",
+        "country": "UK",
+        "rank": 698
+    },
+    {
+        "name": "Diploma plc",
+        "code": "DPLM.L",
+        "country": "UK",
+        "rank": 699
+    },
+    {
+        "name": "Hikma Pharmaceuticals",
+        "code": "H5P.F",
+        "country": "UK",
+        "rank": 700
+    },
+    {
+        "name": "AstraZeneca",
+        "code": "AZN",
+        "country": "UK",
+        "rank": 701
+    },
+    {
+        "name": "Shell",
+        "code": "SHEL",
+        "country": "UK",
+        "rank": 702
+    },
+    {
+        "name": "Linde",
+        "code": "LIN",
+        "country": "UK",
+        "rank": 703
+    },
+    {
+        "name": "Unilever",
+        "code": "UL",
+        "country": "UK",
+        "rank": 704
+    },
+    {
+        "name": "HSBC",
+        "code": "HSBC",
+        "country": "UK",
+        "rank": 705
+    },
+    {
+        "name": "Rio Tinto",
+        "code": "RIO",
+        "country": "UK",
+        "rank": 706
+    },
+    {
+        "name": "BP",
+        "code": "BP",
+        "country": "UK",
+        "rank": 707
+    },
+    {
+        "name": "Diageo",
+        "code": "DEO",
+        "country": "UK",
+        "rank": 708
+    },
+    {
+        "name": "British American Tobacco",
+        "code": "BTI",
+        "country": "UK",
+        "rank": 709
+    },
+    {
+        "name": "GlaxoSmithKline",
+        "code": "GSK",
+        "country": "UK",
+        "rank": 710
+    },
+    {
+        "name": "Aon",
+        "code": "AON",
+        "country": "UK",
+        "rank": 711
+    },
+    {
+        "name": "RELX",
+        "code": "RELX",
+        "country": "UK",
+        "rank": 712
+    },
+    {
+        "name": "Anglo American",
+        "code": "AAL.L",
+        "country": "UK",
+        "rank": 713
+    },
+    {
+        "name": "Reckitt Benckiser",
+        "code": "RKT.L",
+        "country": "UK",
+        "rank": 714
+    },
+    {
+        "name": "London Stock Exchange",
+        "code": "LS4C.F",
+        "country": "UK",
+        "rank": 715
+    },
+    {
+        "name": "National Grid",
+        "code": "NGG",
+        "country": "UK",
+        "rank": 716
+    },
+    {
+        "name": "Compass Group",
+        "code": "CPG.L",
+        "country": "UK",
+        "rank": 717
+    },
+    {
+        "name": "Prudential",
+        "code": "PUK",
+        "country": "UK",
+        "rank": 718
+    },
+    {
+        "name": "Lloyds Banking Group",
+        "code": "LYG",
+        "country": "UK",
+        "rank": 719
+    },
+    {
+        "name": "Haleon",
+        "code": "HLN",
+        "country": "UK",
+        "rank": 720
+    },
+    {
+        "name": "BAE Systems",
+        "code": "BSP.F",
+        "country": "UK",
+        "rank": 721
+    },
+    {
+        "name": "NatWest Group",
+        "code": "NWG",
+        "country": "UK",
+        "rank": 722
+    },
+    {
+        "name": "Barclays",
+        "code": "BCS",
+        "country": "UK",
+        "rank": 723
+    },
+    {
+        "name": "Vodafone",
+        "code": "VOD",
+        "country": "UK",
+        "rank": 724
+    },
+    {
+        "name": "Willis Towers Watson ",
+        "code": "WTW",
+        "country": "UK",
+        "rank": 725
+    },
+    {
+        "name": "Ferguson",
+        "code": "FERG",
+        "country": "UK",
+        "rank": 726
+    },
+    {
+        "name": "Ashtead",
+        "code": "0LC.F",
+        "country": "UK",
+        "rank": 727
+    },
+    {
+        "name": "Coca-Cola European Partners",
+        "code": "CCEP",
+        "country": "UK",
+        "rank": 728
+    },
+    {
+        "name": "Imperial Brands",
+        "code": "ITBA.F",
+        "country": "UK",
+        "rank": 729
+    },
+    {
+        "name": "SSE",
+        "code": "SCT.F",
+        "country": "UK",
+        "rank": 730
+    },
+    {
+        "name": "Standard Chartered",
+        "code": "STAN.L",
+        "country": "UK",
+        "rank": 731
+    },
+    {
+        "name": "CNH Industrial",
+        "code": "CNHI",
+        "country": "UK",
+        "rank": 732
+    },
+    {
+        "name": "Tesco",
+        "code": "TSCDF",
+        "country": "UK",
+        "rank": 733
+    },
+    {
+        "name": "Antofagasta",
+        "code": "ANTO.L",
+        "country": "UK",
+        "rank": 734
+    },
+    {
+        "name": "Legal & General",
+        "code": "LGEN.L",
+        "country": "UK",
+        "rank": 735
+    },
+    {
+        "name": "Royalty Pharma",
+        "code": "RPRX",
+        "country": "UK",
+        "rank": 736
+    },
+    {
+        "name": "3i Group",
+        "code": "III.L",
+        "country": "UK",
+        "rank": 737
+    },
+    {
+        "name": "Rentokil Initial",
+        "code": "RTO.L",
+        "country": "UK",
+        "rank": 738
+    },
+    {
+        "name": "Associated British Foods",
+        "code": "ABF.L",
+        "country": "UK",
+        "rank": 739
+    },
+    {
+        "name": "Aviva",
+        "code": "AV.L",
+        "country": "UK",
+        "rank": 740
+    },
+    {
+        "name": "BT Group",
+        "code": "BT-A.L",
+        "country": "UK",
+        "rank": 741
+    },
+    {
+        "name": "AVEVA",
+        "code": "AVV.L",
+        "country": "UK",
+        "rank": 742
+    },
+    {
+        "name": "Smith & Nephew",
+        "code": "SNN",
+        "country": "UK",
+        "rank": 743
+    },
+    {
+        "name": "Bunzl",
+        "code": "BNZL.L",
+        "country": "UK",
+        "rank": 744
+    },
+    {
+        "name": "SEGRO",
+        "code": "SGRO.L",
+        "country": "UK",
+        "rank": 745
+    },
+    {
+        "name": "Croda International",
+        "code": "CRDA.L",
+        "country": "UK",
+        "rank": 746
+    },
+    {
+        "name": "Informa plc",
+        "code": "INF.L",
+        "country": "UK",
+        "rank": 747
+    },
+    {
+        "name": "WPP",
+        "code": "WPP",
+        "country": "UK",
+        "rank": 748
+    },
+    {
+        "name": "InterContinental Hotels Group",
+        "code": "IHG",
+        "country": "UK",
+        "rank": 749
+    },
+    {
+        "name": "Spirax-Sarco Engineering",
+        "code": "SPX.L",
+        "country": "UK",
+        "rank": 750
+    },
+    {
+        "name": "Rolls-Royce Holdings",
+        "code": "RR.L",
+        "country": "UK",
+        "rank": 751
+    },
+    {
+        "name": "Burberry",
+        "code": "BRBY.L",
+        "country": "UK",
+        "rank": 752
+    },
+    {
+        "name": "Halma",
+        "code": "HLMA.L",
+        "country": "UK",
+        "rank": 753
+    },
+    {
+        "name": "Sage Group",
+        "code": "SGE.L",
+        "country": "UK",
+        "rank": 754
+    },
+    {
+        "name": "Next plc",
+        "code": "NXT.L",
+        "country": "UK",
+        "rank": 755
+    },
+    {
+        "name": "Liberty Global",
+        "code": "LBTYB",
+        "country": "UK",
+        "rank": 756
+    },
+    {
+        "name": "Schroders",
+        "code": "SDR.L",
+        "country": "UK",
+        "rank": 757
+    },
+    {
+        "name": "Mondi",
+        "code": "MNDI.L",
+        "country": "UK",
+        "rank": 758
+    },
+    {
+        "name": "United Utilities",
+        "code": "UU.L",
+        "country": "UK",
+        "rank": 759
+    },
+    {
+        "name": "Pearson",
+        "code": "PSO",
+        "country": "UK",
+        "rank": 760
+    },
+    {
+        "name": "Intertek",
+        "code": "ITRK.L",
+        "country": "UK",
+        "rank": 761
+    },
+    {
+        "name": "JD Sports Fashion",
+        "code": "JD.L",
+        "country": "UK",
+        "rank": 762
+    },
+    {
+        "name": "Admiral Group",
+        "code": "ADM.L",
+        "country": "UK",
+        "rank": 763
+    },
+    {
+        "name": "Pentair",
+        "code": "PNR",
+        "country": "UK",
+        "rank": 764
+    },
+    {
+        "name": "Phoenix Group",
+        "code": "PHNX.L",
+        "country": "UK",
+        "rank": 765
+    },
+    {
+        "name": "Capri Holdings",
+        "code": "CPRI",
+        "country": "UK",
+        "rank": 766
+    },
+    {
+        "name": "St. James's Place",
+        "code": "STJ.L",
+        "country": "UK",
+        "rank": 767
+    },
+    {
+        "name": "Centrica",
+        "code": "CNA.L",
+        "country": "UK",
+        "rank": 768
+    },
+    {
+        "name": "Melrose Industries",
+        "code": "MRO.L",
+        "country": "UK",
+        "rank": 769
+    },
+    {
+        "name": "nVent Electric",
+        "code": "NVT",
+        "country": "UK",
+        "rank": 770
+    },
+    {
+        "name": "Whitbread",
+        "code": "WTB.L",
+        "country": "UK",
+        "rank": 771
+    },
+    {
+        "name": "Ocado",
+        "code": "OCDO.L",
+        "country": "UK",
+        "rank": 772
+    },
+    {
+        "name": "Sainsbury's",
+        "code": "SBRY.L",
+        "country": "UK",
+        "rank": 773
+    },
+    {
+        "name": "Investec",
+        "code": "INVR.L",
+        "country": "UK",
+        "rank": 774
+    },
+    {
+        "name": "Roivant Sciences",
+        "code": "ROIV",
+        "country": "UK",
+        "rank": 775
+    },
+    {
+        "name": "Convatec Group",
+        "code": "CTEC.L",
+        "country": "UK",
+        "rank": 776
+    },
+    {
+        "name": "Clarivate",
+        "code": "CLVT",
+        "country": "UK",
+        "rank": 777
+    },
+    {
+        "name": "Land Securities Group",
+        "code": "LAND.L",
+        "country": "UK",
+        "rank": 778
+    },
+    {
+        "name": "Kingfisher",
+        "code": "KFI1.F",
+        "country": "UK",
+        "rank": 779
+    },
+    {
+        "name": "Beazley",
+        "code": "BEZ.L",
+        "country": "UK",
+        "rank": 780
+    },
+    {
+        "name": "TechnipFMC",
+        "code": "FTI",
+        "country": "UK",
+        "rank": 781
+    },
+    {
+        "name": "DS Smith",
+        "code": "SMDS.L",
+        "country": "UK",
+        "rank": 782
+    },
+    {
+        "name": "M&G plc",
+        "code": "MNG.L",
+        "country": "UK",
+        "rank": 783
+    },
+    {
+        "name": "Endeavour Mining",
+        "code": "EDV.TO",
+        "country": "UK",
+        "rank": 784
+    },
+    {
+        "name": "The Weir Group",
+        "code": "WEIR.L",
+        "country": "UK",
+        "rank": 785
+    },
+    {
+        "name": "Airtel Africa",
+        "code": "AAF.L",
+        "country": "UK",
+        "rank": 786
+    },
+    {
+        "name": "Rightmove",
+        "code": "3JDA.F",
+        "country": "UK",
+        "rank": 787
+    },
+    {
+        "name": "Valaris",
+        "code": "VAL",
+        "country": "UK",
+        "rank": 788
+    },
+    {
+        "name": "Noble Corporation",
+        "code": "NE",
+        "country": "UK",
+        "rank": 789
+    },
+    {
+        "name": "Hargreaves Lansdown",
+        "code": "HL.L",
+        "country": "UK",
+        "rank": 790
+    },
+    {
+        "name": "HomeServe",
+        "code": "HSV.L",
+        "country": "UK",
+        "rank": 791
+    },
+    {
+        "name": "Persimmon",
+        "code": "PSN.L",
+        "country": "UK",
+        "rank": 792
+    },
+    {
+        "name": "Barratt Developments",
+        "code": "BDEV.L",
+        "country": "UK",
+        "rank": 793
+    },
+    {
+        "name": "Johnson Matthey",
+        "code": "JMAT.L",
+        "country": "UK",
+        "rank": 794
+    },
+    {
+        "name": "International Game Technology",
+        "code": "IGT",
+        "country": "UK",
+        "rank": 795
+    },
+    {
+        "name": "British Land",
+        "code": "BLDA.F",
+        "country": "UK",
+        "rank": 796
+    },
+    {
+        "name": "Unite Group (Unite Students)",
+        "code": "UTG.L",
+        "country": "UK",
+        "rank": 797
+    },
+    {
+        "name": "Endava",
+        "code": "DAVA",
+        "country": "UK",
+        "rank": 798
+    },
+    {
+        "name": "Diploma plc",
+        "code": "DPLM.L",
+        "country": "UK",
+        "rank": 799
+    },
+    {
+        "name": "Hikma Pharmaceuticals",
+        "code": "H5P.F",
+        "country": "UK",
+        "rank": 800
+    },
+    {
+        "name": "AstraZeneca",
+        "code": "AZN",
+        "country": "UK",
+        "rank": 801
+    },
+    {
+        "name": "Shell",
+        "code": "SHEL",
+        "country": "UK",
+        "rank": 802
+    },
+    {
+        "name": "Linde",
+        "code": "LIN",
+        "country": "UK",
+        "rank": 803
+    },
+    {
+        "name": "Unilever",
+        "code": "UL",
+        "country": "UK",
+        "rank": 804
+    },
+    {
+        "name": "HSBC",
+        "code": "HSBC",
+        "country": "UK",
+        "rank": 805
+    },
+    {
+        "name": "Rio Tinto",
+        "code": "RIO",
+        "country": "UK",
+        "rank": 806
+    },
+    {
+        "name": "BP",
+        "code": "BP",
+        "country": "UK",
+        "rank": 807
+    },
+    {
+        "name": "Diageo",
+        "code": "DEO",
+        "country": "UK",
+        "rank": 808
+    },
+    {
+        "name": "British American Tobacco",
+        "code": "BTI",
+        "country": "UK",
+        "rank": 809
+    },
+    {
+        "name": "GlaxoSmithKline",
+        "code": "GSK",
+        "country": "UK",
+        "rank": 810
+    },
+    {
+        "name": "Aon",
+        "code": "AON",
+        "country": "UK",
+        "rank": 811
+    },
+    {
+        "name": "RELX",
+        "code": "RELX",
+        "country": "UK",
+        "rank": 812
+    },
+    {
+        "name": "Anglo American",
+        "code": "AAL.L",
+        "country": "UK",
+        "rank": 813
+    },
+    {
+        "name": "Reckitt Benckiser",
+        "code": "RKT.L",
+        "country": "UK",
+        "rank": 814
+    },
+    {
+        "name": "London Stock Exchange",
+        "code": "LS4C.F",
+        "country": "UK",
+        "rank": 815
+    },
+    {
+        "name": "National Grid",
+        "code": "NGG",
+        "country": "UK",
+        "rank": 816
+    },
+    {
+        "name": "Compass Group",
+        "code": "CPG.L",
+        "country": "UK",
+        "rank": 817
+    },
+    {
+        "name": "Prudential",
+        "code": "PUK",
+        "country": "UK",
+        "rank": 818
+    },
+    {
+        "name": "Lloyds Banking Group",
+        "code": "LYG",
+        "country": "UK",
+        "rank": 819
+    },
+    {
+        "name": "Haleon",
+        "code": "HLN",
+        "country": "UK",
+        "rank": 820
+    },
+    {
+        "name": "BAE Systems",
+        "code": "BSP.F",
+        "country": "UK",
+        "rank": 821
+    },
+    {
+        "name": "NatWest Group",
+        "code": "NWG",
+        "country": "UK",
+        "rank": 822
+    },
+    {
+        "name": "Barclays",
+        "code": "BCS",
+        "country": "UK",
+        "rank": 823
+    },
+    {
+        "name": "Vodafone",
+        "code": "VOD",
+        "country": "UK",
+        "rank": 824
+    },
+    {
+        "name": "Willis Towers Watson ",
+        "code": "WTW",
+        "country": "UK",
+        "rank": 825
+    },
+    {
+        "name": "Ferguson",
+        "code": "FERG",
+        "country": "UK",
+        "rank": 826
+    },
+    {
+        "name": "Ashtead",
+        "code": "0LC.F",
+        "country": "UK",
+        "rank": 827
+    },
+    {
+        "name": "Coca-Cola European Partners",
+        "code": "CCEP",
+        "country": "UK",
+        "rank": 828
+    },
+    {
+        "name": "Imperial Brands",
+        "code": "ITBA.F",
+        "country": "UK",
+        "rank": 829
+    },
+    {
+        "name": "SSE",
+        "code": "SCT.F",
+        "country": "UK",
+        "rank": 830
+    },
+    {
+        "name": "Standard Chartered",
+        "code": "STAN.L",
+        "country": "UK",
+        "rank": 831
+    },
+    {
+        "name": "CNH Industrial",
+        "code": "CNHI",
+        "country": "UK",
+        "rank": 832
+    },
+    {
+        "name": "Tesco",
+        "code": "TSCDF",
+        "country": "UK",
+        "rank": 833
+    },
+    {
+        "name": "Antofagasta",
+        "code": "ANTO.L",
+        "country": "UK",
+        "rank": 834
+    },
+    {
+        "name": "Legal & General",
+        "code": "LGEN.L",
+        "country": "UK",
+        "rank": 835
+    },
+    {
+        "name": "Royalty Pharma",
+        "code": "RPRX",
+        "country": "UK",
+        "rank": 836
+    },
+    {
+        "name": "3i Group",
+        "code": "III.L",
+        "country": "UK",
+        "rank": 837
+    },
+    {
+        "name": "Rentokil Initial",
+        "code": "RTO.L",
+        "country": "UK",
+        "rank": 838
+    },
+    {
+        "name": "Associated British Foods",
+        "code": "ABF.L",
+        "country": "UK",
+        "rank": 839
+    },
+    {
+        "name": "Aviva",
+        "code": "AV.L",
+        "country": "UK",
+        "rank": 840
+    },
+    {
+        "name": "BT Group",
+        "code": "BT-A.L",
+        "country": "UK",
+        "rank": 841
+    },
+    {
+        "name": "AVEVA",
+        "code": "AVV.L",
+        "country": "UK",
+        "rank": 842
+    },
+    {
+        "name": "Smith & Nephew",
+        "code": "SNN",
+        "country": "UK",
+        "rank": 843
+    },
+    {
+        "name": "Bunzl",
+        "code": "BNZL.L",
+        "country": "UK",
+        "rank": 844
+    },
+    {
+        "name": "SEGRO",
+        "code": "SGRO.L",
+        "country": "UK",
+        "rank": 845
+    },
+    {
+        "name": "Croda International",
+        "code": "CRDA.L",
+        "country": "UK",
+        "rank": 846
+    },
+    {
+        "name": "Informa plc",
+        "code": "INF.L",
+        "country": "UK",
+        "rank": 847
+    },
+    {
+        "name": "WPP",
+        "code": "WPP",
+        "country": "UK",
+        "rank": 848
+    },
+    {
+        "name": "InterContinental Hotels Group",
+        "code": "IHG",
+        "country": "UK",
+        "rank": 849
+    },
+    {
+        "name": "Spirax-Sarco Engineering",
+        "code": "SPX.L",
+        "country": "UK",
+        "rank": 850
+    },
+    {
+        "name": "Rolls-Royce Holdings",
+        "code": "RR.L",
+        "country": "UK",
+        "rank": 851
+    },
+    {
+        "name": "Burberry",
+        "code": "BRBY.L",
+        "country": "UK",
+        "rank": 852
+    },
+    {
+        "name": "Halma",
+        "code": "HLMA.L",
+        "country": "UK",
+        "rank": 853
+    },
+    {
+        "name": "Sage Group",
+        "code": "SGE.L",
+        "country": "UK",
+        "rank": 854
+    },
+    {
+        "name": "Next plc",
+        "code": "NXT.L",
+        "country": "UK",
+        "rank": 855
+    },
+    {
+        "name": "Liberty Global",
+        "code": "LBTYB",
+        "country": "UK",
+        "rank": 856
+    },
+    {
+        "name": "Schroders",
+        "code": "SDR.L",
+        "country": "UK",
+        "rank": 857
+    },
+    {
+        "name": "Mondi",
+        "code": "MNDI.L",
+        "country": "UK",
+        "rank": 858
+    },
+    {
+        "name": "United Utilities",
+        "code": "UU.L",
+        "country": "UK",
+        "rank": 859
+    },
+    {
+        "name": "Pearson",
+        "code": "PSO",
+        "country": "UK",
+        "rank": 860
+    },
+    {
+        "name": "Intertek",
+        "code": "ITRK.L",
+        "country": "UK",
+        "rank": 861
+    },
+    {
+        "name": "JD Sports Fashion",
+        "code": "JD.L",
+        "country": "UK",
+        "rank": 862
+    },
+    {
+        "name": "Admiral Group",
+        "code": "ADM.L",
+        "country": "UK",
+        "rank": 863
+    },
+    {
+        "name": "Pentair",
+        "code": "PNR",
+        "country": "UK",
+        "rank": 864
+    },
+    {
+        "name": "Phoenix Group",
+        "code": "PHNX.L",
+        "country": "UK",
+        "rank": 865
+    },
+    {
+        "name": "Capri Holdings",
+        "code": "CPRI",
+        "country": "UK",
+        "rank": 866
+    },
+    {
+        "name": "St. James's Place",
+        "code": "STJ.L",
+        "country": "UK",
+        "rank": 867
+    },
+    {
+        "name": "Centrica",
+        "code": "CNA.L",
+        "country": "UK",
+        "rank": 868
+    },
+    {
+        "name": "Melrose Industries",
+        "code": "MRO.L",
+        "country": "UK",
+        "rank": 869
+    },
+    {
+        "name": "nVent Electric",
+        "code": "NVT",
+        "country": "UK",
+        "rank": 870
+    },
+    {
+        "name": "Whitbread",
+        "code": "WTB.L",
+        "country": "UK",
+        "rank": 871
+    },
+    {
+        "name": "Ocado",
+        "code": "OCDO.L",
+        "country": "UK",
+        "rank": 872
+    },
+    {
+        "name": "Sainsbury's",
+        "code": "SBRY.L",
+        "country": "UK",
+        "rank": 873
+    },
+    {
+        "name": "Investec",
+        "code": "INVR.L",
+        "country": "UK",
+        "rank": 874
+    },
+    {
+        "name": "Roivant Sciences",
+        "code": "ROIV",
+        "country": "UK",
+        "rank": 875
+    },
+    {
+        "name": "Convatec Group",
+        "code": "CTEC.L",
+        "country": "UK",
+        "rank": 876
+    },
+    {
+        "name": "Clarivate",
+        "code": "CLVT",
+        "country": "UK",
+        "rank": 877
+    },
+    {
+        "name": "Land Securities Group",
+        "code": "LAND.L",
+        "country": "UK",
+        "rank": 878
+    },
+    {
+        "name": "Kingfisher",
+        "code": "KFI1.F",
+        "country": "UK",
+        "rank": 879
+    },
+    {
+        "name": "Beazley",
+        "code": "BEZ.L",
+        "country": "UK",
+        "rank": 880
+    },
+    {
+        "name": "TechnipFMC",
+        "code": "FTI",
+        "country": "UK",
+        "rank": 881
+    },
+    {
+        "name": "DS Smith",
+        "code": "SMDS.L",
+        "country": "UK",
+        "rank": 882
+    },
+    {
+        "name": "M&G plc",
+        "code": "MNG.L",
+        "country": "UK",
+        "rank": 883
+    },
+    {
+        "name": "Endeavour Mining",
+        "code": "EDV.TO",
+        "country": "UK",
+        "rank": 884
+    },
+    {
+        "name": "The Weir Group",
+        "code": "WEIR.L",
+        "country": "UK",
+        "rank": 885
+    },
+    {
+        "name": "Airtel Africa",
+        "code": "AAF.L",
+        "country": "UK",
+        "rank": 886
+    },
+    {
+        "name": "Rightmove",
+        "code": "3JDA.F",
+        "country": "UK",
+        "rank": 887
+    },
+    {
+        "name": "Valaris",
+        "code": "VAL",
+        "country": "UK",
+        "rank": 888
+    },
+    {
+        "name": "Noble Corporation",
+        "code": "NE",
+        "country": "UK",
+        "rank": 889
+    },
+    {
+        "name": "Hargreaves Lansdown",
+        "code": "HL.L",
+        "country": "UK",
+        "rank": 890
+    },
+    {
+        "name": "HomeServe",
+        "code": "HSV.L",
+        "country": "UK",
+        "rank": 891
+    },
+    {
+        "name": "Persimmon",
+        "code": "PSN.L",
+        "country": "UK",
+        "rank": 892
+    },
+    {
+        "name": "Barratt Developments",
+        "code": "BDEV.L",
+        "country": "UK",
+        "rank": 893
+    },
+    {
+        "name": "Johnson Matthey",
+        "code": "JMAT.L",
+        "country": "UK",
+        "rank": 894
+    },
+    {
+        "name": "International Game Technology",
+        "code": "IGT",
+        "country": "UK",
+        "rank": 895
+    },
+    {
+        "name": "British Land",
+        "code": "BLDA.F",
+        "country": "UK",
+        "rank": 896
+    },
+    {
+        "name": "Unite Group (Unite Students)",
+        "code": "UTG.L",
+        "country": "UK",
+        "rank": 897
+    },
+    {
+        "name": "Endava",
+        "code": "DAVA",
+        "country": "UK",
+        "rank": 898
+    },
+    {
+        "name": "Diploma plc",
+        "code": "DPLM.L",
+        "country": "UK",
+        "rank": 899
+    },
+    {
+        "name": "Hikma Pharmaceuticals",
+        "code": "H5P.F",
+        "country": "UK",
+        "rank": 900
+    }
+]

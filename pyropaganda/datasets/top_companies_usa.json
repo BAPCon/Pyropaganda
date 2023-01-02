@@ -1,0 +1,5402 @@
+[
+    {
+        "name": "Apple",
+        "code": "AAPL",
+        "country": "USA",
+        "rank": 1
+    },
+    {
+        "name": "Microsoft",
+        "code": "MSFT",
+        "country": "USA",
+        "rank": 2
+    },
+    {
+        "name": "Alphabet (Google)",
+        "code": "GOOG",
+        "country": "USA",
+        "rank": 3
+    },
+    {
+        "name": "Amazon",
+        "code": "AMZN",
+        "country": "USA",
+        "rank": 4
+    },
+    {
+        "name": "Berkshire Hathaway ",
+        "code": "BRK-B",
+        "country": "USA",
+        "rank": 5
+    },
+    {
+        "name": "UnitedHealth",
+        "code": "UNH",
+        "country": "USA",
+        "rank": 6
+    },
+    {
+        "name": "Johnson & Johnson",
+        "code": "JNJ",
+        "country": "USA",
+        "rank": 7
+    },
+    {
+        "name": "Exxon Mobil",
+        "code": "XOM",
+        "country": "USA",
+        "rank": 8
+    },
+    {
+        "name": "Visa",
+        "code": "V",
+        "country": "USA",
+        "rank": 9
+    },
+    {
+        "name": "JPMorgan Chase",
+        "code": "JPM",
+        "country": "USA",
+        "rank": 10
+    },
+    {
+        "name": "Tesla",
+        "code": "TSLA",
+        "country": "USA",
+        "rank": 11
+    },
+    {
+        "name": "Walmart",
+        "code": "WMT",
+        "country": "USA",
+        "rank": 12
+    },
+    {
+        "name": "NVIDIA",
+        "code": "NVDA",
+        "country": "USA",
+        "rank": 13
+    },
+    {
+        "name": "Procter & Gamble",
+        "code": "PG",
+        "country": "USA",
+        "rank": 14
+    },
+    {
+        "name": "Eli Lilly",
+        "code": "LLY",
+        "country": "USA",
+        "rank": 15
+    },
+    {
+        "name": "Chevron",
+        "code": "CVX",
+        "country": "USA",
+        "rank": 16
+    },
+    {
+        "name": "Mastercard",
+        "code": "MA",
+        "country": "USA",
+        "rank": 17
+    },
+    {
+        "name": "Home Depot",
+        "code": "HD",
+        "country": "USA",
+        "rank": 18
+    },
+    {
+        "name": "Meta Platforms (Facebook)",
+        "code": "META",
+        "country": "USA",
+        "rank": 19
+    },
+    {
+        "name": "Pfizer",
+        "code": "PFE",
+        "country": "USA",
+        "rank": 20
+    },
+    {
+        "name": "AbbVie",
+        "code": "ABBV",
+        "country": "USA",
+        "rank": 21
+    },
+    {
+        "name": "Merck",
+        "code": "MRK",
+        "country": "USA",
+        "rank": 22
+    },
+    {
+        "name": "Coca-Cola",
+        "code": "KO",
+        "country": "USA",
+        "rank": 23
+    },
+    {
+        "name": "Bank of America ",
+        "code": "BAC",
+        "country": "USA",
+        "rank": 24
+    },
+    {
+        "name": "Pepsico",
+        "code": "PEP",
+        "country": "USA",
+        "rank": 25
+    },
+    {
+        "name": "Broadcom",
+        "code": "AVGO",
+        "country": "USA",
+        "rank": 26
+    },
+    {
+        "name": "Oracle",
+        "code": "ORCL",
+        "country": "USA",
+        "rank": 27
+    },
+    {
+        "name": "Thermo Fisher Scientific",
+        "code": "TMO",
+        "country": "USA",
+        "rank": 28
+    },
+    {
+        "name": "Costco",
+        "code": "COST",
+        "country": "USA",
+        "rank": 29
+    },
+    {
+        "name": "Cisco",
+        "code": "CSCO",
+        "country": "USA",
+        "rank": 30
+    },
+    {
+        "name": "Danaher",
+        "code": "DHR",
+        "country": "USA",
+        "rank": 31
+    },
+    {
+        "name": "McDonald",
+        "code": "MCD",
+        "country": "USA",
+        "rank": 32
+    },
+    {
+        "name": "Abbott Laboratories",
+        "code": "ABT",
+        "country": "USA",
+        "rank": 33
+    },
+    {
+        "name": "Nike",
+        "code": "NKE",
+        "country": "USA",
+        "rank": 34
+    },
+    {
+        "name": "T-Mobile US",
+        "code": "TMUS",
+        "country": "USA",
+        "rank": 35
+    },
+    {
+        "name": "Nextera Energy",
+        "code": "NEE",
+        "country": "USA",
+        "rank": 36
+    },
+    {
+        "name": "Verizon",
+        "code": "VZ",
+        "country": "USA",
+        "rank": 37
+    },
+    {
+        "name": "Walt Disney",
+        "code": "DIS",
+        "country": "USA",
+        "rank": 38
+    },
+    {
+        "name": "Wells Fargo",
+        "code": "WFC",
+        "country": "USA",
+        "rank": 39
+    },
+    {
+        "name": "Philip Morris",
+        "code": "PM",
+        "country": "USA",
+        "rank": 40
+    },
+    {
+        "name": "Adobe",
+        "code": "ADBE",
+        "country": "USA",
+        "rank": 41
+    },
+    {
+        "name": "Charles Schwab",
+        "code": "SCHW",
+        "country": "USA",
+        "rank": 42
+    },
+    {
+        "name": "Bristol-Myers Squibb",
+        "code": "BMY",
+        "country": "USA",
+        "rank": 43
+    },
+    {
+        "name": "Comcast",
+        "code": "CMCSA",
+        "country": "USA",
+        "rank": 44
+    },
+    {
+        "name": "United Parcel Service",
+        "code": "UPS",
+        "country": "USA",
+        "rank": 45
+    },
+    {
+        "name": "Texas Instruments",
+        "code": "TXN",
+        "country": "USA",
+        "rank": 46
+    },
+    {
+        "name": "Raytheon Technologies",
+        "code": "RTX",
+        "country": "USA",
+        "rank": 47
+    },
+    {
+        "name": "ConocoPhillips",
+        "code": "COP",
+        "country": "USA",
+        "rank": 48
+    },
+    {
+        "name": "Honeywell",
+        "code": "HON",
+        "country": "USA",
+        "rank": 49
+    },
+    {
+        "name": "Morgan Stanley",
+        "code": "MS",
+        "country": "USA",
+        "rank": 50
+    },
+    {
+        "name": "Amgen",
+        "code": "AMGN",
+        "country": "USA",
+        "rank": 51
+    },
+    {
+        "name": "Salesforce",
+        "code": "CRM",
+        "country": "USA",
+        "rank": 52
+    },
+    {
+        "name": "Netflix",
+        "code": "NFLX",
+        "country": "USA",
+        "rank": 53
+    },
+    {
+        "name": "AT&T",
+        "code": "T",
+        "country": "USA",
+        "rank": 54
+    },
+    {
+        "name": "Deere & Company",
+        "code": "DE",
+        "country": "USA",
+        "rank": 55
+    },
+    {
+        "name": "Lockheed Martin",
+        "code": "LMT",
+        "country": "USA",
+        "rank": 56
+    },
+    {
+        "name": "Union Pacific Corporation",
+        "code": "UNP",
+        "country": "USA",
+        "rank": 57
+    },
+    {
+        "name": "IBM",
+        "code": "IBM",
+        "country": "USA",
+        "rank": 58
+    },
+    {
+        "name": "Caterpillar",
+        "code": "CAT",
+        "country": "USA",
+        "rank": 59
+    },
+    {
+        "name": "QUALCOMM",
+        "code": "QCOM",
+        "country": "USA",
+        "rank": 60
+    },
+    {
+        "name": "Elevance Health",
+        "code": "ELV",
+        "country": "USA",
+        "rank": 61
+    },
+    {
+        "name": "CVS Health",
+        "code": "CVS",
+        "country": "USA",
+        "rank": 62
+    },
+    {
+        "name": "Lowe's Companies",
+        "code": "LOW",
+        "country": "USA",
+        "rank": 63
+    },
+    {
+        "name": "Goldman Sachs",
+        "code": "GS",
+        "country": "USA",
+        "rank": 64
+    },
+    {
+        "name": "Starbucks",
+        "code": "SBUX",
+        "country": "USA",
+        "rank": 65
+    },
+    {
+        "name": "Boeing",
+        "code": "BA",
+        "country": "USA",
+        "rank": 66
+    },
+    {
+        "name": "American Express",
+        "code": "AXP",
+        "country": "USA",
+        "rank": 67
+    },
+    {
+        "name": "Intuit",
+        "code": "INTU",
+        "country": "USA",
+        "rank": 68
+    },
+    {
+        "name": "S&P Global",
+        "code": "SPGI",
+        "country": "USA",
+        "rank": 69
+    },
+    {
+        "name": "Intel",
+        "code": "INTC",
+        "country": "USA",
+        "rank": 70
+    },
+    {
+        "name": "Gilead Sciences",
+        "code": "GILD",
+        "country": "USA",
+        "rank": 71
+    },
+    {
+        "name": "BlackRock",
+        "code": "BLK",
+        "country": "USA",
+        "rank": 72
+    },
+    {
+        "name": "AMD",
+        "code": "AMD",
+        "country": "USA",
+        "rank": 73
+    },
+    {
+        "name": "Prologis",
+        "code": "PLD",
+        "country": "USA",
+        "rank": 74
+    },
+    {
+        "name": "Cigna",
+        "code": "CI",
+        "country": "USA",
+        "rank": 75
+    },
+    {
+        "name": "Automatic Data Processing",
+        "code": "ADP",
+        "country": "USA",
+        "rank": 76
+    },
+    {
+        "name": "American Tower",
+        "code": "AMT",
+        "country": "USA",
+        "rank": 77
+    },
+    {
+        "name": "Intuitive Surgical",
+        "code": "ISRG",
+        "country": "USA",
+        "rank": 78
+    },
+    {
+        "name": "Stryker Corporation",
+        "code": "SYK",
+        "country": "USA",
+        "rank": 79
+    },
+    {
+        "name": "TJX Companies",
+        "code": "TJX",
+        "country": "USA",
+        "rank": 80
+    },
+    {
+        "name": "General Electric",
+        "code": "GE",
+        "country": "USA",
+        "rank": 81
+    },
+    {
+        "name": "Mondelez",
+        "code": "MDLZ",
+        "country": "USA",
+        "rank": 82
+    },
+    {
+        "name": "Estee Lauder",
+        "code": "EL",
+        "country": "USA",
+        "rank": 83
+    },
+    {
+        "name": "Citigroup",
+        "code": "C",
+        "country": "USA",
+        "rank": 84
+    },
+    {
+        "name": "Northrop Grumman",
+        "code": "NOC",
+        "country": "USA",
+        "rank": 85
+    },
+    {
+        "name": "Analog Devices",
+        "code": "ADI",
+        "country": "USA",
+        "rank": 86
+    },
+    {
+        "name": "Applied Materials",
+        "code": "AMAT",
+        "country": "USA",
+        "rank": 87
+    },
+    {
+        "name": "Marsh & McLennan Companies",
+        "code": "MMC",
+        "country": "USA",
+        "rank": 88
+    },
+    {
+        "name": "Altria Group",
+        "code": "MO",
+        "country": "USA",
+        "rank": 89
+    },
+    {
+        "name": "PayPal",
+        "code": "PYPL",
+        "country": "USA",
+        "rank": 90
+    },
+    {
+        "name": "Duke Energy",
+        "code": "DUK",
+        "country": "USA",
+        "rank": 91
+    },
+    {
+        "name": "Regeneron Pharmaceuticals",
+        "code": "REGN",
+        "country": "USA",
+        "rank": 92
+    },
+    {
+        "name": "ServiceNow",
+        "code": "NOW",
+        "country": "USA",
+        "rank": 93
+    },
+    {
+        "name": "Booking Holdings (Booking.com)",
+        "code": "BKNG",
+        "country": "USA",
+        "rank": 94
+    },
+    {
+        "name": "Southern Company",
+        "code": "SO",
+        "country": "USA",
+        "rank": 95
+    },
+    {
+        "name": "EOG Resources",
+        "code": "EOG",
+        "country": "USA",
+        "rank": 96
+    },
+    {
+        "name": "Progressive",
+        "code": "PGR",
+        "country": "USA",
+        "rank": 97
+    },
+    {
+        "name": "Schlumberger",
+        "code": "SLB",
+        "country": "USA",
+        "rank": 98
+    },
+    {
+        "name": "Vertex Pharmaceuticals",
+        "code": "VRTX",
+        "country": "USA",
+        "rank": 99
+    },
+    {
+        "name": "Becton Dickinson",
+        "code": "BDX",
+        "country": "USA",
+        "rank": 100
+    },
+    {
+        "name": "Apple",
+        "code": "AAPL",
+        "country": "USA",
+        "rank": 101
+    },
+    {
+        "name": "Microsoft",
+        "code": "MSFT",
+        "country": "USA",
+        "rank": 102
+    },
+    {
+        "name": "Alphabet (Google)",
+        "code": "GOOG",
+        "country": "USA",
+        "rank": 103
+    },
+    {
+        "name": "Amazon",
+        "code": "AMZN",
+        "country": "USA",
+        "rank": 104
+    },
+    {
+        "name": "Berkshire Hathaway ",
+        "code": "BRK-B",
+        "country": "USA",
+        "rank": 105
+    },
+    {
+        "name": "UnitedHealth",
+        "code": "UNH",
+        "country": "USA",
+        "rank": 106
+    },
+    {
+        "name": "Johnson & Johnson",
+        "code": "JNJ",
+        "country": "USA",
+        "rank": 107
+    },
+    {
+        "name": "Exxon Mobil",
+        "code": "XOM",
+        "country": "USA",
+        "rank": 108
+    },
+    {
+        "name": "Visa",
+        "code": "V",
+        "country": "USA",
+        "rank": 109
+    },
+    {
+        "name": "JPMorgan Chase",
+        "code": "JPM",
+        "country": "USA",
+        "rank": 110
+    },
+    {
+        "name": "Tesla",
+        "code": "TSLA",
+        "country": "USA",
+        "rank": 111
+    },
+    {
+        "name": "Walmart",
+        "code": "WMT",
+        "country": "USA",
+        "rank": 112
+    },
+    {
+        "name": "NVIDIA",
+        "code": "NVDA",
+        "country": "USA",
+        "rank": 113
+    },
+    {
+        "name": "Procter & Gamble",
+        "code": "PG",
+        "country": "USA",
+        "rank": 114
+    },
+    {
+        "name": "Eli Lilly",
+        "code": "LLY",
+        "country": "USA",
+        "rank": 115
+    },
+    {
+        "name": "Chevron",
+        "code": "CVX",
+        "country": "USA",
+        "rank": 116
+    },
+    {
+        "name": "Mastercard",
+        "code": "MA",
+        "country": "USA",
+        "rank": 117
+    },
+    {
+        "name": "Home Depot",
+        "code": "HD",
+        "country": "USA",
+        "rank": 118
+    },
+    {
+        "name": "Meta Platforms (Facebook)",
+        "code": "META",
+        "country": "USA",
+        "rank": 119
+    },
+    {
+        "name": "Pfizer",
+        "code": "PFE",
+        "country": "USA",
+        "rank": 120
+    },
+    {
+        "name": "AbbVie",
+        "code": "ABBV",
+        "country": "USA",
+        "rank": 121
+    },
+    {
+        "name": "Merck",
+        "code": "MRK",
+        "country": "USA",
+        "rank": 122
+    },
+    {
+        "name": "Coca-Cola",
+        "code": "KO",
+        "country": "USA",
+        "rank": 123
+    },
+    {
+        "name": "Bank of America ",
+        "code": "BAC",
+        "country": "USA",
+        "rank": 124
+    },
+    {
+        "name": "Pepsico",
+        "code": "PEP",
+        "country": "USA",
+        "rank": 125
+    },
+    {
+        "name": "Broadcom",
+        "code": "AVGO",
+        "country": "USA",
+        "rank": 126
+    },
+    {
+        "name": "Oracle",
+        "code": "ORCL",
+        "country": "USA",
+        "rank": 127
+    },
+    {
+        "name": "Thermo Fisher Scientific",
+        "code": "TMO",
+        "country": "USA",
+        "rank": 128
+    },
+    {
+        "name": "Costco",
+        "code": "COST",
+        "country": "USA",
+        "rank": 129
+    },
+    {
+        "name": "Cisco",
+        "code": "CSCO",
+        "country": "USA",
+        "rank": 130
+    },
+    {
+        "name": "Danaher",
+        "code": "DHR",
+        "country": "USA",
+        "rank": 131
+    },
+    {
+        "name": "McDonald",
+        "code": "MCD",
+        "country": "USA",
+        "rank": 132
+    },
+    {
+        "name": "Abbott Laboratories",
+        "code": "ABT",
+        "country": "USA",
+        "rank": 133
+    },
+    {
+        "name": "Nike",
+        "code": "NKE",
+        "country": "USA",
+        "rank": 134
+    },
+    {
+        "name": "T-Mobile US",
+        "code": "TMUS",
+        "country": "USA",
+        "rank": 135
+    },
+    {
+        "name": "Nextera Energy",
+        "code": "NEE",
+        "country": "USA",
+        "rank": 136
+    },
+    {
+        "name": "Verizon",
+        "code": "VZ",
+        "country": "USA",
+        "rank": 137
+    },
+    {
+        "name": "Walt Disney",
+        "code": "DIS",
+        "country": "USA",
+        "rank": 138
+    },
+    {
+        "name": "Wells Fargo",
+        "code": "WFC",
+        "country": "USA",
+        "rank": 139
+    },
+    {
+        "name": "Philip Morris",
+        "code": "PM",
+        "country": "USA",
+        "rank": 140
+    },
+    {
+        "name": "Adobe",
+        "code": "ADBE",
+        "country": "USA",
+        "rank": 141
+    },
+    {
+        "name": "Charles Schwab",
+        "code": "SCHW",
+        "country": "USA",
+        "rank": 142
+    },
+    {
+        "name": "Bristol-Myers Squibb",
+        "code": "BMY",
+        "country": "USA",
+        "rank": 143
+    },
+    {
+        "name": "Comcast",
+        "code": "CMCSA",
+        "country": "USA",
+        "rank": 144
+    },
+    {
+        "name": "United Parcel Service",
+        "code": "UPS",
+        "country": "USA",
+        "rank": 145
+    },
+    {
+        "name": "Texas Instruments",
+        "code": "TXN",
+        "country": "USA",
+        "rank": 146
+    },
+    {
+        "name": "Raytheon Technologies",
+        "code": "RTX",
+        "country": "USA",
+        "rank": 147
+    },
+    {
+        "name": "ConocoPhillips",
+        "code": "COP",
+        "country": "USA",
+        "rank": 148
+    },
+    {
+        "name": "Honeywell",
+        "code": "HON",
+        "country": "USA",
+        "rank": 149
+    },
+    {
+        "name": "Morgan Stanley",
+        "code": "MS",
+        "country": "USA",
+        "rank": 150
+    },
+    {
+        "name": "Amgen",
+        "code": "AMGN",
+        "country": "USA",
+        "rank": 151
+    },
+    {
+        "name": "Salesforce",
+        "code": "CRM",
+        "country": "USA",
+        "rank": 152
+    },
+    {
+        "name": "Netflix",
+        "code": "NFLX",
+        "country": "USA",
+        "rank": 153
+    },
+    {
+        "name": "AT&T",
+        "code": "T",
+        "country": "USA",
+        "rank": 154
+    },
+    {
+        "name": "Deere & Company",
+        "code": "DE",
+        "country": "USA",
+        "rank": 155
+    },
+    {
+        "name": "Lockheed Martin",
+        "code": "LMT",
+        "country": "USA",
+        "rank": 156
+    },
+    {
+        "name": "Union Pacific Corporation",
+        "code": "UNP",
+        "country": "USA",
+        "rank": 157
+    },
+    {
+        "name": "IBM",
+        "code": "IBM",
+        "country": "USA",
+        "rank": 158
+    },
+    {
+        "name": "Caterpillar",
+        "code": "CAT",
+        "country": "USA",
+        "rank": 159
+    },
+    {
+        "name": "QUALCOMM",
+        "code": "QCOM",
+        "country": "USA",
+        "rank": 160
+    },
+    {
+        "name": "Elevance Health",
+        "code": "ELV",
+        "country": "USA",
+        "rank": 161
+    },
+    {
+        "name": "CVS Health",
+        "code": "CVS",
+        "country": "USA",
+        "rank": 162
+    },
+    {
+        "name": "Lowe's Companies",
+        "code": "LOW",
+        "country": "USA",
+        "rank": 163
+    },
+    {
+        "name": "Goldman Sachs",
+        "code": "GS",
+        "country": "USA",
+        "rank": 164
+    },
+    {
+        "name": "Starbucks",
+        "code": "SBUX",
+        "country": "USA",
+        "rank": 165
+    },
+    {
+        "name": "Boeing",
+        "code": "BA",
+        "country": "USA",
+        "rank": 166
+    },
+    {
+        "name": "American Express",
+        "code": "AXP",
+        "country": "USA",
+        "rank": 167
+    },
+    {
+        "name": "Intuit",
+        "code": "INTU",
+        "country": "USA",
+        "rank": 168
+    },
+    {
+        "name": "S&P Global",
+        "code": "SPGI",
+        "country": "USA",
+        "rank": 169
+    },
+    {
+        "name": "Intel",
+        "code": "INTC",
+        "country": "USA",
+        "rank": 170
+    },
+    {
+        "name": "Gilead Sciences",
+        "code": "GILD",
+        "country": "USA",
+        "rank": 171
+    },
+    {
+        "name": "BlackRock",
+        "code": "BLK",
+        "country": "USA",
+        "rank": 172
+    },
+    {
+        "name": "AMD",
+        "code": "AMD",
+        "country": "USA",
+        "rank": 173
+    },
+    {
+        "name": "Prologis",
+        "code": "PLD",
+        "country": "USA",
+        "rank": 174
+    },
+    {
+        "name": "Cigna",
+        "code": "CI",
+        "country": "USA",
+        "rank": 175
+    },
+    {
+        "name": "Automatic Data Processing",
+        "code": "ADP",
+        "country": "USA",
+        "rank": 176
+    },
+    {
+        "name": "American Tower",
+        "code": "AMT",
+        "country": "USA",
+        "rank": 177
+    },
+    {
+        "name": "Intuitive Surgical",
+        "code": "ISRG",
+        "country": "USA",
+        "rank": 178
+    },
+    {
+        "name": "Stryker Corporation",
+        "code": "SYK",
+        "country": "USA",
+        "rank": 179
+    },
+    {
+        "name": "TJX Companies",
+        "code": "TJX",
+        "country": "USA",
+        "rank": 180
+    },
+    {
+        "name": "General Electric",
+        "code": "GE",
+        "country": "USA",
+        "rank": 181
+    },
+    {
+        "name": "Mondelez",
+        "code": "MDLZ",
+        "country": "USA",
+        "rank": 182
+    },
+    {
+        "name": "Estee Lauder",
+        "code": "EL",
+        "country": "USA",
+        "rank": 183
+    },
+    {
+        "name": "Citigroup",
+        "code": "C",
+        "country": "USA",
+        "rank": 184
+    },
+    {
+        "name": "Northrop Grumman",
+        "code": "NOC",
+        "country": "USA",
+        "rank": 185
+    },
+    {
+        "name": "Analog Devices",
+        "code": "ADI",
+        "country": "USA",
+        "rank": 186
+    },
+    {
+        "name": "Applied Materials",
+        "code": "AMAT",
+        "country": "USA",
+        "rank": 187
+    },
+    {
+        "name": "Marsh & McLennan Companies",
+        "code": "MMC",
+        "country": "USA",
+        "rank": 188
+    },
+    {
+        "name": "Altria Group",
+        "code": "MO",
+        "country": "USA",
+        "rank": 189
+    },
+    {
+        "name": "PayPal",
+        "code": "PYPL",
+        "country": "USA",
+        "rank": 190
+    },
+    {
+        "name": "Duke Energy",
+        "code": "DUK",
+        "country": "USA",
+        "rank": 191
+    },
+    {
+        "name": "Regeneron Pharmaceuticals",
+        "code": "REGN",
+        "country": "USA",
+        "rank": 192
+    },
+    {
+        "name": "ServiceNow",
+        "code": "NOW",
+        "country": "USA",
+        "rank": 193
+    },
+    {
+        "name": "Booking Holdings (Booking.com)",
+        "code": "BKNG",
+        "country": "USA",
+        "rank": 194
+    },
+    {
+        "name": "Southern Company",
+        "code": "SO",
+        "country": "USA",
+        "rank": 195
+    },
+    {
+        "name": "EOG Resources",
+        "code": "EOG",
+        "country": "USA",
+        "rank": 196
+    },
+    {
+        "name": "Progressive",
+        "code": "PGR",
+        "country": "USA",
+        "rank": 197
+    },
+    {
+        "name": "Schlumberger",
+        "code": "SLB",
+        "country": "USA",
+        "rank": 198
+    },
+    {
+        "name": "Vertex Pharmaceuticals",
+        "code": "VRTX",
+        "country": "USA",
+        "rank": 199
+    },
+    {
+        "name": "Becton Dickinson",
+        "code": "BDX",
+        "country": "USA",
+        "rank": 200
+    },
+    {
+        "name": "Apple",
+        "code": "AAPL",
+        "country": "USA",
+        "rank": 201
+    },
+    {
+        "name": "Microsoft",
+        "code": "MSFT",
+        "country": "USA",
+        "rank": 202
+    },
+    {
+        "name": "Alphabet (Google)",
+        "code": "GOOG",
+        "country": "USA",
+        "rank": 203
+    },
+    {
+        "name": "Amazon",
+        "code": "AMZN",
+        "country": "USA",
+        "rank": 204
+    },
+    {
+        "name": "Berkshire Hathaway ",
+        "code": "BRK-B",
+        "country": "USA",
+        "rank": 205
+    },
+    {
+        "name": "UnitedHealth",
+        "code": "UNH",
+        "country": "USA",
+        "rank": 206
+    },
+    {
+        "name": "Johnson & Johnson",
+        "code": "JNJ",
+        "country": "USA",
+        "rank": 207
+    },
+    {
+        "name": "Exxon Mobil",
+        "code": "XOM",
+        "country": "USA",
+        "rank": 208
+    },
+    {
+        "name": "Visa",
+        "code": "V",
+        "country": "USA",
+        "rank": 209
+    },
+    {
+        "name": "JPMorgan Chase",
+        "code": "JPM",
+        "country": "USA",
+        "rank": 210
+    },
+    {
+        "name": "Tesla",
+        "code": "TSLA",
+        "country": "USA",
+        "rank": 211
+    },
+    {
+        "name": "Walmart",
+        "code": "WMT",
+        "country": "USA",
+        "rank": 212
+    },
+    {
+        "name": "NVIDIA",
+        "code": "NVDA",
+        "country": "USA",
+        "rank": 213
+    },
+    {
+        "name": "Procter & Gamble",
+        "code": "PG",
+        "country": "USA",
+        "rank": 214
+    },
+    {
+        "name": "Eli Lilly",
+        "code": "LLY",
+        "country": "USA",
+        "rank": 215
+    },
+    {
+        "name": "Chevron",
+        "code": "CVX",
+        "country": "USA",
+        "rank": 216
+    },
+    {
+        "name": "Mastercard",
+        "code": "MA",
+        "country": "USA",
+        "rank": 217
+    },
+    {
+        "name": "Home Depot",
+        "code": "HD",
+        "country": "USA",
+        "rank": 218
+    },
+    {
+        "name": "Meta Platforms (Facebook)",
+        "code": "META",
+        "country": "USA",
+        "rank": 219
+    },
+    {
+        "name": "Pfizer",
+        "code": "PFE",
+        "country": "USA",
+        "rank": 220
+    },
+    {
+        "name": "AbbVie",
+        "code": "ABBV",
+        "country": "USA",
+        "rank": 221
+    },
+    {
+        "name": "Merck",
+        "code": "MRK",
+        "country": "USA",
+        "rank": 222
+    },
+    {
+        "name": "Coca-Cola",
+        "code": "KO",
+        "country": "USA",
+        "rank": 223
+    },
+    {
+        "name": "Bank of America ",
+        "code": "BAC",
+        "country": "USA",
+        "rank": 224
+    },
+    {
+        "name": "Pepsico",
+        "code": "PEP",
+        "country": "USA",
+        "rank": 225
+    },
+    {
+        "name": "Broadcom",
+        "code": "AVGO",
+        "country": "USA",
+        "rank": 226
+    },
+    {
+        "name": "Oracle",
+        "code": "ORCL",
+        "country": "USA",
+        "rank": 227
+    },
+    {
+        "name": "Thermo Fisher Scientific",
+        "code": "TMO",
+        "country": "USA",
+        "rank": 228
+    },
+    {
+        "name": "Costco",
+        "code": "COST",
+        "country": "USA",
+        "rank": 229
+    },
+    {
+        "name": "Cisco",
+        "code": "CSCO",
+        "country": "USA",
+        "rank": 230
+    },
+    {
+        "name": "Danaher",
+        "code": "DHR",
+        "country": "USA",
+        "rank": 231
+    },
+    {
+        "name": "McDonald",
+        "code": "MCD",
+        "country": "USA",
+        "rank": 232
+    },
+    {
+        "name": "Abbott Laboratories",
+        "code": "ABT",
+        "country": "USA",
+        "rank": 233
+    },
+    {
+        "name": "Nike",
+        "code": "NKE",
+        "country": "USA",
+        "rank": 234
+    },
+    {
+        "name": "T-Mobile US",
+        "code": "TMUS",
+        "country": "USA",
+        "rank": 235
+    },
+    {
+        "name": "Nextera Energy",
+        "code": "NEE",
+        "country": "USA",
+        "rank": 236
+    },
+    {
+        "name": "Verizon",
+        "code": "VZ",
+        "country": "USA",
+        "rank": 237
+    },
+    {
+        "name": "Walt Disney",
+        "code": "DIS",
+        "country": "USA",
+        "rank": 238
+    },
+    {
+        "name": "Wells Fargo",
+        "code": "WFC",
+        "country": "USA",
+        "rank": 239
+    },
+    {
+        "name": "Philip Morris",
+        "code": "PM",
+        "country": "USA",
+        "rank": 240
+    },
+    {
+        "name": "Adobe",
+        "code": "ADBE",
+        "country": "USA",
+        "rank": 241
+    },
+    {
+        "name": "Charles Schwab",
+        "code": "SCHW",
+        "country": "USA",
+        "rank": 242
+    },
+    {
+        "name": "Bristol-Myers Squibb",
+        "code": "BMY",
+        "country": "USA",
+        "rank": 243
+    },
+    {
+        "name": "Comcast",
+        "code": "CMCSA",
+        "country": "USA",
+        "rank": 244
+    },
+    {
+        "name": "United Parcel Service",
+        "code": "UPS",
+        "country": "USA",
+        "rank": 245
+    },
+    {
+        "name": "Texas Instruments",
+        "code": "TXN",
+        "country": "USA",
+        "rank": 246
+    },
+    {
+        "name": "Raytheon Technologies",
+        "code": "RTX",
+        "country": "USA",
+        "rank": 247
+    },
+    {
+        "name": "ConocoPhillips",
+        "code": "COP",
+        "country": "USA",
+        "rank": 248
+    },
+    {
+        "name": "Honeywell",
+        "code": "HON",
+        "country": "USA",
+        "rank": 249
+    },
+    {
+        "name": "Morgan Stanley",
+        "code": "MS",
+        "country": "USA",
+        "rank": 250
+    },
+    {
+        "name": "Amgen",
+        "code": "AMGN",
+        "country": "USA",
+        "rank": 251
+    },
+    {
+        "name": "Salesforce",
+        "code": "CRM",
+        "country": "USA",
+        "rank": 252
+    },
+    {
+        "name": "Netflix",
+        "code": "NFLX",
+        "country": "USA",
+        "rank": 253
+    },
+    {
+        "name": "AT&T",
+        "code": "T",
+        "country": "USA",
+        "rank": 254
+    },
+    {
+        "name": "Deere & Company",
+        "code": "DE",
+        "country": "USA",
+        "rank": 255
+    },
+    {
+        "name": "Lockheed Martin",
+        "code": "LMT",
+        "country": "USA",
+        "rank": 256
+    },
+    {
+        "name": "Union Pacific Corporation",
+        "code": "UNP",
+        "country": "USA",
+        "rank": 257
+    },
+    {
+        "name": "IBM",
+        "code": "IBM",
+        "country": "USA",
+        "rank": 258
+    },
+    {
+        "name": "Caterpillar",
+        "code": "CAT",
+        "country": "USA",
+        "rank": 259
+    },
+    {
+        "name": "QUALCOMM",
+        "code": "QCOM",
+        "country": "USA",
+        "rank": 260
+    },
+    {
+        "name": "Elevance Health",
+        "code": "ELV",
+        "country": "USA",
+        "rank": 261
+    },
+    {
+        "name": "CVS Health",
+        "code": "CVS",
+        "country": "USA",
+        "rank": 262
+    },
+    {
+        "name": "Lowe's Companies",
+        "code": "LOW",
+        "country": "USA",
+        "rank": 263
+    },
+    {
+        "name": "Goldman Sachs",
+        "code": "GS",
+        "country": "USA",
+        "rank": 264
+    },
+    {
+        "name": "Starbucks",
+        "code": "SBUX",
+        "country": "USA",
+        "rank": 265
+    },
+    {
+        "name": "Boeing",
+        "code": "BA",
+        "country": "USA",
+        "rank": 266
+    },
+    {
+        "name": "American Express",
+        "code": "AXP",
+        "country": "USA",
+        "rank": 267
+    },
+    {
+        "name": "Intuit",
+        "code": "INTU",
+        "country": "USA",
+        "rank": 268
+    },
+    {
+        "name": "S&P Global",
+        "code": "SPGI",
+        "country": "USA",
+        "rank": 269
+    },
+    {
+        "name": "Intel",
+        "code": "INTC",
+        "country": "USA",
+        "rank": 270
+    },
+    {
+        "name": "Gilead Sciences",
+        "code": "GILD",
+        "country": "USA",
+        "rank": 271
+    },
+    {
+        "name": "BlackRock",
+        "code": "BLK",
+        "country": "USA",
+        "rank": 272
+    },
+    {
+        "name": "AMD",
+        "code": "AMD",
+        "country": "USA",
+        "rank": 273
+    },
+    {
+        "name": "Prologis",
+        "code": "PLD",
+        "country": "USA",
+        "rank": 274
+    },
+    {
+        "name": "Cigna",
+        "code": "CI",
+        "country": "USA",
+        "rank": 275
+    },
+    {
+        "name": "Automatic Data Processing",
+        "code": "ADP",
+        "country": "USA",
+        "rank": 276
+    },
+    {
+        "name": "American Tower",
+        "code": "AMT",
+        "country": "USA",
+        "rank": 277
+    },
+    {
+        "name": "Intuitive Surgical",
+        "code": "ISRG",
+        "country": "USA",
+        "rank": 278
+    },
+    {
+        "name": "Stryker Corporation",
+        "code": "SYK",
+        "country": "USA",
+        "rank": 279
+    },
+    {
+        "name": "TJX Companies",
+        "code": "TJX",
+        "country": "USA",
+        "rank": 280
+    },
+    {
+        "name": "General Electric",
+        "code": "GE",
+        "country": "USA",
+        "rank": 281
+    },
+    {
+        "name": "Mondelez",
+        "code": "MDLZ",
+        "country": "USA",
+        "rank": 282
+    },
+    {
+        "name": "Estee Lauder",
+        "code": "EL",
+        "country": "USA",
+        "rank": 283
+    },
+    {
+        "name": "Citigroup",
+        "code": "C",
+        "country": "USA",
+        "rank": 284
+    },
+    {
+        "name": "Northrop Grumman",
+        "code": "NOC",
+        "country": "USA",
+        "rank": 285
+    },
+    {
+        "name": "Analog Devices",
+        "code": "ADI",
+        "country": "USA",
+        "rank": 286
+    },
+    {
+        "name": "Applied Materials",
+        "code": "AMAT",
+        "country": "USA",
+        "rank": 287
+    },
+    {
+        "name": "Marsh & McLennan Companies",
+        "code": "MMC",
+        "country": "USA",
+        "rank": 288
+    },
+    {
+        "name": "Altria Group",
+        "code": "MO",
+        "country": "USA",
+        "rank": 289
+    },
+    {
+        "name": "PayPal",
+        "code": "PYPL",
+        "country": "USA",
+        "rank": 290
+    },
+    {
+        "name": "Duke Energy",
+        "code": "DUK",
+        "country": "USA",
+        "rank": 291
+    },
+    {
+        "name": "Regeneron Pharmaceuticals",
+        "code": "REGN",
+        "country": "USA",
+        "rank": 292
+    },
+    {
+        "name": "ServiceNow",
+        "code": "NOW",
+        "country": "USA",
+        "rank": 293
+    },
+    {
+        "name": "Booking Holdings (Booking.com)",
+        "code": "BKNG",
+        "country": "USA",
+        "rank": 294
+    },
+    {
+        "name": "Southern Company",
+        "code": "SO",
+        "country": "USA",
+        "rank": 295
+    },
+    {
+        "name": "EOG Resources",
+        "code": "EOG",
+        "country": "USA",
+        "rank": 296
+    },
+    {
+        "name": "Progressive",
+        "code": "PGR",
+        "country": "USA",
+        "rank": 297
+    },
+    {
+        "name": "Schlumberger",
+        "code": "SLB",
+        "country": "USA",
+        "rank": 298
+    },
+    {
+        "name": "Vertex Pharmaceuticals",
+        "code": "VRTX",
+        "country": "USA",
+        "rank": 299
+    },
+    {
+        "name": "Becton Dickinson",
+        "code": "BDX",
+        "country": "USA",
+        "rank": 300
+    },
+    {
+        "name": "Apple",
+        "code": "AAPL",
+        "country": "USA",
+        "rank": 301
+    },
+    {
+        "name": "Microsoft",
+        "code": "MSFT",
+        "country": "USA",
+        "rank": 302
+    },
+    {
+        "name": "Alphabet (Google)",
+        "code": "GOOG",
+        "country": "USA",
+        "rank": 303
+    },
+    {
+        "name": "Amazon",
+        "code": "AMZN",
+        "country": "USA",
+        "rank": 304
+    },
+    {
+        "name": "Berkshire Hathaway ",
+        "code": "BRK-B",
+        "country": "USA",
+        "rank": 305
+    },
+    {
+        "name": "UnitedHealth",
+        "code": "UNH",
+        "country": "USA",
+        "rank": 306
+    },
+    {
+        "name": "Johnson & Johnson",
+        "code": "JNJ",
+        "country": "USA",
+        "rank": 307
+    },
+    {
+        "name": "Exxon Mobil",
+        "code": "XOM",
+        "country": "USA",
+        "rank": 308
+    },
+    {
+        "name": "Visa",
+        "code": "V",
+        "country": "USA",
+        "rank": 309
+    },
+    {
+        "name": "JPMorgan Chase",
+        "code": "JPM",
+        "country": "USA",
+        "rank": 310
+    },
+    {
+        "name": "Tesla",
+        "code": "TSLA",
+        "country": "USA",
+        "rank": 311
+    },
+    {
+        "name": "Walmart",
+        "code": "WMT",
+        "country": "USA",
+        "rank": 312
+    },
+    {
+        "name": "NVIDIA",
+        "code": "NVDA",
+        "country": "USA",
+        "rank": 313
+    },
+    {
+        "name": "Procter & Gamble",
+        "code": "PG",
+        "country": "USA",
+        "rank": 314
+    },
+    {
+        "name": "Eli Lilly",
+        "code": "LLY",
+        "country": "USA",
+        "rank": 315
+    },
+    {
+        "name": "Chevron",
+        "code": "CVX",
+        "country": "USA",
+        "rank": 316
+    },
+    {
+        "name": "Mastercard",
+        "code": "MA",
+        "country": "USA",
+        "rank": 317
+    },
+    {
+        "name": "Home Depot",
+        "code": "HD",
+        "country": "USA",
+        "rank": 318
+    },
+    {
+        "name": "Meta Platforms (Facebook)",
+        "code": "META",
+        "country": "USA",
+        "rank": 319
+    },
+    {
+        "name": "Pfizer",
+        "code": "PFE",
+        "country": "USA",
+        "rank": 320
+    },
+    {
+        "name": "AbbVie",
+        "code": "ABBV",
+        "country": "USA",
+        "rank": 321
+    },
+    {
+        "name": "Merck",
+        "code": "MRK",
+        "country": "USA",
+        "rank": 322
+    },
+    {
+        "name": "Coca-Cola",
+        "code": "KO",
+        "country": "USA",
+        "rank": 323
+    },
+    {
+        "name": "Bank of America ",
+        "code": "BAC",
+        "country": "USA",
+        "rank": 324
+    },
+    {
+        "name": "Pepsico",
+        "code": "PEP",
+        "country": "USA",
+        "rank": 325
+    },
+    {
+        "name": "Broadcom",
+        "code": "AVGO",
+        "country": "USA",
+        "rank": 326
+    },
+    {
+        "name": "Oracle",
+        "code": "ORCL",
+        "country": "USA",
+        "rank": 327
+    },
+    {
+        "name": "Thermo Fisher Scientific",
+        "code": "TMO",
+        "country": "USA",
+        "rank": 328
+    },
+    {
+        "name": "Costco",
+        "code": "COST",
+        "country": "USA",
+        "rank": 329
+    },
+    {
+        "name": "Cisco",
+        "code": "CSCO",
+        "country": "USA",
+        "rank": 330
+    },
+    {
+        "name": "Danaher",
+        "code": "DHR",
+        "country": "USA",
+        "rank": 331
+    },
+    {
+        "name": "McDonald",
+        "code": "MCD",
+        "country": "USA",
+        "rank": 332
+    },
+    {
+        "name": "Abbott Laboratories",
+        "code": "ABT",
+        "country": "USA",
+        "rank": 333
+    },
+    {
+        "name": "Nike",
+        "code": "NKE",
+        "country": "USA",
+        "rank": 334
+    },
+    {
+        "name": "T-Mobile US",
+        "code": "TMUS",
+        "country": "USA",
+        "rank": 335
+    },
+    {
+        "name": "Nextera Energy",
+        "code": "NEE",
+        "country": "USA",
+        "rank": 336
+    },
+    {
+        "name": "Verizon",
+        "code": "VZ",
+        "country": "USA",
+        "rank": 337
+    },
+    {
+        "name": "Walt Disney",
+        "code": "DIS",
+        "country": "USA",
+        "rank": 338
+    },
+    {
+        "name": "Wells Fargo",
+        "code": "WFC",
+        "country": "USA",
+        "rank": 339
+    },
+    {
+        "name": "Philip Morris",
+        "code": "PM",
+        "country": "USA",
+        "rank": 340
+    },
+    {
+        "name": "Adobe",
+        "code": "ADBE",
+        "country": "USA",
+        "rank": 341
+    },
+    {
+        "name": "Charles Schwab",
+        "code": "SCHW",
+        "country": "USA",
+        "rank": 342
+    },
+    {
+        "name": "Bristol-Myers Squibb",
+        "code": "BMY",
+        "country": "USA",
+        "rank": 343
+    },
+    {
+        "name": "Comcast",
+        "code": "CMCSA",
+        "country": "USA",
+        "rank": 344
+    },
+    {
+        "name": "United Parcel Service",
+        "code": "UPS",
+        "country": "USA",
+        "rank": 345
+    },
+    {
+        "name": "Texas Instruments",
+        "code": "TXN",
+        "country": "USA",
+        "rank": 346
+    },
+    {
+        "name": "Raytheon Technologies",
+        "code": "RTX",
+        "country": "USA",
+        "rank": 347
+    },
+    {
+        "name": "ConocoPhillips",
+        "code": "COP",
+        "country": "USA",
+        "rank": 348
+    },
+    {
+        "name": "Honeywell",
+        "code": "HON",
+        "country": "USA",
+        "rank": 349
+    },
+    {
+        "name": "Morgan Stanley",
+        "code": "MS",
+        "country": "USA",
+        "rank": 350
+    },
+    {
+        "name": "Amgen",
+        "code": "AMGN",
+        "country": "USA",
+        "rank": 351
+    },
+    {
+        "name": "Salesforce",
+        "code": "CRM",
+        "country": "USA",
+        "rank": 352
+    },
+    {
+        "name": "Netflix",
+        "code": "NFLX",
+        "country": "USA",
+        "rank": 353
+    },
+    {
+        "name": "AT&T",
+        "code": "T",
+        "country": "USA",
+        "rank": 354
+    },
+    {
+        "name": "Deere & Company",
+        "code": "DE",
+        "country": "USA",
+        "rank": 355
+    },
+    {
+        "name": "Lockheed Martin",
+        "code": "LMT",
+        "country": "USA",
+        "rank": 356
+    },
+    {
+        "name": "Union Pacific Corporation",
+        "code": "UNP",
+        "country": "USA",
+        "rank": 357
+    },
+    {
+        "name": "IBM",
+        "code": "IBM",
+        "country": "USA",
+        "rank": 358
+    },
+    {
+        "name": "Caterpillar",
+        "code": "CAT",
+        "country": "USA",
+        "rank": 359
+    },
+    {
+        "name": "QUALCOMM",
+        "code": "QCOM",
+        "country": "USA",
+        "rank": 360
+    },
+    {
+        "name": "Elevance Health",
+        "code": "ELV",
+        "country": "USA",
+        "rank": 361
+    },
+    {
+        "name": "CVS Health",
+        "code": "CVS",
+        "country": "USA",
+        "rank": 362
+    },
+    {
+        "name": "Lowe's Companies",
+        "code": "LOW",
+        "country": "USA",
+        "rank": 363
+    },
+    {
+        "name": "Goldman Sachs",
+        "code": "GS",
+        "country": "USA",
+        "rank": 364
+    },
+    {
+        "name": "Starbucks",
+        "code": "SBUX",
+        "country": "USA",
+        "rank": 365
+    },
+    {
+        "name": "Boeing",
+        "code": "BA",
+        "country": "USA",
+        "rank": 366
+    },
+    {
+        "name": "American Express",
+        "code": "AXP",
+        "country": "USA",
+        "rank": 367
+    },
+    {
+        "name": "Intuit",
+        "code": "INTU",
+        "country": "USA",
+        "rank": 368
+    },
+    {
+        "name": "S&P Global",
+        "code": "SPGI",
+        "country": "USA",
+        "rank": 369
+    },
+    {
+        "name": "Intel",
+        "code": "INTC",
+        "country": "USA",
+        "rank": 370
+    },
+    {
+        "name": "Gilead Sciences",
+        "code": "GILD",
+        "country": "USA",
+        "rank": 371
+    },
+    {
+        "name": "BlackRock",
+        "code": "BLK",
+        "country": "USA",
+        "rank": 372
+    },
+    {
+        "name": "AMD",
+        "code": "AMD",
+        "country": "USA",
+        "rank": 373
+    },
+    {
+        "name": "Prologis",
+        "code": "PLD",
+        "country": "USA",
+        "rank": 374
+    },
+    {
+        "name": "Cigna",
+        "code": "CI",
+        "country": "USA",
+        "rank": 375
+    },
+    {
+        "name": "Automatic Data Processing",
+        "code": "ADP",
+        "country": "USA",
+        "rank": 376
+    },
+    {
+        "name": "American Tower",
+        "code": "AMT",
+        "country": "USA",
+        "rank": 377
+    },
+    {
+        "name": "Intuitive Surgical",
+        "code": "ISRG",
+        "country": "USA",
+        "rank": 378
+    },
+    {
+        "name": "Stryker Corporation",
+        "code": "SYK",
+        "country": "USA",
+        "rank": 379
+    },
+    {
+        "name": "TJX Companies",
+        "code": "TJX",
+        "country": "USA",
+        "rank": 380
+    },
+    {
+        "name": "General Electric",
+        "code": "GE",
+        "country": "USA",
+        "rank": 381
+    },
+    {
+        "name": "Mondelez",
+        "code": "MDLZ",
+        "country": "USA",
+        "rank": 382
+    },
+    {
+        "name": "Estee Lauder",
+        "code": "EL",
+        "country": "USA",
+        "rank": 383
+    },
+    {
+        "name": "Citigroup",
+        "code": "C",
+        "country": "USA",
+        "rank": 384
+    },
+    {
+        "name": "Northrop Grumman",
+        "code": "NOC",
+        "country": "USA",
+        "rank": 385
+    },
+    {
+        "name": "Analog Devices",
+        "code": "ADI",
+        "country": "USA",
+        "rank": 386
+    },
+    {
+        "name": "Applied Materials",
+        "code": "AMAT",
+        "country": "USA",
+        "rank": 387
+    },
+    {
+        "name": "Marsh & McLennan Companies",
+        "code": "MMC",
+        "country": "USA",
+        "rank": 388
+    },
+    {
+        "name": "Altria Group",
+        "code": "MO",
+        "country": "USA",
+        "rank": 389
+    },
+    {
+        "name": "PayPal",
+        "code": "PYPL",
+        "country": "USA",
+        "rank": 390
+    },
+    {
+        "name": "Duke Energy",
+        "code": "DUK",
+        "country": "USA",
+        "rank": 391
+    },
+    {
+        "name": "Regeneron Pharmaceuticals",
+        "code": "REGN",
+        "country": "USA",
+        "rank": 392
+    },
+    {
+        "name": "ServiceNow",
+        "code": "NOW",
+        "country": "USA",
+        "rank": 393
+    },
+    {
+        "name": "Booking Holdings (Booking.com)",
+        "code": "BKNG",
+        "country": "USA",
+        "rank": 394
+    },
+    {
+        "name": "Southern Company",
+        "code": "SO",
+        "country": "USA",
+        "rank": 395
+    },
+    {
+        "name": "EOG Resources",
+        "code": "EOG",
+        "country": "USA",
+        "rank": 396
+    },
+    {
+        "name": "Progressive",
+        "code": "PGR",
+        "country": "USA",
+        "rank": 397
+    },
+    {
+        "name": "Schlumberger",
+        "code": "SLB",
+        "country": "USA",
+        "rank": 398
+    },
+    {
+        "name": "Vertex Pharmaceuticals",
+        "code": "VRTX",
+        "country": "USA",
+        "rank": 399
+    },
+    {
+        "name": "Becton Dickinson",
+        "code": "BDX",
+        "country": "USA",
+        "rank": 400
+    },
+    {
+        "name": "Apple",
+        "code": "AAPL",
+        "country": "USA",
+        "rank": 401
+    },
+    {
+        "name": "Microsoft",
+        "code": "MSFT",
+        "country": "USA",
+        "rank": 402
+    },
+    {
+        "name": "Alphabet (Google)",
+        "code": "GOOG",
+        "country": "USA",
+        "rank": 403
+    },
+    {
+        "name": "Amazon",
+        "code": "AMZN",
+        "country": "USA",
+        "rank": 404
+    },
+    {
+        "name": "Berkshire Hathaway ",
+        "code": "BRK-B",
+        "country": "USA",
+        "rank": 405
+    },
+    {
+        "name": "UnitedHealth",
+        "code": "UNH",
+        "country": "USA",
+        "rank": 406
+    },
+    {
+        "name": "Johnson & Johnson",
+        "code": "JNJ",
+        "country": "USA",
+        "rank": 407
+    },
+    {
+        "name": "Exxon Mobil",
+        "code": "XOM",
+        "country": "USA",
+        "rank": 408
+    },
+    {
+        "name": "Visa",
+        "code": "V",
+        "country": "USA",
+        "rank": 409
+    },
+    {
+        "name": "JPMorgan Chase",
+        "code": "JPM",
+        "country": "USA",
+        "rank": 410
+    },
+    {
+        "name": "Tesla",
+        "code": "TSLA",
+        "country": "USA",
+        "rank": 411
+    },
+    {
+        "name": "Walmart",
+        "code": "WMT",
+        "country": "USA",
+        "rank": 412
+    },
+    {
+        "name": "NVIDIA",
+        "code": "NVDA",
+        "country": "USA",
+        "rank": 413
+    },
+    {
+        "name": "Procter & Gamble",
+        "code": "PG",
+        "country": "USA",
+        "rank": 414
+    },
+    {
+        "name": "Eli Lilly",
+        "code": "LLY",
+        "country": "USA",
+        "rank": 415
+    },
+    {
+        "name": "Chevron",
+        "code": "CVX",
+        "country": "USA",
+        "rank": 416
+    },
+    {
+        "name": "Mastercard",
+        "code": "MA",
+        "country": "USA",
+        "rank": 417
+    },
+    {
+        "name": "Home Depot",
+        "code": "HD",
+        "country": "USA",
+        "rank": 418
+    },
+    {
+        "name": "Meta Platforms (Facebook)",
+        "code": "META",
+        "country": "USA",
+        "rank": 419
+    },
+    {
+        "name": "Pfizer",
+        "code": "PFE",
+        "country": "USA",
+        "rank": 420
+    },
+    {
+        "name": "AbbVie",
+        "code": "ABBV",
+        "country": "USA",
+        "rank": 421
+    },
+    {
+        "name": "Merck",
+        "code": "MRK",
+        "country": "USA",
+        "rank": 422
+    },
+    {
+        "name": "Coca-Cola",
+        "code": "KO",
+        "country": "USA",
+        "rank": 423
+    },
+    {
+        "name": "Bank of America ",
+        "code": "BAC",
+        "country": "USA",
+        "rank": 424
+    },
+    {
+        "name": "Pepsico",
+        "code": "PEP",
+        "country": "USA",
+        "rank": 425
+    },
+    {
+        "name": "Broadcom",
+        "code": "AVGO",
+        "country": "USA",
+        "rank": 426
+    },
+    {
+        "name": "Oracle",
+        "code": "ORCL",
+        "country": "USA",
+        "rank": 427
+    },
+    {
+        "name": "Thermo Fisher Scientific",
+        "code": "TMO",
+        "country": "USA",
+        "rank": 428
+    },
+    {
+        "name": "Costco",
+        "code": "COST",
+        "country": "USA",
+        "rank": 429
+    },
+    {
+        "name": "Cisco",
+        "code": "CSCO",
+        "country": "USA",
+        "rank": 430
+    },
+    {
+        "name": "Danaher",
+        "code": "DHR",
+        "country": "USA",
+        "rank": 431
+    },
+    {
+        "name": "McDonald",
+        "code": "MCD",
+        "country": "USA",
+        "rank": 432
+    },
+    {
+        "name": "Abbott Laboratories",
+        "code": "ABT",
+        "country": "USA",
+        "rank": 433
+    },
+    {
+        "name": "Nike",
+        "code": "NKE",
+        "country": "USA",
+        "rank": 434
+    },
+    {
+        "name": "T-Mobile US",
+        "code": "TMUS",
+        "country": "USA",
+        "rank": 435
+    },
+    {
+        "name": "Nextera Energy",
+        "code": "NEE",
+        "country": "USA",
+        "rank": 436
+    },
+    {
+        "name": "Verizon",
+        "code": "VZ",
+        "country": "USA",
+        "rank": 437
+    },
+    {
+        "name": "Walt Disney",
+        "code": "DIS",
+        "country": "USA",
+        "rank": 438
+    },
+    {
+        "name": "Wells Fargo",
+        "code": "WFC",
+        "country": "USA",
+        "rank": 439
+    },
+    {
+        "name": "Philip Morris",
+        "code": "PM",
+        "country": "USA",
+        "rank": 440
+    },
+    {
+        "name": "Adobe",
+        "code": "ADBE",
+        "country": "USA",
+        "rank": 441
+    },
+    {
+        "name": "Charles Schwab",
+        "code": "SCHW",
+        "country": "USA",
+        "rank": 442
+    },
+    {
+        "name": "Bristol-Myers Squibb",
+        "code": "BMY",
+        "country": "USA",
+        "rank": 443
+    },
+    {
+        "name": "Comcast",
+        "code": "CMCSA",
+        "country": "USA",
+        "rank": 444
+    },
+    {
+        "name": "United Parcel Service",
+        "code": "UPS",
+        "country": "USA",
+        "rank": 445
+    },
+    {
+        "name": "Texas Instruments",
+        "code": "TXN",
+        "country": "USA",
+        "rank": 446
+    },
+    {
+        "name": "Raytheon Technologies",
+        "code": "RTX",
+        "country": "USA",
+        "rank": 447
+    },
+    {
+        "name": "ConocoPhillips",
+        "code": "COP",
+        "country": "USA",
+        "rank": 448
+    },
+    {
+        "name": "Honeywell",
+        "code": "HON",
+        "country": "USA",
+        "rank": 449
+    },
+    {
+        "name": "Morgan Stanley",
+        "code": "MS",
+        "country": "USA",
+        "rank": 450
+    },
+    {
+        "name": "Amgen",
+        "code": "AMGN",
+        "country": "USA",
+        "rank": 451
+    },
+    {
+        "name": "Salesforce",
+        "code": "CRM",
+        "country": "USA",
+        "rank": 452
+    },
+    {
+        "name": "Netflix",
+        "code": "NFLX",
+        "country": "USA",
+        "rank": 453
+    },
+    {
+        "name": "AT&T",
+        "code": "T",
+        "country": "USA",
+        "rank": 454
+    },
+    {
+        "name": "Deere & Company",
+        "code": "DE",
+        "country": "USA",
+        "rank": 455
+    },
+    {
+        "name": "Lockheed Martin",
+        "code": "LMT",
+        "country": "USA",
+        "rank": 456
+    },
+    {
+        "name": "Union Pacific Corporation",
+        "code": "UNP",
+        "country": "USA",
+        "rank": 457
+    },
+    {
+        "name": "IBM",
+        "code": "IBM",
+        "country": "USA",
+        "rank": 458
+    },
+    {
+        "name": "Caterpillar",
+        "code": "CAT",
+        "country": "USA",
+        "rank": 459
+    },
+    {
+        "name": "QUALCOMM",
+        "code": "QCOM",
+        "country": "USA",
+        "rank": 460
+    },
+    {
+        "name": "Elevance Health",
+        "code": "ELV",
+        "country": "USA",
+        "rank": 461
+    },
+    {
+        "name": "CVS Health",
+        "code": "CVS",
+        "country": "USA",
+        "rank": 462
+    },
+    {
+        "name": "Lowe's Companies",
+        "code": "LOW",
+        "country": "USA",
+        "rank": 463
+    },
+    {
+        "name": "Goldman Sachs",
+        "code": "GS",
+        "country": "USA",
+        "rank": 464
+    },
+    {
+        "name": "Starbucks",
+        "code": "SBUX",
+        "country": "USA",
+        "rank": 465
+    },
+    {
+        "name": "Boeing",
+        "code": "BA",
+        "country": "USA",
+        "rank": 466
+    },
+    {
+        "name": "American Express",
+        "code": "AXP",
+        "country": "USA",
+        "rank": 467
+    },
+    {
+        "name": "Intuit",
+        "code": "INTU",
+        "country": "USA",
+        "rank": 468
+    },
+    {
+        "name": "S&P Global",
+        "code": "SPGI",
+        "country": "USA",
+        "rank": 469
+    },
+    {
+        "name": "Intel",
+        "code": "INTC",
+        "country": "USA",
+        "rank": 470
+    },
+    {
+        "name": "Gilead Sciences",
+        "code": "GILD",
+        "country": "USA",
+        "rank": 471
+    },
+    {
+        "name": "BlackRock",
+        "code": "BLK",
+        "country": "USA",
+        "rank": 472
+    },
+    {
+        "name": "AMD",
+        "code": "AMD",
+        "country": "USA",
+        "rank": 473
+    },
+    {
+        "name": "Prologis",
+        "code": "PLD",
+        "country": "USA",
+        "rank": 474
+    },
+    {
+        "name": "Cigna",
+        "code": "CI",
+        "country": "USA",
+        "rank": 475
+    },
+    {
+        "name": "Automatic Data Processing",
+        "code": "ADP",
+        "country": "USA",
+        "rank": 476
+    },
+    {
+        "name": "American Tower",
+        "code": "AMT",
+        "country": "USA",
+        "rank": 477
+    },
+    {
+        "name": "Intuitive Surgical",
+        "code": "ISRG",
+        "country": "USA",
+        "rank": 478
+    },
+    {
+        "name": "Stryker Corporation",
+        "code": "SYK",
+        "country": "USA",
+        "rank": 479
+    },
+    {
+        "name": "TJX Companies",
+        "code": "TJX",
+        "country": "USA",
+        "rank": 480
+    },
+    {
+        "name": "General Electric",
+        "code": "GE",
+        "country": "USA",
+        "rank": 481
+    },
+    {
+        "name": "Mondelez",
+        "code": "MDLZ",
+        "country": "USA",
+        "rank": 482
+    },
+    {
+        "name": "Estee Lauder",
+        "code": "EL",
+        "country": "USA",
+        "rank": 483
+    },
+    {
+        "name": "Citigroup",
+        "code": "C",
+        "country": "USA",
+        "rank": 484
+    },
+    {
+        "name": "Northrop Grumman",
+        "code": "NOC",
+        "country": "USA",
+        "rank": 485
+    },
+    {
+        "name": "Analog Devices",
+        "code": "ADI",
+        "country": "USA",
+        "rank": 486
+    },
+    {
+        "name": "Applied Materials",
+        "code": "AMAT",
+        "country": "USA",
+        "rank": 487
+    },
+    {
+        "name": "Marsh & McLennan Companies",
+        "code": "MMC",
+        "country": "USA",
+        "rank": 488
+    },
+    {
+        "name": "Altria Group",
+        "code": "MO",
+        "country": "USA",
+        "rank": 489
+    },
+    {
+        "name": "PayPal",
+        "code": "PYPL",
+        "country": "USA",
+        "rank": 490
+    },
+    {
+        "name": "Duke Energy",
+        "code": "DUK",
+        "country": "USA",
+        "rank": 491
+    },
+    {
+        "name": "Regeneron Pharmaceuticals",
+        "code": "REGN",
+        "country": "USA",
+        "rank": 492
+    },
+    {
+        "name": "ServiceNow",
+        "code": "NOW",
+        "country": "USA",
+        "rank": 493
+    },
+    {
+        "name": "Booking Holdings (Booking.com)",
+        "code": "BKNG",
+        "country": "USA",
+        "rank": 494
+    },
+    {
+        "name": "Southern Company",
+        "code": "SO",
+        "country": "USA",
+        "rank": 495
+    },
+    {
+        "name": "EOG Resources",
+        "code": "EOG",
+        "country": "USA",
+        "rank": 496
+    },
+    {
+        "name": "Progressive",
+        "code": "PGR",
+        "country": "USA",
+        "rank": 497
+    },
+    {
+        "name": "Schlumberger",
+        "code": "SLB",
+        "country": "USA",
+        "rank": 498
+    },
+    {
+        "name": "Vertex Pharmaceuticals",
+        "code": "VRTX",
+        "country": "USA",
+        "rank": 499
+    },
+    {
+        "name": "Becton Dickinson",
+        "code": "BDX",
+        "country": "USA",
+        "rank": 500
+    },
+    {
+        "name": "Apple",
+        "code": "AAPL",
+        "country": "USA",
+        "rank": 501
+    },
+    {
+        "name": "Microsoft",
+        "code": "MSFT",
+        "country": "USA",
+        "rank": 502
+    },
+    {
+        "name": "Alphabet (Google)",
+        "code": "GOOG",
+        "country": "USA",
+        "rank": 503
+    },
+    {
+        "name": "Amazon",
+        "code": "AMZN",
+        "country": "USA",
+        "rank": 504
+    },
+    {
+        "name": "Berkshire Hathaway ",
+        "code": "BRK-B",
+        "country": "USA",
+        "rank": 505
+    },
+    {
+        "name": "UnitedHealth",
+        "code": "UNH",
+        "country": "USA",
+        "rank": 506
+    },
+    {
+        "name": "Johnson & Johnson",
+        "code": "JNJ",
+        "country": "USA",
+        "rank": 507
+    },
+    {
+        "name": "Exxon Mobil",
+        "code": "XOM",
+        "country": "USA",
+        "rank": 508
+    },
+    {
+        "name": "Visa",
+        "code": "V",
+        "country": "USA",
+        "rank": 509
+    },
+    {
+        "name": "JPMorgan Chase",
+        "code": "JPM",
+        "country": "USA",
+        "rank": 510
+    },
+    {
+        "name": "Tesla",
+        "code": "TSLA",
+        "country": "USA",
+        "rank": 511
+    },
+    {
+        "name": "Walmart",
+        "code": "WMT",
+        "country": "USA",
+        "rank": 512
+    },
+    {
+        "name": "NVIDIA",
+        "code": "NVDA",
+        "country": "USA",
+        "rank": 513
+    },
+    {
+        "name": "Procter & Gamble",
+        "code": "PG",
+        "country": "USA",
+        "rank": 514
+    },
+    {
+        "name": "Eli Lilly",
+        "code": "LLY",
+        "country": "USA",
+        "rank": 515
+    },
+    {
+        "name": "Chevron",
+        "code": "CVX",
+        "country": "USA",
+        "rank": 516
+    },
+    {
+        "name": "Mastercard",
+        "code": "MA",
+        "country": "USA",
+        "rank": 517
+    },
+    {
+        "name": "Home Depot",
+        "code": "HD",
+        "country": "USA",
+        "rank": 518
+    },
+    {
+        "name": "Meta Platforms (Facebook)",
+        "code": "META",
+        "country": "USA",
+        "rank": 519
+    },
+    {
+        "name": "Pfizer",
+        "code": "PFE",
+        "country": "USA",
+        "rank": 520
+    },
+    {
+        "name": "AbbVie",
+        "code": "ABBV",
+        "country": "USA",
+        "rank": 521
+    },
+    {
+        "name": "Merck",
+        "code": "MRK",
+        "country": "USA",
+        "rank": 522
+    },
+    {
+        "name": "Coca-Cola",
+        "code": "KO",
+        "country": "USA",
+        "rank": 523
+    },
+    {
+        "name": "Bank of America ",
+        "code": "BAC",
+        "country": "USA",
+        "rank": 524
+    },
+    {
+        "name": "Pepsico",
+        "code": "PEP",
+        "country": "USA",
+        "rank": 525
+    },
+    {
+        "name": "Broadcom",
+        "code": "AVGO",
+        "country": "USA",
+        "rank": 526
+    },
+    {
+        "name": "Oracle",
+        "code": "ORCL",
+        "country": "USA",
+        "rank": 527
+    },
+    {
+        "name": "Thermo Fisher Scientific",
+        "code": "TMO",
+        "country": "USA",
+        "rank": 528
+    },
+    {
+        "name": "Costco",
+        "code": "COST",
+        "country": "USA",
+        "rank": 529
+    },
+    {
+        "name": "Cisco",
+        "code": "CSCO",
+        "country": "USA",
+        "rank": 530
+    },
+    {
+        "name": "Danaher",
+        "code": "DHR",
+        "country": "USA",
+        "rank": 531
+    },
+    {
+        "name": "McDonald",
+        "code": "MCD",
+        "country": "USA",
+        "rank": 532
+    },
+    {
+        "name": "Abbott Laboratories",
+        "code": "ABT",
+        "country": "USA",
+        "rank": 533
+    },
+    {
+        "name": "Nike",
+        "code": "NKE",
+        "country": "USA",
+        "rank": 534
+    },
+    {
+        "name": "T-Mobile US",
+        "code": "TMUS",
+        "country": "USA",
+        "rank": 535
+    },
+    {
+        "name": "Nextera Energy",
+        "code": "NEE",
+        "country": "USA",
+        "rank": 536
+    },
+    {
+        "name": "Verizon",
+        "code": "VZ",
+        "country": "USA",
+        "rank": 537
+    },
+    {
+        "name": "Walt Disney",
+        "code": "DIS",
+        "country": "USA",
+        "rank": 538
+    },
+    {
+        "name": "Wells Fargo",
+        "code": "WFC",
+        "country": "USA",
+        "rank": 539
+    },
+    {
+        "name": "Philip Morris",
+        "code": "PM",
+        "country": "USA",
+        "rank": 540
+    },
+    {
+        "name": "Adobe",
+        "code": "ADBE",
+        "country": "USA",
+        "rank": 541
+    },
+    {
+        "name": "Charles Schwab",
+        "code": "SCHW",
+        "country": "USA",
+        "rank": 542
+    },
+    {
+        "name": "Bristol-Myers Squibb",
+        "code": "BMY",
+        "country": "USA",
+        "rank": 543
+    },
+    {
+        "name": "Comcast",
+        "code": "CMCSA",
+        "country": "USA",
+        "rank": 544
+    },
+    {
+        "name": "United Parcel Service",
+        "code": "UPS",
+        "country": "USA",
+        "rank": 545
+    },
+    {
+        "name": "Texas Instruments",
+        "code": "TXN",
+        "country": "USA",
+        "rank": 546
+    },
+    {
+        "name": "Raytheon Technologies",
+        "code": "RTX",
+        "country": "USA",
+        "rank": 547
+    },
+    {
+        "name": "ConocoPhillips",
+        "code": "COP",
+        "country": "USA",
+        "rank": 548
+    },
+    {
+        "name": "Honeywell",
+        "code": "HON",
+        "country": "USA",
+        "rank": 549
+    },
+    {
+        "name": "Morgan Stanley",
+        "code": "MS",
+        "country": "USA",
+        "rank": 550
+    },
+    {
+        "name": "Amgen",
+        "code": "AMGN",
+        "country": "USA",
+        "rank": 551
+    },
+    {
+        "name": "Salesforce",
+        "code": "CRM",
+        "country": "USA",
+        "rank": 552
+    },
+    {
+        "name": "Netflix",
+        "code": "NFLX",
+        "country": "USA",
+        "rank": 553
+    },
+    {
+        "name": "AT&T",
+        "code": "T",
+        "country": "USA",
+        "rank": 554
+    },
+    {
+        "name": "Deere & Company",
+        "code": "DE",
+        "country": "USA",
+        "rank": 555
+    },
+    {
+        "name": "Lockheed Martin",
+        "code": "LMT",
+        "country": "USA",
+        "rank": 556
+    },
+    {
+        "name": "Union Pacific Corporation",
+        "code": "UNP",
+        "country": "USA",
+        "rank": 557
+    },
+    {
+        "name": "IBM",
+        "code": "IBM",
+        "country": "USA",
+        "rank": 558
+    },
+    {
+        "name": "Caterpillar",
+        "code": "CAT",
+        "country": "USA",
+        "rank": 559
+    },
+    {
+        "name": "QUALCOMM",
+        "code": "QCOM",
+        "country": "USA",
+        "rank": 560
+    },
+    {
+        "name": "Elevance Health",
+        "code": "ELV",
+        "country": "USA",
+        "rank": 561
+    },
+    {
+        "name": "CVS Health",
+        "code": "CVS",
+        "country": "USA",
+        "rank": 562
+    },
+    {
+        "name": "Lowe's Companies",
+        "code": "LOW",
+        "country": "USA",
+        "rank": 563
+    },
+    {
+        "name": "Goldman Sachs",
+        "code": "GS",
+        "country": "USA",
+        "rank": 564
+    },
+    {
+        "name": "Starbucks",
+        "code": "SBUX",
+        "country": "USA",
+        "rank": 565
+    },
+    {
+        "name": "Boeing",
+        "code": "BA",
+        "country": "USA",
+        "rank": 566
+    },
+    {
+        "name": "American Express",
+        "code": "AXP",
+        "country": "USA",
+        "rank": 567
+    },
+    {
+        "name": "Intuit",
+        "code": "INTU",
+        "country": "USA",
+        "rank": 568
+    },
+    {
+        "name": "S&P Global",
+        "code": "SPGI",
+        "country": "USA",
+        "rank": 569
+    },
+    {
+        "name": "Intel",
+        "code": "INTC",
+        "country": "USA",
+        "rank": 570
+    },
+    {
+        "name": "Gilead Sciences",
+        "code": "GILD",
+        "country": "USA",
+        "rank": 571
+    },
+    {
+        "name": "BlackRock",
+        "code": "BLK",
+        "country": "USA",
+        "rank": 572
+    },
+    {
+        "name": "AMD",
+        "code": "AMD",
+        "country": "USA",
+        "rank": 573
+    },
+    {
+        "name": "Prologis",
+        "code": "PLD",
+        "country": "USA",
+        "rank": 574
+    },
+    {
+        "name": "Cigna",
+        "code": "CI",
+        "country": "USA",
+        "rank": 575
+    },
+    {
+        "name": "Automatic Data Processing",
+        "code": "ADP",
+        "country": "USA",
+        "rank": 576
+    },
+    {
+        "name": "American Tower",
+        "code": "AMT",
+        "country": "USA",
+        "rank": 577
+    },
+    {
+        "name": "Intuitive Surgical",
+        "code": "ISRG",
+        "country": "USA",
+        "rank": 578
+    },
+    {
+        "name": "Stryker Corporation",
+        "code": "SYK",
+        "country": "USA",
+        "rank": 579
+    },
+    {
+        "name": "TJX Companies",
+        "code": "TJX",
+        "country": "USA",
+        "rank": 580
+    },
+    {
+        "name": "General Electric",
+        "code": "GE",
+        "country": "USA",
+        "rank": 581
+    },
+    {
+        "name": "Mondelez",
+        "code": "MDLZ",
+        "country": "USA",
+        "rank": 582
+    },
+    {
+        "name": "Estee Lauder",
+        "code": "EL",
+        "country": "USA",
+        "rank": 583
+    },
+    {
+        "name": "Citigroup",
+        "code": "C",
+        "country": "USA",
+        "rank": 584
+    },
+    {
+        "name": "Northrop Grumman",
+        "code": "NOC",
+        "country": "USA",
+        "rank": 585
+    },
+    {
+        "name": "Analog Devices",
+        "code": "ADI",
+        "country": "USA",
+        "rank": 586
+    },
+    {
+        "name": "Applied Materials",
+        "code": "AMAT",
+        "country": "USA",
+        "rank": 587
+    },
+    {
+        "name": "Marsh & McLennan Companies",
+        "code": "MMC",
+        "country": "USA",
+        "rank": 588
+    },
+    {
+        "name": "Altria Group",
+        "code": "MO",
+        "country": "USA",
+        "rank": 589
+    },
+    {
+        "name": "PayPal",
+        "code": "PYPL",
+        "country": "USA",
+        "rank": 590
+    },
+    {
+        "name": "Duke Energy",
+        "code": "DUK",
+        "country": "USA",
+        "rank": 591
+    },
+    {
+        "name": "Regeneron Pharmaceuticals",
+        "code": "REGN",
+        "country": "USA",
+        "rank": 592
+    },
+    {
+        "name": "ServiceNow",
+        "code": "NOW",
+        "country": "USA",
+        "rank": 593
+    },
+    {
+        "name": "Booking Holdings (Booking.com)",
+        "code": "BKNG",
+        "country": "USA",
+        "rank": 594
+    },
+    {
+        "name": "Southern Company",
+        "code": "SO",
+        "country": "USA",
+        "rank": 595
+    },
+    {
+        "name": "EOG Resources",
+        "code": "EOG",
+        "country": "USA",
+        "rank": 596
+    },
+    {
+        "name": "Progressive",
+        "code": "PGR",
+        "country": "USA",
+        "rank": 597
+    },
+    {
+        "name": "Schlumberger",
+        "code": "SLB",
+        "country": "USA",
+        "rank": 598
+    },
+    {
+        "name": "Vertex Pharmaceuticals",
+        "code": "VRTX",
+        "country": "USA",
+        "rank": 599
+    },
+    {
+        "name": "Becton Dickinson",
+        "code": "BDX",
+        "country": "USA",
+        "rank": 600
+    },
+    {
+        "name": "Apple",
+        "code": "AAPL",
+        "country": "USA",
+        "rank": 601
+    },
+    {
+        "name": "Microsoft",
+        "code": "MSFT",
+        "country": "USA",
+        "rank": 602
+    },
+    {
+        "name": "Alphabet (Google)",
+        "code": "GOOG",
+        "country": "USA",
+        "rank": 603
+    },
+    {
+        "name": "Amazon",
+        "code": "AMZN",
+        "country": "USA",
+        "rank": 604
+    },
+    {
+        "name": "Berkshire Hathaway ",
+        "code": "BRK-B",
+        "country": "USA",
+        "rank": 605
+    },
+    {
+        "name": "UnitedHealth",
+        "code": "UNH",
+        "country": "USA",
+        "rank": 606
+    },
+    {
+        "name": "Johnson & Johnson",
+        "code": "JNJ",
+        "country": "USA",
+        "rank": 607
+    },
+    {
+        "name": "Exxon Mobil",
+        "code": "XOM",
+        "country": "USA",
+        "rank": 608
+    },
+    {
+        "name": "Visa",
+        "code": "V",
+        "country": "USA",
+        "rank": 609
+    },
+    {
+        "name": "JPMorgan Chase",
+        "code": "JPM",
+        "country": "USA",
+        "rank": 610
+    },
+    {
+        "name": "Tesla",
+        "code": "TSLA",
+        "country": "USA",
+        "rank": 611
+    },
+    {
+        "name": "Walmart",
+        "code": "WMT",
+        "country": "USA",
+        "rank": 612
+    },
+    {
+        "name": "NVIDIA",
+        "code": "NVDA",
+        "country": "USA",
+        "rank": 613
+    },
+    {
+        "name": "Procter & Gamble",
+        "code": "PG",
+        "country": "USA",
+        "rank": 614
+    },
+    {
+        "name": "Eli Lilly",
+        "code": "LLY",
+        "country": "USA",
+        "rank": 615
+    },
+    {
+        "name": "Chevron",
+        "code": "CVX",
+        "country": "USA",
+        "rank": 616
+    },
+    {
+        "name": "Mastercard",
+        "code": "MA",
+        "country": "USA",
+        "rank": 617
+    },
+    {
+        "name": "Home Depot",
+        "code": "HD",
+        "country": "USA",
+        "rank": 618
+    },
+    {
+        "name": "Meta Platforms (Facebook)",
+        "code": "META",
+        "country": "USA",
+        "rank": 619
+    },
+    {
+        "name": "Pfizer",
+        "code": "PFE",
+        "country": "USA",
+        "rank": 620
+    },
+    {
+        "name": "AbbVie",
+        "code": "ABBV",
+        "country": "USA",
+        "rank": 621
+    },
+    {
+        "name": "Merck",
+        "code": "MRK",
+        "country": "USA",
+        "rank": 622
+    },
+    {
+        "name": "Coca-Cola",
+        "code": "KO",
+        "country": "USA",
+        "rank": 623
+    },
+    {
+        "name": "Bank of America ",
+        "code": "BAC",
+        "country": "USA",
+        "rank": 624
+    },
+    {
+        "name": "Pepsico",
+        "code": "PEP",
+        "country": "USA",
+        "rank": 625
+    },
+    {
+        "name": "Broadcom",
+        "code": "AVGO",
+        "country": "USA",
+        "rank": 626
+    },
+    {
+        "name": "Oracle",
+        "code": "ORCL",
+        "country": "USA",
+        "rank": 627
+    },
+    {
+        "name": "Thermo Fisher Scientific",
+        "code": "TMO",
+        "country": "USA",
+        "rank": 628
+    },
+    {
+        "name": "Costco",
+        "code": "COST",
+        "country": "USA",
+        "rank": 629
+    },
+    {
+        "name": "Cisco",
+        "code": "CSCO",
+        "country": "USA",
+        "rank": 630
+    },
+    {
+        "name": "Danaher",
+        "code": "DHR",
+        "country": "USA",
+        "rank": 631
+    },
+    {
+        "name": "McDonald",
+        "code": "MCD",
+        "country": "USA",
+        "rank": 632
+    },
+    {
+        "name": "Abbott Laboratories",
+        "code": "ABT",
+        "country": "USA",
+        "rank": 633
+    },
+    {
+        "name": "Nike",
+        "code": "NKE",
+        "country": "USA",
+        "rank": 634
+    },
+    {
+        "name": "T-Mobile US",
+        "code": "TMUS",
+        "country": "USA",
+        "rank": 635
+    },
+    {
+        "name": "Nextera Energy",
+        "code": "NEE",
+        "country": "USA",
+        "rank": 636
+    },
+    {
+        "name": "Verizon",
+        "code": "VZ",
+        "country": "USA",
+        "rank": 637
+    },
+    {
+        "name": "Walt Disney",
+        "code": "DIS",
+        "country": "USA",
+        "rank": 638
+    },
+    {
+        "name": "Wells Fargo",
+        "code": "WFC",
+        "country": "USA",
+        "rank": 639
+    },
+    {
+        "name": "Philip Morris",
+        "code": "PM",
+        "country": "USA",
+        "rank": 640
+    },
+    {
+        "name": "Adobe",
+        "code": "ADBE",
+        "country": "USA",
+        "rank": 641
+    },
+    {
+        "name": "Charles Schwab",
+        "code": "SCHW",
+        "country": "USA",
+        "rank": 642
+    },
+    {
+        "name": "Bristol-Myers Squibb",
+        "code": "BMY",
+        "country": "USA",
+        "rank": 643
+    },
+    {
+        "name": "Comcast",
+        "code": "CMCSA",
+        "country": "USA",
+        "rank": 644
+    },
+    {
+        "name": "United Parcel Service",
+        "code": "UPS",
+        "country": "USA",
+        "rank": 645
+    },
+    {
+        "name": "Texas Instruments",
+        "code": "TXN",
+        "country": "USA",
+        "rank": 646
+    },
+    {
+        "name": "Raytheon Technologies",
+        "code": "RTX",
+        "country": "USA",
+        "rank": 647
+    },
+    {
+        "name": "ConocoPhillips",
+        "code": "COP",
+        "country": "USA",
+        "rank": 648
+    },
+    {
+        "name": "Honeywell",
+        "code": "HON",
+        "country": "USA",
+        "rank": 649
+    },
+    {
+        "name": "Morgan Stanley",
+        "code": "MS",
+        "country": "USA",
+        "rank": 650
+    },
+    {
+        "name": "Amgen",
+        "code": "AMGN",
+        "country": "USA",
+        "rank": 651
+    },
+    {
+        "name": "Salesforce",
+        "code": "CRM",
+        "country": "USA",
+        "rank": 652
+    },
+    {
+        "name": "Netflix",
+        "code": "NFLX",
+        "country": "USA",
+        "rank": 653
+    },
+    {
+        "name": "AT&T",
+        "code": "T",
+        "country": "USA",
+        "rank": 654
+    },
+    {
+        "name": "Deere & Company",
+        "code": "DE",
+        "country": "USA",
+        "rank": 655
+    },
+    {
+        "name": "Lockheed Martin",
+        "code": "LMT",
+        "country": "USA",
+        "rank": 656
+    },
+    {
+        "name": "Union Pacific Corporation",
+        "code": "UNP",
+        "country": "USA",
+        "rank": 657
+    },
+    {
+        "name": "IBM",
+        "code": "IBM",
+        "country": "USA",
+        "rank": 658
+    },
+    {
+        "name": "Caterpillar",
+        "code": "CAT",
+        "country": "USA",
+        "rank": 659
+    },
+    {
+        "name": "QUALCOMM",
+        "code": "QCOM",
+        "country": "USA",
+        "rank": 660
+    },
+    {
+        "name": "Elevance Health",
+        "code": "ELV",
+        "country": "USA",
+        "rank": 661
+    },
+    {
+        "name": "CVS Health",
+        "code": "CVS",
+        "country": "USA",
+        "rank": 662
+    },
+    {
+        "name": "Lowe's Companies",
+        "code": "LOW",
+        "country": "USA",
+        "rank": 663
+    },
+    {
+        "name": "Goldman Sachs",
+        "code": "GS",
+        "country": "USA",
+        "rank": 664
+    },
+    {
+        "name": "Starbucks",
+        "code": "SBUX",
+        "country": "USA",
+        "rank": 665
+    },
+    {
+        "name": "Boeing",
+        "code": "BA",
+        "country": "USA",
+        "rank": 666
+    },
+    {
+        "name": "American Express",
+        "code": "AXP",
+        "country": "USA",
+        "rank": 667
+    },
+    {
+        "name": "Intuit",
+        "code": "INTU",
+        "country": "USA",
+        "rank": 668
+    },
+    {
+        "name": "S&P Global",
+        "code": "SPGI",
+        "country": "USA",
+        "rank": 669
+    },
+    {
+        "name": "Intel",
+        "code": "INTC",
+        "country": "USA",
+        "rank": 670
+    },
+    {
+        "name": "Gilead Sciences",
+        "code": "GILD",
+        "country": "USA",
+        "rank": 671
+    },
+    {
+        "name": "BlackRock",
+        "code": "BLK",
+        "country": "USA",
+        "rank": 672
+    },
+    {
+        "name": "AMD",
+        "code": "AMD",
+        "country": "USA",
+        "rank": 673
+    },
+    {
+        "name": "Prologis",
+        "code": "PLD",
+        "country": "USA",
+        "rank": 674
+    },
+    {
+        "name": "Cigna",
+        "code": "CI",
+        "country": "USA",
+        "rank": 675
+    },
+    {
+        "name": "Automatic Data Processing",
+        "code": "ADP",
+        "country": "USA",
+        "rank": 676
+    },
+    {
+        "name": "American Tower",
+        "code": "AMT",
+        "country": "USA",
+        "rank": 677
+    },
+    {
+        "name": "Intuitive Surgical",
+        "code": "ISRG",
+        "country": "USA",
+        "rank": 678
+    },
+    {
+        "name": "Stryker Corporation",
+        "code": "SYK",
+        "country": "USA",
+        "rank": 679
+    },
+    {
+        "name": "TJX Companies",
+        "code": "TJX",
+        "country": "USA",
+        "rank": 680
+    },
+    {
+        "name": "General Electric",
+        "code": "GE",
+        "country": "USA",
+        "rank": 681
+    },
+    {
+        "name": "Mondelez",
+        "code": "MDLZ",
+        "country": "USA",
+        "rank": 682
+    },
+    {
+        "name": "Estee Lauder",
+        "code": "EL",
+        "country": "USA",
+        "rank": 683
+    },
+    {
+        "name": "Citigroup",
+        "code": "C",
+        "country": "USA",
+        "rank": 684
+    },
+    {
+        "name": "Northrop Grumman",
+        "code": "NOC",
+        "country": "USA",
+        "rank": 685
+    },
+    {
+        "name": "Analog Devices",
+        "code": "ADI",
+        "country": "USA",
+        "rank": 686
+    },
+    {
+        "name": "Applied Materials",
+        "code": "AMAT",
+        "country": "USA",
+        "rank": 687
+    },
+    {
+        "name": "Marsh & McLennan Companies",
+        "code": "MMC",
+        "country": "USA",
+        "rank": 688
+    },
+    {
+        "name": "Altria Group",
+        "code": "MO",
+        "country": "USA",
+        "rank": 689
+    },
+    {
+        "name": "PayPal",
+        "code": "PYPL",
+        "country": "USA",
+        "rank": 690
+    },
+    {
+        "name": "Duke Energy",
+        "code": "DUK",
+        "country": "USA",
+        "rank": 691
+    },
+    {
+        "name": "Regeneron Pharmaceuticals",
+        "code": "REGN",
+        "country": "USA",
+        "rank": 692
+    },
+    {
+        "name": "ServiceNow",
+        "code": "NOW",
+        "country": "USA",
+        "rank": 693
+    },
+    {
+        "name": "Booking Holdings (Booking.com)",
+        "code": "BKNG",
+        "country": "USA",
+        "rank": 694
+    },
+    {
+        "name": "Southern Company",
+        "code": "SO",
+        "country": "USA",
+        "rank": 695
+    },
+    {
+        "name": "EOG Resources",
+        "code": "EOG",
+        "country": "USA",
+        "rank": 696
+    },
+    {
+        "name": "Progressive",
+        "code": "PGR",
+        "country": "USA",
+        "rank": 697
+    },
+    {
+        "name": "Schlumberger",
+        "code": "SLB",
+        "country": "USA",
+        "rank": 698
+    },
+    {
+        "name": "Vertex Pharmaceuticals",
+        "code": "VRTX",
+        "country": "USA",
+        "rank": 699
+    },
+    {
+        "name": "Becton Dickinson",
+        "code": "BDX",
+        "country": "USA",
+        "rank": 700
+    },
+    {
+        "name": "Apple",
+        "code": "AAPL",
+        "country": "USA",
+        "rank": 701
+    },
+    {
+        "name": "Microsoft",
+        "code": "MSFT",
+        "country": "USA",
+        "rank": 702
+    },
+    {
+        "name": "Alphabet (Google)",
+        "code": "GOOG",
+        "country": "USA",
+        "rank": 703
+    },
+    {
+        "name": "Amazon",
+        "code": "AMZN",
+        "country": "USA",
+        "rank": 704
+    },
+    {
+        "name": "Berkshire Hathaway ",
+        "code": "BRK-B",
+        "country": "USA",
+        "rank": 705
+    },
+    {
+        "name": "UnitedHealth",
+        "code": "UNH",
+        "country": "USA",
+        "rank": 706
+    },
+    {
+        "name": "Johnson & Johnson",
+        "code": "JNJ",
+        "country": "USA",
+        "rank": 707
+    },
+    {
+        "name": "Exxon Mobil",
+        "code": "XOM",
+        "country": "USA",
+        "rank": 708
+    },
+    {
+        "name": "Visa",
+        "code": "V",
+        "country": "USA",
+        "rank": 709
+    },
+    {
+        "name": "JPMorgan Chase",
+        "code": "JPM",
+        "country": "USA",
+        "rank": 710
+    },
+    {
+        "name": "Tesla",
+        "code": "TSLA",
+        "country": "USA",
+        "rank": 711
+    },
+    {
+        "name": "Walmart",
+        "code": "WMT",
+        "country": "USA",
+        "rank": 712
+    },
+    {
+        "name": "NVIDIA",
+        "code": "NVDA",
+        "country": "USA",
+        "rank": 713
+    },
+    {
+        "name": "Procter & Gamble",
+        "code": "PG",
+        "country": "USA",
+        "rank": 714
+    },
+    {
+        "name": "Eli Lilly",
+        "code": "LLY",
+        "country": "USA",
+        "rank": 715
+    },
+    {
+        "name": "Chevron",
+        "code": "CVX",
+        "country": "USA",
+        "rank": 716
+    },
+    {
+        "name": "Mastercard",
+        "code": "MA",
+        "country": "USA",
+        "rank": 717
+    },
+    {
+        "name": "Home Depot",
+        "code": "HD",
+        "country": "USA",
+        "rank": 718
+    },
+    {
+        "name": "Meta Platforms (Facebook)",
+        "code": "META",
+        "country": "USA",
+        "rank": 719
+    },
+    {
+        "name": "Pfizer",
+        "code": "PFE",
+        "country": "USA",
+        "rank": 720
+    },
+    {
+        "name": "AbbVie",
+        "code": "ABBV",
+        "country": "USA",
+        "rank": 721
+    },
+    {
+        "name": "Merck",
+        "code": "MRK",
+        "country": "USA",
+        "rank": 722
+    },
+    {
+        "name": "Coca-Cola",
+        "code": "KO",
+        "country": "USA",
+        "rank": 723
+    },
+    {
+        "name": "Bank of America ",
+        "code": "BAC",
+        "country": "USA",
+        "rank": 724
+    },
+    {
+        "name": "Pepsico",
+        "code": "PEP",
+        "country": "USA",
+        "rank": 725
+    },
+    {
+        "name": "Broadcom",
+        "code": "AVGO",
+        "country": "USA",
+        "rank": 726
+    },
+    {
+        "name": "Oracle",
+        "code": "ORCL",
+        "country": "USA",
+        "rank": 727
+    },
+    {
+        "name": "Thermo Fisher Scientific",
+        "code": "TMO",
+        "country": "USA",
+        "rank": 728
+    },
+    {
+        "name": "Costco",
+        "code": "COST",
+        "country": "USA",
+        "rank": 729
+    },
+    {
+        "name": "Cisco",
+        "code": "CSCO",
+        "country": "USA",
+        "rank": 730
+    },
+    {
+        "name": "Danaher",
+        "code": "DHR",
+        "country": "USA",
+        "rank": 731
+    },
+    {
+        "name": "McDonald",
+        "code": "MCD",
+        "country": "USA",
+        "rank": 732
+    },
+    {
+        "name": "Abbott Laboratories",
+        "code": "ABT",
+        "country": "USA",
+        "rank": 733
+    },
+    {
+        "name": "Nike",
+        "code": "NKE",
+        "country": "USA",
+        "rank": 734
+    },
+    {
+        "name": "T-Mobile US",
+        "code": "TMUS",
+        "country": "USA",
+        "rank": 735
+    },
+    {
+        "name": "Nextera Energy",
+        "code": "NEE",
+        "country": "USA",
+        "rank": 736
+    },
+    {
+        "name": "Verizon",
+        "code": "VZ",
+        "country": "USA",
+        "rank": 737
+    },
+    {
+        "name": "Walt Disney",
+        "code": "DIS",
+        "country": "USA",
+        "rank": 738
+    },
+    {
+        "name": "Wells Fargo",
+        "code": "WFC",
+        "country": "USA",
+        "rank": 739
+    },
+    {
+        "name": "Philip Morris",
+        "code": "PM",
+        "country": "USA",
+        "rank": 740
+    },
+    {
+        "name": "Adobe",
+        "code": "ADBE",
+        "country": "USA",
+        "rank": 741
+    },
+    {
+        "name": "Charles Schwab",
+        "code": "SCHW",
+        "country": "USA",
+        "rank": 742
+    },
+    {
+        "name": "Bristol-Myers Squibb",
+        "code": "BMY",
+        "country": "USA",
+        "rank": 743
+    },
+    {
+        "name": "Comcast",
+        "code": "CMCSA",
+        "country": "USA",
+        "rank": 744
+    },
+    {
+        "name": "United Parcel Service",
+        "code": "UPS",
+        "country": "USA",
+        "rank": 745
+    },
+    {
+        "name": "Texas Instruments",
+        "code": "TXN",
+        "country": "USA",
+        "rank": 746
+    },
+    {
+        "name": "Raytheon Technologies",
+        "code": "RTX",
+        "country": "USA",
+        "rank": 747
+    },
+    {
+        "name": "ConocoPhillips",
+        "code": "COP",
+        "country": "USA",
+        "rank": 748
+    },
+    {
+        "name": "Honeywell",
+        "code": "HON",
+        "country": "USA",
+        "rank": 749
+    },
+    {
+        "name": "Morgan Stanley",
+        "code": "MS",
+        "country": "USA",
+        "rank": 750
+    },
+    {
+        "name": "Amgen",
+        "code": "AMGN",
+        "country": "USA",
+        "rank": 751
+    },
+    {
+        "name": "Salesforce",
+        "code": "CRM",
+        "country": "USA",
+        "rank": 752
+    },
+    {
+        "name": "Netflix",
+        "code": "NFLX",
+        "country": "USA",
+        "rank": 753
+    },
+    {
+        "name": "AT&T",
+        "code": "T",
+        "country": "USA",
+        "rank": 754
+    },
+    {
+        "name": "Deere & Company",
+        "code": "DE",
+        "country": "USA",
+        "rank": 755
+    },
+    {
+        "name": "Lockheed Martin",
+        "code": "LMT",
+        "country": "USA",
+        "rank": 756
+    },
+    {
+        "name": "Union Pacific Corporation",
+        "code": "UNP",
+        "country": "USA",
+        "rank": 757
+    },
+    {
+        "name": "IBM",
+        "code": "IBM",
+        "country": "USA",
+        "rank": 758
+    },
+    {
+        "name": "Caterpillar",
+        "code": "CAT",
+        "country": "USA",
+        "rank": 759
+    },
+    {
+        "name": "QUALCOMM",
+        "code": "QCOM",
+        "country": "USA",
+        "rank": 760
+    },
+    {
+        "name": "Elevance Health",
+        "code": "ELV",
+        "country": "USA",
+        "rank": 761
+    },
+    {
+        "name": "CVS Health",
+        "code": "CVS",
+        "country": "USA",
+        "rank": 762
+    },
+    {
+        "name": "Lowe's Companies",
+        "code": "LOW",
+        "country": "USA",
+        "rank": 763
+    },
+    {
+        "name": "Goldman Sachs",
+        "code": "GS",
+        "country": "USA",
+        "rank": 764
+    },
+    {
+        "name": "Starbucks",
+        "code": "SBUX",
+        "country": "USA",
+        "rank": 765
+    },
+    {
+        "name": "Boeing",
+        "code": "BA",
+        "country": "USA",
+        "rank": 766
+    },
+    {
+        "name": "American Express",
+        "code": "AXP",
+        "country": "USA",
+        "rank": 767
+    },
+    {
+        "name": "Intuit",
+        "code": "INTU",
+        "country": "USA",
+        "rank": 768
+    },
+    {
+        "name": "S&P Global",
+        "code": "SPGI",
+        "country": "USA",
+        "rank": 769
+    },
+    {
+        "name": "Intel",
+        "code": "INTC",
+        "country": "USA",
+        "rank": 770
+    },
+    {
+        "name": "Gilead Sciences",
+        "code": "GILD",
+        "country": "USA",
+        "rank": 771
+    },
+    {
+        "name": "BlackRock",
+        "code": "BLK",
+        "country": "USA",
+        "rank": 772
+    },
+    {
+        "name": "AMD",
+        "code": "AMD",
+        "country": "USA",
+        "rank": 773
+    },
+    {
+        "name": "Prologis",
+        "code": "PLD",
+        "country": "USA",
+        "rank": 774
+    },
+    {
+        "name": "Cigna",
+        "code": "CI",
+        "country": "USA",
+        "rank": 775
+    },
+    {
+        "name": "Automatic Data Processing",
+        "code": "ADP",
+        "country": "USA",
+        "rank": 776
+    },
+    {
+        "name": "American Tower",
+        "code": "AMT",
+        "country": "USA",
+        "rank": 777
+    },
+    {
+        "name": "Intuitive Surgical",
+        "code": "ISRG",
+        "country": "USA",
+        "rank": 778
+    },
+    {
+        "name": "Stryker Corporation",
+        "code": "SYK",
+        "country": "USA",
+        "rank": 779
+    },
+    {
+        "name": "TJX Companies",
+        "code": "TJX",
+        "country": "USA",
+        "rank": 780
+    },
+    {
+        "name": "General Electric",
+        "code": "GE",
+        "country": "USA",
+        "rank": 781
+    },
+    {
+        "name": "Mondelez",
+        "code": "MDLZ",
+        "country": "USA",
+        "rank": 782
+    },
+    {
+        "name": "Estee Lauder",
+        "code": "EL",
+        "country": "USA",
+        "rank": 783
+    },
+    {
+        "name": "Citigroup",
+        "code": "C",
+        "country": "USA",
+        "rank": 784
+    },
+    {
+        "name": "Northrop Grumman",
+        "code": "NOC",
+        "country": "USA",
+        "rank": 785
+    },
+    {
+        "name": "Analog Devices",
+        "code": "ADI",
+        "country": "USA",
+        "rank": 786
+    },
+    {
+        "name": "Applied Materials",
+        "code": "AMAT",
+        "country": "USA",
+        "rank": 787
+    },
+    {
+        "name": "Marsh & McLennan Companies",
+        "code": "MMC",
+        "country": "USA",
+        "rank": 788
+    },
+    {
+        "name": "Altria Group",
+        "code": "MO",
+        "country": "USA",
+        "rank": 789
+    },
+    {
+        "name": "PayPal",
+        "code": "PYPL",
+        "country": "USA",
+        "rank": 790
+    },
+    {
+        "name": "Duke Energy",
+        "code": "DUK",
+        "country": "USA",
+        "rank": 791
+    },
+    {
+        "name": "Regeneron Pharmaceuticals",
+        "code": "REGN",
+        "country": "USA",
+        "rank": 792
+    },
+    {
+        "name": "ServiceNow",
+        "code": "NOW",
+        "country": "USA",
+        "rank": 793
+    },
+    {
+        "name": "Booking Holdings (Booking.com)",
+        "code": "BKNG",
+        "country": "USA",
+        "rank": 794
+    },
+    {
+        "name": "Southern Company",
+        "code": "SO",
+        "country": "USA",
+        "rank": 795
+    },
+    {
+        "name": "EOG Resources",
+        "code": "EOG",
+        "country": "USA",
+        "rank": 796
+    },
+    {
+        "name": "Progressive",
+        "code": "PGR",
+        "country": "USA",
+        "rank": 797
+    },
+    {
+        "name": "Schlumberger",
+        "code": "SLB",
+        "country": "USA",
+        "rank": 798
+    },
+    {
+        "name": "Vertex Pharmaceuticals",
+        "code": "VRTX",
+        "country": "USA",
+        "rank": 799
+    },
+    {
+        "name": "Becton Dickinson",
+        "code": "BDX",
+        "country": "USA",
+        "rank": 800
+    },
+    {
+        "name": "Apple",
+        "code": "AAPL",
+        "country": "USA",
+        "rank": 801
+    },
+    {
+        "name": "Microsoft",
+        "code": "MSFT",
+        "country": "USA",
+        "rank": 802
+    },
+    {
+        "name": "Alphabet (Google)",
+        "code": "GOOG",
+        "country": "USA",
+        "rank": 803
+    },
+    {
+        "name": "Amazon",
+        "code": "AMZN",
+        "country": "USA",
+        "rank": 804
+    },
+    {
+        "name": "Berkshire Hathaway ",
+        "code": "BRK-B",
+        "country": "USA",
+        "rank": 805
+    },
+    {
+        "name": "UnitedHealth",
+        "code": "UNH",
+        "country": "USA",
+        "rank": 806
+    },
+    {
+        "name": "Johnson & Johnson",
+        "code": "JNJ",
+        "country": "USA",
+        "rank": 807
+    },
+    {
+        "name": "Exxon Mobil",
+        "code": "XOM",
+        "country": "USA",
+        "rank": 808
+    },
+    {
+        "name": "Visa",
+        "code": "V",
+        "country": "USA",
+        "rank": 809
+    },
+    {
+        "name": "JPMorgan Chase",
+        "code": "JPM",
+        "country": "USA",
+        "rank": 810
+    },
+    {
+        "name": "Tesla",
+        "code": "TSLA",
+        "country": "USA",
+        "rank": 811
+    },
+    {
+        "name": "Walmart",
+        "code": "WMT",
+        "country": "USA",
+        "rank": 812
+    },
+    {
+        "name": "NVIDIA",
+        "code": "NVDA",
+        "country": "USA",
+        "rank": 813
+    },
+    {
+        "name": "Procter & Gamble",
+        "code": "PG",
+        "country": "USA",
+        "rank": 814
+    },
+    {
+        "name": "Eli Lilly",
+        "code": "LLY",
+        "country": "USA",
+        "rank": 815
+    },
+    {
+        "name": "Chevron",
+        "code": "CVX",
+        "country": "USA",
+        "rank": 816
+    },
+    {
+        "name": "Mastercard",
+        "code": "MA",
+        "country": "USA",
+        "rank": 817
+    },
+    {
+        "name": "Home Depot",
+        "code": "HD",
+        "country": "USA",
+        "rank": 818
+    },
+    {
+        "name": "Meta Platforms (Facebook)",
+        "code": "META",
+        "country": "USA",
+        "rank": 819
+    },
+    {
+        "name": "Pfizer",
+        "code": "PFE",
+        "country": "USA",
+        "rank": 820
+    },
+    {
+        "name": "AbbVie",
+        "code": "ABBV",
+        "country": "USA",
+        "rank": 821
+    },
+    {
+        "name": "Merck",
+        "code": "MRK",
+        "country": "USA",
+        "rank": 822
+    },
+    {
+        "name": "Coca-Cola",
+        "code": "KO",
+        "country": "USA",
+        "rank": 823
+    },
+    {
+        "name": "Bank of America ",
+        "code": "BAC",
+        "country": "USA",
+        "rank": 824
+    },
+    {
+        "name": "Pepsico",
+        "code": "PEP",
+        "country": "USA",
+        "rank": 825
+    },
+    {
+        "name": "Broadcom",
+        "code": "AVGO",
+        "country": "USA",
+        "rank": 826
+    },
+    {
+        "name": "Oracle",
+        "code": "ORCL",
+        "country": "USA",
+        "rank": 827
+    },
+    {
+        "name": "Thermo Fisher Scientific",
+        "code": "TMO",
+        "country": "USA",
+        "rank": 828
+    },
+    {
+        "name": "Costco",
+        "code": "COST",
+        "country": "USA",
+        "rank": 829
+    },
+    {
+        "name": "Cisco",
+        "code": "CSCO",
+        "country": "USA",
+        "rank": 830
+    },
+    {
+        "name": "Danaher",
+        "code": "DHR",
+        "country": "USA",
+        "rank": 831
+    },
+    {
+        "name": "McDonald",
+        "code": "MCD",
+        "country": "USA",
+        "rank": 832
+    },
+    {
+        "name": "Abbott Laboratories",
+        "code": "ABT",
+        "country": "USA",
+        "rank": 833
+    },
+    {
+        "name": "Nike",
+        "code": "NKE",
+        "country": "USA",
+        "rank": 834
+    },
+    {
+        "name": "T-Mobile US",
+        "code": "TMUS",
+        "country": "USA",
+        "rank": 835
+    },
+    {
+        "name": "Nextera Energy",
+        "code": "NEE",
+        "country": "USA",
+        "rank": 836
+    },
+    {
+        "name": "Verizon",
+        "code": "VZ",
+        "country": "USA",
+        "rank": 837
+    },
+    {
+        "name": "Walt Disney",
+        "code": "DIS",
+        "country": "USA",
+        "rank": 838
+    },
+    {
+        "name": "Wells Fargo",
+        "code": "WFC",
+        "country": "USA",
+        "rank": 839
+    },
+    {
+        "name": "Philip Morris",
+        "code": "PM",
+        "country": "USA",
+        "rank": 840
+    },
+    {
+        "name": "Adobe",
+        "code": "ADBE",
+        "country": "USA",
+        "rank": 841
+    },
+    {
+        "name": "Charles Schwab",
+        "code": "SCHW",
+        "country": "USA",
+        "rank": 842
+    },
+    {
+        "name": "Bristol-Myers Squibb",
+        "code": "BMY",
+        "country": "USA",
+        "rank": 843
+    },
+    {
+        "name": "Comcast",
+        "code": "CMCSA",
+        "country": "USA",
+        "rank": 844
+    },
+    {
+        "name": "United Parcel Service",
+        "code": "UPS",
+        "country": "USA",
+        "rank": 845
+    },
+    {
+        "name": "Texas Instruments",
+        "code": "TXN",
+        "country": "USA",
+        "rank": 846
+    },
+    {
+        "name": "Raytheon Technologies",
+        "code": "RTX",
+        "country": "USA",
+        "rank": 847
+    },
+    {
+        "name": "ConocoPhillips",
+        "code": "COP",
+        "country": "USA",
+        "rank": 848
+    },
+    {
+        "name": "Honeywell",
+        "code": "HON",
+        "country": "USA",
+        "rank": 849
+    },
+    {
+        "name": "Morgan Stanley",
+        "code": "MS",
+        "country": "USA",
+        "rank": 850
+    },
+    {
+        "name": "Amgen",
+        "code": "AMGN",
+        "country": "USA",
+        "rank": 851
+    },
+    {
+        "name": "Salesforce",
+        "code": "CRM",
+        "country": "USA",
+        "rank": 852
+    },
+    {
+        "name": "Netflix",
+        "code": "NFLX",
+        "country": "USA",
+        "rank": 853
+    },
+    {
+        "name": "AT&T",
+        "code": "T",
+        "country": "USA",
+        "rank": 854
+    },
+    {
+        "name": "Deere & Company",
+        "code": "DE",
+        "country": "USA",
+        "rank": 855
+    },
+    {
+        "name": "Lockheed Martin",
+        "code": "LMT",
+        "country": "USA",
+        "rank": 856
+    },
+    {
+        "name": "Union Pacific Corporation",
+        "code": "UNP",
+        "country": "USA",
+        "rank": 857
+    },
+    {
+        "name": "IBM",
+        "code": "IBM",
+        "country": "USA",
+        "rank": 858
+    },
+    {
+        "name": "Caterpillar",
+        "code": "CAT",
+        "country": "USA",
+        "rank": 859
+    },
+    {
+        "name": "QUALCOMM",
+        "code": "QCOM",
+        "country": "USA",
+        "rank": 860
+    },
+    {
+        "name": "Elevance Health",
+        "code": "ELV",
+        "country": "USA",
+        "rank": 861
+    },
+    {
+        "name": "CVS Health",
+        "code": "CVS",
+        "country": "USA",
+        "rank": 862
+    },
+    {
+        "name": "Lowe's Companies",
+        "code": "LOW",
+        "country": "USA",
+        "rank": 863
+    },
+    {
+        "name": "Goldman Sachs",
+        "code": "GS",
+        "country": "USA",
+        "rank": 864
+    },
+    {
+        "name": "Starbucks",
+        "code": "SBUX",
+        "country": "USA",
+        "rank": 865
+    },
+    {
+        "name": "Boeing",
+        "code": "BA",
+        "country": "USA",
+        "rank": 866
+    },
+    {
+        "name": "American Express",
+        "code": "AXP",
+        "country": "USA",
+        "rank": 867
+    },
+    {
+        "name": "Intuit",
+        "code": "INTU",
+        "country": "USA",
+        "rank": 868
+    },
+    {
+        "name": "S&P Global",
+        "code": "SPGI",
+        "country": "USA",
+        "rank": 869
+    },
+    {
+        "name": "Intel",
+        "code": "INTC",
+        "country": "USA",
+        "rank": 870
+    },
+    {
+        "name": "Gilead Sciences",
+        "code": "GILD",
+        "country": "USA",
+        "rank": 871
+    },
+    {
+        "name": "BlackRock",
+        "code": "BLK",
+        "country": "USA",
+        "rank": 872
+    },
+    {
+        "name": "AMD",
+        "code": "AMD",
+        "country": "USA",
+        "rank": 873
+    },
+    {
+        "name": "Prologis",
+        "code": "PLD",
+        "country": "USA",
+        "rank": 874
+    },
+    {
+        "name": "Cigna",
+        "code": "CI",
+        "country": "USA",
+        "rank": 875
+    },
+    {
+        "name": "Automatic Data Processing",
+        "code": "ADP",
+        "country": "USA",
+        "rank": 876
+    },
+    {
+        "name": "American Tower",
+        "code": "AMT",
+        "country": "USA",
+        "rank": 877
+    },
+    {
+        "name": "Intuitive Surgical",
+        "code": "ISRG",
+        "country": "USA",
+        "rank": 878
+    },
+    {
+        "name": "Stryker Corporation",
+        "code": "SYK",
+        "country": "USA",
+        "rank": 879
+    },
+    {
+        "name": "TJX Companies",
+        "code": "TJX",
+        "country": "USA",
+        "rank": 880
+    },
+    {
+        "name": "General Electric",
+        "code": "GE",
+        "country": "USA",
+        "rank": 881
+    },
+    {
+        "name": "Mondelez",
+        "code": "MDLZ",
+        "country": "USA",
+        "rank": 882
+    },
+    {
+        "name": "Estee Lauder",
+        "code": "EL",
+        "country": "USA",
+        "rank": 883
+    },
+    {
+        "name": "Citigroup",
+        "code": "C",
+        "country": "USA",
+        "rank": 884
+    },
+    {
+        "name": "Northrop Grumman",
+        "code": "NOC",
+        "country": "USA",
+        "rank": 885
+    },
+    {
+        "name": "Analog Devices",
+        "code": "ADI",
+        "country": "USA",
+        "rank": 886
+    },
+    {
+        "name": "Applied Materials",
+        "code": "AMAT",
+        "country": "USA",
+        "rank": 887
+    },
+    {
+        "name": "Marsh & McLennan Companies",
+        "code": "MMC",
+        "country": "USA",
+        "rank": 888
+    },
+    {
+        "name": "Altria Group",
+        "code": "MO",
+        "country": "USA",
+        "rank": 889
+    },
+    {
+        "name": "PayPal",
+        "code": "PYPL",
+        "country": "USA",
+        "rank": 890
+    },
+    {
+        "name": "Duke Energy",
+        "code": "DUK",
+        "country": "USA",
+        "rank": 891
+    },
+    {
+        "name": "Regeneron Pharmaceuticals",
+        "code": "REGN",
+        "country": "USA",
+        "rank": 892
+    },
+    {
+        "name": "ServiceNow",
+        "code": "NOW",
+        "country": "USA",
+        "rank": 893
+    },
+    {
+        "name": "Booking Holdings (Booking.com)",
+        "code": "BKNG",
+        "country": "USA",
+        "rank": 894
+    },
+    {
+        "name": "Southern Company",
+        "code": "SO",
+        "country": "USA",
+        "rank": 895
+    },
+    {
+        "name": "EOG Resources",
+        "code": "EOG",
+        "country": "USA",
+        "rank": 896
+    },
+    {
+        "name": "Progressive",
+        "code": "PGR",
+        "country": "USA",
+        "rank": 897
+    },
+    {
+        "name": "Schlumberger",
+        "code": "SLB",
+        "country": "USA",
+        "rank": 898
+    },
+    {
+        "name": "Vertex Pharmaceuticals",
+        "code": "VRTX",
+        "country": "USA",
+        "rank": 899
+    },
+    {
+        "name": "Becton Dickinson",
+        "code": "BDX",
+        "country": "USA",
+        "rank": 900
+    }
+]

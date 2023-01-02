@@ -1,0 +1,4916 @@
+[
+    {
+        "name": "Mobileye",
+        "code": "MBLY",
+        "country": "Israel",
+        "rank": 1
+    },
+    {
+        "name": "SolarEdge",
+        "code": "SEDG",
+        "country": "Israel",
+        "rank": 2
+    },
+    {
+        "name": "Check Point Software",
+        "code": "CHKP",
+        "country": "Israel",
+        "rank": 3
+    },
+    {
+        "name": "NICE",
+        "code": "NICE",
+        "country": "Israel",
+        "rank": 4
+    },
+    {
+        "name": "Bank Hapoalim",
+        "code": "POLI.TA",
+        "country": "Israel",
+        "rank": 5
+    },
+    {
+        "name": "Bank Leumi",
+        "code": "LUMI.TA",
+        "country": "Israel",
+        "rank": 6
+    },
+    {
+        "name": "Teva Pharmaceutical Industries",
+        "code": "TEVA",
+        "country": "Israel",
+        "rank": 7
+    },
+    {
+        "name": "Israel Chemicals",
+        "code": "ICL",
+        "country": "Israel",
+        "rank": 8
+    },
+    {
+        "name": "Mizrahi-Tefahot",
+        "code": "MZTF.TA",
+        "country": "Israel",
+        "rank": 9
+    },
+    {
+        "name": "Azrieli Group",
+        "code": "AZRG.TA",
+        "country": "Israel",
+        "rank": 10
+    },
+    {
+        "name": "Elbit Systems",
+        "code": "ESLT",
+        "country": "Israel",
+        "rank": 11
+    },
+    {
+        "name": "Israel Discount Bank",
+        "code": "ISDAY",
+        "country": "Israel",
+        "rank": 12
+    },
+    {
+        "name": "monday.com",
+        "code": "MNDY",
+        "country": "Israel",
+        "rank": 13
+    },
+    {
+        "name": "CyberArk",
+        "code": "CYBR",
+        "country": "Israel",
+        "rank": 14
+    },
+    {
+        "name": "Bezeq",
+        "code": "BEZQ.TA",
+        "country": "Israel",
+        "rank": 15
+    },
+    {
+        "name": "Tower Semiconductor",
+        "code": "TSEM",
+        "country": "Israel",
+        "rank": 16
+    },
+    {
+        "name": "Wix.com",
+        "code": "WIX",
+        "country": "Israel",
+        "rank": 17
+    },
+    {
+        "name": "First International Bank of Israel",
+        "code": "FIBI.TA",
+        "country": "Israel",
+        "rank": 18
+    },
+    {
+        "name": "Melisron",
+        "code": "MLSR.TA",
+        "country": "Israel",
+        "rank": 19
+    },
+    {
+        "name": "Global-e",
+        "code": "GLBE",
+        "country": "Israel",
+        "rank": 20
+    },
+    {
+        "name": "Strauss Group",
+        "code": "STRS.TA",
+        "country": "Israel",
+        "rank": 21
+    },
+    {
+        "name": "Playtika",
+        "code": "PLTK",
+        "country": "Israel",
+        "rank": 22
+    },
+    {
+        "name": "InMode",
+        "code": "INMD",
+        "country": "Israel",
+        "rank": 23
+    },
+    {
+        "name": "IronSource",
+        "code": "IS",
+        "country": "Israel",
+        "rank": 24
+    },
+    {
+        "name": "Amot Investment",
+        "code": "AMOT.TA",
+        "country": "Israel",
+        "rank": 25
+    },
+    {
+        "name": "Shapir Civil and Marine Engineering",
+        "code": "SPEN.TA",
+        "country": "Israel",
+        "rank": 26
+    },
+    {
+        "name": "OPC Energy",
+        "code": "OPCE.TA",
+        "country": "Israel",
+        "rank": 27
+    },
+    {
+        "name": "Nova Measuring Instruments",
+        "code": "NVMI",
+        "country": "Israel",
+        "rank": 28
+    },
+    {
+        "name": "Delek Group",
+        "code": "DLEKG.TA",
+        "country": "Israel",
+        "rank": 29
+    },
+    {
+        "name": "ZIM Integrated Shipping Services",
+        "code": "ZIM",
+        "country": "Israel",
+        "rank": 30
+    },
+    {
+        "name": "Enlight Renewable Energy",
+        "code": "ENLT.TA",
+        "country": "Israel",
+        "rank": 31
+    },
+    {
+        "name": "Electra",
+        "code": "ELTR.TA",
+        "country": "Israel",
+        "rank": 32
+    },
+    {
+        "name": "Plus500",
+        "code": "P55.F",
+        "country": "Israel",
+        "rank": 33
+    },
+    {
+        "name": "Harel Group",
+        "code": "HARL.TA",
+        "country": "Israel",
+        "rank": 34
+    },
+    {
+        "name": "Alony Hetz",
+        "code": "ALHE.TA",
+        "country": "Israel",
+        "rank": 35
+    },
+    {
+        "name": "Energix Renewable Energies",
+        "code": "ENRG.TA",
+        "country": "Israel",
+        "rank": 36
+    },
+    {
+        "name": "Shufersal",
+        "code": "SAE.TA",
+        "country": "Israel",
+        "rank": 37
+    },
+    {
+        "name": "Shikun & Binui",
+        "code": "SKBN.TA",
+        "country": "Israel",
+        "rank": 38
+    },
+    {
+        "name": "Partner Communications",
+        "code": "PTNR",
+        "country": "Israel",
+        "rank": 39
+    },
+    {
+        "name": "Kornit Digital",
+        "code": "KRNT",
+        "country": "Israel",
+        "rank": 40
+    },
+    {
+        "name": "Perion Network",
+        "code": "PERI",
+        "country": "Israel",
+        "rank": 41
+    },
+    {
+        "name": "Maytronics",
+        "code": "MTRN.TA",
+        "country": "Israel",
+        "rank": 42
+    },
+    {
+        "name": "Taro Pharmaceutical",
+        "code": "TARO",
+        "country": "Israel",
+        "rank": 43
+    },
+    {
+        "name": "Formula Systems",
+        "code": "FORTY",
+        "country": "Israel",
+        "rank": 44
+    },
+    {
+        "name": "Fiverr",
+        "code": "FVRR",
+        "country": "Israel",
+        "rank": 45
+    },
+    {
+        "name": "Sapiens",
+        "code": "SPNS",
+        "country": "Israel",
+        "rank": 46
+    },
+    {
+        "name": "Camtek",
+        "code": "CAMT",
+        "country": "Israel",
+        "rank": 47
+    },
+    {
+        "name": "WalkMe",
+        "code": "WKME",
+        "country": "Israel",
+        "rank": 48
+    },
+    {
+        "name": "Radware",
+        "code": "RDWR",
+        "country": "Israel",
+        "rank": 49
+    },
+    {
+        "name": "Cellcom Israel",
+        "code": "CEL.TA",
+        "country": "Israel",
+        "rank": 50
+    },
+    {
+        "name": "Pagaya Technologies",
+        "code": "PGY",
+        "country": "Israel",
+        "rank": 51
+    },
+    {
+        "name": "Cellebrite",
+        "code": "CLBT",
+        "country": "Israel",
+        "rank": 52
+    },
+    {
+        "name": "Stratasys",
+        "code": "SSYS",
+        "country": "Israel",
+        "rank": 53
+    },
+    {
+        "name": "Magic Software",
+        "code": "MGIC",
+        "country": "Israel",
+        "rank": 54
+    },
+    {
+        "name": "Riskified",
+        "code": "RSKD",
+        "country": "Israel",
+        "rank": 55
+    },
+    {
+        "name": "B Communications",
+        "code": "BCOM.TA",
+        "country": "Israel",
+        "rank": 56
+    },
+    {
+        "name": "AudioCodes",
+        "code": "AUDC",
+        "country": "Israel",
+        "rank": 57
+    },
+    {
+        "name": "Valens Semiconductor",
+        "code": "VLN",
+        "country": "Israel",
+        "rank": 58
+    },
+    {
+        "name": "Innoviz",
+        "code": "INVZ",
+        "country": "Israel",
+        "rank": 59
+    },
+    {
+        "name": "RADA Electronic Industries",
+        "code": "RADA",
+        "country": "Israel",
+        "rank": 60
+    },
+    {
+        "name": "Similarweb",
+        "code": "SMWB",
+        "country": "Israel",
+        "rank": 61
+    },
+    {
+        "name": "Tremor International",
+        "code": "TRMR",
+        "country": "Israel",
+        "rank": 62
+    },
+    {
+        "name": "Ituran",
+        "code": "ITRN",
+        "country": "Israel",
+        "rank": 63
+    },
+    {
+        "name": "Nano-X Imaging",
+        "code": "NNOX",
+        "country": "Israel",
+        "rank": 64
+    },
+    {
+        "name": "Gilat Telecom",
+        "code": "GILT",
+        "country": "Israel",
+        "rank": 65
+    },
+    {
+        "name": "NeoGames",
+        "code": "NGMS",
+        "country": "Israel",
+        "rank": 66
+    },
+    {
+        "name": "Silicom",
+        "code": "SILC",
+        "country": "Israel",
+        "rank": 67
+    },
+    {
+        "name": "Alpha Tau Medical",
+        "code": "DRTS",
+        "country": "Israel",
+        "rank": 68
+    },
+    {
+        "name": "Arbe Robotics",
+        "code": "ARBE",
+        "country": "Israel",
+        "rank": 69
+    },
+    {
+        "name": "Cognyte Software",
+        "code": "CGNT",
+        "country": "Israel",
+        "rank": 70
+    },
+    {
+        "name": "Caesarstone",
+        "code": "CSTE",
+        "country": "Israel",
+        "rank": 71
+    },
+    {
+        "name": "Ellomay Capital",
+        "code": "ELLO",
+        "country": "Israel",
+        "rank": 72
+    },
+    {
+        "name": "Kamada",
+        "code": "KMDA",
+        "country": "Israel",
+        "rank": 73
+    },
+    {
+        "name": "Ceragon Networks",
+        "code": "CRNT",
+        "country": "Israel",
+        "rank": 74
+    },
+    {
+        "name": "InterCure",
+        "code": "INCR",
+        "country": "Israel",
+        "rank": 75
+    },
+    {
+        "name": "Allot",
+        "code": "ALLT",
+        "country": "Israel",
+        "rank": 76
+    },
+    {
+        "name": "REE Automotive",
+        "code": "REE",
+        "country": "Israel",
+        "rank": 77
+    },
+    {
+        "name": "Protalix BioTherapeutics",
+        "code": "PLX",
+        "country": "Israel",
+        "rank": 78
+    },
+    {
+        "name": "Compugen",
+        "code": "CGEN",
+        "country": "Israel",
+        "rank": 79
+    },
+    {
+        "name": "ReWalk Robotics",
+        "code": "RWLK",
+        "country": "Israel",
+        "rank": 80
+    },
+    {
+        "name": "Foresight Autonomous Holdings",
+        "code": "FRSX",
+        "country": "Israel",
+        "rank": 81
+    },
+    {
+        "name": "Rail Vision",
+        "code": "RVSN",
+        "country": "Israel",
+        "rank": 82
+    },
+    {
+        "name": "Can Fite Biopharma",
+        "code": "CANF",
+        "country": "Israel",
+        "rank": 83
+    },
+    {
+        "name": "Inspira Technologies",
+        "code": "IINN",
+        "country": "Israel",
+        "rank": 84
+    },
+    {
+        "name": "Redhill Biopharma",
+        "code": "RDHL",
+        "country": "Israel",
+        "rank": 85
+    },
+    {
+        "name": "Galmed Pharmaceuticals",
+        "code": "GLMD",
+        "country": "Israel",
+        "rank": 86
+    },
+    {
+        "name": "Jeffs' Brands",
+        "code": "JFBR",
+        "country": "Israel",
+        "rank": 87
+    },
+    {
+        "name": "SaverOne 2014",
+        "code": "SVRE",
+        "country": "Israel",
+        "rank": 88
+    },
+    {
+        "name": "BiondVax",
+        "code": "BVXV",
+        "country": "Israel",
+        "rank": 89
+    },
+    {
+        "name": "PainReform",
+        "code": "PRFX",
+        "country": "Israel",
+        "rank": 90
+    },
+    {
+        "name": "G Medical Innovations",
+        "code": "GMVD",
+        "country": "Israel",
+        "rank": 91
+    },
+    {
+        "name": "Mobileye",
+        "code": "MBLY",
+        "country": "Israel",
+        "rank": 92
+    },
+    {
+        "name": "SolarEdge",
+        "code": "SEDG",
+        "country": "Israel",
+        "rank": 93
+    },
+    {
+        "name": "Check Point Software",
+        "code": "CHKP",
+        "country": "Israel",
+        "rank": 94
+    },
+    {
+        "name": "NICE",
+        "code": "NICE",
+        "country": "Israel",
+        "rank": 95
+    },
+    {
+        "name": "Bank Hapoalim",
+        "code": "POLI.TA",
+        "country": "Israel",
+        "rank": 96
+    },
+    {
+        "name": "Bank Leumi",
+        "code": "LUMI.TA",
+        "country": "Israel",
+        "rank": 97
+    },
+    {
+        "name": "Teva Pharmaceutical Industries",
+        "code": "TEVA",
+        "country": "Israel",
+        "rank": 98
+    },
+    {
+        "name": "Israel Chemicals",
+        "code": "ICL",
+        "country": "Israel",
+        "rank": 99
+    },
+    {
+        "name": "Mizrahi-Tefahot",
+        "code": "MZTF.TA",
+        "country": "Israel",
+        "rank": 100
+    },
+    {
+        "name": "Azrieli Group",
+        "code": "AZRG.TA",
+        "country": "Israel",
+        "rank": 101
+    },
+    {
+        "name": "Elbit Systems",
+        "code": "ESLT",
+        "country": "Israel",
+        "rank": 102
+    },
+    {
+        "name": "Israel Discount Bank",
+        "code": "ISDAY",
+        "country": "Israel",
+        "rank": 103
+    },
+    {
+        "name": "monday.com",
+        "code": "MNDY",
+        "country": "Israel",
+        "rank": 104
+    },
+    {
+        "name": "CyberArk",
+        "code": "CYBR",
+        "country": "Israel",
+        "rank": 105
+    },
+    {
+        "name": "Bezeq",
+        "code": "BEZQ.TA",
+        "country": "Israel",
+        "rank": 106
+    },
+    {
+        "name": "Tower Semiconductor",
+        "code": "TSEM",
+        "country": "Israel",
+        "rank": 107
+    },
+    {
+        "name": "Wix.com",
+        "code": "WIX",
+        "country": "Israel",
+        "rank": 108
+    },
+    {
+        "name": "First International Bank of Israel",
+        "code": "FIBI.TA",
+        "country": "Israel",
+        "rank": 109
+    },
+    {
+        "name": "Melisron",
+        "code": "MLSR.TA",
+        "country": "Israel",
+        "rank": 110
+    },
+    {
+        "name": "Global-e",
+        "code": "GLBE",
+        "country": "Israel",
+        "rank": 111
+    },
+    {
+        "name": "Strauss Group",
+        "code": "STRS.TA",
+        "country": "Israel",
+        "rank": 112
+    },
+    {
+        "name": "Playtika",
+        "code": "PLTK",
+        "country": "Israel",
+        "rank": 113
+    },
+    {
+        "name": "InMode",
+        "code": "INMD",
+        "country": "Israel",
+        "rank": 114
+    },
+    {
+        "name": "IronSource",
+        "code": "IS",
+        "country": "Israel",
+        "rank": 115
+    },
+    {
+        "name": "Amot Investment",
+        "code": "AMOT.TA",
+        "country": "Israel",
+        "rank": 116
+    },
+    {
+        "name": "Shapir Civil and Marine Engineering",
+        "code": "SPEN.TA",
+        "country": "Israel",
+        "rank": 117
+    },
+    {
+        "name": "OPC Energy",
+        "code": "OPCE.TA",
+        "country": "Israel",
+        "rank": 118
+    },
+    {
+        "name": "Nova Measuring Instruments",
+        "code": "NVMI",
+        "country": "Israel",
+        "rank": 119
+    },
+    {
+        "name": "Delek Group",
+        "code": "DLEKG.TA",
+        "country": "Israel",
+        "rank": 120
+    },
+    {
+        "name": "ZIM Integrated Shipping Services",
+        "code": "ZIM",
+        "country": "Israel",
+        "rank": 121
+    },
+    {
+        "name": "Enlight Renewable Energy",
+        "code": "ENLT.TA",
+        "country": "Israel",
+        "rank": 122
+    },
+    {
+        "name": "Electra",
+        "code": "ELTR.TA",
+        "country": "Israel",
+        "rank": 123
+    },
+    {
+        "name": "Plus500",
+        "code": "P55.F",
+        "country": "Israel",
+        "rank": 124
+    },
+    {
+        "name": "Harel Group",
+        "code": "HARL.TA",
+        "country": "Israel",
+        "rank": 125
+    },
+    {
+        "name": "Alony Hetz",
+        "code": "ALHE.TA",
+        "country": "Israel",
+        "rank": 126
+    },
+    {
+        "name": "Energix Renewable Energies",
+        "code": "ENRG.TA",
+        "country": "Israel",
+        "rank": 127
+    },
+    {
+        "name": "Shufersal",
+        "code": "SAE.TA",
+        "country": "Israel",
+        "rank": 128
+    },
+    {
+        "name": "Shikun & Binui",
+        "code": "SKBN.TA",
+        "country": "Israel",
+        "rank": 129
+    },
+    {
+        "name": "Partner Communications",
+        "code": "PTNR",
+        "country": "Israel",
+        "rank": 130
+    },
+    {
+        "name": "Kornit Digital",
+        "code": "KRNT",
+        "country": "Israel",
+        "rank": 131
+    },
+    {
+        "name": "Perion Network",
+        "code": "PERI",
+        "country": "Israel",
+        "rank": 132
+    },
+    {
+        "name": "Maytronics",
+        "code": "MTRN.TA",
+        "country": "Israel",
+        "rank": 133
+    },
+    {
+        "name": "Taro Pharmaceutical",
+        "code": "TARO",
+        "country": "Israel",
+        "rank": 134
+    },
+    {
+        "name": "Formula Systems",
+        "code": "FORTY",
+        "country": "Israel",
+        "rank": 135
+    },
+    {
+        "name": "Fiverr",
+        "code": "FVRR",
+        "country": "Israel",
+        "rank": 136
+    },
+    {
+        "name": "Sapiens",
+        "code": "SPNS",
+        "country": "Israel",
+        "rank": 137
+    },
+    {
+        "name": "Camtek",
+        "code": "CAMT",
+        "country": "Israel",
+        "rank": 138
+    },
+    {
+        "name": "WalkMe",
+        "code": "WKME",
+        "country": "Israel",
+        "rank": 139
+    },
+    {
+        "name": "Radware",
+        "code": "RDWR",
+        "country": "Israel",
+        "rank": 140
+    },
+    {
+        "name": "Cellcom Israel",
+        "code": "CEL.TA",
+        "country": "Israel",
+        "rank": 141
+    },
+    {
+        "name": "Pagaya Technologies",
+        "code": "PGY",
+        "country": "Israel",
+        "rank": 142
+    },
+    {
+        "name": "Cellebrite",
+        "code": "CLBT",
+        "country": "Israel",
+        "rank": 143
+    },
+    {
+        "name": "Stratasys",
+        "code": "SSYS",
+        "country": "Israel",
+        "rank": 144
+    },
+    {
+        "name": "Magic Software",
+        "code": "MGIC",
+        "country": "Israel",
+        "rank": 145
+    },
+    {
+        "name": "Riskified",
+        "code": "RSKD",
+        "country": "Israel",
+        "rank": 146
+    },
+    {
+        "name": "B Communications",
+        "code": "BCOM.TA",
+        "country": "Israel",
+        "rank": 147
+    },
+    {
+        "name": "AudioCodes",
+        "code": "AUDC",
+        "country": "Israel",
+        "rank": 148
+    },
+    {
+        "name": "Valens Semiconductor",
+        "code": "VLN",
+        "country": "Israel",
+        "rank": 149
+    },
+    {
+        "name": "Innoviz",
+        "code": "INVZ",
+        "country": "Israel",
+        "rank": 150
+    },
+    {
+        "name": "RADA Electronic Industries",
+        "code": "RADA",
+        "country": "Israel",
+        "rank": 151
+    },
+    {
+        "name": "Similarweb",
+        "code": "SMWB",
+        "country": "Israel",
+        "rank": 152
+    },
+    {
+        "name": "Tremor International",
+        "code": "TRMR",
+        "country": "Israel",
+        "rank": 153
+    },
+    {
+        "name": "Ituran",
+        "code": "ITRN",
+        "country": "Israel",
+        "rank": 154
+    },
+    {
+        "name": "Nano-X Imaging",
+        "code": "NNOX",
+        "country": "Israel",
+        "rank": 155
+    },
+    {
+        "name": "Gilat Telecom",
+        "code": "GILT",
+        "country": "Israel",
+        "rank": 156
+    },
+    {
+        "name": "NeoGames",
+        "code": "NGMS",
+        "country": "Israel",
+        "rank": 157
+    },
+    {
+        "name": "Silicom",
+        "code": "SILC",
+        "country": "Israel",
+        "rank": 158
+    },
+    {
+        "name": "Alpha Tau Medical",
+        "code": "DRTS",
+        "country": "Israel",
+        "rank": 159
+    },
+    {
+        "name": "Arbe Robotics",
+        "code": "ARBE",
+        "country": "Israel",
+        "rank": 160
+    },
+    {
+        "name": "Cognyte Software",
+        "code": "CGNT",
+        "country": "Israel",
+        "rank": 161
+    },
+    {
+        "name": "Caesarstone",
+        "code": "CSTE",
+        "country": "Israel",
+        "rank": 162
+    },
+    {
+        "name": "Ellomay Capital",
+        "code": "ELLO",
+        "country": "Israel",
+        "rank": 163
+    },
+    {
+        "name": "Kamada",
+        "code": "KMDA",
+        "country": "Israel",
+        "rank": 164
+    },
+    {
+        "name": "Ceragon Networks",
+        "code": "CRNT",
+        "country": "Israel",
+        "rank": 165
+    },
+    {
+        "name": "InterCure",
+        "code": "INCR",
+        "country": "Israel",
+        "rank": 166
+    },
+    {
+        "name": "Allot",
+        "code": "ALLT",
+        "country": "Israel",
+        "rank": 167
+    },
+    {
+        "name": "REE Automotive",
+        "code": "REE",
+        "country": "Israel",
+        "rank": 168
+    },
+    {
+        "name": "Protalix BioTherapeutics",
+        "code": "PLX",
+        "country": "Israel",
+        "rank": 169
+    },
+    {
+        "name": "Compugen",
+        "code": "CGEN",
+        "country": "Israel",
+        "rank": 170
+    },
+    {
+        "name": "ReWalk Robotics",
+        "code": "RWLK",
+        "country": "Israel",
+        "rank": 171
+    },
+    {
+        "name": "Foresight Autonomous Holdings",
+        "code": "FRSX",
+        "country": "Israel",
+        "rank": 172
+    },
+    {
+        "name": "Rail Vision",
+        "code": "RVSN",
+        "country": "Israel",
+        "rank": 173
+    },
+    {
+        "name": "Can Fite Biopharma",
+        "code": "CANF",
+        "country": "Israel",
+        "rank": 174
+    },
+    {
+        "name": "Inspira Technologies",
+        "code": "IINN",
+        "country": "Israel",
+        "rank": 175
+    },
+    {
+        "name": "Redhill Biopharma",
+        "code": "RDHL",
+        "country": "Israel",
+        "rank": 176
+    },
+    {
+        "name": "Galmed Pharmaceuticals",
+        "code": "GLMD",
+        "country": "Israel",
+        "rank": 177
+    },
+    {
+        "name": "Jeffs' Brands",
+        "code": "JFBR",
+        "country": "Israel",
+        "rank": 178
+    },
+    {
+        "name": "SaverOne 2014",
+        "code": "SVRE",
+        "country": "Israel",
+        "rank": 179
+    },
+    {
+        "name": "BiondVax",
+        "code": "BVXV",
+        "country": "Israel",
+        "rank": 180
+    },
+    {
+        "name": "PainReform",
+        "code": "PRFX",
+        "country": "Israel",
+        "rank": 181
+    },
+    {
+        "name": "G Medical Innovations",
+        "code": "GMVD",
+        "country": "Israel",
+        "rank": 182
+    },
+    {
+        "name": "Mobileye",
+        "code": "MBLY",
+        "country": "Israel",
+        "rank": 183
+    },
+    {
+        "name": "SolarEdge",
+        "code": "SEDG",
+        "country": "Israel",
+        "rank": 184
+    },
+    {
+        "name": "Check Point Software",
+        "code": "CHKP",
+        "country": "Israel",
+        "rank": 185
+    },
+    {
+        "name": "NICE",
+        "code": "NICE",
+        "country": "Israel",
+        "rank": 186
+    },
+    {
+        "name": "Bank Hapoalim",
+        "code": "POLI.TA",
+        "country": "Israel",
+        "rank": 187
+    },
+    {
+        "name": "Bank Leumi",
+        "code": "LUMI.TA",
+        "country": "Israel",
+        "rank": 188
+    },
+    {
+        "name": "Teva Pharmaceutical Industries",
+        "code": "TEVA",
+        "country": "Israel",
+        "rank": 189
+    },
+    {
+        "name": "Israel Chemicals",
+        "code": "ICL",
+        "country": "Israel",
+        "rank": 190
+    },
+    {
+        "name": "Mizrahi-Tefahot",
+        "code": "MZTF.TA",
+        "country": "Israel",
+        "rank": 191
+    },
+    {
+        "name": "Azrieli Group",
+        "code": "AZRG.TA",
+        "country": "Israel",
+        "rank": 192
+    },
+    {
+        "name": "Elbit Systems",
+        "code": "ESLT",
+        "country": "Israel",
+        "rank": 193
+    },
+    {
+        "name": "Israel Discount Bank",
+        "code": "ISDAY",
+        "country": "Israel",
+        "rank": 194
+    },
+    {
+        "name": "monday.com",
+        "code": "MNDY",
+        "country": "Israel",
+        "rank": 195
+    },
+    {
+        "name": "CyberArk",
+        "code": "CYBR",
+        "country": "Israel",
+        "rank": 196
+    },
+    {
+        "name": "Bezeq",
+        "code": "BEZQ.TA",
+        "country": "Israel",
+        "rank": 197
+    },
+    {
+        "name": "Tower Semiconductor",
+        "code": "TSEM",
+        "country": "Israel",
+        "rank": 198
+    },
+    {
+        "name": "Wix.com",
+        "code": "WIX",
+        "country": "Israel",
+        "rank": 199
+    },
+    {
+        "name": "First International Bank of Israel",
+        "code": "FIBI.TA",
+        "country": "Israel",
+        "rank": 200
+    },
+    {
+        "name": "Melisron",
+        "code": "MLSR.TA",
+        "country": "Israel",
+        "rank": 201
+    },
+    {
+        "name": "Global-e",
+        "code": "GLBE",
+        "country": "Israel",
+        "rank": 202
+    },
+    {
+        "name": "Strauss Group",
+        "code": "STRS.TA",
+        "country": "Israel",
+        "rank": 203
+    },
+    {
+        "name": "Playtika",
+        "code": "PLTK",
+        "country": "Israel",
+        "rank": 204
+    },
+    {
+        "name": "InMode",
+        "code": "INMD",
+        "country": "Israel",
+        "rank": 205
+    },
+    {
+        "name": "IronSource",
+        "code": "IS",
+        "country": "Israel",
+        "rank": 206
+    },
+    {
+        "name": "Amot Investment",
+        "code": "AMOT.TA",
+        "country": "Israel",
+        "rank": 207
+    },
+    {
+        "name": "Shapir Civil and Marine Engineering",
+        "code": "SPEN.TA",
+        "country": "Israel",
+        "rank": 208
+    },
+    {
+        "name": "OPC Energy",
+        "code": "OPCE.TA",
+        "country": "Israel",
+        "rank": 209
+    },
+    {
+        "name": "Nova Measuring Instruments",
+        "code": "NVMI",
+        "country": "Israel",
+        "rank": 210
+    },
+    {
+        "name": "Delek Group",
+        "code": "DLEKG.TA",
+        "country": "Israel",
+        "rank": 211
+    },
+    {
+        "name": "ZIM Integrated Shipping Services",
+        "code": "ZIM",
+        "country": "Israel",
+        "rank": 212
+    },
+    {
+        "name": "Enlight Renewable Energy",
+        "code": "ENLT.TA",
+        "country": "Israel",
+        "rank": 213
+    },
+    {
+        "name": "Electra",
+        "code": "ELTR.TA",
+        "country": "Israel",
+        "rank": 214
+    },
+    {
+        "name": "Plus500",
+        "code": "P55.F",
+        "country": "Israel",
+        "rank": 215
+    },
+    {
+        "name": "Harel Group",
+        "code": "HARL.TA",
+        "country": "Israel",
+        "rank": 216
+    },
+    {
+        "name": "Alony Hetz",
+        "code": "ALHE.TA",
+        "country": "Israel",
+        "rank": 217
+    },
+    {
+        "name": "Energix Renewable Energies",
+        "code": "ENRG.TA",
+        "country": "Israel",
+        "rank": 218
+    },
+    {
+        "name": "Shufersal",
+        "code": "SAE.TA",
+        "country": "Israel",
+        "rank": 219
+    },
+    {
+        "name": "Shikun & Binui",
+        "code": "SKBN.TA",
+        "country": "Israel",
+        "rank": 220
+    },
+    {
+        "name": "Partner Communications",
+        "code": "PTNR",
+        "country": "Israel",
+        "rank": 221
+    },
+    {
+        "name": "Kornit Digital",
+        "code": "KRNT",
+        "country": "Israel",
+        "rank": 222
+    },
+    {
+        "name": "Perion Network",
+        "code": "PERI",
+        "country": "Israel",
+        "rank": 223
+    },
+    {
+        "name": "Maytronics",
+        "code": "MTRN.TA",
+        "country": "Israel",
+        "rank": 224
+    },
+    {
+        "name": "Taro Pharmaceutical",
+        "code": "TARO",
+        "country": "Israel",
+        "rank": 225
+    },
+    {
+        "name": "Formula Systems",
+        "code": "FORTY",
+        "country": "Israel",
+        "rank": 226
+    },
+    {
+        "name": "Fiverr",
+        "code": "FVRR",
+        "country": "Israel",
+        "rank": 227
+    },
+    {
+        "name": "Sapiens",
+        "code": "SPNS",
+        "country": "Israel",
+        "rank": 228
+    },
+    {
+        "name": "Camtek",
+        "code": "CAMT",
+        "country": "Israel",
+        "rank": 229
+    },
+    {
+        "name": "WalkMe",
+        "code": "WKME",
+        "country": "Israel",
+        "rank": 230
+    },
+    {
+        "name": "Radware",
+        "code": "RDWR",
+        "country": "Israel",
+        "rank": 231
+    },
+    {
+        "name": "Cellcom Israel",
+        "code": "CEL.TA",
+        "country": "Israel",
+        "rank": 232
+    },
+    {
+        "name": "Pagaya Technologies",
+        "code": "PGY",
+        "country": "Israel",
+        "rank": 233
+    },
+    {
+        "name": "Cellebrite",
+        "code": "CLBT",
+        "country": "Israel",
+        "rank": 234
+    },
+    {
+        "name": "Stratasys",
+        "code": "SSYS",
+        "country": "Israel",
+        "rank": 235
+    },
+    {
+        "name": "Magic Software",
+        "code": "MGIC",
+        "country": "Israel",
+        "rank": 236
+    },
+    {
+        "name": "Riskified",
+        "code": "RSKD",
+        "country": "Israel",
+        "rank": 237
+    },
+    {
+        "name": "B Communications",
+        "code": "BCOM.TA",
+        "country": "Israel",
+        "rank": 238
+    },
+    {
+        "name": "AudioCodes",
+        "code": "AUDC",
+        "country": "Israel",
+        "rank": 239
+    },
+    {
+        "name": "Valens Semiconductor",
+        "code": "VLN",
+        "country": "Israel",
+        "rank": 240
+    },
+    {
+        "name": "Innoviz",
+        "code": "INVZ",
+        "country": "Israel",
+        "rank": 241
+    },
+    {
+        "name": "RADA Electronic Industries",
+        "code": "RADA",
+        "country": "Israel",
+        "rank": 242
+    },
+    {
+        "name": "Similarweb",
+        "code": "SMWB",
+        "country": "Israel",
+        "rank": 243
+    },
+    {
+        "name": "Tremor International",
+        "code": "TRMR",
+        "country": "Israel",
+        "rank": 244
+    },
+    {
+        "name": "Ituran",
+        "code": "ITRN",
+        "country": "Israel",
+        "rank": 245
+    },
+    {
+        "name": "Nano-X Imaging",
+        "code": "NNOX",
+        "country": "Israel",
+        "rank": 246
+    },
+    {
+        "name": "Gilat Telecom",
+        "code": "GILT",
+        "country": "Israel",
+        "rank": 247
+    },
+    {
+        "name": "NeoGames",
+        "code": "NGMS",
+        "country": "Israel",
+        "rank": 248
+    },
+    {
+        "name": "Silicom",
+        "code": "SILC",
+        "country": "Israel",
+        "rank": 249
+    },
+    {
+        "name": "Alpha Tau Medical",
+        "code": "DRTS",
+        "country": "Israel",
+        "rank": 250
+    },
+    {
+        "name": "Arbe Robotics",
+        "code": "ARBE",
+        "country": "Israel",
+        "rank": 251
+    },
+    {
+        "name": "Cognyte Software",
+        "code": "CGNT",
+        "country": "Israel",
+        "rank": 252
+    },
+    {
+        "name": "Caesarstone",
+        "code": "CSTE",
+        "country": "Israel",
+        "rank": 253
+    },
+    {
+        "name": "Ellomay Capital",
+        "code": "ELLO",
+        "country": "Israel",
+        "rank": 254
+    },
+    {
+        "name": "Kamada",
+        "code": "KMDA",
+        "country": "Israel",
+        "rank": 255
+    },
+    {
+        "name": "Ceragon Networks",
+        "code": "CRNT",
+        "country": "Israel",
+        "rank": 256
+    },
+    {
+        "name": "InterCure",
+        "code": "INCR",
+        "country": "Israel",
+        "rank": 257
+    },
+    {
+        "name": "Allot",
+        "code": "ALLT",
+        "country": "Israel",
+        "rank": 258
+    },
+    {
+        "name": "REE Automotive",
+        "code": "REE",
+        "country": "Israel",
+        "rank": 259
+    },
+    {
+        "name": "Protalix BioTherapeutics",
+        "code": "PLX",
+        "country": "Israel",
+        "rank": 260
+    },
+    {
+        "name": "Compugen",
+        "code": "CGEN",
+        "country": "Israel",
+        "rank": 261
+    },
+    {
+        "name": "ReWalk Robotics",
+        "code": "RWLK",
+        "country": "Israel",
+        "rank": 262
+    },
+    {
+        "name": "Foresight Autonomous Holdings",
+        "code": "FRSX",
+        "country": "Israel",
+        "rank": 263
+    },
+    {
+        "name": "Rail Vision",
+        "code": "RVSN",
+        "country": "Israel",
+        "rank": 264
+    },
+    {
+        "name": "Can Fite Biopharma",
+        "code": "CANF",
+        "country": "Israel",
+        "rank": 265
+    },
+    {
+        "name": "Inspira Technologies",
+        "code": "IINN",
+        "country": "Israel",
+        "rank": 266
+    },
+    {
+        "name": "Redhill Biopharma",
+        "code": "RDHL",
+        "country": "Israel",
+        "rank": 267
+    },
+    {
+        "name": "Galmed Pharmaceuticals",
+        "code": "GLMD",
+        "country": "Israel",
+        "rank": 268
+    },
+    {
+        "name": "Jeffs' Brands",
+        "code": "JFBR",
+        "country": "Israel",
+        "rank": 269
+    },
+    {
+        "name": "SaverOne 2014",
+        "code": "SVRE",
+        "country": "Israel",
+        "rank": 270
+    },
+    {
+        "name": "BiondVax",
+        "code": "BVXV",
+        "country": "Israel",
+        "rank": 271
+    },
+    {
+        "name": "PainReform",
+        "code": "PRFX",
+        "country": "Israel",
+        "rank": 272
+    },
+    {
+        "name": "G Medical Innovations",
+        "code": "GMVD",
+        "country": "Israel",
+        "rank": 273
+    },
+    {
+        "name": "Mobileye",
+        "code": "MBLY",
+        "country": "Israel",
+        "rank": 274
+    },
+    {
+        "name": "SolarEdge",
+        "code": "SEDG",
+        "country": "Israel",
+        "rank": 275
+    },
+    {
+        "name": "Check Point Software",
+        "code": "CHKP",
+        "country": "Israel",
+        "rank": 276
+    },
+    {
+        "name": "NICE",
+        "code": "NICE",
+        "country": "Israel",
+        "rank": 277
+    },
+    {
+        "name": "Bank Hapoalim",
+        "code": "POLI.TA",
+        "country": "Israel",
+        "rank": 278
+    },
+    {
+        "name": "Bank Leumi",
+        "code": "LUMI.TA",
+        "country": "Israel",
+        "rank": 279
+    },
+    {
+        "name": "Teva Pharmaceutical Industries",
+        "code": "TEVA",
+        "country": "Israel",
+        "rank": 280
+    },
+    {
+        "name": "Israel Chemicals",
+        "code": "ICL",
+        "country": "Israel",
+        "rank": 281
+    },
+    {
+        "name": "Mizrahi-Tefahot",
+        "code": "MZTF.TA",
+        "country": "Israel",
+        "rank": 282
+    },
+    {
+        "name": "Azrieli Group",
+        "code": "AZRG.TA",
+        "country": "Israel",
+        "rank": 283
+    },
+    {
+        "name": "Elbit Systems",
+        "code": "ESLT",
+        "country": "Israel",
+        "rank": 284
+    },
+    {
+        "name": "Israel Discount Bank",
+        "code": "ISDAY",
+        "country": "Israel",
+        "rank": 285
+    },
+    {
+        "name": "monday.com",
+        "code": "MNDY",
+        "country": "Israel",
+        "rank": 286
+    },
+    {
+        "name": "CyberArk",
+        "code": "CYBR",
+        "country": "Israel",
+        "rank": 287
+    },
+    {
+        "name": "Bezeq",
+        "code": "BEZQ.TA",
+        "country": "Israel",
+        "rank": 288
+    },
+    {
+        "name": "Tower Semiconductor",
+        "code": "TSEM",
+        "country": "Israel",
+        "rank": 289
+    },
+    {
+        "name": "Wix.com",
+        "code": "WIX",
+        "country": "Israel",
+        "rank": 290
+    },
+    {
+        "name": "First International Bank of Israel",
+        "code": "FIBI.TA",
+        "country": "Israel",
+        "rank": 291
+    },
+    {
+        "name": "Melisron",
+        "code": "MLSR.TA",
+        "country": "Israel",
+        "rank": 292
+    },
+    {
+        "name": "Global-e",
+        "code": "GLBE",
+        "country": "Israel",
+        "rank": 293
+    },
+    {
+        "name": "Strauss Group",
+        "code": "STRS.TA",
+        "country": "Israel",
+        "rank": 294
+    },
+    {
+        "name": "Playtika",
+        "code": "PLTK",
+        "country": "Israel",
+        "rank": 295
+    },
+    {
+        "name": "InMode",
+        "code": "INMD",
+        "country": "Israel",
+        "rank": 296
+    },
+    {
+        "name": "IronSource",
+        "code": "IS",
+        "country": "Israel",
+        "rank": 297
+    },
+    {
+        "name": "Amot Investment",
+        "code": "AMOT.TA",
+        "country": "Israel",
+        "rank": 298
+    },
+    {
+        "name": "Shapir Civil and Marine Engineering",
+        "code": "SPEN.TA",
+        "country": "Israel",
+        "rank": 299
+    },
+    {
+        "name": "OPC Energy",
+        "code": "OPCE.TA",
+        "country": "Israel",
+        "rank": 300
+    },
+    {
+        "name": "Nova Measuring Instruments",
+        "code": "NVMI",
+        "country": "Israel",
+        "rank": 301
+    },
+    {
+        "name": "Delek Group",
+        "code": "DLEKG.TA",
+        "country": "Israel",
+        "rank": 302
+    },
+    {
+        "name": "ZIM Integrated Shipping Services",
+        "code": "ZIM",
+        "country": "Israel",
+        "rank": 303
+    },
+    {
+        "name": "Enlight Renewable Energy",
+        "code": "ENLT.TA",
+        "country": "Israel",
+        "rank": 304
+    },
+    {
+        "name": "Electra",
+        "code": "ELTR.TA",
+        "country": "Israel",
+        "rank": 305
+    },
+    {
+        "name": "Plus500",
+        "code": "P55.F",
+        "country": "Israel",
+        "rank": 306
+    },
+    {
+        "name": "Harel Group",
+        "code": "HARL.TA",
+        "country": "Israel",
+        "rank": 307
+    },
+    {
+        "name": "Alony Hetz",
+        "code": "ALHE.TA",
+        "country": "Israel",
+        "rank": 308
+    },
+    {
+        "name": "Energix Renewable Energies",
+        "code": "ENRG.TA",
+        "country": "Israel",
+        "rank": 309
+    },
+    {
+        "name": "Shufersal",
+        "code": "SAE.TA",
+        "country": "Israel",
+        "rank": 310
+    },
+    {
+        "name": "Shikun & Binui",
+        "code": "SKBN.TA",
+        "country": "Israel",
+        "rank": 311
+    },
+    {
+        "name": "Partner Communications",
+        "code": "PTNR",
+        "country": "Israel",
+        "rank": 312
+    },
+    {
+        "name": "Kornit Digital",
+        "code": "KRNT",
+        "country": "Israel",
+        "rank": 313
+    },
+    {
+        "name": "Perion Network",
+        "code": "PERI",
+        "country": "Israel",
+        "rank": 314
+    },
+    {
+        "name": "Maytronics",
+        "code": "MTRN.TA",
+        "country": "Israel",
+        "rank": 315
+    },
+    {
+        "name": "Taro Pharmaceutical",
+        "code": "TARO",
+        "country": "Israel",
+        "rank": 316
+    },
+    {
+        "name": "Formula Systems",
+        "code": "FORTY",
+        "country": "Israel",
+        "rank": 317
+    },
+    {
+        "name": "Fiverr",
+        "code": "FVRR",
+        "country": "Israel",
+        "rank": 318
+    },
+    {
+        "name": "Sapiens",
+        "code": "SPNS",
+        "country": "Israel",
+        "rank": 319
+    },
+    {
+        "name": "Camtek",
+        "code": "CAMT",
+        "country": "Israel",
+        "rank": 320
+    },
+    {
+        "name": "WalkMe",
+        "code": "WKME",
+        "country": "Israel",
+        "rank": 321
+    },
+    {
+        "name": "Radware",
+        "code": "RDWR",
+        "country": "Israel",
+        "rank": 322
+    },
+    {
+        "name": "Cellcom Israel",
+        "code": "CEL.TA",
+        "country": "Israel",
+        "rank": 323
+    },
+    {
+        "name": "Pagaya Technologies",
+        "code": "PGY",
+        "country": "Israel",
+        "rank": 324
+    },
+    {
+        "name": "Cellebrite",
+        "code": "CLBT",
+        "country": "Israel",
+        "rank": 325
+    },
+    {
+        "name": "Stratasys",
+        "code": "SSYS",
+        "country": "Israel",
+        "rank": 326
+    },
+    {
+        "name": "Magic Software",
+        "code": "MGIC",
+        "country": "Israel",
+        "rank": 327
+    },
+    {
+        "name": "Riskified",
+        "code": "RSKD",
+        "country": "Israel",
+        "rank": 328
+    },
+    {
+        "name": "B Communications",
+        "code": "BCOM.TA",
+        "country": "Israel",
+        "rank": 329
+    },
+    {
+        "name": "AudioCodes",
+        "code": "AUDC",
+        "country": "Israel",
+        "rank": 330
+    },
+    {
+        "name": "Valens Semiconductor",
+        "code": "VLN",
+        "country": "Israel",
+        "rank": 331
+    },
+    {
+        "name": "Innoviz",
+        "code": "INVZ",
+        "country": "Israel",
+        "rank": 332
+    },
+    {
+        "name": "RADA Electronic Industries",
+        "code": "RADA",
+        "country": "Israel",
+        "rank": 333
+    },
+    {
+        "name": "Similarweb",
+        "code": "SMWB",
+        "country": "Israel",
+        "rank": 334
+    },
+    {
+        "name": "Tremor International",
+        "code": "TRMR",
+        "country": "Israel",
+        "rank": 335
+    },
+    {
+        "name": "Ituran",
+        "code": "ITRN",
+        "country": "Israel",
+        "rank": 336
+    },
+    {
+        "name": "Nano-X Imaging",
+        "code": "NNOX",
+        "country": "Israel",
+        "rank": 337
+    },
+    {
+        "name": "Gilat Telecom",
+        "code": "GILT",
+        "country": "Israel",
+        "rank": 338
+    },
+    {
+        "name": "NeoGames",
+        "code": "NGMS",
+        "country": "Israel",
+        "rank": 339
+    },
+    {
+        "name": "Silicom",
+        "code": "SILC",
+        "country": "Israel",
+        "rank": 340
+    },
+    {
+        "name": "Alpha Tau Medical",
+        "code": "DRTS",
+        "country": "Israel",
+        "rank": 341
+    },
+    {
+        "name": "Arbe Robotics",
+        "code": "ARBE",
+        "country": "Israel",
+        "rank": 342
+    },
+    {
+        "name": "Cognyte Software",
+        "code": "CGNT",
+        "country": "Israel",
+        "rank": 343
+    },
+    {
+        "name": "Caesarstone",
+        "code": "CSTE",
+        "country": "Israel",
+        "rank": 344
+    },
+    {
+        "name": "Ellomay Capital",
+        "code": "ELLO",
+        "country": "Israel",
+        "rank": 345
+    },
+    {
+        "name": "Kamada",
+        "code": "KMDA",
+        "country": "Israel",
+        "rank": 346
+    },
+    {
+        "name": "Ceragon Networks",
+        "code": "CRNT",
+        "country": "Israel",
+        "rank": 347
+    },
+    {
+        "name": "InterCure",
+        "code": "INCR",
+        "country": "Israel",
+        "rank": 348
+    },
+    {
+        "name": "Allot",
+        "code": "ALLT",
+        "country": "Israel",
+        "rank": 349
+    },
+    {
+        "name": "REE Automotive",
+        "code": "REE",
+        "country": "Israel",
+        "rank": 350
+    },
+    {
+        "name": "Protalix BioTherapeutics",
+        "code": "PLX",
+        "country": "Israel",
+        "rank": 351
+    },
+    {
+        "name": "Compugen",
+        "code": "CGEN",
+        "country": "Israel",
+        "rank": 352
+    },
+    {
+        "name": "ReWalk Robotics",
+        "code": "RWLK",
+        "country": "Israel",
+        "rank": 353
+    },
+    {
+        "name": "Foresight Autonomous Holdings",
+        "code": "FRSX",
+        "country": "Israel",
+        "rank": 354
+    },
+    {
+        "name": "Rail Vision",
+        "code": "RVSN",
+        "country": "Israel",
+        "rank": 355
+    },
+    {
+        "name": "Can Fite Biopharma",
+        "code": "CANF",
+        "country": "Israel",
+        "rank": 356
+    },
+    {
+        "name": "Inspira Technologies",
+        "code": "IINN",
+        "country": "Israel",
+        "rank": 357
+    },
+    {
+        "name": "Redhill Biopharma",
+        "code": "RDHL",
+        "country": "Israel",
+        "rank": 358
+    },
+    {
+        "name": "Galmed Pharmaceuticals",
+        "code": "GLMD",
+        "country": "Israel",
+        "rank": 359
+    },
+    {
+        "name": "Jeffs' Brands",
+        "code": "JFBR",
+        "country": "Israel",
+        "rank": 360
+    },
+    {
+        "name": "SaverOne 2014",
+        "code": "SVRE",
+        "country": "Israel",
+        "rank": 361
+    },
+    {
+        "name": "BiondVax",
+        "code": "BVXV",
+        "country": "Israel",
+        "rank": 362
+    },
+    {
+        "name": "PainReform",
+        "code": "PRFX",
+        "country": "Israel",
+        "rank": 363
+    },
+    {
+        "name": "G Medical Innovations",
+        "code": "GMVD",
+        "country": "Israel",
+        "rank": 364
+    },
+    {
+        "name": "Mobileye",
+        "code": "MBLY",
+        "country": "Israel",
+        "rank": 365
+    },
+    {
+        "name": "SolarEdge",
+        "code": "SEDG",
+        "country": "Israel",
+        "rank": 366
+    },
+    {
+        "name": "Check Point Software",
+        "code": "CHKP",
+        "country": "Israel",
+        "rank": 367
+    },
+    {
+        "name": "NICE",
+        "code": "NICE",
+        "country": "Israel",
+        "rank": 368
+    },
+    {
+        "name": "Bank Hapoalim",
+        "code": "POLI.TA",
+        "country": "Israel",
+        "rank": 369
+    },
+    {
+        "name": "Bank Leumi",
+        "code": "LUMI.TA",
+        "country": "Israel",
+        "rank": 370
+    },
+    {
+        "name": "Teva Pharmaceutical Industries",
+        "code": "TEVA",
+        "country": "Israel",
+        "rank": 371
+    },
+    {
+        "name": "Israel Chemicals",
+        "code": "ICL",
+        "country": "Israel",
+        "rank": 372
+    },
+    {
+        "name": "Mizrahi-Tefahot",
+        "code": "MZTF.TA",
+        "country": "Israel",
+        "rank": 373
+    },
+    {
+        "name": "Azrieli Group",
+        "code": "AZRG.TA",
+        "country": "Israel",
+        "rank": 374
+    },
+    {
+        "name": "Elbit Systems",
+        "code": "ESLT",
+        "country": "Israel",
+        "rank": 375
+    },
+    {
+        "name": "Israel Discount Bank",
+        "code": "ISDAY",
+        "country": "Israel",
+        "rank": 376
+    },
+    {
+        "name": "monday.com",
+        "code": "MNDY",
+        "country": "Israel",
+        "rank": 377
+    },
+    {
+        "name": "CyberArk",
+        "code": "CYBR",
+        "country": "Israel",
+        "rank": 378
+    },
+    {
+        "name": "Bezeq",
+        "code": "BEZQ.TA",
+        "country": "Israel",
+        "rank": 379
+    },
+    {
+        "name": "Tower Semiconductor",
+        "code": "TSEM",
+        "country": "Israel",
+        "rank": 380
+    },
+    {
+        "name": "Wix.com",
+        "code": "WIX",
+        "country": "Israel",
+        "rank": 381
+    },
+    {
+        "name": "First International Bank of Israel",
+        "code": "FIBI.TA",
+        "country": "Israel",
+        "rank": 382
+    },
+    {
+        "name": "Melisron",
+        "code": "MLSR.TA",
+        "country": "Israel",
+        "rank": 383
+    },
+    {
+        "name": "Global-e",
+        "code": "GLBE",
+        "country": "Israel",
+        "rank": 384
+    },
+    {
+        "name": "Strauss Group",
+        "code": "STRS.TA",
+        "country": "Israel",
+        "rank": 385
+    },
+    {
+        "name": "Playtika",
+        "code": "PLTK",
+        "country": "Israel",
+        "rank": 386
+    },
+    {
+        "name": "InMode",
+        "code": "INMD",
+        "country": "Israel",
+        "rank": 387
+    },
+    {
+        "name": "IronSource",
+        "code": "IS",
+        "country": "Israel",
+        "rank": 388
+    },
+    {
+        "name": "Amot Investment",
+        "code": "AMOT.TA",
+        "country": "Israel",
+        "rank": 389
+    },
+    {
+        "name": "Shapir Civil and Marine Engineering",
+        "code": "SPEN.TA",
+        "country": "Israel",
+        "rank": 390
+    },
+    {
+        "name": "OPC Energy",
+        "code": "OPCE.TA",
+        "country": "Israel",
+        "rank": 391
+    },
+    {
+        "name": "Nova Measuring Instruments",
+        "code": "NVMI",
+        "country": "Israel",
+        "rank": 392
+    },
+    {
+        "name": "Delek Group",
+        "code": "DLEKG.TA",
+        "country": "Israel",
+        "rank": 393
+    },
+    {
+        "name": "ZIM Integrated Shipping Services",
+        "code": "ZIM",
+        "country": "Israel",
+        "rank": 394
+    },
+    {
+        "name": "Enlight Renewable Energy",
+        "code": "ENLT.TA",
+        "country": "Israel",
+        "rank": 395
+    },
+    {
+        "name": "Electra",
+        "code": "ELTR.TA",
+        "country": "Israel",
+        "rank": 396
+    },
+    {
+        "name": "Plus500",
+        "code": "P55.F",
+        "country": "Israel",
+        "rank": 397
+    },
+    {
+        "name": "Harel Group",
+        "code": "HARL.TA",
+        "country": "Israel",
+        "rank": 398
+    },
+    {
+        "name": "Alony Hetz",
+        "code": "ALHE.TA",
+        "country": "Israel",
+        "rank": 399
+    },
+    {
+        "name": "Energix Renewable Energies",
+        "code": "ENRG.TA",
+        "country": "Israel",
+        "rank": 400
+    },
+    {
+        "name": "Shufersal",
+        "code": "SAE.TA",
+        "country": "Israel",
+        "rank": 401
+    },
+    {
+        "name": "Shikun & Binui",
+        "code": "SKBN.TA",
+        "country": "Israel",
+        "rank": 402
+    },
+    {
+        "name": "Partner Communications",
+        "code": "PTNR",
+        "country": "Israel",
+        "rank": 403
+    },
+    {
+        "name": "Kornit Digital",
+        "code": "KRNT",
+        "country": "Israel",
+        "rank": 404
+    },
+    {
+        "name": "Perion Network",
+        "code": "PERI",
+        "country": "Israel",
+        "rank": 405
+    },
+    {
+        "name": "Maytronics",
+        "code": "MTRN.TA",
+        "country": "Israel",
+        "rank": 406
+    },
+    {
+        "name": "Taro Pharmaceutical",
+        "code": "TARO",
+        "country": "Israel",
+        "rank": 407
+    },
+    {
+        "name": "Formula Systems",
+        "code": "FORTY",
+        "country": "Israel",
+        "rank": 408
+    },
+    {
+        "name": "Fiverr",
+        "code": "FVRR",
+        "country": "Israel",
+        "rank": 409
+    },
+    {
+        "name": "Sapiens",
+        "code": "SPNS",
+        "country": "Israel",
+        "rank": 410
+    },
+    {
+        "name": "Camtek",
+        "code": "CAMT",
+        "country": "Israel",
+        "rank": 411
+    },
+    {
+        "name": "WalkMe",
+        "code": "WKME",
+        "country": "Israel",
+        "rank": 412
+    },
+    {
+        "name": "Radware",
+        "code": "RDWR",
+        "country": "Israel",
+        "rank": 413
+    },
+    {
+        "name": "Cellcom Israel",
+        "code": "CEL.TA",
+        "country": "Israel",
+        "rank": 414
+    },
+    {
+        "name": "Pagaya Technologies",
+        "code": "PGY",
+        "country": "Israel",
+        "rank": 415
+    },
+    {
+        "name": "Cellebrite",
+        "code": "CLBT",
+        "country": "Israel",
+        "rank": 416
+    },
+    {
+        "name": "Stratasys",
+        "code": "SSYS",
+        "country": "Israel",
+        "rank": 417
+    },
+    {
+        "name": "Magic Software",
+        "code": "MGIC",
+        "country": "Israel",
+        "rank": 418
+    },
+    {
+        "name": "Riskified",
+        "code": "RSKD",
+        "country": "Israel",
+        "rank": 419
+    },
+    {
+        "name": "B Communications",
+        "code": "BCOM.TA",
+        "country": "Israel",
+        "rank": 420
+    },
+    {
+        "name": "AudioCodes",
+        "code": "AUDC",
+        "country": "Israel",
+        "rank": 421
+    },
+    {
+        "name": "Valens Semiconductor",
+        "code": "VLN",
+        "country": "Israel",
+        "rank": 422
+    },
+    {
+        "name": "Innoviz",
+        "code": "INVZ",
+        "country": "Israel",
+        "rank": 423
+    },
+    {
+        "name": "RADA Electronic Industries",
+        "code": "RADA",
+        "country": "Israel",
+        "rank": 424
+    },
+    {
+        "name": "Similarweb",
+        "code": "SMWB",
+        "country": "Israel",
+        "rank": 425
+    },
+    {
+        "name": "Tremor International",
+        "code": "TRMR",
+        "country": "Israel",
+        "rank": 426
+    },
+    {
+        "name": "Ituran",
+        "code": "ITRN",
+        "country": "Israel",
+        "rank": 427
+    },
+    {
+        "name": "Nano-X Imaging",
+        "code": "NNOX",
+        "country": "Israel",
+        "rank": 428
+    },
+    {
+        "name": "Gilat Telecom",
+        "code": "GILT",
+        "country": "Israel",
+        "rank": 429
+    },
+    {
+        "name": "NeoGames",
+        "code": "NGMS",
+        "country": "Israel",
+        "rank": 430
+    },
+    {
+        "name": "Silicom",
+        "code": "SILC",
+        "country": "Israel",
+        "rank": 431
+    },
+    {
+        "name": "Alpha Tau Medical",
+        "code": "DRTS",
+        "country": "Israel",
+        "rank": 432
+    },
+    {
+        "name": "Arbe Robotics",
+        "code": "ARBE",
+        "country": "Israel",
+        "rank": 433
+    },
+    {
+        "name": "Cognyte Software",
+        "code": "CGNT",
+        "country": "Israel",
+        "rank": 434
+    },
+    {
+        "name": "Caesarstone",
+        "code": "CSTE",
+        "country": "Israel",
+        "rank": 435
+    },
+    {
+        "name": "Ellomay Capital",
+        "code": "ELLO",
+        "country": "Israel",
+        "rank": 436
+    },
+    {
+        "name": "Kamada",
+        "code": "KMDA",
+        "country": "Israel",
+        "rank": 437
+    },
+    {
+        "name": "Ceragon Networks",
+        "code": "CRNT",
+        "country": "Israel",
+        "rank": 438
+    },
+    {
+        "name": "InterCure",
+        "code": "INCR",
+        "country": "Israel",
+        "rank": 439
+    },
+    {
+        "name": "Allot",
+        "code": "ALLT",
+        "country": "Israel",
+        "rank": 440
+    },
+    {
+        "name": "REE Automotive",
+        "code": "REE",
+        "country": "Israel",
+        "rank": 441
+    },
+    {
+        "name": "Protalix BioTherapeutics",
+        "code": "PLX",
+        "country": "Israel",
+        "rank": 442
+    },
+    {
+        "name": "Compugen",
+        "code": "CGEN",
+        "country": "Israel",
+        "rank": 443
+    },
+    {
+        "name": "ReWalk Robotics",
+        "code": "RWLK",
+        "country": "Israel",
+        "rank": 444
+    },
+    {
+        "name": "Foresight Autonomous Holdings",
+        "code": "FRSX",
+        "country": "Israel",
+        "rank": 445
+    },
+    {
+        "name": "Rail Vision",
+        "code": "RVSN",
+        "country": "Israel",
+        "rank": 446
+    },
+    {
+        "name": "Can Fite Biopharma",
+        "code": "CANF",
+        "country": "Israel",
+        "rank": 447
+    },
+    {
+        "name": "Inspira Technologies",
+        "code": "IINN",
+        "country": "Israel",
+        "rank": 448
+    },
+    {
+        "name": "Redhill Biopharma",
+        "code": "RDHL",
+        "country": "Israel",
+        "rank": 449
+    },
+    {
+        "name": "Galmed Pharmaceuticals",
+        "code": "GLMD",
+        "country": "Israel",
+        "rank": 450
+    },
+    {
+        "name": "Jeffs' Brands",
+        "code": "JFBR",
+        "country": "Israel",
+        "rank": 451
+    },
+    {
+        "name": "SaverOne 2014",
+        "code": "SVRE",
+        "country": "Israel",
+        "rank": 452
+    },
+    {
+        "name": "BiondVax",
+        "code": "BVXV",
+        "country": "Israel",
+        "rank": 453
+    },
+    {
+        "name": "PainReform",
+        "code": "PRFX",
+        "country": "Israel",
+        "rank": 454
+    },
+    {
+        "name": "G Medical Innovations",
+        "code": "GMVD",
+        "country": "Israel",
+        "rank": 455
+    },
+    {
+        "name": "Mobileye",
+        "code": "MBLY",
+        "country": "Israel",
+        "rank": 456
+    },
+    {
+        "name": "SolarEdge",
+        "code": "SEDG",
+        "country": "Israel",
+        "rank": 457
+    },
+    {
+        "name": "Check Point Software",
+        "code": "CHKP",
+        "country": "Israel",
+        "rank": 458
+    },
+    {
+        "name": "NICE",
+        "code": "NICE",
+        "country": "Israel",
+        "rank": 459
+    },
+    {
+        "name": "Bank Hapoalim",
+        "code": "POLI.TA",
+        "country": "Israel",
+        "rank": 460
+    },
+    {
+        "name": "Bank Leumi",
+        "code": "LUMI.TA",
+        "country": "Israel",
+        "rank": 461
+    },
+    {
+        "name": "Teva Pharmaceutical Industries",
+        "code": "TEVA",
+        "country": "Israel",
+        "rank": 462
+    },
+    {
+        "name": "Israel Chemicals",
+        "code": "ICL",
+        "country": "Israel",
+        "rank": 463
+    },
+    {
+        "name": "Mizrahi-Tefahot",
+        "code": "MZTF.TA",
+        "country": "Israel",
+        "rank": 464
+    },
+    {
+        "name": "Azrieli Group",
+        "code": "AZRG.TA",
+        "country": "Israel",
+        "rank": 465
+    },
+    {
+        "name": "Elbit Systems",
+        "code": "ESLT",
+        "country": "Israel",
+        "rank": 466
+    },
+    {
+        "name": "Israel Discount Bank",
+        "code": "ISDAY",
+        "country": "Israel",
+        "rank": 467
+    },
+    {
+        "name": "monday.com",
+        "code": "MNDY",
+        "country": "Israel",
+        "rank": 468
+    },
+    {
+        "name": "CyberArk",
+        "code": "CYBR",
+        "country": "Israel",
+        "rank": 469
+    },
+    {
+        "name": "Bezeq",
+        "code": "BEZQ.TA",
+        "country": "Israel",
+        "rank": 470
+    },
+    {
+        "name": "Tower Semiconductor",
+        "code": "TSEM",
+        "country": "Israel",
+        "rank": 471
+    },
+    {
+        "name": "Wix.com",
+        "code": "WIX",
+        "country": "Israel",
+        "rank": 472
+    },
+    {
+        "name": "First International Bank of Israel",
+        "code": "FIBI.TA",
+        "country": "Israel",
+        "rank": 473
+    },
+    {
+        "name": "Melisron",
+        "code": "MLSR.TA",
+        "country": "Israel",
+        "rank": 474
+    },
+    {
+        "name": "Global-e",
+        "code": "GLBE",
+        "country": "Israel",
+        "rank": 475
+    },
+    {
+        "name": "Strauss Group",
+        "code": "STRS.TA",
+        "country": "Israel",
+        "rank": 476
+    },
+    {
+        "name": "Playtika",
+        "code": "PLTK",
+        "country": "Israel",
+        "rank": 477
+    },
+    {
+        "name": "InMode",
+        "code": "INMD",
+        "country": "Israel",
+        "rank": 478
+    },
+    {
+        "name": "IronSource",
+        "code": "IS",
+        "country": "Israel",
+        "rank": 479
+    },
+    {
+        "name": "Amot Investment",
+        "code": "AMOT.TA",
+        "country": "Israel",
+        "rank": 480
+    },
+    {
+        "name": "Shapir Civil and Marine Engineering",
+        "code": "SPEN.TA",
+        "country": "Israel",
+        "rank": 481
+    },
+    {
+        "name": "OPC Energy",
+        "code": "OPCE.TA",
+        "country": "Israel",
+        "rank": 482
+    },
+    {
+        "name": "Nova Measuring Instruments",
+        "code": "NVMI",
+        "country": "Israel",
+        "rank": 483
+    },
+    {
+        "name": "Delek Group",
+        "code": "DLEKG.TA",
+        "country": "Israel",
+        "rank": 484
+    },
+    {
+        "name": "ZIM Integrated Shipping Services",
+        "code": "ZIM",
+        "country": "Israel",
+        "rank": 485
+    },
+    {
+        "name": "Enlight Renewable Energy",
+        "code": "ENLT.TA",
+        "country": "Israel",
+        "rank": 486
+    },
+    {
+        "name": "Electra",
+        "code": "ELTR.TA",
+        "country": "Israel",
+        "rank": 487
+    },
+    {
+        "name": "Plus500",
+        "code": "P55.F",
+        "country": "Israel",
+        "rank": 488
+    },
+    {
+        "name": "Harel Group",
+        "code": "HARL.TA",
+        "country": "Israel",
+        "rank": 489
+    },
+    {
+        "name": "Alony Hetz",
+        "code": "ALHE.TA",
+        "country": "Israel",
+        "rank": 490
+    },
+    {
+        "name": "Energix Renewable Energies",
+        "code": "ENRG.TA",
+        "country": "Israel",
+        "rank": 491
+    },
+    {
+        "name": "Shufersal",
+        "code": "SAE.TA",
+        "country": "Israel",
+        "rank": 492
+    },
+    {
+        "name": "Shikun & Binui",
+        "code": "SKBN.TA",
+        "country": "Israel",
+        "rank": 493
+    },
+    {
+        "name": "Partner Communications",
+        "code": "PTNR",
+        "country": "Israel",
+        "rank": 494
+    },
+    {
+        "name": "Kornit Digital",
+        "code": "KRNT",
+        "country": "Israel",
+        "rank": 495
+    },
+    {
+        "name": "Perion Network",
+        "code": "PERI",
+        "country": "Israel",
+        "rank": 496
+    },
+    {
+        "name": "Maytronics",
+        "code": "MTRN.TA",
+        "country": "Israel",
+        "rank": 497
+    },
+    {
+        "name": "Taro Pharmaceutical",
+        "code": "TARO",
+        "country": "Israel",
+        "rank": 498
+    },
+    {
+        "name": "Formula Systems",
+        "code": "FORTY",
+        "country": "Israel",
+        "rank": 499
+    },
+    {
+        "name": "Fiverr",
+        "code": "FVRR",
+        "country": "Israel",
+        "rank": 500
+    },
+    {
+        "name": "Sapiens",
+        "code": "SPNS",
+        "country": "Israel",
+        "rank": 501
+    },
+    {
+        "name": "Camtek",
+        "code": "CAMT",
+        "country": "Israel",
+        "rank": 502
+    },
+    {
+        "name": "WalkMe",
+        "code": "WKME",
+        "country": "Israel",
+        "rank": 503
+    },
+    {
+        "name": "Radware",
+        "code": "RDWR",
+        "country": "Israel",
+        "rank": 504
+    },
+    {
+        "name": "Cellcom Israel",
+        "code": "CEL.TA",
+        "country": "Israel",
+        "rank": 505
+    },
+    {
+        "name": "Pagaya Technologies",
+        "code": "PGY",
+        "country": "Israel",
+        "rank": 506
+    },
+    {
+        "name": "Cellebrite",
+        "code": "CLBT",
+        "country": "Israel",
+        "rank": 507
+    },
+    {
+        "name": "Stratasys",
+        "code": "SSYS",
+        "country": "Israel",
+        "rank": 508
+    },
+    {
+        "name": "Magic Software",
+        "code": "MGIC",
+        "country": "Israel",
+        "rank": 509
+    },
+    {
+        "name": "Riskified",
+        "code": "RSKD",
+        "country": "Israel",
+        "rank": 510
+    },
+    {
+        "name": "B Communications",
+        "code": "BCOM.TA",
+        "country": "Israel",
+        "rank": 511
+    },
+    {
+        "name": "AudioCodes",
+        "code": "AUDC",
+        "country": "Israel",
+        "rank": 512
+    },
+    {
+        "name": "Valens Semiconductor",
+        "code": "VLN",
+        "country": "Israel",
+        "rank": 513
+    },
+    {
+        "name": "Innoviz",
+        "code": "INVZ",
+        "country": "Israel",
+        "rank": 514
+    },
+    {
+        "name": "RADA Electronic Industries",
+        "code": "RADA",
+        "country": "Israel",
+        "rank": 515
+    },
+    {
+        "name": "Similarweb",
+        "code": "SMWB",
+        "country": "Israel",
+        "rank": 516
+    },
+    {
+        "name": "Tremor International",
+        "code": "TRMR",
+        "country": "Israel",
+        "rank": 517
+    },
+    {
+        "name": "Ituran",
+        "code": "ITRN",
+        "country": "Israel",
+        "rank": 518
+    },
+    {
+        "name": "Nano-X Imaging",
+        "code": "NNOX",
+        "country": "Israel",
+        "rank": 519
+    },
+    {
+        "name": "Gilat Telecom",
+        "code": "GILT",
+        "country": "Israel",
+        "rank": 520
+    },
+    {
+        "name": "NeoGames",
+        "code": "NGMS",
+        "country": "Israel",
+        "rank": 521
+    },
+    {
+        "name": "Silicom",
+        "code": "SILC",
+        "country": "Israel",
+        "rank": 522
+    },
+    {
+        "name": "Alpha Tau Medical",
+        "code": "DRTS",
+        "country": "Israel",
+        "rank": 523
+    },
+    {
+        "name": "Arbe Robotics",
+        "code": "ARBE",
+        "country": "Israel",
+        "rank": 524
+    },
+    {
+        "name": "Cognyte Software",
+        "code": "CGNT",
+        "country": "Israel",
+        "rank": 525
+    },
+    {
+        "name": "Caesarstone",
+        "code": "CSTE",
+        "country": "Israel",
+        "rank": 526
+    },
+    {
+        "name": "Ellomay Capital",
+        "code": "ELLO",
+        "country": "Israel",
+        "rank": 527
+    },
+    {
+        "name": "Kamada",
+        "code": "KMDA",
+        "country": "Israel",
+        "rank": 528
+    },
+    {
+        "name": "Ceragon Networks",
+        "code": "CRNT",
+        "country": "Israel",
+        "rank": 529
+    },
+    {
+        "name": "InterCure",
+        "code": "INCR",
+        "country": "Israel",
+        "rank": 530
+    },
+    {
+        "name": "Allot",
+        "code": "ALLT",
+        "country": "Israel",
+        "rank": 531
+    },
+    {
+        "name": "REE Automotive",
+        "code": "REE",
+        "country": "Israel",
+        "rank": 532
+    },
+    {
+        "name": "Protalix BioTherapeutics",
+        "code": "PLX",
+        "country": "Israel",
+        "rank": 533
+    },
+    {
+        "name": "Compugen",
+        "code": "CGEN",
+        "country": "Israel",
+        "rank": 534
+    },
+    {
+        "name": "ReWalk Robotics",
+        "code": "RWLK",
+        "country": "Israel",
+        "rank": 535
+    },
+    {
+        "name": "Foresight Autonomous Holdings",
+        "code": "FRSX",
+        "country": "Israel",
+        "rank": 536
+    },
+    {
+        "name": "Rail Vision",
+        "code": "RVSN",
+        "country": "Israel",
+        "rank": 537
+    },
+    {
+        "name": "Can Fite Biopharma",
+        "code": "CANF",
+        "country": "Israel",
+        "rank": 538
+    },
+    {
+        "name": "Inspira Technologies",
+        "code": "IINN",
+        "country": "Israel",
+        "rank": 539
+    },
+    {
+        "name": "Redhill Biopharma",
+        "code": "RDHL",
+        "country": "Israel",
+        "rank": 540
+    },
+    {
+        "name": "Galmed Pharmaceuticals",
+        "code": "GLMD",
+        "country": "Israel",
+        "rank": 541
+    },
+    {
+        "name": "Jeffs' Brands",
+        "code": "JFBR",
+        "country": "Israel",
+        "rank": 542
+    },
+    {
+        "name": "SaverOne 2014",
+        "code": "SVRE",
+        "country": "Israel",
+        "rank": 543
+    },
+    {
+        "name": "BiondVax",
+        "code": "BVXV",
+        "country": "Israel",
+        "rank": 544
+    },
+    {
+        "name": "PainReform",
+        "code": "PRFX",
+        "country": "Israel",
+        "rank": 545
+    },
+    {
+        "name": "G Medical Innovations",
+        "code": "GMVD",
+        "country": "Israel",
+        "rank": 546
+    },
+    {
+        "name": "Mobileye",
+        "code": "MBLY",
+        "country": "Israel",
+        "rank": 547
+    },
+    {
+        "name": "SolarEdge",
+        "code": "SEDG",
+        "country": "Israel",
+        "rank": 548
+    },
+    {
+        "name": "Check Point Software",
+        "code": "CHKP",
+        "country": "Israel",
+        "rank": 549
+    },
+    {
+        "name": "NICE",
+        "code": "NICE",
+        "country": "Israel",
+        "rank": 550
+    },
+    {
+        "name": "Bank Hapoalim",
+        "code": "POLI.TA",
+        "country": "Israel",
+        "rank": 551
+    },
+    {
+        "name": "Bank Leumi",
+        "code": "LUMI.TA",
+        "country": "Israel",
+        "rank": 552
+    },
+    {
+        "name": "Teva Pharmaceutical Industries",
+        "code": "TEVA",
+        "country": "Israel",
+        "rank": 553
+    },
+    {
+        "name": "Israel Chemicals",
+        "code": "ICL",
+        "country": "Israel",
+        "rank": 554
+    },
+    {
+        "name": "Mizrahi-Tefahot",
+        "code": "MZTF.TA",
+        "country": "Israel",
+        "rank": 555
+    },
+    {
+        "name": "Azrieli Group",
+        "code": "AZRG.TA",
+        "country": "Israel",
+        "rank": 556
+    },
+    {
+        "name": "Elbit Systems",
+        "code": "ESLT",
+        "country": "Israel",
+        "rank": 557
+    },
+    {
+        "name": "Israel Discount Bank",
+        "code": "ISDAY",
+        "country": "Israel",
+        "rank": 558
+    },
+    {
+        "name": "monday.com",
+        "code": "MNDY",
+        "country": "Israel",
+        "rank": 559
+    },
+    {
+        "name": "CyberArk",
+        "code": "CYBR",
+        "country": "Israel",
+        "rank": 560
+    },
+    {
+        "name": "Bezeq",
+        "code": "BEZQ.TA",
+        "country": "Israel",
+        "rank": 561
+    },
+    {
+        "name": "Tower Semiconductor",
+        "code": "TSEM",
+        "country": "Israel",
+        "rank": 562
+    },
+    {
+        "name": "Wix.com",
+        "code": "WIX",
+        "country": "Israel",
+        "rank": 563
+    },
+    {
+        "name": "First International Bank of Israel",
+        "code": "FIBI.TA",
+        "country": "Israel",
+        "rank": 564
+    },
+    {
+        "name": "Melisron",
+        "code": "MLSR.TA",
+        "country": "Israel",
+        "rank": 565
+    },
+    {
+        "name": "Global-e",
+        "code": "GLBE",
+        "country": "Israel",
+        "rank": 566
+    },
+    {
+        "name": "Strauss Group",
+        "code": "STRS.TA",
+        "country": "Israel",
+        "rank": 567
+    },
+    {
+        "name": "Playtika",
+        "code": "PLTK",
+        "country": "Israel",
+        "rank": 568
+    },
+    {
+        "name": "InMode",
+        "code": "INMD",
+        "country": "Israel",
+        "rank": 569
+    },
+    {
+        "name": "IronSource",
+        "code": "IS",
+        "country": "Israel",
+        "rank": 570
+    },
+    {
+        "name": "Amot Investment",
+        "code": "AMOT.TA",
+        "country": "Israel",
+        "rank": 571
+    },
+    {
+        "name": "Shapir Civil and Marine Engineering",
+        "code": "SPEN.TA",
+        "country": "Israel",
+        "rank": 572
+    },
+    {
+        "name": "OPC Energy",
+        "code": "OPCE.TA",
+        "country": "Israel",
+        "rank": 573
+    },
+    {
+        "name": "Nova Measuring Instruments",
+        "code": "NVMI",
+        "country": "Israel",
+        "rank": 574
+    },
+    {
+        "name": "Delek Group",
+        "code": "DLEKG.TA",
+        "country": "Israel",
+        "rank": 575
+    },
+    {
+        "name": "ZIM Integrated Shipping Services",
+        "code": "ZIM",
+        "country": "Israel",
+        "rank": 576
+    },
+    {
+        "name": "Enlight Renewable Energy",
+        "code": "ENLT.TA",
+        "country": "Israel",
+        "rank": 577
+    },
+    {
+        "name": "Electra",
+        "code": "ELTR.TA",
+        "country": "Israel",
+        "rank": 578
+    },
+    {
+        "name": "Plus500",
+        "code": "P55.F",
+        "country": "Israel",
+        "rank": 579
+    },
+    {
+        "name": "Harel Group",
+        "code": "HARL.TA",
+        "country": "Israel",
+        "rank": 580
+    },
+    {
+        "name": "Alony Hetz",
+        "code": "ALHE.TA",
+        "country": "Israel",
+        "rank": 581
+    },
+    {
+        "name": "Energix Renewable Energies",
+        "code": "ENRG.TA",
+        "country": "Israel",
+        "rank": 582
+    },
+    {
+        "name": "Shufersal",
+        "code": "SAE.TA",
+        "country": "Israel",
+        "rank": 583
+    },
+    {
+        "name": "Shikun & Binui",
+        "code": "SKBN.TA",
+        "country": "Israel",
+        "rank": 584
+    },
+    {
+        "name": "Partner Communications",
+        "code": "PTNR",
+        "country": "Israel",
+        "rank": 585
+    },
+    {
+        "name": "Kornit Digital",
+        "code": "KRNT",
+        "country": "Israel",
+        "rank": 586
+    },
+    {
+        "name": "Perion Network",
+        "code": "PERI",
+        "country": "Israel",
+        "rank": 587
+    },
+    {
+        "name": "Maytronics",
+        "code": "MTRN.TA",
+        "country": "Israel",
+        "rank": 588
+    },
+    {
+        "name": "Taro Pharmaceutical",
+        "code": "TARO",
+        "country": "Israel",
+        "rank": 589
+    },
+    {
+        "name": "Formula Systems",
+        "code": "FORTY",
+        "country": "Israel",
+        "rank": 590
+    },
+    {
+        "name": "Fiverr",
+        "code": "FVRR",
+        "country": "Israel",
+        "rank": 591
+    },
+    {
+        "name": "Sapiens",
+        "code": "SPNS",
+        "country": "Israel",
+        "rank": 592
+    },
+    {
+        "name": "Camtek",
+        "code": "CAMT",
+        "country": "Israel",
+        "rank": 593
+    },
+    {
+        "name": "WalkMe",
+        "code": "WKME",
+        "country": "Israel",
+        "rank": 594
+    },
+    {
+        "name": "Radware",
+        "code": "RDWR",
+        "country": "Israel",
+        "rank": 595
+    },
+    {
+        "name": "Cellcom Israel",
+        "code": "CEL.TA",
+        "country": "Israel",
+        "rank": 596
+    },
+    {
+        "name": "Pagaya Technologies",
+        "code": "PGY",
+        "country": "Israel",
+        "rank": 597
+    },
+    {
+        "name": "Cellebrite",
+        "code": "CLBT",
+        "country": "Israel",
+        "rank": 598
+    },
+    {
+        "name": "Stratasys",
+        "code": "SSYS",
+        "country": "Israel",
+        "rank": 599
+    },
+    {
+        "name": "Magic Software",
+        "code": "MGIC",
+        "country": "Israel",
+        "rank": 600
+    },
+    {
+        "name": "Riskified",
+        "code": "RSKD",
+        "country": "Israel",
+        "rank": 601
+    },
+    {
+        "name": "B Communications",
+        "code": "BCOM.TA",
+        "country": "Israel",
+        "rank": 602
+    },
+    {
+        "name": "AudioCodes",
+        "code": "AUDC",
+        "country": "Israel",
+        "rank": 603
+    },
+    {
+        "name": "Valens Semiconductor",
+        "code": "VLN",
+        "country": "Israel",
+        "rank": 604
+    },
+    {
+        "name": "Innoviz",
+        "code": "INVZ",
+        "country": "Israel",
+        "rank": 605
+    },
+    {
+        "name": "RADA Electronic Industries",
+        "code": "RADA",
+        "country": "Israel",
+        "rank": 606
+    },
+    {
+        "name": "Similarweb",
+        "code": "SMWB",
+        "country": "Israel",
+        "rank": 607
+    },
+    {
+        "name": "Tremor International",
+        "code": "TRMR",
+        "country": "Israel",
+        "rank": 608
+    },
+    {
+        "name": "Ituran",
+        "code": "ITRN",
+        "country": "Israel",
+        "rank": 609
+    },
+    {
+        "name": "Nano-X Imaging",
+        "code": "NNOX",
+        "country": "Israel",
+        "rank": 610
+    },
+    {
+        "name": "Gilat Telecom",
+        "code": "GILT",
+        "country": "Israel",
+        "rank": 611
+    },
+    {
+        "name": "NeoGames",
+        "code": "NGMS",
+        "country": "Israel",
+        "rank": 612
+    },
+    {
+        "name": "Silicom",
+        "code": "SILC",
+        "country": "Israel",
+        "rank": 613
+    },
+    {
+        "name": "Alpha Tau Medical",
+        "code": "DRTS",
+        "country": "Israel",
+        "rank": 614
+    },
+    {
+        "name": "Arbe Robotics",
+        "code": "ARBE",
+        "country": "Israel",
+        "rank": 615
+    },
+    {
+        "name": "Cognyte Software",
+        "code": "CGNT",
+        "country": "Israel",
+        "rank": 616
+    },
+    {
+        "name": "Caesarstone",
+        "code": "CSTE",
+        "country": "Israel",
+        "rank": 617
+    },
+    {
+        "name": "Ellomay Capital",
+        "code": "ELLO",
+        "country": "Israel",
+        "rank": 618
+    },
+    {
+        "name": "Kamada",
+        "code": "KMDA",
+        "country": "Israel",
+        "rank": 619
+    },
+    {
+        "name": "Ceragon Networks",
+        "code": "CRNT",
+        "country": "Israel",
+        "rank": 620
+    },
+    {
+        "name": "InterCure",
+        "code": "INCR",
+        "country": "Israel",
+        "rank": 621
+    },
+    {
+        "name": "Allot",
+        "code": "ALLT",
+        "country": "Israel",
+        "rank": 622
+    },
+    {
+        "name": "REE Automotive",
+        "code": "REE",
+        "country": "Israel",
+        "rank": 623
+    },
+    {
+        "name": "Protalix BioTherapeutics",
+        "code": "PLX",
+        "country": "Israel",
+        "rank": 624
+    },
+    {
+        "name": "Compugen",
+        "code": "CGEN",
+        "country": "Israel",
+        "rank": 625
+    },
+    {
+        "name": "ReWalk Robotics",
+        "code": "RWLK",
+        "country": "Israel",
+        "rank": 626
+    },
+    {
+        "name": "Foresight Autonomous Holdings",
+        "code": "FRSX",
+        "country": "Israel",
+        "rank": 627
+    },
+    {
+        "name": "Rail Vision",
+        "code": "RVSN",
+        "country": "Israel",
+        "rank": 628
+    },
+    {
+        "name": "Can Fite Biopharma",
+        "code": "CANF",
+        "country": "Israel",
+        "rank": 629
+    },
+    {
+        "name": "Inspira Technologies",
+        "code": "IINN",
+        "country": "Israel",
+        "rank": 630
+    },
+    {
+        "name": "Redhill Biopharma",
+        "code": "RDHL",
+        "country": "Israel",
+        "rank": 631
+    },
+    {
+        "name": "Galmed Pharmaceuticals",
+        "code": "GLMD",
+        "country": "Israel",
+        "rank": 632
+    },
+    {
+        "name": "Jeffs' Brands",
+        "code": "JFBR",
+        "country": "Israel",
+        "rank": 633
+    },
+    {
+        "name": "SaverOne 2014",
+        "code": "SVRE",
+        "country": "Israel",
+        "rank": 634
+    },
+    {
+        "name": "BiondVax",
+        "code": "BVXV",
+        "country": "Israel",
+        "rank": 635
+    },
+    {
+        "name": "PainReform",
+        "code": "PRFX",
+        "country": "Israel",
+        "rank": 636
+    },
+    {
+        "name": "G Medical Innovations",
+        "code": "GMVD",
+        "country": "Israel",
+        "rank": 637
+    },
+    {
+        "name": "Mobileye",
+        "code": "MBLY",
+        "country": "Israel",
+        "rank": 638
+    },
+    {
+        "name": "SolarEdge",
+        "code": "SEDG",
+        "country": "Israel",
+        "rank": 639
+    },
+    {
+        "name": "Check Point Software",
+        "code": "CHKP",
+        "country": "Israel",
+        "rank": 640
+    },
+    {
+        "name": "NICE",
+        "code": "NICE",
+        "country": "Israel",
+        "rank": 641
+    },
+    {
+        "name": "Bank Hapoalim",
+        "code": "POLI.TA",
+        "country": "Israel",
+        "rank": 642
+    },
+    {
+        "name": "Bank Leumi",
+        "code": "LUMI.TA",
+        "country": "Israel",
+        "rank": 643
+    },
+    {
+        "name": "Teva Pharmaceutical Industries",
+        "code": "TEVA",
+        "country": "Israel",
+        "rank": 644
+    },
+    {
+        "name": "Israel Chemicals",
+        "code": "ICL",
+        "country": "Israel",
+        "rank": 645
+    },
+    {
+        "name": "Mizrahi-Tefahot",
+        "code": "MZTF.TA",
+        "country": "Israel",
+        "rank": 646
+    },
+    {
+        "name": "Azrieli Group",
+        "code": "AZRG.TA",
+        "country": "Israel",
+        "rank": 647
+    },
+    {
+        "name": "Elbit Systems",
+        "code": "ESLT",
+        "country": "Israel",
+        "rank": 648
+    },
+    {
+        "name": "Israel Discount Bank",
+        "code": "ISDAY",
+        "country": "Israel",
+        "rank": 649
+    },
+    {
+        "name": "monday.com",
+        "code": "MNDY",
+        "country": "Israel",
+        "rank": 650
+    },
+    {
+        "name": "CyberArk",
+        "code": "CYBR",
+        "country": "Israel",
+        "rank": 651
+    },
+    {
+        "name": "Bezeq",
+        "code": "BEZQ.TA",
+        "country": "Israel",
+        "rank": 652
+    },
+    {
+        "name": "Tower Semiconductor",
+        "code": "TSEM",
+        "country": "Israel",
+        "rank": 653
+    },
+    {
+        "name": "Wix.com",
+        "code": "WIX",
+        "country": "Israel",
+        "rank": 654
+    },
+    {
+        "name": "First International Bank of Israel",
+        "code": "FIBI.TA",
+        "country": "Israel",
+        "rank": 655
+    },
+    {
+        "name": "Melisron",
+        "code": "MLSR.TA",
+        "country": "Israel",
+        "rank": 656
+    },
+    {
+        "name": "Global-e",
+        "code": "GLBE",
+        "country": "Israel",
+        "rank": 657
+    },
+    {
+        "name": "Strauss Group",
+        "code": "STRS.TA",
+        "country": "Israel",
+        "rank": 658
+    },
+    {
+        "name": "Playtika",
+        "code": "PLTK",
+        "country": "Israel",
+        "rank": 659
+    },
+    {
+        "name": "InMode",
+        "code": "INMD",
+        "country": "Israel",
+        "rank": 660
+    },
+    {
+        "name": "IronSource",
+        "code": "IS",
+        "country": "Israel",
+        "rank": 661
+    },
+    {
+        "name": "Amot Investment",
+        "code": "AMOT.TA",
+        "country": "Israel",
+        "rank": 662
+    },
+    {
+        "name": "Shapir Civil and Marine Engineering",
+        "code": "SPEN.TA",
+        "country": "Israel",
+        "rank": 663
+    },
+    {
+        "name": "OPC Energy",
+        "code": "OPCE.TA",
+        "country": "Israel",
+        "rank": 664
+    },
+    {
+        "name": "Nova Measuring Instruments",
+        "code": "NVMI",
+        "country": "Israel",
+        "rank": 665
+    },
+    {
+        "name": "Delek Group",
+        "code": "DLEKG.TA",
+        "country": "Israel",
+        "rank": 666
+    },
+    {
+        "name": "ZIM Integrated Shipping Services",
+        "code": "ZIM",
+        "country": "Israel",
+        "rank": 667
+    },
+    {
+        "name": "Enlight Renewable Energy",
+        "code": "ENLT.TA",
+        "country": "Israel",
+        "rank": 668
+    },
+    {
+        "name": "Electra",
+        "code": "ELTR.TA",
+        "country": "Israel",
+        "rank": 669
+    },
+    {
+        "name": "Plus500",
+        "code": "P55.F",
+        "country": "Israel",
+        "rank": 670
+    },
+    {
+        "name": "Harel Group",
+        "code": "HARL.TA",
+        "country": "Israel",
+        "rank": 671
+    },
+    {
+        "name": "Alony Hetz",
+        "code": "ALHE.TA",
+        "country": "Israel",
+        "rank": 672
+    },
+    {
+        "name": "Energix Renewable Energies",
+        "code": "ENRG.TA",
+        "country": "Israel",
+        "rank": 673
+    },
+    {
+        "name": "Shufersal",
+        "code": "SAE.TA",
+        "country": "Israel",
+        "rank": 674
+    },
+    {
+        "name": "Shikun & Binui",
+        "code": "SKBN.TA",
+        "country": "Israel",
+        "rank": 675
+    },
+    {
+        "name": "Partner Communications",
+        "code": "PTNR",
+        "country": "Israel",
+        "rank": 676
+    },
+    {
+        "name": "Kornit Digital",
+        "code": "KRNT",
+        "country": "Israel",
+        "rank": 677
+    },
+    {
+        "name": "Perion Network",
+        "code": "PERI",
+        "country": "Israel",
+        "rank": 678
+    },
+    {
+        "name": "Maytronics",
+        "code": "MTRN.TA",
+        "country": "Israel",
+        "rank": 679
+    },
+    {
+        "name": "Taro Pharmaceutical",
+        "code": "TARO",
+        "country": "Israel",
+        "rank": 680
+    },
+    {
+        "name": "Formula Systems",
+        "code": "FORTY",
+        "country": "Israel",
+        "rank": 681
+    },
+    {
+        "name": "Fiverr",
+        "code": "FVRR",
+        "country": "Israel",
+        "rank": 682
+    },
+    {
+        "name": "Sapiens",
+        "code": "SPNS",
+        "country": "Israel",
+        "rank": 683
+    },
+    {
+        "name": "Camtek",
+        "code": "CAMT",
+        "country": "Israel",
+        "rank": 684
+    },
+    {
+        "name": "WalkMe",
+        "code": "WKME",
+        "country": "Israel",
+        "rank": 685
+    },
+    {
+        "name": "Radware",
+        "code": "RDWR",
+        "country": "Israel",
+        "rank": 686
+    },
+    {
+        "name": "Cellcom Israel",
+        "code": "CEL.TA",
+        "country": "Israel",
+        "rank": 687
+    },
+    {
+        "name": "Pagaya Technologies",
+        "code": "PGY",
+        "country": "Israel",
+        "rank": 688
+    },
+    {
+        "name": "Cellebrite",
+        "code": "CLBT",
+        "country": "Israel",
+        "rank": 689
+    },
+    {
+        "name": "Stratasys",
+        "code": "SSYS",
+        "country": "Israel",
+        "rank": 690
+    },
+    {
+        "name": "Magic Software",
+        "code": "MGIC",
+        "country": "Israel",
+        "rank": 691
+    },
+    {
+        "name": "Riskified",
+        "code": "RSKD",
+        "country": "Israel",
+        "rank": 692
+    },
+    {
+        "name": "B Communications",
+        "code": "BCOM.TA",
+        "country": "Israel",
+        "rank": 693
+    },
+    {
+        "name": "AudioCodes",
+        "code": "AUDC",
+        "country": "Israel",
+        "rank": 694
+    },
+    {
+        "name": "Valens Semiconductor",
+        "code": "VLN",
+        "country": "Israel",
+        "rank": 695
+    },
+    {
+        "name": "Innoviz",
+        "code": "INVZ",
+        "country": "Israel",
+        "rank": 696
+    },
+    {
+        "name": "RADA Electronic Industries",
+        "code": "RADA",
+        "country": "Israel",
+        "rank": 697
+    },
+    {
+        "name": "Similarweb",
+        "code": "SMWB",
+        "country": "Israel",
+        "rank": 698
+    },
+    {
+        "name": "Tremor International",
+        "code": "TRMR",
+        "country": "Israel",
+        "rank": 699
+    },
+    {
+        "name": "Ituran",
+        "code": "ITRN",
+        "country": "Israel",
+        "rank": 700
+    },
+    {
+        "name": "Nano-X Imaging",
+        "code": "NNOX",
+        "country": "Israel",
+        "rank": 701
+    },
+    {
+        "name": "Gilat Telecom",
+        "code": "GILT",
+        "country": "Israel",
+        "rank": 702
+    },
+    {
+        "name": "NeoGames",
+        "code": "NGMS",
+        "country": "Israel",
+        "rank": 703
+    },
+    {
+        "name": "Silicom",
+        "code": "SILC",
+        "country": "Israel",
+        "rank": 704
+    },
+    {
+        "name": "Alpha Tau Medical",
+        "code": "DRTS",
+        "country": "Israel",
+        "rank": 705
+    },
+    {
+        "name": "Arbe Robotics",
+        "code": "ARBE",
+        "country": "Israel",
+        "rank": 706
+    },
+    {
+        "name": "Cognyte Software",
+        "code": "CGNT",
+        "country": "Israel",
+        "rank": 707
+    },
+    {
+        "name": "Caesarstone",
+        "code": "CSTE",
+        "country": "Israel",
+        "rank": 708
+    },
+    {
+        "name": "Ellomay Capital",
+        "code": "ELLO",
+        "country": "Israel",
+        "rank": 709
+    },
+    {
+        "name": "Kamada",
+        "code": "KMDA",
+        "country": "Israel",
+        "rank": 710
+    },
+    {
+        "name": "Ceragon Networks",
+        "code": "CRNT",
+        "country": "Israel",
+        "rank": 711
+    },
+    {
+        "name": "InterCure",
+        "code": "INCR",
+        "country": "Israel",
+        "rank": 712
+    },
+    {
+        "name": "Allot",
+        "code": "ALLT",
+        "country": "Israel",
+        "rank": 713
+    },
+    {
+        "name": "REE Automotive",
+        "code": "REE",
+        "country": "Israel",
+        "rank": 714
+    },
+    {
+        "name": "Protalix BioTherapeutics",
+        "code": "PLX",
+        "country": "Israel",
+        "rank": 715
+    },
+    {
+        "name": "Compugen",
+        "code": "CGEN",
+        "country": "Israel",
+        "rank": 716
+    },
+    {
+        "name": "ReWalk Robotics",
+        "code": "RWLK",
+        "country": "Israel",
+        "rank": 717
+    },
+    {
+        "name": "Foresight Autonomous Holdings",
+        "code": "FRSX",
+        "country": "Israel",
+        "rank": 718
+    },
+    {
+        "name": "Rail Vision",
+        "code": "RVSN",
+        "country": "Israel",
+        "rank": 719
+    },
+    {
+        "name": "Can Fite Biopharma",
+        "code": "CANF",
+        "country": "Israel",
+        "rank": 720
+    },
+    {
+        "name": "Inspira Technologies",
+        "code": "IINN",
+        "country": "Israel",
+        "rank": 721
+    },
+    {
+        "name": "Redhill Biopharma",
+        "code": "RDHL",
+        "country": "Israel",
+        "rank": 722
+    },
+    {
+        "name": "Galmed Pharmaceuticals",
+        "code": "GLMD",
+        "country": "Israel",
+        "rank": 723
+    },
+    {
+        "name": "Jeffs' Brands",
+        "code": "JFBR",
+        "country": "Israel",
+        "rank": 724
+    },
+    {
+        "name": "SaverOne 2014",
+        "code": "SVRE",
+        "country": "Israel",
+        "rank": 725
+    },
+    {
+        "name": "BiondVax",
+        "code": "BVXV",
+        "country": "Israel",
+        "rank": 726
+    },
+    {
+        "name": "PainReform",
+        "code": "PRFX",
+        "country": "Israel",
+        "rank": 727
+    },
+    {
+        "name": "G Medical Innovations",
+        "code": "GMVD",
+        "country": "Israel",
+        "rank": 728
+    },
+    {
+        "name": "Mobileye",
+        "code": "MBLY",
+        "country": "Israel",
+        "rank": 729
+    },
+    {
+        "name": "SolarEdge",
+        "code": "SEDG",
+        "country": "Israel",
+        "rank": 730
+    },
+    {
+        "name": "Check Point Software",
+        "code": "CHKP",
+        "country": "Israel",
+        "rank": 731
+    },
+    {
+        "name": "NICE",
+        "code": "NICE",
+        "country": "Israel",
+        "rank": 732
+    },
+    {
+        "name": "Bank Hapoalim",
+        "code": "POLI.TA",
+        "country": "Israel",
+        "rank": 733
+    },
+    {
+        "name": "Bank Leumi",
+        "code": "LUMI.TA",
+        "country": "Israel",
+        "rank": 734
+    },
+    {
+        "name": "Teva Pharmaceutical Industries",
+        "code": "TEVA",
+        "country": "Israel",
+        "rank": 735
+    },
+    {
+        "name": "Israel Chemicals",
+        "code": "ICL",
+        "country": "Israel",
+        "rank": 736
+    },
+    {
+        "name": "Mizrahi-Tefahot",
+        "code": "MZTF.TA",
+        "country": "Israel",
+        "rank": 737
+    },
+    {
+        "name": "Azrieli Group",
+        "code": "AZRG.TA",
+        "country": "Israel",
+        "rank": 738
+    },
+    {
+        "name": "Elbit Systems",
+        "code": "ESLT",
+        "country": "Israel",
+        "rank": 739
+    },
+    {
+        "name": "Israel Discount Bank",
+        "code": "ISDAY",
+        "country": "Israel",
+        "rank": 740
+    },
+    {
+        "name": "monday.com",
+        "code": "MNDY",
+        "country": "Israel",
+        "rank": 741
+    },
+    {
+        "name": "CyberArk",
+        "code": "CYBR",
+        "country": "Israel",
+        "rank": 742
+    },
+    {
+        "name": "Bezeq",
+        "code": "BEZQ.TA",
+        "country": "Israel",
+        "rank": 743
+    },
+    {
+        "name": "Tower Semiconductor",
+        "code": "TSEM",
+        "country": "Israel",
+        "rank": 744
+    },
+    {
+        "name": "Wix.com",
+        "code": "WIX",
+        "country": "Israel",
+        "rank": 745
+    },
+    {
+        "name": "First International Bank of Israel",
+        "code": "FIBI.TA",
+        "country": "Israel",
+        "rank": 746
+    },
+    {
+        "name": "Melisron",
+        "code": "MLSR.TA",
+        "country": "Israel",
+        "rank": 747
+    },
+    {
+        "name": "Global-e",
+        "code": "GLBE",
+        "country": "Israel",
+        "rank": 748
+    },
+    {
+        "name": "Strauss Group",
+        "code": "STRS.TA",
+        "country": "Israel",
+        "rank": 749
+    },
+    {
+        "name": "Playtika",
+        "code": "PLTK",
+        "country": "Israel",
+        "rank": 750
+    },
+    {
+        "name": "InMode",
+        "code": "INMD",
+        "country": "Israel",
+        "rank": 751
+    },
+    {
+        "name": "IronSource",
+        "code": "IS",
+        "country": "Israel",
+        "rank": 752
+    },
+    {
+        "name": "Amot Investment",
+        "code": "AMOT.TA",
+        "country": "Israel",
+        "rank": 753
+    },
+    {
+        "name": "Shapir Civil and Marine Engineering",
+        "code": "SPEN.TA",
+        "country": "Israel",
+        "rank": 754
+    },
+    {
+        "name": "OPC Energy",
+        "code": "OPCE.TA",
+        "country": "Israel",
+        "rank": 755
+    },
+    {
+        "name": "Nova Measuring Instruments",
+        "code": "NVMI",
+        "country": "Israel",
+        "rank": 756
+    },
+    {
+        "name": "Delek Group",
+        "code": "DLEKG.TA",
+        "country": "Israel",
+        "rank": 757
+    },
+    {
+        "name": "ZIM Integrated Shipping Services",
+        "code": "ZIM",
+        "country": "Israel",
+        "rank": 758
+    },
+    {
+        "name": "Enlight Renewable Energy",
+        "code": "ENLT.TA",
+        "country": "Israel",
+        "rank": 759
+    },
+    {
+        "name": "Electra",
+        "code": "ELTR.TA",
+        "country": "Israel",
+        "rank": 760
+    },
+    {
+        "name": "Plus500",
+        "code": "P55.F",
+        "country": "Israel",
+        "rank": 761
+    },
+    {
+        "name": "Harel Group",
+        "code": "HARL.TA",
+        "country": "Israel",
+        "rank": 762
+    },
+    {
+        "name": "Alony Hetz",
+        "code": "ALHE.TA",
+        "country": "Israel",
+        "rank": 763
+    },
+    {
+        "name": "Energix Renewable Energies",
+        "code": "ENRG.TA",
+        "country": "Israel",
+        "rank": 764
+    },
+    {
+        "name": "Shufersal",
+        "code": "SAE.TA",
+        "country": "Israel",
+        "rank": 765
+    },
+    {
+        "name": "Shikun & Binui",
+        "code": "SKBN.TA",
+        "country": "Israel",
+        "rank": 766
+    },
+    {
+        "name": "Partner Communications",
+        "code": "PTNR",
+        "country": "Israel",
+        "rank": 767
+    },
+    {
+        "name": "Kornit Digital",
+        "code": "KRNT",
+        "country": "Israel",
+        "rank": 768
+    },
+    {
+        "name": "Perion Network",
+        "code": "PERI",
+        "country": "Israel",
+        "rank": 769
+    },
+    {
+        "name": "Maytronics",
+        "code": "MTRN.TA",
+        "country": "Israel",
+        "rank": 770
+    },
+    {
+        "name": "Taro Pharmaceutical",
+        "code": "TARO",
+        "country": "Israel",
+        "rank": 771
+    },
+    {
+        "name": "Formula Systems",
+        "code": "FORTY",
+        "country": "Israel",
+        "rank": 772
+    },
+    {
+        "name": "Fiverr",
+        "code": "FVRR",
+        "country": "Israel",
+        "rank": 773
+    },
+    {
+        "name": "Sapiens",
+        "code": "SPNS",
+        "country": "Israel",
+        "rank": 774
+    },
+    {
+        "name": "Camtek",
+        "code": "CAMT",
+        "country": "Israel",
+        "rank": 775
+    },
+    {
+        "name": "WalkMe",
+        "code": "WKME",
+        "country": "Israel",
+        "rank": 776
+    },
+    {
+        "name": "Radware",
+        "code": "RDWR",
+        "country": "Israel",
+        "rank": 777
+    },
+    {
+        "name": "Cellcom Israel",
+        "code": "CEL.TA",
+        "country": "Israel",
+        "rank": 778
+    },
+    {
+        "name": "Pagaya Technologies",
+        "code": "PGY",
+        "country": "Israel",
+        "rank": 779
+    },
+    {
+        "name": "Cellebrite",
+        "code": "CLBT",
+        "country": "Israel",
+        "rank": 780
+    },
+    {
+        "name": "Stratasys",
+        "code": "SSYS",
+        "country": "Israel",
+        "rank": 781
+    },
+    {
+        "name": "Magic Software",
+        "code": "MGIC",
+        "country": "Israel",
+        "rank": 782
+    },
+    {
+        "name": "Riskified",
+        "code": "RSKD",
+        "country": "Israel",
+        "rank": 783
+    },
+    {
+        "name": "B Communications",
+        "code": "BCOM.TA",
+        "country": "Israel",
+        "rank": 784
+    },
+    {
+        "name": "AudioCodes",
+        "code": "AUDC",
+        "country": "Israel",
+        "rank": 785
+    },
+    {
+        "name": "Valens Semiconductor",
+        "code": "VLN",
+        "country": "Israel",
+        "rank": 786
+    },
+    {
+        "name": "Innoviz",
+        "code": "INVZ",
+        "country": "Israel",
+        "rank": 787
+    },
+    {
+        "name": "RADA Electronic Industries",
+        "code": "RADA",
+        "country": "Israel",
+        "rank": 788
+    },
+    {
+        "name": "Similarweb",
+        "code": "SMWB",
+        "country": "Israel",
+        "rank": 789
+    },
+    {
+        "name": "Tremor International",
+        "code": "TRMR",
+        "country": "Israel",
+        "rank": 790
+    },
+    {
+        "name": "Ituran",
+        "code": "ITRN",
+        "country": "Israel",
+        "rank": 791
+    },
+    {
+        "name": "Nano-X Imaging",
+        "code": "NNOX",
+        "country": "Israel",
+        "rank": 792
+    },
+    {
+        "name": "Gilat Telecom",
+        "code": "GILT",
+        "country": "Israel",
+        "rank": 793
+    },
+    {
+        "name": "NeoGames",
+        "code": "NGMS",
+        "country": "Israel",
+        "rank": 794
+    },
+    {
+        "name": "Silicom",
+        "code": "SILC",
+        "country": "Israel",
+        "rank": 795
+    },
+    {
+        "name": "Alpha Tau Medical",
+        "code": "DRTS",
+        "country": "Israel",
+        "rank": 796
+    },
+    {
+        "name": "Arbe Robotics",
+        "code": "ARBE",
+        "country": "Israel",
+        "rank": 797
+    },
+    {
+        "name": "Cognyte Software",
+        "code": "CGNT",
+        "country": "Israel",
+        "rank": 798
+    },
+    {
+        "name": "Caesarstone",
+        "code": "CSTE",
+        "country": "Israel",
+        "rank": 799
+    },
+    {
+        "name": "Ellomay Capital",
+        "code": "ELLO",
+        "country": "Israel",
+        "rank": 800
+    },
+    {
+        "name": "Kamada",
+        "code": "KMDA",
+        "country": "Israel",
+        "rank": 801
+    },
+    {
+        "name": "Ceragon Networks",
+        "code": "CRNT",
+        "country": "Israel",
+        "rank": 802
+    },
+    {
+        "name": "InterCure",
+        "code": "INCR",
+        "country": "Israel",
+        "rank": 803
+    },
+    {
+        "name": "Allot",
+        "code": "ALLT",
+        "country": "Israel",
+        "rank": 804
+    },
+    {
+        "name": "REE Automotive",
+        "code": "REE",
+        "country": "Israel",
+        "rank": 805
+    },
+    {
+        "name": "Protalix BioTherapeutics",
+        "code": "PLX",
+        "country": "Israel",
+        "rank": 806
+    },
+    {
+        "name": "Compugen",
+        "code": "CGEN",
+        "country": "Israel",
+        "rank": 807
+    },
+    {
+        "name": "ReWalk Robotics",
+        "code": "RWLK",
+        "country": "Israel",
+        "rank": 808
+    },
+    {
+        "name": "Foresight Autonomous Holdings",
+        "code": "FRSX",
+        "country": "Israel",
+        "rank": 809
+    },
+    {
+        "name": "Rail Vision",
+        "code": "RVSN",
+        "country": "Israel",
+        "rank": 810
+    },
+    {
+        "name": "Can Fite Biopharma",
+        "code": "CANF",
+        "country": "Israel",
+        "rank": 811
+    },
+    {
+        "name": "Inspira Technologies",
+        "code": "IINN",
+        "country": "Israel",
+        "rank": 812
+    },
+    {
+        "name": "Redhill Biopharma",
+        "code": "RDHL",
+        "country": "Israel",
+        "rank": 813
+    },
+    {
+        "name": "Galmed Pharmaceuticals",
+        "code": "GLMD",
+        "country": "Israel",
+        "rank": 814
+    },
+    {
+        "name": "Jeffs' Brands",
+        "code": "JFBR",
+        "country": "Israel",
+        "rank": 815
+    },
+    {
+        "name": "SaverOne 2014",
+        "code": "SVRE",
+        "country": "Israel",
+        "rank": 816
+    },
+    {
+        "name": "BiondVax",
+        "code": "BVXV",
+        "country": "Israel",
+        "rank": 817
+    },
+    {
+        "name": "PainReform",
+        "code": "PRFX",
+        "country": "Israel",
+        "rank": 818
+    },
+    {
+        "name": "G Medical Innovations",
+        "code": "GMVD",
+        "country": "Israel",
+        "rank": 819
+    }
+]

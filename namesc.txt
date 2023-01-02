@@ -1,0 +1,390 @@
+Gazprom	Oil and gas
+Lukoil	Oil and gas
+Rosneft	Oil and gas
+Sberbank	Finance
+Russian Railways	Transport
+Rostec	Investments
+VTB Bank	Finance
+X5 Group	Trade
+Surgutneftegas	Oil and gas
+Magnit	Trade
+Rosseti	Power engineering
+Inter RAO	Power engineering
+Transneft	Oil and gas
+Rosatom	Atomic industry
+Sistema	Investments
+Tatneft	Oil and gas
+Megapolis Group [ru]	Distribution
+Gazprombank	Finance
+Evraz	Metals and mining
+Novolipetsk Steel	Metals and mining
+Novatek	Oil and gas
+Sibur	Chemistry and petrochemistry
+Rusal	Metals and mining
+Norilsk Nickel	Metals and mining
+Aeroflot	Transport
+Severstal	Metals and mining
+United Aircraft Corporation	Defense and machine building
+Mobile TeleSystems	Telecommunications
+Magnitogorsk Iron and Steel Works	Metals and mining
+Ural Mining and Metallurgical Company	Metals and mining
+RusHydro	Power engineering
+MegaFon	Telecommunications
+Lenta	Trade
+Metalloinvest	Metals and mining
+Stroygazmontazh	Construction of infrastructure
+T Plus	Power engineering
+VimpelCom	Telecommunications
+SUEK	Metals and mining
+United Shipbuilding Corporation	Defense and machine building
+Sakhalin Energy	Oil and gas
+Rostelecom	Telecommunications
+Alfa-Bank	Finance
+Otkritie Holding	Finance
+Mechel	Metals and mining
+Vnesheconombank	Finance
+Auchan	Trade
+Japan Tobacco International Russia	Alcohol and tobacco
+EuroChem	Chemistry and petrochemistry
+DIXY	Trade
+Philip Morris Sales and Marketing	Alcohol and tobacco
+Alrosa	Metals and mining
+Toyota Motor	Cars
+Rosselkhozbank	Finance
+Protek	Pharmaceuticals
+OAO TMK	Metals and mining
+Russian Helicopters	Defense and machine building
+TNS Energo [ru]	Power engineering
+Katren [ru]	Pharmaceuticals
+Slavneft [ru]	Oil and gas
+Volkswagen Group Rus	Cars
+United Engine Corporation	Defense and machine building
+Metro Cash & Carry	Trade
+Leroy Merlin Vostok	Trade
+AvtoVAZ	Cars
+New Stream Group [ru]	Oil and gas
+Merlion	Distribution
+Avtotor	Cars
+Tactical Missiles Corporation	Defense and machine building
+Red&White	Trade
+Mostotrest	Construction of infrastructure
+MUMT (British American Tobacco)	Alcohol and tobacco
+M.video	Trade
+DNS Group [ru]	Trade
+PhosAgro	Chemistry and petrochemistry
+Rolf Group	Cars
+O'Key Group [ru]	Trade
+Independent Oil and Gas Company	Oil and gas
+PIK Group	Development and construction
+EuroSibEnergo [ru]	Power engineering
+Russian Post	Postal services
+Kia Motors Rus	Cars
+Nizhnekamskneftekhim	Chemistry and petrochemistry
+Mercedes-Benz Russia	Cars
+Rusenergosbyt [ru]	Power engineering
+United Metallurgical Company [ru]	Metals and mining
+GAZ Group	Cars
+Tashir	Development and construction
+SNS Holding [ru]	Distribution
+National Computer Corporation [ru]	Information Technology
+Uralkali	Chemistry and petrochemistry
+TAIF-NK [ru]	Oil and gas
+Polyus	Metals and mining
+United Company Eurobusiness Euroset	Trade
+Chelyabinsk Pipe Rolling Plant	Metals and mining
+Sodrugestvo	Agriculture and Food
+SOGAZ	Finance
+KamAZ	Cars
+Transmashholding	Defense and machine building
+Hyundai Motor CIS	Cars
+StroyTransNefteGaz (formerly Stroytransgaz)	Construction of infrastructure
+Apple Inc. Rus	Electronics
+FC Pulse [ru]	Pharmaceuticals
+Zarubezhneft	Oil and gas
+Arktikgaz	Oil and gas
+Tomskneft	Oil and gas
+UCL Holding	Transport
+Credit Bank of Moscow	Finance
+Procter & Gamble Distribution Company	Consumer goods
+LSR Group	Development and construction
+Mosinzhproekt [ru]	Development and construction
+Major Group [ru]	Cars
+ForteInvest	Oil and gas
+Irkutsk Oil Company	Oil and gas
+Uralvagonzavod	Defense and machine building
+RussNeft	Oil and gas
+1C Company	Technology
+Acron Group	Basic materials
+Aeroflot	Consumer services
+Akella	Technology
+Alawar Entertainment	Technology
+Alfa Group	Conglomerate
+All-Russia State Television and Radio Broadcasting Company (VGTRK)	Consumer services
+Almaz-Antey	Industrials
+ALROSA	Basic materials
+ASCON	Technology
+AST	Consumer services
+Atomenergoprom	Utilities
+ATV	Consumer services
+Aurus Motors	Consumer goods
+Aviaconversiya	Industrials
+Aviakor	Industrials
+Avtotor	Consumer goods
+AvtoVAZ	Consumer goods
+Baltika Breweries	Consumer goods
+Bank Rossiya	Financials
+Bank Saint Petersburg	Financials
+Basic Element (company)	Conglomerate
+Bolshevichka	Consumer goods
+Bryansk Automobile Plant	Industrials
+Channel One	Consumer services
+Chelyabinsk Pipe Rolling Plant	Basic materials
+Chelyabinsk Tractor Plant	Industrials
+Cherkizovo	Consumer goods
+Concern Radio-Electronic Technologies	Industrials
+Concern Tractor Plants	Industrials
+CTC Media	Consumer services
+Dalsvyaz	Telecommunications
+E4 Group	Industrials
+Eksmo	Consumer services
+En+ Group	Utilities
+Enel Russia	Utilities
+Energia (corporation)	Industrials
+ER-Telecom	Telecommunications
+Eurocement group	Industrials
+Euroset	Telecommunications
+Evalar	Health care
+GAZ Group	Industrials
+Gazprom	Oil & gas
+Gazprom Media	Consumer services
+Gazprom Neft	Oil & gas
+Gazprombank	Financials
+Gorky Film Studio	Consumer services
+High Precision Systems	Industrials
+i-Free	Technology
+International Industrial Bank	Financials
+Ingosstrakh	Financials
+Interfax	Consumer services
+Intourist	Consumer services
+Irkutskenergo	Utilities
+Irmash	Industrials
+Izhevsk Mechanical Plant	Industrials
+Kalashnikov Concern	Industrials
+Kamaz	Industrials
+Kazanorgsintez	Basic materials
+Kaspersky Lab	Technology
+Kirov Plant	Industrials
+Komus	Consumer services
+Krasnogorsky Zavod	Industrials
+KrioRus	Technology
+Kuzbassenergo	Utilities
+Lavochkin	Industrials
+Lebedyansky	Consumer goods
+Lenfilm	Consumer services
+LOMO	Industrials
+LUKoil	Oil & gas
+Magnit	Consumer goods
+Magnitogorsk Iron and Steel Works	Basic materials
+Mail.Ru Group	Technology
+Makeyev Rocket Design Bureau	Industrials
+Marussia Motors	Consumer goods
+Mechel	Basic materials
+MegaFon	Telecommunications
+Melodiya	Consumer services
+Metalloinvest	Basic materials
+Military Industrial Company	Industrials
+Mir	Financials
+Molodaya Gvardiya	Consumer services
+Moscow City Telephone Network	Telecommunications
+Mosfilm	Consumer services
+Motovilikha Plants	Industrials
+MTS	Telecommunications
+M.video	Consumer services
+NAMI	Consumer goods
+NEWSru	Consumer services
+Nitol Solar	Energy
+Nizhnekamskneftekhim	Oil & gas
+Norilsk Nickel	Basic materials
+North-West Telecom	Telecommunications
+Novatek	Oil & gas
+Novolipetsk Steel	Basic materials
+Novoroscement	Industrials
+NVS Telematic Systems	Telecommunications
+OAO Kondopoga	Basic materials
+OAO TMK	Basic materials
+Oboronprom	Industrials
+OGGI	Consumer goods
+OGK-1	Utilities
+OGK-2	Utilities
+OGK-3	Utilities
+OGK-6	Utilities
+OMZ	Industrials
+Ozon	Consumer services
+PC Transport Systems	Industrials
+Petersburg - Channel 5	Consumer services
+Petersburg Fuel Company	Oil & gas
+Petrodvorets Watch Factory	Consumer goods
+Pharmstandard	Health care
+PIK Group	Financials
+Polyus Gold	Basic materials
+Power Machines	Industrials
+Progress Rocket Space Centre	Industrials
+PROMT	Technology
+Rambler	Technology
+Razgulay	Consumer goods
+RBC	Consumer services
+REGNUM	Consumer services
+Rolf	Consumer services
+Roscosmos	Industrials
+Rosenergomash	Industrials
+Rosgosstrakh	Financials
+Rosneft	Oil & gas
+Rostelecom	Telecommunications
+Rostselmash	Industrials
+RTI Systems	Industrials
+RUSAL	Basic materials
+Ruselectronics	Industrials
+Russian Helicopters	Industrials
+Russian Machines	Industrials
+Russian Post	Industrials
+Russian Railways	Transportation
+S7 Airlines	Consumer services
+Sberbank of Russia	Financials
+Severstal	Basic materials
+Siberian Coal Energy Company	Basic materials
+Sibirtelecom	Telecommunications
+Shvabe Holding	Industrials
+Sinar	Consumer goods
+Sinara Group	Conglomerate
+Sistema	Conglomerate
+Sitronics	Industrials
+Sollers JSC	Consumer goods
+Southern Telecom	Telecommunications
+Sovcomflot	Transportation
+Sozvezdie	Industrials
+Speech Technology Center	Technology
+Stankoprom	Industrials
+Start	Consumer services
+SU-155	Conglomerate
+Surgutneftegas	Oil & gas
+Svyazinvest	Telecommunications
+Svyaznoy	Consumer services
+Synqera	Technology
+T-Platforms	Technology
+Tactical Missiles Corporation	Industrials
+Tasma	Basic materials
+Tatneft	Oil & gas
+Technodinamika	Industrials
+Tecmash	Industrials
+I-Fly	Consumer services
+TNK-BP	Oil & gas
+TogliattiAzot	Basic materials
+Transmashholding	Industrials
+Transneft	Oil & gas
+Trolza	Industrials
+TsUM Trading House	Consumer services
+Tver Carriage Works	Industrials
+TV Tsentr	Consumer services
+Inter RAO	Utilities
+Unipro	Utilities
+United Aircraft Corporation	Industrials
+United Confectioners	Confectionery
+United Engine Corporation	Industrials
+United Shipbuilding Corporation	Industrials
+Uralkali	Basic materials
+Uralmash	Industrials
+Ural Mining and Metallurgical Company	Basic materials
+Uralsib	Financials
+UAZ	Industrials
+UralAZ	Industrials
+Uralsvyazinform	Telecommunications
+Uralvagonzavod	Industrials
+UTair Aviation	Consumer services
+VIS-AVTO	Consumer goods
+Vologda Mechanical Plant	Industrials
+VK	Technology
+Voenizdat	Consumer services
+Volchok	Consumer goods
+VolgaTelecom	Telecommunications
+Volgotanker	Industrials
+Volgabus	Industrials
+VSMPO-AVISMA	Basic materials
+VTB Bank	Financials
+Wimm-Bill-Dann Foods	Consumer goods
+X5 Retail Group	Consumer services
+Yandex	Technology
+Yuganskneftegaz	Oil & gas
+Zerich Capital Management	Financials
+ZiL	Industrials
+131 BANK	Financials
+ABSOLYuT BANK	Financials
+AVANGARD	Financials
+AVTOVAZBANK	Financials
+AVTOGRADBANK	Financials
+AVTOKREDITBANK	Financials
+AGROROS	Financials
+AGROHIMBANK	Financials
+AZIYa-INVEST BANK	Financials
+AK BARS	Financials
+AKIBANK	Financials
+AKROPOL'	Financials
+AKSONBANK	Financials
+AKTIV BANK	Financials
+AKTsIYa	Financials
+ALEKSANDROVSKII	Financials
+ALEF-BANK	Financials
+ALMAZERGIENBANK	Financials
+ALTAIBIZNES-BANK	Financials
+ALTAIKAPITALBANK	Financials
+Alfa-Bank	Financials
+AL'FA-BANK-BAShKORTOSTAN	Financials
+ATB	Financials
+ANDZhIBANK	Financials
+APR-BANK	Financials
+ARESBANK	Financials
+ARZAMAS	Financials
+ASPEKT	Financials
+ASSOTsIATsIYa	Financials
+BAIKALBANK	Financials
+BAIKALROSBANK	Financials
+BALAKOVO-BANK	Financials
+BALTIISKII BANK	Financials
+BALTINVESTBANK	Financials
+BANK ZhILISchNOGO FINANSIROVANIYa	Financials
+BANK ZENIT	Financials
+BANK KITAYa (ELOS)	Financials
+Bank of Moscow	Financials
+BANK NATEKSIS	Financials
+BANK ORENBURG	Financials
+BAShKOMSNABBANK	Financials
+Gazprombank	Financials
+BGF	Financials
+BELGORODSOTsBANK	Financials
+BFG-KREDIT	Financials
+BI-SI-DI-BANK	Financials
+BKF	Financials
+BNP PARIBA	Financials
+BOGORODSKII	Financials
+BOL'ShOI KAMEN' BANK	Financials
+BPF	Financials
+BRATSKII ANKB	Financials
+BUM-BANK	Financials
+VEK	Financials
+VENETs	Financials
+VERHNEVOLZhSKII	Financials
+VIKING	Financials
+VKABANK	Financials
+VLADBIZNESBANK	Financials
+VLADIMIRSKII PROMYShLENNYI BANK	Financials
+VTB Bank	Financials
+VOZROZhDENIE	Financials
+VOKBANK	Financials
+VOLOGZhANIN	Financials
+VSEROSSIISKII BANK RAZVITIYa REGIONOV	Financials
+VUZ-BANK	Financials
+VYaTICh	Financials
+NORVIK BANK	Financials
+GAZBANK	license revoked
+GAZNEFT'BANK	Financials
+Gazprombank	Financials
+GAZENERGOBANK	Financials

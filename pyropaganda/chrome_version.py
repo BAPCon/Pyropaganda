@@ -104,20 +104,38 @@ def driver_name():
         return _platform_filenames.get('darwinSC')
     
     return _platform_filenames.get('darwin')
+    
+def driver_extension():
+    _platform_filenames =  {
+        "linux":"chromedriver",
+        "linux2":"chromedriver",
+        "darwin":"chromedriver_mac64.zip",
+        "darwinSC":"chromedriver_mac_arm64.zip",
+        "win32":"chromedriver_win32.zip"
+    }
+    if pf != "darwin":
+        return _platform_filenames.get(pf)
+    
+    if get_processor_name().count("Intel") == 0:
+        return _platform_filenames.get('darwinSC')
+    
+    return _platform_filenames.get('darwin')
 
 def check_drivers():
     if "drivers" not in os.listdir():
         try:
             os.mkdir('drivers')
         except: pass
-
-    return "chromedriver" in os.listdir("drivers")
+    found_driver = False
+    for file in os.listdir('drivers'):
+        found_driver = file.count('chromedriver') > 0 or found_driver
+    return found_driver
 
 def init():
     if not check_drivers():
         _version = get_chrome_version()
         try:
-            print(hcolors.OKBLUE+"Fetching chromedriver for version: "+_version)
+            print(hcolors.OKBLUE+"\t\t- Fetching chromedriver for version: "+_version)
             _version = _version.split('.')
             resp = requests.get(chrome_driver_link+_version[0])
             _target_driver_version = resp.text.split('<Prefix>')[-1].split('</Prefix>')[0]
@@ -131,8 +149,8 @@ def init():
                     path="drivers")
 
             os.remove("driver_download.zip")
-            print(hcolors.OKGREEN+"Success for version: "+".".join(_version))
+            print(hcolors.OKGREEN+"\t\t- Success for version: "+".".join(_version))
 
         except:
-            print(hcolors.WARNING+"Chrome not found on system, install Chrome or set Chrome path in settings.json")
+            print(hcolors.WARNING+"\t\t- Chrome not found on system, install Chrome or set Chrome path in settings.json")
             return

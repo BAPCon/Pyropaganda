@@ -1,0 +1,2540 @@
+[
+    {
+        "name": "PKN Orlen",
+        "code": "PKY1.F",
+        "country": "Poland",
+        "rank": 1
+    },
+    {
+        "name": "PKO Bank Polski",
+        "code": "P9O.F",
+        "country": "Poland",
+        "rank": 2
+    },
+    {
+        "name": "Dino Polska",
+        "code": "DNP.WA",
+        "country": "Poland",
+        "rank": 3
+    },
+    {
+        "name": "PGNiG",
+        "code": "7GG.F",
+        "country": "Poland",
+        "rank": 4
+    },
+    {
+        "name": "Allegro.eu",
+        "code": "ALE.WA",
+        "country": "Poland",
+        "rank": 5
+    },
+    {
+        "name": "Santander Polska",
+        "code": "BZI.F",
+        "country": "Poland",
+        "rank": 6
+    },
+    {
+        "name": "KGHM Polska Mied\u017a",
+        "code": "KGHA.F",
+        "country": "Poland",
+        "rank": 7
+    },
+    {
+        "name": "Bank Pekao (Bank Polska Kasa Opieki)",
+        "code": "PEO.WA",
+        "country": "Poland",
+        "rank": 8
+    },
+    {
+        "name": "Powszechny Zak\u0142ad Ubezpiecze\u0144",
+        "code": "7PZ.F",
+        "country": "Poland",
+        "rank": 9
+    },
+    {
+        "name": "PGE Polska",
+        "code": "PGE.WA",
+        "country": "Poland",
+        "rank": 10
+    },
+    {
+        "name": "CD Projekt",
+        "code": "CDR.WA",
+        "country": "Poland",
+        "rank": 11
+    },
+    {
+        "name": "mBank",
+        "code": "MBK.WA",
+        "country": "Poland",
+        "rank": 12
+    },
+    {
+        "name": "Cyfrowy Polsat",
+        "code": "CP9.F",
+        "country": "Poland",
+        "rank": 13
+    },
+    {
+        "name": "Orange Polska",
+        "code": "TPA1.F",
+        "country": "Poland",
+        "rank": 14
+    },
+    {
+        "name": "Budimex",
+        "code": "BDX.WA",
+        "country": "Poland",
+        "rank": 15
+    },
+    {
+        "name": "Jastrzebska Sp\u00f3lka Weglowa",
+        "code": "JSW.WA",
+        "country": "Poland",
+        "rank": 16
+    },
+    {
+        "name": "Inter Cars",
+        "code": "CAR.WA",
+        "country": "Poland",
+        "rank": 17
+    },
+    {
+        "name": "Asseco",
+        "code": "SFB1.F",
+        "country": "Poland",
+        "rank": 18
+    },
+    {
+        "name": "KRUK Sp\u00f3lka Akcyjna",
+        "code": "KRU.WA",
+        "country": "Poland",
+        "rank": 19
+    },
+    {
+        "name": "Polenergia",
+        "code": "PEP.WA",
+        "country": "Poland",
+        "rank": 20
+    },
+    {
+        "name": "Grupa Zywiec",
+        "code": "ZWC.WA",
+        "country": "Poland",
+        "rank": 21
+    },
+    {
+        "name": "Grupa Kety",
+        "code": "KTY.WA",
+        "country": "Poland",
+        "rank": 22
+    },
+    {
+        "name": "Tauron Polska",
+        "code": "1T5.F",
+        "country": "Poland",
+        "rank": 23
+    },
+    {
+        "name": "Wirtualna Polska (WP Holding)",
+        "code": "WPL.WA",
+        "country": "Poland",
+        "rank": 24
+    },
+    {
+        "name": "NEUCA",
+        "code": "NEU.WA",
+        "country": "Poland",
+        "rank": 25
+    },
+    {
+        "name": "LiveChat Software",
+        "code": "LVC.WA",
+        "country": "Poland",
+        "rank": 26
+    },
+    {
+        "name": "PlayWay",
+        "code": "6P5.F",
+        "country": "Poland",
+        "rank": 27
+    },
+    {
+        "name": "11 bit studios",
+        "code": "11B.WA",
+        "country": "Poland",
+        "rank": 28
+    },
+    {
+        "name": "Arctic Paper",
+        "code": "ARP.ST",
+        "country": "Poland",
+        "rank": 29
+    },
+    {
+        "name": "People Can Fly",
+        "code": "PCF.WA",
+        "country": "Poland",
+        "rank": 30
+    },
+    {
+        "name": "Ten Square Games",
+        "code": "1HQ.F",
+        "country": "Poland",
+        "rank": 31
+    },
+    {
+        "name": "Pkp Cargo",
+        "code": "PKP.WA",
+        "country": "Poland",
+        "rank": 32
+    },
+    {
+        "name": "Creepy Jar",
+        "code": "CRJ.WA",
+        "country": "Poland",
+        "rank": 33
+    },
+    {
+        "name": "CI Games",
+        "code": "CI7.F",
+        "country": "Poland",
+        "rank": 34
+    },
+    {
+        "name": "Bloober Team",
+        "code": "6BO.SG",
+        "country": "Poland",
+        "rank": 35
+    },
+    {
+        "name": "Big Cheese Studio",
+        "code": "BCS.WA",
+        "country": "Poland",
+        "rank": 36
+    },
+    {
+        "name": "BoomBit",
+        "code": "BBT.WA",
+        "country": "Poland",
+        "rank": 37
+    },
+    {
+        "name": "Forever Entertainment",
+        "code": "8FE.SG",
+        "country": "Poland",
+        "rank": 38
+    },
+    {
+        "name": "All in! Games",
+        "code": "ALG.WA",
+        "country": "Poland",
+        "rank": 39
+    },
+    {
+        "name": "Ultimate Games",
+        "code": "ULG.WA",
+        "country": "Poland",
+        "rank": 40
+    },
+    {
+        "name": "Artifex Mundi",
+        "code": "ART.WA",
+        "country": "Poland",
+        "rank": 41
+    },
+    {
+        "name": "Games Operators",
+        "code": "GOP.WA",
+        "country": "Poland",
+        "rank": 42
+    },
+    {
+        "name": "Gaming Factory",
+        "code": "GIF.WA",
+        "country": "Poland",
+        "rank": 43
+    },
+    {
+        "name": "Vivid Games",
+        "code": "VVD.WA",
+        "country": "Poland",
+        "rank": 44
+    },
+    {
+        "name": "ManyDev Studio",
+        "code": "MAN.WA",
+        "country": "Poland",
+        "rank": 45
+    },
+    {
+        "name": "T-Bull",
+        "code": "TBL.WA",
+        "country": "Poland",
+        "rank": 46
+    },
+    {
+        "name": "PunkPirates",
+        "code": "PUN.WA",
+        "country": "Poland",
+        "rank": 47
+    },
+    {
+        "name": "PKN Orlen",
+        "code": "PKY1.F",
+        "country": "Poland",
+        "rank": 48
+    },
+    {
+        "name": "PKO Bank Polski",
+        "code": "P9O.F",
+        "country": "Poland",
+        "rank": 49
+    },
+    {
+        "name": "Dino Polska",
+        "code": "DNP.WA",
+        "country": "Poland",
+        "rank": 50
+    },
+    {
+        "name": "PGNiG",
+        "code": "7GG.F",
+        "country": "Poland",
+        "rank": 51
+    },
+    {
+        "name": "Allegro.eu",
+        "code": "ALE.WA",
+        "country": "Poland",
+        "rank": 52
+    },
+    {
+        "name": "Santander Polska",
+        "code": "BZI.F",
+        "country": "Poland",
+        "rank": 53
+    },
+    {
+        "name": "KGHM Polska Mied\u017a",
+        "code": "KGHA.F",
+        "country": "Poland",
+        "rank": 54
+    },
+    {
+        "name": "Bank Pekao (Bank Polska Kasa Opieki)",
+        "code": "PEO.WA",
+        "country": "Poland",
+        "rank": 55
+    },
+    {
+        "name": "Powszechny Zak\u0142ad Ubezpiecze\u0144",
+        "code": "7PZ.F",
+        "country": "Poland",
+        "rank": 56
+    },
+    {
+        "name": "PGE Polska",
+        "code": "PGE.WA",
+        "country": "Poland",
+        "rank": 57
+    },
+    {
+        "name": "CD Projekt",
+        "code": "CDR.WA",
+        "country": "Poland",
+        "rank": 58
+    },
+    {
+        "name": "mBank",
+        "code": "MBK.WA",
+        "country": "Poland",
+        "rank": 59
+    },
+    {
+        "name": "Cyfrowy Polsat",
+        "code": "CP9.F",
+        "country": "Poland",
+        "rank": 60
+    },
+    {
+        "name": "Orange Polska",
+        "code": "TPA1.F",
+        "country": "Poland",
+        "rank": 61
+    },
+    {
+        "name": "Budimex",
+        "code": "BDX.WA",
+        "country": "Poland",
+        "rank": 62
+    },
+    {
+        "name": "Jastrzebska Sp\u00f3lka Weglowa",
+        "code": "JSW.WA",
+        "country": "Poland",
+        "rank": 63
+    },
+    {
+        "name": "Inter Cars",
+        "code": "CAR.WA",
+        "country": "Poland",
+        "rank": 64
+    },
+    {
+        "name": "Asseco",
+        "code": "SFB1.F",
+        "country": "Poland",
+        "rank": 65
+    },
+    {
+        "name": "KRUK Sp\u00f3lka Akcyjna",
+        "code": "KRU.WA",
+        "country": "Poland",
+        "rank": 66
+    },
+    {
+        "name": "Polenergia",
+        "code": "PEP.WA",
+        "country": "Poland",
+        "rank": 67
+    },
+    {
+        "name": "Grupa Zywiec",
+        "code": "ZWC.WA",
+        "country": "Poland",
+        "rank": 68
+    },
+    {
+        "name": "Grupa Kety",
+        "code": "KTY.WA",
+        "country": "Poland",
+        "rank": 69
+    },
+    {
+        "name": "Tauron Polska",
+        "code": "1T5.F",
+        "country": "Poland",
+        "rank": 70
+    },
+    {
+        "name": "Wirtualna Polska (WP Holding)",
+        "code": "WPL.WA",
+        "country": "Poland",
+        "rank": 71
+    },
+    {
+        "name": "NEUCA",
+        "code": "NEU.WA",
+        "country": "Poland",
+        "rank": 72
+    },
+    {
+        "name": "LiveChat Software",
+        "code": "LVC.WA",
+        "country": "Poland",
+        "rank": 73
+    },
+    {
+        "name": "PlayWay",
+        "code": "6P5.F",
+        "country": "Poland",
+        "rank": 74
+    },
+    {
+        "name": "11 bit studios",
+        "code": "11B.WA",
+        "country": "Poland",
+        "rank": 75
+    },
+    {
+        "name": "Arctic Paper",
+        "code": "ARP.ST",
+        "country": "Poland",
+        "rank": 76
+    },
+    {
+        "name": "People Can Fly",
+        "code": "PCF.WA",
+        "country": "Poland",
+        "rank": 77
+    },
+    {
+        "name": "Ten Square Games",
+        "code": "1HQ.F",
+        "country": "Poland",
+        "rank": 78
+    },
+    {
+        "name": "Pkp Cargo",
+        "code": "PKP.WA",
+        "country": "Poland",
+        "rank": 79
+    },
+    {
+        "name": "Creepy Jar",
+        "code": "CRJ.WA",
+        "country": "Poland",
+        "rank": 80
+    },
+    {
+        "name": "CI Games",
+        "code": "CI7.F",
+        "country": "Poland",
+        "rank": 81
+    },
+    {
+        "name": "Bloober Team",
+        "code": "6BO.SG",
+        "country": "Poland",
+        "rank": 82
+    },
+    {
+        "name": "Big Cheese Studio",
+        "code": "BCS.WA",
+        "country": "Poland",
+        "rank": 83
+    },
+    {
+        "name": "BoomBit",
+        "code": "BBT.WA",
+        "country": "Poland",
+        "rank": 84
+    },
+    {
+        "name": "Forever Entertainment",
+        "code": "8FE.SG",
+        "country": "Poland",
+        "rank": 85
+    },
+    {
+        "name": "All in! Games",
+        "code": "ALG.WA",
+        "country": "Poland",
+        "rank": 86
+    },
+    {
+        "name": "Ultimate Games",
+        "code": "ULG.WA",
+        "country": "Poland",
+        "rank": 87
+    },
+    {
+        "name": "Artifex Mundi",
+        "code": "ART.WA",
+        "country": "Poland",
+        "rank": 88
+    },
+    {
+        "name": "Games Operators",
+        "code": "GOP.WA",
+        "country": "Poland",
+        "rank": 89
+    },
+    {
+        "name": "Gaming Factory",
+        "code": "GIF.WA",
+        "country": "Poland",
+        "rank": 90
+    },
+    {
+        "name": "Vivid Games",
+        "code": "VVD.WA",
+        "country": "Poland",
+        "rank": 91
+    },
+    {
+        "name": "ManyDev Studio",
+        "code": "MAN.WA",
+        "country": "Poland",
+        "rank": 92
+    },
+    {
+        "name": "T-Bull",
+        "code": "TBL.WA",
+        "country": "Poland",
+        "rank": 93
+    },
+    {
+        "name": "PunkPirates",
+        "code": "PUN.WA",
+        "country": "Poland",
+        "rank": 94
+    },
+    {
+        "name": "PKN Orlen",
+        "code": "PKY1.F",
+        "country": "Poland",
+        "rank": 95
+    },
+    {
+        "name": "PKO Bank Polski",
+        "code": "P9O.F",
+        "country": "Poland",
+        "rank": 96
+    },
+    {
+        "name": "Dino Polska",
+        "code": "DNP.WA",
+        "country": "Poland",
+        "rank": 97
+    },
+    {
+        "name": "PGNiG",
+        "code": "7GG.F",
+        "country": "Poland",
+        "rank": 98
+    },
+    {
+        "name": "Allegro.eu",
+        "code": "ALE.WA",
+        "country": "Poland",
+        "rank": 99
+    },
+    {
+        "name": "Santander Polska",
+        "code": "BZI.F",
+        "country": "Poland",
+        "rank": 100
+    },
+    {
+        "name": "KGHM Polska Mied\u017a",
+        "code": "KGHA.F",
+        "country": "Poland",
+        "rank": 101
+    },
+    {
+        "name": "Bank Pekao (Bank Polska Kasa Opieki)",
+        "code": "PEO.WA",
+        "country": "Poland",
+        "rank": 102
+    },
+    {
+        "name": "Powszechny Zak\u0142ad Ubezpiecze\u0144",
+        "code": "7PZ.F",
+        "country": "Poland",
+        "rank": 103
+    },
+    {
+        "name": "PGE Polska",
+        "code": "PGE.WA",
+        "country": "Poland",
+        "rank": 104
+    },
+    {
+        "name": "CD Projekt",
+        "code": "CDR.WA",
+        "country": "Poland",
+        "rank": 105
+    },
+    {
+        "name": "mBank",
+        "code": "MBK.WA",
+        "country": "Poland",
+        "rank": 106
+    },
+    {
+        "name": "Cyfrowy Polsat",
+        "code": "CP9.F",
+        "country": "Poland",
+        "rank": 107
+    },
+    {
+        "name": "Orange Polska",
+        "code": "TPA1.F",
+        "country": "Poland",
+        "rank": 108
+    },
+    {
+        "name": "Budimex",
+        "code": "BDX.WA",
+        "country": "Poland",
+        "rank": 109
+    },
+    {
+        "name": "Jastrzebska Sp\u00f3lka Weglowa",
+        "code": "JSW.WA",
+        "country": "Poland",
+        "rank": 110
+    },
+    {
+        "name": "Inter Cars",
+        "code": "CAR.WA",
+        "country": "Poland",
+        "rank": 111
+    },
+    {
+        "name": "Asseco",
+        "code": "SFB1.F",
+        "country": "Poland",
+        "rank": 112
+    },
+    {
+        "name": "KRUK Sp\u00f3lka Akcyjna",
+        "code": "KRU.WA",
+        "country": "Poland",
+        "rank": 113
+    },
+    {
+        "name": "Polenergia",
+        "code": "PEP.WA",
+        "country": "Poland",
+        "rank": 114
+    },
+    {
+        "name": "Grupa Zywiec",
+        "code": "ZWC.WA",
+        "country": "Poland",
+        "rank": 115
+    },
+    {
+        "name": "Grupa Kety",
+        "code": "KTY.WA",
+        "country": "Poland",
+        "rank": 116
+    },
+    {
+        "name": "Tauron Polska",
+        "code": "1T5.F",
+        "country": "Poland",
+        "rank": 117
+    },
+    {
+        "name": "Wirtualna Polska (WP Holding)",
+        "code": "WPL.WA",
+        "country": "Poland",
+        "rank": 118
+    },
+    {
+        "name": "NEUCA",
+        "code": "NEU.WA",
+        "country": "Poland",
+        "rank": 119
+    },
+    {
+        "name": "LiveChat Software",
+        "code": "LVC.WA",
+        "country": "Poland",
+        "rank": 120
+    },
+    {
+        "name": "PlayWay",
+        "code": "6P5.F",
+        "country": "Poland",
+        "rank": 121
+    },
+    {
+        "name": "11 bit studios",
+        "code": "11B.WA",
+        "country": "Poland",
+        "rank": 122
+    },
+    {
+        "name": "Arctic Paper",
+        "code": "ARP.ST",
+        "country": "Poland",
+        "rank": 123
+    },
+    {
+        "name": "People Can Fly",
+        "code": "PCF.WA",
+        "country": "Poland",
+        "rank": 124
+    },
+    {
+        "name": "Ten Square Games",
+        "code": "1HQ.F",
+        "country": "Poland",
+        "rank": 125
+    },
+    {
+        "name": "Pkp Cargo",
+        "code": "PKP.WA",
+        "country": "Poland",
+        "rank": 126
+    },
+    {
+        "name": "Creepy Jar",
+        "code": "CRJ.WA",
+        "country": "Poland",
+        "rank": 127
+    },
+    {
+        "name": "CI Games",
+        "code": "CI7.F",
+        "country": "Poland",
+        "rank": 128
+    },
+    {
+        "name": "Bloober Team",
+        "code": "6BO.SG",
+        "country": "Poland",
+        "rank": 129
+    },
+    {
+        "name": "Big Cheese Studio",
+        "code": "BCS.WA",
+        "country": "Poland",
+        "rank": 130
+    },
+    {
+        "name": "BoomBit",
+        "code": "BBT.WA",
+        "country": "Poland",
+        "rank": 131
+    },
+    {
+        "name": "Forever Entertainment",
+        "code": "8FE.SG",
+        "country": "Poland",
+        "rank": 132
+    },
+    {
+        "name": "All in! Games",
+        "code": "ALG.WA",
+        "country": "Poland",
+        "rank": 133
+    },
+    {
+        "name": "Ultimate Games",
+        "code": "ULG.WA",
+        "country": "Poland",
+        "rank": 134
+    },
+    {
+        "name": "Artifex Mundi",
+        "code": "ART.WA",
+        "country": "Poland",
+        "rank": 135
+    },
+    {
+        "name": "Games Operators",
+        "code": "GOP.WA",
+        "country": "Poland",
+        "rank": 136
+    },
+    {
+        "name": "Gaming Factory",
+        "code": "GIF.WA",
+        "country": "Poland",
+        "rank": 137
+    },
+    {
+        "name": "Vivid Games",
+        "code": "VVD.WA",
+        "country": "Poland",
+        "rank": 138
+    },
+    {
+        "name": "ManyDev Studio",
+        "code": "MAN.WA",
+        "country": "Poland",
+        "rank": 139
+    },
+    {
+        "name": "T-Bull",
+        "code": "TBL.WA",
+        "country": "Poland",
+        "rank": 140
+    },
+    {
+        "name": "PunkPirates",
+        "code": "PUN.WA",
+        "country": "Poland",
+        "rank": 141
+    },
+    {
+        "name": "PKN Orlen",
+        "code": "PKY1.F",
+        "country": "Poland",
+        "rank": 142
+    },
+    {
+        "name": "PKO Bank Polski",
+        "code": "P9O.F",
+        "country": "Poland",
+        "rank": 143
+    },
+    {
+        "name": "Dino Polska",
+        "code": "DNP.WA",
+        "country": "Poland",
+        "rank": 144
+    },
+    {
+        "name": "PGNiG",
+        "code": "7GG.F",
+        "country": "Poland",
+        "rank": 145
+    },
+    {
+        "name": "Allegro.eu",
+        "code": "ALE.WA",
+        "country": "Poland",
+        "rank": 146
+    },
+    {
+        "name": "Santander Polska",
+        "code": "BZI.F",
+        "country": "Poland",
+        "rank": 147
+    },
+    {
+        "name": "KGHM Polska Mied\u017a",
+        "code": "KGHA.F",
+        "country": "Poland",
+        "rank": 148
+    },
+    {
+        "name": "Bank Pekao (Bank Polska Kasa Opieki)",
+        "code": "PEO.WA",
+        "country": "Poland",
+        "rank": 149
+    },
+    {
+        "name": "Powszechny Zak\u0142ad Ubezpiecze\u0144",
+        "code": "7PZ.F",
+        "country": "Poland",
+        "rank": 150
+    },
+    {
+        "name": "PGE Polska",
+        "code": "PGE.WA",
+        "country": "Poland",
+        "rank": 151
+    },
+    {
+        "name": "CD Projekt",
+        "code": "CDR.WA",
+        "country": "Poland",
+        "rank": 152
+    },
+    {
+        "name": "mBank",
+        "code": "MBK.WA",
+        "country": "Poland",
+        "rank": 153
+    },
+    {
+        "name": "Cyfrowy Polsat",
+        "code": "CP9.F",
+        "country": "Poland",
+        "rank": 154
+    },
+    {
+        "name": "Orange Polska",
+        "code": "TPA1.F",
+        "country": "Poland",
+        "rank": 155
+    },
+    {
+        "name": "Budimex",
+        "code": "BDX.WA",
+        "country": "Poland",
+        "rank": 156
+    },
+    {
+        "name": "Jastrzebska Sp\u00f3lka Weglowa",
+        "code": "JSW.WA",
+        "country": "Poland",
+        "rank": 157
+    },
+    {
+        "name": "Inter Cars",
+        "code": "CAR.WA",
+        "country": "Poland",
+        "rank": 158
+    },
+    {
+        "name": "Asseco",
+        "code": "SFB1.F",
+        "country": "Poland",
+        "rank": 159
+    },
+    {
+        "name": "KRUK Sp\u00f3lka Akcyjna",
+        "code": "KRU.WA",
+        "country": "Poland",
+        "rank": 160
+    },
+    {
+        "name": "Polenergia",
+        "code": "PEP.WA",
+        "country": "Poland",
+        "rank": 161
+    },
+    {
+        "name": "Grupa Zywiec",
+        "code": "ZWC.WA",
+        "country": "Poland",
+        "rank": 162
+    },
+    {
+        "name": "Grupa Kety",
+        "code": "KTY.WA",
+        "country": "Poland",
+        "rank": 163
+    },
+    {
+        "name": "Tauron Polska",
+        "code": "1T5.F",
+        "country": "Poland",
+        "rank": 164
+    },
+    {
+        "name": "Wirtualna Polska (WP Holding)",
+        "code": "WPL.WA",
+        "country": "Poland",
+        "rank": 165
+    },
+    {
+        "name": "NEUCA",
+        "code": "NEU.WA",
+        "country": "Poland",
+        "rank": 166
+    },
+    {
+        "name": "LiveChat Software",
+        "code": "LVC.WA",
+        "country": "Poland",
+        "rank": 167
+    },
+    {
+        "name": "PlayWay",
+        "code": "6P5.F",
+        "country": "Poland",
+        "rank": 168
+    },
+    {
+        "name": "11 bit studios",
+        "code": "11B.WA",
+        "country": "Poland",
+        "rank": 169
+    },
+    {
+        "name": "Arctic Paper",
+        "code": "ARP.ST",
+        "country": "Poland",
+        "rank": 170
+    },
+    {
+        "name": "People Can Fly",
+        "code": "PCF.WA",
+        "country": "Poland",
+        "rank": 171
+    },
+    {
+        "name": "Ten Square Games",
+        "code": "1HQ.F",
+        "country": "Poland",
+        "rank": 172
+    },
+    {
+        "name": "Pkp Cargo",
+        "code": "PKP.WA",
+        "country": "Poland",
+        "rank": 173
+    },
+    {
+        "name": "Creepy Jar",
+        "code": "CRJ.WA",
+        "country": "Poland",
+        "rank": 174
+    },
+    {
+        "name": "CI Games",
+        "code": "CI7.F",
+        "country": "Poland",
+        "rank": 175
+    },
+    {
+        "name": "Bloober Team",
+        "code": "6BO.SG",
+        "country": "Poland",
+        "rank": 176
+    },
+    {
+        "name": "Big Cheese Studio",
+        "code": "BCS.WA",
+        "country": "Poland",
+        "rank": 177
+    },
+    {
+        "name": "BoomBit",
+        "code": "BBT.WA",
+        "country": "Poland",
+        "rank": 178
+    },
+    {
+        "name": "Forever Entertainment",
+        "code": "8FE.SG",
+        "country": "Poland",
+        "rank": 179
+    },
+    {
+        "name": "All in! Games",
+        "code": "ALG.WA",
+        "country": "Poland",
+        "rank": 180
+    },
+    {
+        "name": "Ultimate Games",
+        "code": "ULG.WA",
+        "country": "Poland",
+        "rank": 181
+    },
+    {
+        "name": "Artifex Mundi",
+        "code": "ART.WA",
+        "country": "Poland",
+        "rank": 182
+    },
+    {
+        "name": "Games Operators",
+        "code": "GOP.WA",
+        "country": "Poland",
+        "rank": 183
+    },
+    {
+        "name": "Gaming Factory",
+        "code": "GIF.WA",
+        "country": "Poland",
+        "rank": 184
+    },
+    {
+        "name": "Vivid Games",
+        "code": "VVD.WA",
+        "country": "Poland",
+        "rank": 185
+    },
+    {
+        "name": "ManyDev Studio",
+        "code": "MAN.WA",
+        "country": "Poland",
+        "rank": 186
+    },
+    {
+        "name": "T-Bull",
+        "code": "TBL.WA",
+        "country": "Poland",
+        "rank": 187
+    },
+    {
+        "name": "PunkPirates",
+        "code": "PUN.WA",
+        "country": "Poland",
+        "rank": 188
+    },
+    {
+        "name": "PKN Orlen",
+        "code": "PKY1.F",
+        "country": "Poland",
+        "rank": 189
+    },
+    {
+        "name": "PKO Bank Polski",
+        "code": "P9O.F",
+        "country": "Poland",
+        "rank": 190
+    },
+    {
+        "name": "Dino Polska",
+        "code": "DNP.WA",
+        "country": "Poland",
+        "rank": 191
+    },
+    {
+        "name": "PGNiG",
+        "code": "7GG.F",
+        "country": "Poland",
+        "rank": 192
+    },
+    {
+        "name": "Allegro.eu",
+        "code": "ALE.WA",
+        "country": "Poland",
+        "rank": 193
+    },
+    {
+        "name": "Santander Polska",
+        "code": "BZI.F",
+        "country": "Poland",
+        "rank": 194
+    },
+    {
+        "name": "KGHM Polska Mied\u017a",
+        "code": "KGHA.F",
+        "country": "Poland",
+        "rank": 195
+    },
+    {
+        "name": "Bank Pekao (Bank Polska Kasa Opieki)",
+        "code": "PEO.WA",
+        "country": "Poland",
+        "rank": 196
+    },
+    {
+        "name": "Powszechny Zak\u0142ad Ubezpiecze\u0144",
+        "code": "7PZ.F",
+        "country": "Poland",
+        "rank": 197
+    },
+    {
+        "name": "PGE Polska",
+        "code": "PGE.WA",
+        "country": "Poland",
+        "rank": 198
+    },
+    {
+        "name": "CD Projekt",
+        "code": "CDR.WA",
+        "country": "Poland",
+        "rank": 199
+    },
+    {
+        "name": "mBank",
+        "code": "MBK.WA",
+        "country": "Poland",
+        "rank": 200
+    },
+    {
+        "name": "Cyfrowy Polsat",
+        "code": "CP9.F",
+        "country": "Poland",
+        "rank": 201
+    },
+    {
+        "name": "Orange Polska",
+        "code": "TPA1.F",
+        "country": "Poland",
+        "rank": 202
+    },
+    {
+        "name": "Budimex",
+        "code": "BDX.WA",
+        "country": "Poland",
+        "rank": 203
+    },
+    {
+        "name": "Jastrzebska Sp\u00f3lka Weglowa",
+        "code": "JSW.WA",
+        "country": "Poland",
+        "rank": 204
+    },
+    {
+        "name": "Inter Cars",
+        "code": "CAR.WA",
+        "country": "Poland",
+        "rank": 205
+    },
+    {
+        "name": "Asseco",
+        "code": "SFB1.F",
+        "country": "Poland",
+        "rank": 206
+    },
+    {
+        "name": "KRUK Sp\u00f3lka Akcyjna",
+        "code": "KRU.WA",
+        "country": "Poland",
+        "rank": 207
+    },
+    {
+        "name": "Polenergia",
+        "code": "PEP.WA",
+        "country": "Poland",
+        "rank": 208
+    },
+    {
+        "name": "Grupa Zywiec",
+        "code": "ZWC.WA",
+        "country": "Poland",
+        "rank": 209
+    },
+    {
+        "name": "Grupa Kety",
+        "code": "KTY.WA",
+        "country": "Poland",
+        "rank": 210
+    },
+    {
+        "name": "Tauron Polska",
+        "code": "1T5.F",
+        "country": "Poland",
+        "rank": 211
+    },
+    {
+        "name": "Wirtualna Polska (WP Holding)",
+        "code": "WPL.WA",
+        "country": "Poland",
+        "rank": 212
+    },
+    {
+        "name": "NEUCA",
+        "code": "NEU.WA",
+        "country": "Poland",
+        "rank": 213
+    },
+    {
+        "name": "LiveChat Software",
+        "code": "LVC.WA",
+        "country": "Poland",
+        "rank": 214
+    },
+    {
+        "name": "PlayWay",
+        "code": "6P5.F",
+        "country": "Poland",
+        "rank": 215
+    },
+    {
+        "name": "11 bit studios",
+        "code": "11B.WA",
+        "country": "Poland",
+        "rank": 216
+    },
+    {
+        "name": "Arctic Paper",
+        "code": "ARP.ST",
+        "country": "Poland",
+        "rank": 217
+    },
+    {
+        "name": "People Can Fly",
+        "code": "PCF.WA",
+        "country": "Poland",
+        "rank": 218
+    },
+    {
+        "name": "Ten Square Games",
+        "code": "1HQ.F",
+        "country": "Poland",
+        "rank": 219
+    },
+    {
+        "name": "Pkp Cargo",
+        "code": "PKP.WA",
+        "country": "Poland",
+        "rank": 220
+    },
+    {
+        "name": "Creepy Jar",
+        "code": "CRJ.WA",
+        "country": "Poland",
+        "rank": 221
+    },
+    {
+        "name": "CI Games",
+        "code": "CI7.F",
+        "country": "Poland",
+        "rank": 222
+    },
+    {
+        "name": "Bloober Team",
+        "code": "6BO.SG",
+        "country": "Poland",
+        "rank": 223
+    },
+    {
+        "name": "Big Cheese Studio",
+        "code": "BCS.WA",
+        "country": "Poland",
+        "rank": 224
+    },
+    {
+        "name": "BoomBit",
+        "code": "BBT.WA",
+        "country": "Poland",
+        "rank": 225
+    },
+    {
+        "name": "Forever Entertainment",
+        "code": "8FE.SG",
+        "country": "Poland",
+        "rank": 226
+    },
+    {
+        "name": "All in! Games",
+        "code": "ALG.WA",
+        "country": "Poland",
+        "rank": 227
+    },
+    {
+        "name": "Ultimate Games",
+        "code": "ULG.WA",
+        "country": "Poland",
+        "rank": 228
+    },
+    {
+        "name": "Artifex Mundi",
+        "code": "ART.WA",
+        "country": "Poland",
+        "rank": 229
+    },
+    {
+        "name": "Games Operators",
+        "code": "GOP.WA",
+        "country": "Poland",
+        "rank": 230
+    },
+    {
+        "name": "Gaming Factory",
+        "code": "GIF.WA",
+        "country": "Poland",
+        "rank": 231
+    },
+    {
+        "name": "Vivid Games",
+        "code": "VVD.WA",
+        "country": "Poland",
+        "rank": 232
+    },
+    {
+        "name": "ManyDev Studio",
+        "code": "MAN.WA",
+        "country": "Poland",
+        "rank": 233
+    },
+    {
+        "name": "T-Bull",
+        "code": "TBL.WA",
+        "country": "Poland",
+        "rank": 234
+    },
+    {
+        "name": "PunkPirates",
+        "code": "PUN.WA",
+        "country": "Poland",
+        "rank": 235
+    },
+    {
+        "name": "PKN Orlen",
+        "code": "PKY1.F",
+        "country": "Poland",
+        "rank": 236
+    },
+    {
+        "name": "PKO Bank Polski",
+        "code": "P9O.F",
+        "country": "Poland",
+        "rank": 237
+    },
+    {
+        "name": "Dino Polska",
+        "code": "DNP.WA",
+        "country": "Poland",
+        "rank": 238
+    },
+    {
+        "name": "PGNiG",
+        "code": "7GG.F",
+        "country": "Poland",
+        "rank": 239
+    },
+    {
+        "name": "Allegro.eu",
+        "code": "ALE.WA",
+        "country": "Poland",
+        "rank": 240
+    },
+    {
+        "name": "Santander Polska",
+        "code": "BZI.F",
+        "country": "Poland",
+        "rank": 241
+    },
+    {
+        "name": "KGHM Polska Mied\u017a",
+        "code": "KGHA.F",
+        "country": "Poland",
+        "rank": 242
+    },
+    {
+        "name": "Bank Pekao (Bank Polska Kasa Opieki)",
+        "code": "PEO.WA",
+        "country": "Poland",
+        "rank": 243
+    },
+    {
+        "name": "Powszechny Zak\u0142ad Ubezpiecze\u0144",
+        "code": "7PZ.F",
+        "country": "Poland",
+        "rank": 244
+    },
+    {
+        "name": "PGE Polska",
+        "code": "PGE.WA",
+        "country": "Poland",
+        "rank": 245
+    },
+    {
+        "name": "CD Projekt",
+        "code": "CDR.WA",
+        "country": "Poland",
+        "rank": 246
+    },
+    {
+        "name": "mBank",
+        "code": "MBK.WA",
+        "country": "Poland",
+        "rank": 247
+    },
+    {
+        "name": "Cyfrowy Polsat",
+        "code": "CP9.F",
+        "country": "Poland",
+        "rank": 248
+    },
+    {
+        "name": "Orange Polska",
+        "code": "TPA1.F",
+        "country": "Poland",
+        "rank": 249
+    },
+    {
+        "name": "Budimex",
+        "code": "BDX.WA",
+        "country": "Poland",
+        "rank": 250
+    },
+    {
+        "name": "Jastrzebska Sp\u00f3lka Weglowa",
+        "code": "JSW.WA",
+        "country": "Poland",
+        "rank": 251
+    },
+    {
+        "name": "Inter Cars",
+        "code": "CAR.WA",
+        "country": "Poland",
+        "rank": 252
+    },
+    {
+        "name": "Asseco",
+        "code": "SFB1.F",
+        "country": "Poland",
+        "rank": 253
+    },
+    {
+        "name": "KRUK Sp\u00f3lka Akcyjna",
+        "code": "KRU.WA",
+        "country": "Poland",
+        "rank": 254
+    },
+    {
+        "name": "Polenergia",
+        "code": "PEP.WA",
+        "country": "Poland",
+        "rank": 255
+    },
+    {
+        "name": "Grupa Zywiec",
+        "code": "ZWC.WA",
+        "country": "Poland",
+        "rank": 256
+    },
+    {
+        "name": "Grupa Kety",
+        "code": "KTY.WA",
+        "country": "Poland",
+        "rank": 257
+    },
+    {
+        "name": "Tauron Polska",
+        "code": "1T5.F",
+        "country": "Poland",
+        "rank": 258
+    },
+    {
+        "name": "Wirtualna Polska (WP Holding)",
+        "code": "WPL.WA",
+        "country": "Poland",
+        "rank": 259
+    },
+    {
+        "name": "NEUCA",
+        "code": "NEU.WA",
+        "country": "Poland",
+        "rank": 260
+    },
+    {
+        "name": "LiveChat Software",
+        "code": "LVC.WA",
+        "country": "Poland",
+        "rank": 261
+    },
+    {
+        "name": "PlayWay",
+        "code": "6P5.F",
+        "country": "Poland",
+        "rank": 262
+    },
+    {
+        "name": "11 bit studios",
+        "code": "11B.WA",
+        "country": "Poland",
+        "rank": 263
+    },
+    {
+        "name": "Arctic Paper",
+        "code": "ARP.ST",
+        "country": "Poland",
+        "rank": 264
+    },
+    {
+        "name": "People Can Fly",
+        "code": "PCF.WA",
+        "country": "Poland",
+        "rank": 265
+    },
+    {
+        "name": "Ten Square Games",
+        "code": "1HQ.F",
+        "country": "Poland",
+        "rank": 266
+    },
+    {
+        "name": "Pkp Cargo",
+        "code": "PKP.WA",
+        "country": "Poland",
+        "rank": 267
+    },
+    {
+        "name": "Creepy Jar",
+        "code": "CRJ.WA",
+        "country": "Poland",
+        "rank": 268
+    },
+    {
+        "name": "CI Games",
+        "code": "CI7.F",
+        "country": "Poland",
+        "rank": 269
+    },
+    {
+        "name": "Bloober Team",
+        "code": "6BO.SG",
+        "country": "Poland",
+        "rank": 270
+    },
+    {
+        "name": "Big Cheese Studio",
+        "code": "BCS.WA",
+        "country": "Poland",
+        "rank": 271
+    },
+    {
+        "name": "BoomBit",
+        "code": "BBT.WA",
+        "country": "Poland",
+        "rank": 272
+    },
+    {
+        "name": "Forever Entertainment",
+        "code": "8FE.SG",
+        "country": "Poland",
+        "rank": 273
+    },
+    {
+        "name": "All in! Games",
+        "code": "ALG.WA",
+        "country": "Poland",
+        "rank": 274
+    },
+    {
+        "name": "Ultimate Games",
+        "code": "ULG.WA",
+        "country": "Poland",
+        "rank": 275
+    },
+    {
+        "name": "Artifex Mundi",
+        "code": "ART.WA",
+        "country": "Poland",
+        "rank": 276
+    },
+    {
+        "name": "Games Operators",
+        "code": "GOP.WA",
+        "country": "Poland",
+        "rank": 277
+    },
+    {
+        "name": "Gaming Factory",
+        "code": "GIF.WA",
+        "country": "Poland",
+        "rank": 278
+    },
+    {
+        "name": "Vivid Games",
+        "code": "VVD.WA",
+        "country": "Poland",
+        "rank": 279
+    },
+    {
+        "name": "ManyDev Studio",
+        "code": "MAN.WA",
+        "country": "Poland",
+        "rank": 280
+    },
+    {
+        "name": "T-Bull",
+        "code": "TBL.WA",
+        "country": "Poland",
+        "rank": 281
+    },
+    {
+        "name": "PunkPirates",
+        "code": "PUN.WA",
+        "country": "Poland",
+        "rank": 282
+    },
+    {
+        "name": "PKN Orlen",
+        "code": "PKY1.F",
+        "country": "Poland",
+        "rank": 283
+    },
+    {
+        "name": "PKO Bank Polski",
+        "code": "P9O.F",
+        "country": "Poland",
+        "rank": 284
+    },
+    {
+        "name": "Dino Polska",
+        "code": "DNP.WA",
+        "country": "Poland",
+        "rank": 285
+    },
+    {
+        "name": "PGNiG",
+        "code": "7GG.F",
+        "country": "Poland",
+        "rank": 286
+    },
+    {
+        "name": "Allegro.eu",
+        "code": "ALE.WA",
+        "country": "Poland",
+        "rank": 287
+    },
+    {
+        "name": "Santander Polska",
+        "code": "BZI.F",
+        "country": "Poland",
+        "rank": 288
+    },
+    {
+        "name": "KGHM Polska Mied\u017a",
+        "code": "KGHA.F",
+        "country": "Poland",
+        "rank": 289
+    },
+    {
+        "name": "Bank Pekao (Bank Polska Kasa Opieki)",
+        "code": "PEO.WA",
+        "country": "Poland",
+        "rank": 290
+    },
+    {
+        "name": "Powszechny Zak\u0142ad Ubezpiecze\u0144",
+        "code": "7PZ.F",
+        "country": "Poland",
+        "rank": 291
+    },
+    {
+        "name": "PGE Polska",
+        "code": "PGE.WA",
+        "country": "Poland",
+        "rank": 292
+    },
+    {
+        "name": "CD Projekt",
+        "code": "CDR.WA",
+        "country": "Poland",
+        "rank": 293
+    },
+    {
+        "name": "mBank",
+        "code": "MBK.WA",
+        "country": "Poland",
+        "rank": 294
+    },
+    {
+        "name": "Cyfrowy Polsat",
+        "code": "CP9.F",
+        "country": "Poland",
+        "rank": 295
+    },
+    {
+        "name": "Orange Polska",
+        "code": "TPA1.F",
+        "country": "Poland",
+        "rank": 296
+    },
+    {
+        "name": "Budimex",
+        "code": "BDX.WA",
+        "country": "Poland",
+        "rank": 297
+    },
+    {
+        "name": "Jastrzebska Sp\u00f3lka Weglowa",
+        "code": "JSW.WA",
+        "country": "Poland",
+        "rank": 298
+    },
+    {
+        "name": "Inter Cars",
+        "code": "CAR.WA",
+        "country": "Poland",
+        "rank": 299
+    },
+    {
+        "name": "Asseco",
+        "code": "SFB1.F",
+        "country": "Poland",
+        "rank": 300
+    },
+    {
+        "name": "KRUK Sp\u00f3lka Akcyjna",
+        "code": "KRU.WA",
+        "country": "Poland",
+        "rank": 301
+    },
+    {
+        "name": "Polenergia",
+        "code": "PEP.WA",
+        "country": "Poland",
+        "rank": 302
+    },
+    {
+        "name": "Grupa Zywiec",
+        "code": "ZWC.WA",
+        "country": "Poland",
+        "rank": 303
+    },
+    {
+        "name": "Grupa Kety",
+        "code": "KTY.WA",
+        "country": "Poland",
+        "rank": 304
+    },
+    {
+        "name": "Tauron Polska",
+        "code": "1T5.F",
+        "country": "Poland",
+        "rank": 305
+    },
+    {
+        "name": "Wirtualna Polska (WP Holding)",
+        "code": "WPL.WA",
+        "country": "Poland",
+        "rank": 306
+    },
+    {
+        "name": "NEUCA",
+        "code": "NEU.WA",
+        "country": "Poland",
+        "rank": 307
+    },
+    {
+        "name": "LiveChat Software",
+        "code": "LVC.WA",
+        "country": "Poland",
+        "rank": 308
+    },
+    {
+        "name": "PlayWay",
+        "code": "6P5.F",
+        "country": "Poland",
+        "rank": 309
+    },
+    {
+        "name": "11 bit studios",
+        "code": "11B.WA",
+        "country": "Poland",
+        "rank": 310
+    },
+    {
+        "name": "Arctic Paper",
+        "code": "ARP.ST",
+        "country": "Poland",
+        "rank": 311
+    },
+    {
+        "name": "People Can Fly",
+        "code": "PCF.WA",
+        "country": "Poland",
+        "rank": 312
+    },
+    {
+        "name": "Ten Square Games",
+        "code": "1HQ.F",
+        "country": "Poland",
+        "rank": 313
+    },
+    {
+        "name": "Pkp Cargo",
+        "code": "PKP.WA",
+        "country": "Poland",
+        "rank": 314
+    },
+    {
+        "name": "Creepy Jar",
+        "code": "CRJ.WA",
+        "country": "Poland",
+        "rank": 315
+    },
+    {
+        "name": "CI Games",
+        "code": "CI7.F",
+        "country": "Poland",
+        "rank": 316
+    },
+    {
+        "name": "Bloober Team",
+        "code": "6BO.SG",
+        "country": "Poland",
+        "rank": 317
+    },
+    {
+        "name": "Big Cheese Studio",
+        "code": "BCS.WA",
+        "country": "Poland",
+        "rank": 318
+    },
+    {
+        "name": "BoomBit",
+        "code": "BBT.WA",
+        "country": "Poland",
+        "rank": 319
+    },
+    {
+        "name": "Forever Entertainment",
+        "code": "8FE.SG",
+        "country": "Poland",
+        "rank": 320
+    },
+    {
+        "name": "All in! Games",
+        "code": "ALG.WA",
+        "country": "Poland",
+        "rank": 321
+    },
+    {
+        "name": "Ultimate Games",
+        "code": "ULG.WA",
+        "country": "Poland",
+        "rank": 322
+    },
+    {
+        "name": "Artifex Mundi",
+        "code": "ART.WA",
+        "country": "Poland",
+        "rank": 323
+    },
+    {
+        "name": "Games Operators",
+        "code": "GOP.WA",
+        "country": "Poland",
+        "rank": 324
+    },
+    {
+        "name": "Gaming Factory",
+        "code": "GIF.WA",
+        "country": "Poland",
+        "rank": 325
+    },
+    {
+        "name": "Vivid Games",
+        "code": "VVD.WA",
+        "country": "Poland",
+        "rank": 326
+    },
+    {
+        "name": "ManyDev Studio",
+        "code": "MAN.WA",
+        "country": "Poland",
+        "rank": 327
+    },
+    {
+        "name": "T-Bull",
+        "code": "TBL.WA",
+        "country": "Poland",
+        "rank": 328
+    },
+    {
+        "name": "PunkPirates",
+        "code": "PUN.WA",
+        "country": "Poland",
+        "rank": 329
+    },
+    {
+        "name": "PKN Orlen",
+        "code": "PKY1.F",
+        "country": "Poland",
+        "rank": 330
+    },
+    {
+        "name": "PKO Bank Polski",
+        "code": "P9O.F",
+        "country": "Poland",
+        "rank": 331
+    },
+    {
+        "name": "Dino Polska",
+        "code": "DNP.WA",
+        "country": "Poland",
+        "rank": 332
+    },
+    {
+        "name": "PGNiG",
+        "code": "7GG.F",
+        "country": "Poland",
+        "rank": 333
+    },
+    {
+        "name": "Allegro.eu",
+        "code": "ALE.WA",
+        "country": "Poland",
+        "rank": 334
+    },
+    {
+        "name": "Santander Polska",
+        "code": "BZI.F",
+        "country": "Poland",
+        "rank": 335
+    },
+    {
+        "name": "KGHM Polska Mied\u017a",
+        "code": "KGHA.F",
+        "country": "Poland",
+        "rank": 336
+    },
+    {
+        "name": "Bank Pekao (Bank Polska Kasa Opieki)",
+        "code": "PEO.WA",
+        "country": "Poland",
+        "rank": 337
+    },
+    {
+        "name": "Powszechny Zak\u0142ad Ubezpiecze\u0144",
+        "code": "7PZ.F",
+        "country": "Poland",
+        "rank": 338
+    },
+    {
+        "name": "PGE Polska",
+        "code": "PGE.WA",
+        "country": "Poland",
+        "rank": 339
+    },
+    {
+        "name": "CD Projekt",
+        "code": "CDR.WA",
+        "country": "Poland",
+        "rank": 340
+    },
+    {
+        "name": "mBank",
+        "code": "MBK.WA",
+        "country": "Poland",
+        "rank": 341
+    },
+    {
+        "name": "Cyfrowy Polsat",
+        "code": "CP9.F",
+        "country": "Poland",
+        "rank": 342
+    },
+    {
+        "name": "Orange Polska",
+        "code": "TPA1.F",
+        "country": "Poland",
+        "rank": 343
+    },
+    {
+        "name": "Budimex",
+        "code": "BDX.WA",
+        "country": "Poland",
+        "rank": 344
+    },
+    {
+        "name": "Jastrzebska Sp\u00f3lka Weglowa",
+        "code": "JSW.WA",
+        "country": "Poland",
+        "rank": 345
+    },
+    {
+        "name": "Inter Cars",
+        "code": "CAR.WA",
+        "country": "Poland",
+        "rank": 346
+    },
+    {
+        "name": "Asseco",
+        "code": "SFB1.F",
+        "country": "Poland",
+        "rank": 347
+    },
+    {
+        "name": "KRUK Sp\u00f3lka Akcyjna",
+        "code": "KRU.WA",
+        "country": "Poland",
+        "rank": 348
+    },
+    {
+        "name": "Polenergia",
+        "code": "PEP.WA",
+        "country": "Poland",
+        "rank": 349
+    },
+    {
+        "name": "Grupa Zywiec",
+        "code": "ZWC.WA",
+        "country": "Poland",
+        "rank": 350
+    },
+    {
+        "name": "Grupa Kety",
+        "code": "KTY.WA",
+        "country": "Poland",
+        "rank": 351
+    },
+    {
+        "name": "Tauron Polska",
+        "code": "1T5.F",
+        "country": "Poland",
+        "rank": 352
+    },
+    {
+        "name": "Wirtualna Polska (WP Holding)",
+        "code": "WPL.WA",
+        "country": "Poland",
+        "rank": 353
+    },
+    {
+        "name": "NEUCA",
+        "code": "NEU.WA",
+        "country": "Poland",
+        "rank": 354
+    },
+    {
+        "name": "LiveChat Software",
+        "code": "LVC.WA",
+        "country": "Poland",
+        "rank": 355
+    },
+    {
+        "name": "PlayWay",
+        "code": "6P5.F",
+        "country": "Poland",
+        "rank": 356
+    },
+    {
+        "name": "11 bit studios",
+        "code": "11B.WA",
+        "country": "Poland",
+        "rank": 357
+    },
+    {
+        "name": "Arctic Paper",
+        "code": "ARP.ST",
+        "country": "Poland",
+        "rank": 358
+    },
+    {
+        "name": "People Can Fly",
+        "code": "PCF.WA",
+        "country": "Poland",
+        "rank": 359
+    },
+    {
+        "name": "Ten Square Games",
+        "code": "1HQ.F",
+        "country": "Poland",
+        "rank": 360
+    },
+    {
+        "name": "Pkp Cargo",
+        "code": "PKP.WA",
+        "country": "Poland",
+        "rank": 361
+    },
+    {
+        "name": "Creepy Jar",
+        "code": "CRJ.WA",
+        "country": "Poland",
+        "rank": 362
+    },
+    {
+        "name": "CI Games",
+        "code": "CI7.F",
+        "country": "Poland",
+        "rank": 363
+    },
+    {
+        "name": "Bloober Team",
+        "code": "6BO.SG",
+        "country": "Poland",
+        "rank": 364
+    },
+    {
+        "name": "Big Cheese Studio",
+        "code": "BCS.WA",
+        "country": "Poland",
+        "rank": 365
+    },
+    {
+        "name": "BoomBit",
+        "code": "BBT.WA",
+        "country": "Poland",
+        "rank": 366
+    },
+    {
+        "name": "Forever Entertainment",
+        "code": "8FE.SG",
+        "country": "Poland",
+        "rank": 367
+    },
+    {
+        "name": "All in! Games",
+        "code": "ALG.WA",
+        "country": "Poland",
+        "rank": 368
+    },
+    {
+        "name": "Ultimate Games",
+        "code": "ULG.WA",
+        "country": "Poland",
+        "rank": 369
+    },
+    {
+        "name": "Artifex Mundi",
+        "code": "ART.WA",
+        "country": "Poland",
+        "rank": 370
+    },
+    {
+        "name": "Games Operators",
+        "code": "GOP.WA",
+        "country": "Poland",
+        "rank": 371
+    },
+    {
+        "name": "Gaming Factory",
+        "code": "GIF.WA",
+        "country": "Poland",
+        "rank": 372
+    },
+    {
+        "name": "Vivid Games",
+        "code": "VVD.WA",
+        "country": "Poland",
+        "rank": 373
+    },
+    {
+        "name": "ManyDev Studio",
+        "code": "MAN.WA",
+        "country": "Poland",
+        "rank": 374
+    },
+    {
+        "name": "T-Bull",
+        "code": "TBL.WA",
+        "country": "Poland",
+        "rank": 375
+    },
+    {
+        "name": "PunkPirates",
+        "code": "PUN.WA",
+        "country": "Poland",
+        "rank": 376
+    },
+    {
+        "name": "PKN Orlen",
+        "code": "PKY1.F",
+        "country": "Poland",
+        "rank": 377
+    },
+    {
+        "name": "PKO Bank Polski",
+        "code": "P9O.F",
+        "country": "Poland",
+        "rank": 378
+    },
+    {
+        "name": "Dino Polska",
+        "code": "DNP.WA",
+        "country": "Poland",
+        "rank": 379
+    },
+    {
+        "name": "PGNiG",
+        "code": "7GG.F",
+        "country": "Poland",
+        "rank": 380
+    },
+    {
+        "name": "Allegro.eu",
+        "code": "ALE.WA",
+        "country": "Poland",
+        "rank": 381
+    },
+    {
+        "name": "Santander Polska",
+        "code": "BZI.F",
+        "country": "Poland",
+        "rank": 382
+    },
+    {
+        "name": "KGHM Polska Mied\u017a",
+        "code": "KGHA.F",
+        "country": "Poland",
+        "rank": 383
+    },
+    {
+        "name": "Bank Pekao (Bank Polska Kasa Opieki)",
+        "code": "PEO.WA",
+        "country": "Poland",
+        "rank": 384
+    },
+    {
+        "name": "Powszechny Zak\u0142ad Ubezpiecze\u0144",
+        "code": "7PZ.F",
+        "country": "Poland",
+        "rank": 385
+    },
+    {
+        "name": "PGE Polska",
+        "code": "PGE.WA",
+        "country": "Poland",
+        "rank": 386
+    },
+    {
+        "name": "CD Projekt",
+        "code": "CDR.WA",
+        "country": "Poland",
+        "rank": 387
+    },
+    {
+        "name": "mBank",
+        "code": "MBK.WA",
+        "country": "Poland",
+        "rank": 388
+    },
+    {
+        "name": "Cyfrowy Polsat",
+        "code": "CP9.F",
+        "country": "Poland",
+        "rank": 389
+    },
+    {
+        "name": "Orange Polska",
+        "code": "TPA1.F",
+        "country": "Poland",
+        "rank": 390
+    },
+    {
+        "name": "Budimex",
+        "code": "BDX.WA",
+        "country": "Poland",
+        "rank": 391
+    },
+    {
+        "name": "Jastrzebska Sp\u00f3lka Weglowa",
+        "code": "JSW.WA",
+        "country": "Poland",
+        "rank": 392
+    },
+    {
+        "name": "Inter Cars",
+        "code": "CAR.WA",
+        "country": "Poland",
+        "rank": 393
+    },
+    {
+        "name": "Asseco",
+        "code": "SFB1.F",
+        "country": "Poland",
+        "rank": 394
+    },
+    {
+        "name": "KRUK Sp\u00f3lka Akcyjna",
+        "code": "KRU.WA",
+        "country": "Poland",
+        "rank": 395
+    },
+    {
+        "name": "Polenergia",
+        "code": "PEP.WA",
+        "country": "Poland",
+        "rank": 396
+    },
+    {
+        "name": "Grupa Zywiec",
+        "code": "ZWC.WA",
+        "country": "Poland",
+        "rank": 397
+    },
+    {
+        "name": "Grupa Kety",
+        "code": "KTY.WA",
+        "country": "Poland",
+        "rank": 398
+    },
+    {
+        "name": "Tauron Polska",
+        "code": "1T5.F",
+        "country": "Poland",
+        "rank": 399
+    },
+    {
+        "name": "Wirtualna Polska (WP Holding)",
+        "code": "WPL.WA",
+        "country": "Poland",
+        "rank": 400
+    },
+    {
+        "name": "NEUCA",
+        "code": "NEU.WA",
+        "country": "Poland",
+        "rank": 401
+    },
+    {
+        "name": "LiveChat Software",
+        "code": "LVC.WA",
+        "country": "Poland",
+        "rank": 402
+    },
+    {
+        "name": "PlayWay",
+        "code": "6P5.F",
+        "country": "Poland",
+        "rank": 403
+    },
+    {
+        "name": "11 bit studios",
+        "code": "11B.WA",
+        "country": "Poland",
+        "rank": 404
+    },
+    {
+        "name": "Arctic Paper",
+        "code": "ARP.ST",
+        "country": "Poland",
+        "rank": 405
+    },
+    {
+        "name": "People Can Fly",
+        "code": "PCF.WA",
+        "country": "Poland",
+        "rank": 406
+    },
+    {
+        "name": "Ten Square Games",
+        "code": "1HQ.F",
+        "country": "Poland",
+        "rank": 407
+    },
+    {
+        "name": "Pkp Cargo",
+        "code": "PKP.WA",
+        "country": "Poland",
+        "rank": 408
+    },
+    {
+        "name": "Creepy Jar",
+        "code": "CRJ.WA",
+        "country": "Poland",
+        "rank": 409
+    },
+    {
+        "name": "CI Games",
+        "code": "CI7.F",
+        "country": "Poland",
+        "rank": 410
+    },
+    {
+        "name": "Bloober Team",
+        "code": "6BO.SG",
+        "country": "Poland",
+        "rank": 411
+    },
+    {
+        "name": "Big Cheese Studio",
+        "code": "BCS.WA",
+        "country": "Poland",
+        "rank": 412
+    },
+    {
+        "name": "BoomBit",
+        "code": "BBT.WA",
+        "country": "Poland",
+        "rank": 413
+    },
+    {
+        "name": "Forever Entertainment",
+        "code": "8FE.SG",
+        "country": "Poland",
+        "rank": 414
+    },
+    {
+        "name": "All in! Games",
+        "code": "ALG.WA",
+        "country": "Poland",
+        "rank": 415
+    },
+    {
+        "name": "Ultimate Games",
+        "code": "ULG.WA",
+        "country": "Poland",
+        "rank": 416
+    },
+    {
+        "name": "Artifex Mundi",
+        "code": "ART.WA",
+        "country": "Poland",
+        "rank": 417
+    },
+    {
+        "name": "Games Operators",
+        "code": "GOP.WA",
+        "country": "Poland",
+        "rank": 418
+    },
+    {
+        "name": "Gaming Factory",
+        "code": "GIF.WA",
+        "country": "Poland",
+        "rank": 419
+    },
+    {
+        "name": "Vivid Games",
+        "code": "VVD.WA",
+        "country": "Poland",
+        "rank": 420
+    },
+    {
+        "name": "ManyDev Studio",
+        "code": "MAN.WA",
+        "country": "Poland",
+        "rank": 421
+    },
+    {
+        "name": "T-Bull",
+        "code": "TBL.WA",
+        "country": "Poland",
+        "rank": 422
+    },
+    {
+        "name": "PunkPirates",
+        "code": "PUN.WA",
+        "country": "Poland",
+        "rank": 423
+    }
+]

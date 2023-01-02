@@ -1,0 +1,2054 @@
+[
+    {
+        "name": "Sasa Polyester",
+        "code": "SASA.IS",
+        "country": "Turkey",
+        "rank": 1
+    },
+    {
+        "name": "Ko\u00e7 Holding",
+        "code": "KCHOL.IS",
+        "country": "Turkey",
+        "rank": 2
+    },
+    {
+        "name": "ENKA",
+        "code": "ENKAI.IS",
+        "country": "Turkey",
+        "rank": 3
+    },
+    {
+        "name": "Turkish Airlines",
+        "code": "THYAO.IS",
+        "country": "Turkey",
+        "rank": 4
+    },
+    {
+        "name": "Ford Otosan",
+        "code": "FROTO.IS",
+        "country": "Turkey",
+        "rank": 5
+    },
+    {
+        "name": "QNB Finansbank",
+        "code": "QNBFB.IS",
+        "country": "Turkey",
+        "rank": 6
+    },
+    {
+        "name": "T\u00fcrkiye Petrol Rafinerileri",
+        "code": "TUPRS.IS",
+        "country": "Turkey",
+        "rank": 7
+    },
+    {
+        "name": "Aselsan",
+        "code": "ASELS.IS",
+        "country": "Turkey",
+        "rank": 8
+    },
+    {
+        "name": "Erdemir",
+        "code": "EREGL.IS",
+        "country": "Turkey",
+        "rank": 9
+    },
+    {
+        "name": "\u015ei\u015fecam",
+        "code": "SISE.IS",
+        "country": "Turkey",
+        "rank": 10
+    },
+    {
+        "name": "T\u00fcrkiye Is Bankasi",
+        "code": "ISCTR.IS",
+        "country": "Turkey",
+        "rank": 11
+    },
+    {
+        "name": "GarantiBank",
+        "code": "GARAN.IS",
+        "country": "Turkey",
+        "rank": 12
+    },
+    {
+        "name": "Akbank",
+        "code": "AKBNK.IS",
+        "country": "Turkey",
+        "rank": 13
+    },
+    {
+        "name": "Yap\u0131 Kredi",
+        "code": "YKBNK.IS",
+        "country": "Turkey",
+        "rank": 14
+    },
+    {
+        "name": "\u0130sdemir",
+        "code": "ISDMR.IS",
+        "country": "Turkey",
+        "rank": 15
+    },
+    {
+        "name": "Hekta\u015f",
+        "code": "HEKTS.IS",
+        "country": "Turkey",
+        "rank": 16
+    },
+    {
+        "name": "Sabanc\u0131 Holding",
+        "code": "SAHOL.IS",
+        "country": "Turkey",
+        "rank": 17
+    },
+    {
+        "name": "T\u00fcrk Telekom",
+        "code": "TTKOM.IS",
+        "country": "Turkey",
+        "rank": 18
+    },
+    {
+        "name": "G\u00dcBRETA\u015e",
+        "code": "GUBRF.IS",
+        "country": "Turkey",
+        "rank": 19
+    },
+    {
+        "name": "Koza Gold",
+        "code": "KOZAL.IS",
+        "country": "Turkey",
+        "rank": 20
+    },
+    {
+        "name": "Vak\u0131fBank",
+        "code": "VAKBN.IS",
+        "country": "Turkey",
+        "rank": 21
+    },
+    {
+        "name": "Tofa\u015f T\u00fcrk Otomobil Fabrikas\u0131",
+        "code": "TOASO.IS",
+        "country": "Turkey",
+        "rank": 22
+    },
+    {
+        "name": "B\u0130M Birle\u015fik Ma\u011fazalar",
+        "code": "BIMAS.IS",
+        "country": "Turkey",
+        "rank": 23
+    },
+    {
+        "name": "Turkcell",
+        "code": "TKC",
+        "country": "Turkey",
+        "rank": 24
+    },
+    {
+        "name": "Ar\u00e7elik",
+        "code": "ARCLK.IS",
+        "country": "Turkey",
+        "rank": 25
+    },
+    {
+        "name": "Halkbank",
+        "code": "HALKB.IS",
+        "country": "Turkey",
+        "rank": 26
+    },
+    {
+        "name": "Aksa Energy",
+        "code": "AKSEN.IS",
+        "country": "Turkey",
+        "rank": 27
+    },
+    {
+        "name": "Coca-Cola \u0130\u00e7ecek",
+        "code": "CCOLA.IS",
+        "country": "Turkey",
+        "rank": 28
+    },
+    {
+        "name": "Pegasus Airlines",
+        "code": "PGSUS.IS",
+        "country": "Turkey",
+        "rank": 29
+    },
+    {
+        "name": "Enerjisa Enerji",
+        "code": "ENJSA.IS",
+        "country": "Turkey",
+        "rank": 30
+    },
+    {
+        "name": "Efes Beverage Group",
+        "code": "AEFES.IS",
+        "country": "Turkey",
+        "rank": 31
+    },
+    {
+        "name": "T\u00fcrkiye Kalk\u0131nma",
+        "code": "KLNMA.IS",
+        "country": "Turkey",
+        "rank": 32
+    },
+    {
+        "name": "TAV Airports Holding",
+        "code": "TAVHL.IS",
+        "country": "Turkey",
+        "rank": 33
+    },
+    {
+        "name": "OYAK \u00c7imento",
+        "code": "OYAKC.IS",
+        "country": "Turkey",
+        "rank": 34
+    },
+    {
+        "name": "QNB Finansleasing",
+        "code": "QNBFL.IS",
+        "country": "Turkey",
+        "rank": 35
+    },
+    {
+        "name": "\u0130\u015fbir Holding",
+        "code": "ISBIR.IS",
+        "country": "Turkey",
+        "rank": 36
+    },
+    {
+        "name": "Cimbeton",
+        "code": "CMBTN.IS",
+        "country": "Turkey",
+        "rank": 37
+    },
+    {
+        "name": "S\u00f6ktas Tekstil",
+        "code": "SKTAS.IS",
+        "country": "Turkey",
+        "rank": 38
+    },
+    {
+        "name": "Sasa Polyester",
+        "code": "SASA.IS",
+        "country": "Turkey",
+        "rank": 39
+    },
+    {
+        "name": "Ko\u00e7 Holding",
+        "code": "KCHOL.IS",
+        "country": "Turkey",
+        "rank": 40
+    },
+    {
+        "name": "ENKA",
+        "code": "ENKAI.IS",
+        "country": "Turkey",
+        "rank": 41
+    },
+    {
+        "name": "Turkish Airlines",
+        "code": "THYAO.IS",
+        "country": "Turkey",
+        "rank": 42
+    },
+    {
+        "name": "Ford Otosan",
+        "code": "FROTO.IS",
+        "country": "Turkey",
+        "rank": 43
+    },
+    {
+        "name": "QNB Finansbank",
+        "code": "QNBFB.IS",
+        "country": "Turkey",
+        "rank": 44
+    },
+    {
+        "name": "T\u00fcrkiye Petrol Rafinerileri",
+        "code": "TUPRS.IS",
+        "country": "Turkey",
+        "rank": 45
+    },
+    {
+        "name": "Aselsan",
+        "code": "ASELS.IS",
+        "country": "Turkey",
+        "rank": 46
+    },
+    {
+        "name": "Erdemir",
+        "code": "EREGL.IS",
+        "country": "Turkey",
+        "rank": 47
+    },
+    {
+        "name": "\u015ei\u015fecam",
+        "code": "SISE.IS",
+        "country": "Turkey",
+        "rank": 48
+    },
+    {
+        "name": "T\u00fcrkiye Is Bankasi",
+        "code": "ISCTR.IS",
+        "country": "Turkey",
+        "rank": 49
+    },
+    {
+        "name": "GarantiBank",
+        "code": "GARAN.IS",
+        "country": "Turkey",
+        "rank": 50
+    },
+    {
+        "name": "Akbank",
+        "code": "AKBNK.IS",
+        "country": "Turkey",
+        "rank": 51
+    },
+    {
+        "name": "Yap\u0131 Kredi",
+        "code": "YKBNK.IS",
+        "country": "Turkey",
+        "rank": 52
+    },
+    {
+        "name": "\u0130sdemir",
+        "code": "ISDMR.IS",
+        "country": "Turkey",
+        "rank": 53
+    },
+    {
+        "name": "Hekta\u015f",
+        "code": "HEKTS.IS",
+        "country": "Turkey",
+        "rank": 54
+    },
+    {
+        "name": "Sabanc\u0131 Holding",
+        "code": "SAHOL.IS",
+        "country": "Turkey",
+        "rank": 55
+    },
+    {
+        "name": "T\u00fcrk Telekom",
+        "code": "TTKOM.IS",
+        "country": "Turkey",
+        "rank": 56
+    },
+    {
+        "name": "G\u00dcBRETA\u015e",
+        "code": "GUBRF.IS",
+        "country": "Turkey",
+        "rank": 57
+    },
+    {
+        "name": "Koza Gold",
+        "code": "KOZAL.IS",
+        "country": "Turkey",
+        "rank": 58
+    },
+    {
+        "name": "Vak\u0131fBank",
+        "code": "VAKBN.IS",
+        "country": "Turkey",
+        "rank": 59
+    },
+    {
+        "name": "Tofa\u015f T\u00fcrk Otomobil Fabrikas\u0131",
+        "code": "TOASO.IS",
+        "country": "Turkey",
+        "rank": 60
+    },
+    {
+        "name": "B\u0130M Birle\u015fik Ma\u011fazalar",
+        "code": "BIMAS.IS",
+        "country": "Turkey",
+        "rank": 61
+    },
+    {
+        "name": "Turkcell",
+        "code": "TKC",
+        "country": "Turkey",
+        "rank": 62
+    },
+    {
+        "name": "Ar\u00e7elik",
+        "code": "ARCLK.IS",
+        "country": "Turkey",
+        "rank": 63
+    },
+    {
+        "name": "Halkbank",
+        "code": "HALKB.IS",
+        "country": "Turkey",
+        "rank": 64
+    },
+    {
+        "name": "Aksa Energy",
+        "code": "AKSEN.IS",
+        "country": "Turkey",
+        "rank": 65
+    },
+    {
+        "name": "Coca-Cola \u0130\u00e7ecek",
+        "code": "CCOLA.IS",
+        "country": "Turkey",
+        "rank": 66
+    },
+    {
+        "name": "Pegasus Airlines",
+        "code": "PGSUS.IS",
+        "country": "Turkey",
+        "rank": 67
+    },
+    {
+        "name": "Enerjisa Enerji",
+        "code": "ENJSA.IS",
+        "country": "Turkey",
+        "rank": 68
+    },
+    {
+        "name": "Efes Beverage Group",
+        "code": "AEFES.IS",
+        "country": "Turkey",
+        "rank": 69
+    },
+    {
+        "name": "T\u00fcrkiye Kalk\u0131nma",
+        "code": "KLNMA.IS",
+        "country": "Turkey",
+        "rank": 70
+    },
+    {
+        "name": "TAV Airports Holding",
+        "code": "TAVHL.IS",
+        "country": "Turkey",
+        "rank": 71
+    },
+    {
+        "name": "OYAK \u00c7imento",
+        "code": "OYAKC.IS",
+        "country": "Turkey",
+        "rank": 72
+    },
+    {
+        "name": "QNB Finansleasing",
+        "code": "QNBFL.IS",
+        "country": "Turkey",
+        "rank": 73
+    },
+    {
+        "name": "\u0130\u015fbir Holding",
+        "code": "ISBIR.IS",
+        "country": "Turkey",
+        "rank": 74
+    },
+    {
+        "name": "Cimbeton",
+        "code": "CMBTN.IS",
+        "country": "Turkey",
+        "rank": 75
+    },
+    {
+        "name": "S\u00f6ktas Tekstil",
+        "code": "SKTAS.IS",
+        "country": "Turkey",
+        "rank": 76
+    },
+    {
+        "name": "Sasa Polyester",
+        "code": "SASA.IS",
+        "country": "Turkey",
+        "rank": 77
+    },
+    {
+        "name": "Ko\u00e7 Holding",
+        "code": "KCHOL.IS",
+        "country": "Turkey",
+        "rank": 78
+    },
+    {
+        "name": "ENKA",
+        "code": "ENKAI.IS",
+        "country": "Turkey",
+        "rank": 79
+    },
+    {
+        "name": "Turkish Airlines",
+        "code": "THYAO.IS",
+        "country": "Turkey",
+        "rank": 80
+    },
+    {
+        "name": "Ford Otosan",
+        "code": "FROTO.IS",
+        "country": "Turkey",
+        "rank": 81
+    },
+    {
+        "name": "QNB Finansbank",
+        "code": "QNBFB.IS",
+        "country": "Turkey",
+        "rank": 82
+    },
+    {
+        "name": "T\u00fcrkiye Petrol Rafinerileri",
+        "code": "TUPRS.IS",
+        "country": "Turkey",
+        "rank": 83
+    },
+    {
+        "name": "Aselsan",
+        "code": "ASELS.IS",
+        "country": "Turkey",
+        "rank": 84
+    },
+    {
+        "name": "Erdemir",
+        "code": "EREGL.IS",
+        "country": "Turkey",
+        "rank": 85
+    },
+    {
+        "name": "\u015ei\u015fecam",
+        "code": "SISE.IS",
+        "country": "Turkey",
+        "rank": 86
+    },
+    {
+        "name": "T\u00fcrkiye Is Bankasi",
+        "code": "ISCTR.IS",
+        "country": "Turkey",
+        "rank": 87
+    },
+    {
+        "name": "GarantiBank",
+        "code": "GARAN.IS",
+        "country": "Turkey",
+        "rank": 88
+    },
+    {
+        "name": "Akbank",
+        "code": "AKBNK.IS",
+        "country": "Turkey",
+        "rank": 89
+    },
+    {
+        "name": "Yap\u0131 Kredi",
+        "code": "YKBNK.IS",
+        "country": "Turkey",
+        "rank": 90
+    },
+    {
+        "name": "\u0130sdemir",
+        "code": "ISDMR.IS",
+        "country": "Turkey",
+        "rank": 91
+    },
+    {
+        "name": "Hekta\u015f",
+        "code": "HEKTS.IS",
+        "country": "Turkey",
+        "rank": 92
+    },
+    {
+        "name": "Sabanc\u0131 Holding",
+        "code": "SAHOL.IS",
+        "country": "Turkey",
+        "rank": 93
+    },
+    {
+        "name": "T\u00fcrk Telekom",
+        "code": "TTKOM.IS",
+        "country": "Turkey",
+        "rank": 94
+    },
+    {
+        "name": "G\u00dcBRETA\u015e",
+        "code": "GUBRF.IS",
+        "country": "Turkey",
+        "rank": 95
+    },
+    {
+        "name": "Koza Gold",
+        "code": "KOZAL.IS",
+        "country": "Turkey",
+        "rank": 96
+    },
+    {
+        "name": "Vak\u0131fBank",
+        "code": "VAKBN.IS",
+        "country": "Turkey",
+        "rank": 97
+    },
+    {
+        "name": "Tofa\u015f T\u00fcrk Otomobil Fabrikas\u0131",
+        "code": "TOASO.IS",
+        "country": "Turkey",
+        "rank": 98
+    },
+    {
+        "name": "B\u0130M Birle\u015fik Ma\u011fazalar",
+        "code": "BIMAS.IS",
+        "country": "Turkey",
+        "rank": 99
+    },
+    {
+        "name": "Turkcell",
+        "code": "TKC",
+        "country": "Turkey",
+        "rank": 100
+    },
+    {
+        "name": "Ar\u00e7elik",
+        "code": "ARCLK.IS",
+        "country": "Turkey",
+        "rank": 101
+    },
+    {
+        "name": "Halkbank",
+        "code": "HALKB.IS",
+        "country": "Turkey",
+        "rank": 102
+    },
+    {
+        "name": "Aksa Energy",
+        "code": "AKSEN.IS",
+        "country": "Turkey",
+        "rank": 103
+    },
+    {
+        "name": "Coca-Cola \u0130\u00e7ecek",
+        "code": "CCOLA.IS",
+        "country": "Turkey",
+        "rank": 104
+    },
+    {
+        "name": "Pegasus Airlines",
+        "code": "PGSUS.IS",
+        "country": "Turkey",
+        "rank": 105
+    },
+    {
+        "name": "Enerjisa Enerji",
+        "code": "ENJSA.IS",
+        "country": "Turkey",
+        "rank": 106
+    },
+    {
+        "name": "Efes Beverage Group",
+        "code": "AEFES.IS",
+        "country": "Turkey",
+        "rank": 107
+    },
+    {
+        "name": "T\u00fcrkiye Kalk\u0131nma",
+        "code": "KLNMA.IS",
+        "country": "Turkey",
+        "rank": 108
+    },
+    {
+        "name": "TAV Airports Holding",
+        "code": "TAVHL.IS",
+        "country": "Turkey",
+        "rank": 109
+    },
+    {
+        "name": "OYAK \u00c7imento",
+        "code": "OYAKC.IS",
+        "country": "Turkey",
+        "rank": 110
+    },
+    {
+        "name": "QNB Finansleasing",
+        "code": "QNBFL.IS",
+        "country": "Turkey",
+        "rank": 111
+    },
+    {
+        "name": "\u0130\u015fbir Holding",
+        "code": "ISBIR.IS",
+        "country": "Turkey",
+        "rank": 112
+    },
+    {
+        "name": "Cimbeton",
+        "code": "CMBTN.IS",
+        "country": "Turkey",
+        "rank": 113
+    },
+    {
+        "name": "S\u00f6ktas Tekstil",
+        "code": "SKTAS.IS",
+        "country": "Turkey",
+        "rank": 114
+    },
+    {
+        "name": "Sasa Polyester",
+        "code": "SASA.IS",
+        "country": "Turkey",
+        "rank": 115
+    },
+    {
+        "name": "Ko\u00e7 Holding",
+        "code": "KCHOL.IS",
+        "country": "Turkey",
+        "rank": 116
+    },
+    {
+        "name": "ENKA",
+        "code": "ENKAI.IS",
+        "country": "Turkey",
+        "rank": 117
+    },
+    {
+        "name": "Turkish Airlines",
+        "code": "THYAO.IS",
+        "country": "Turkey",
+        "rank": 118
+    },
+    {
+        "name": "Ford Otosan",
+        "code": "FROTO.IS",
+        "country": "Turkey",
+        "rank": 119
+    },
+    {
+        "name": "QNB Finansbank",
+        "code": "QNBFB.IS",
+        "country": "Turkey",
+        "rank": 120
+    },
+    {
+        "name": "T\u00fcrkiye Petrol Rafinerileri",
+        "code": "TUPRS.IS",
+        "country": "Turkey",
+        "rank": 121
+    },
+    {
+        "name": "Aselsan",
+        "code": "ASELS.IS",
+        "country": "Turkey",
+        "rank": 122
+    },
+    {
+        "name": "Erdemir",
+        "code": "EREGL.IS",
+        "country": "Turkey",
+        "rank": 123
+    },
+    {
+        "name": "\u015ei\u015fecam",
+        "code": "SISE.IS",
+        "country": "Turkey",
+        "rank": 124
+    },
+    {
+        "name": "T\u00fcrkiye Is Bankasi",
+        "code": "ISCTR.IS",
+        "country": "Turkey",
+        "rank": 125
+    },
+    {
+        "name": "GarantiBank",
+        "code": "GARAN.IS",
+        "country": "Turkey",
+        "rank": 126
+    },
+    {
+        "name": "Akbank",
+        "code": "AKBNK.IS",
+        "country": "Turkey",
+        "rank": 127
+    },
+    {
+        "name": "Yap\u0131 Kredi",
+        "code": "YKBNK.IS",
+        "country": "Turkey",
+        "rank": 128
+    },
+    {
+        "name": "\u0130sdemir",
+        "code": "ISDMR.IS",
+        "country": "Turkey",
+        "rank": 129
+    },
+    {
+        "name": "Hekta\u015f",
+        "code": "HEKTS.IS",
+        "country": "Turkey",
+        "rank": 130
+    },
+    {
+        "name": "Sabanc\u0131 Holding",
+        "code": "SAHOL.IS",
+        "country": "Turkey",
+        "rank": 131
+    },
+    {
+        "name": "T\u00fcrk Telekom",
+        "code": "TTKOM.IS",
+        "country": "Turkey",
+        "rank": 132
+    },
+    {
+        "name": "G\u00dcBRETA\u015e",
+        "code": "GUBRF.IS",
+        "country": "Turkey",
+        "rank": 133
+    },
+    {
+        "name": "Koza Gold",
+        "code": "KOZAL.IS",
+        "country": "Turkey",
+        "rank": 134
+    },
+    {
+        "name": "Vak\u0131fBank",
+        "code": "VAKBN.IS",
+        "country": "Turkey",
+        "rank": 135
+    },
+    {
+        "name": "Tofa\u015f T\u00fcrk Otomobil Fabrikas\u0131",
+        "code": "TOASO.IS",
+        "country": "Turkey",
+        "rank": 136
+    },
+    {
+        "name": "B\u0130M Birle\u015fik Ma\u011fazalar",
+        "code": "BIMAS.IS",
+        "country": "Turkey",
+        "rank": 137
+    },
+    {
+        "name": "Turkcell",
+        "code": "TKC",
+        "country": "Turkey",
+        "rank": 138
+    },
+    {
+        "name": "Ar\u00e7elik",
+        "code": "ARCLK.IS",
+        "country": "Turkey",
+        "rank": 139
+    },
+    {
+        "name": "Halkbank",
+        "code": "HALKB.IS",
+        "country": "Turkey",
+        "rank": 140
+    },
+    {
+        "name": "Aksa Energy",
+        "code": "AKSEN.IS",
+        "country": "Turkey",
+        "rank": 141
+    },
+    {
+        "name": "Coca-Cola \u0130\u00e7ecek",
+        "code": "CCOLA.IS",
+        "country": "Turkey",
+        "rank": 142
+    },
+    {
+        "name": "Pegasus Airlines",
+        "code": "PGSUS.IS",
+        "country": "Turkey",
+        "rank": 143
+    },
+    {
+        "name": "Enerjisa Enerji",
+        "code": "ENJSA.IS",
+        "country": "Turkey",
+        "rank": 144
+    },
+    {
+        "name": "Efes Beverage Group",
+        "code": "AEFES.IS",
+        "country": "Turkey",
+        "rank": 145
+    },
+    {
+        "name": "T\u00fcrkiye Kalk\u0131nma",
+        "code": "KLNMA.IS",
+        "country": "Turkey",
+        "rank": 146
+    },
+    {
+        "name": "TAV Airports Holding",
+        "code": "TAVHL.IS",
+        "country": "Turkey",
+        "rank": 147
+    },
+    {
+        "name": "OYAK \u00c7imento",
+        "code": "OYAKC.IS",
+        "country": "Turkey",
+        "rank": 148
+    },
+    {
+        "name": "QNB Finansleasing",
+        "code": "QNBFL.IS",
+        "country": "Turkey",
+        "rank": 149
+    },
+    {
+        "name": "\u0130\u015fbir Holding",
+        "code": "ISBIR.IS",
+        "country": "Turkey",
+        "rank": 150
+    },
+    {
+        "name": "Cimbeton",
+        "code": "CMBTN.IS",
+        "country": "Turkey",
+        "rank": 151
+    },
+    {
+        "name": "S\u00f6ktas Tekstil",
+        "code": "SKTAS.IS",
+        "country": "Turkey",
+        "rank": 152
+    },
+    {
+        "name": "Sasa Polyester",
+        "code": "SASA.IS",
+        "country": "Turkey",
+        "rank": 153
+    },
+    {
+        "name": "Ko\u00e7 Holding",
+        "code": "KCHOL.IS",
+        "country": "Turkey",
+        "rank": 154
+    },
+    {
+        "name": "ENKA",
+        "code": "ENKAI.IS",
+        "country": "Turkey",
+        "rank": 155
+    },
+    {
+        "name": "Turkish Airlines",
+        "code": "THYAO.IS",
+        "country": "Turkey",
+        "rank": 156
+    },
+    {
+        "name": "Ford Otosan",
+        "code": "FROTO.IS",
+        "country": "Turkey",
+        "rank": 157
+    },
+    {
+        "name": "QNB Finansbank",
+        "code": "QNBFB.IS",
+        "country": "Turkey",
+        "rank": 158
+    },
+    {
+        "name": "T\u00fcrkiye Petrol Rafinerileri",
+        "code": "TUPRS.IS",
+        "country": "Turkey",
+        "rank": 159
+    },
+    {
+        "name": "Aselsan",
+        "code": "ASELS.IS",
+        "country": "Turkey",
+        "rank": 160
+    },
+    {
+        "name": "Erdemir",
+        "code": "EREGL.IS",
+        "country": "Turkey",
+        "rank": 161
+    },
+    {
+        "name": "\u015ei\u015fecam",
+        "code": "SISE.IS",
+        "country": "Turkey",
+        "rank": 162
+    },
+    {
+        "name": "T\u00fcrkiye Is Bankasi",
+        "code": "ISCTR.IS",
+        "country": "Turkey",
+        "rank": 163
+    },
+    {
+        "name": "GarantiBank",
+        "code": "GARAN.IS",
+        "country": "Turkey",
+        "rank": 164
+    },
+    {
+        "name": "Akbank",
+        "code": "AKBNK.IS",
+        "country": "Turkey",
+        "rank": 165
+    },
+    {
+        "name": "Yap\u0131 Kredi",
+        "code": "YKBNK.IS",
+        "country": "Turkey",
+        "rank": 166
+    },
+    {
+        "name": "\u0130sdemir",
+        "code": "ISDMR.IS",
+        "country": "Turkey",
+        "rank": 167
+    },
+    {
+        "name": "Hekta\u015f",
+        "code": "HEKTS.IS",
+        "country": "Turkey",
+        "rank": 168
+    },
+    {
+        "name": "Sabanc\u0131 Holding",
+        "code": "SAHOL.IS",
+        "country": "Turkey",
+        "rank": 169
+    },
+    {
+        "name": "T\u00fcrk Telekom",
+        "code": "TTKOM.IS",
+        "country": "Turkey",
+        "rank": 170
+    },
+    {
+        "name": "G\u00dcBRETA\u015e",
+        "code": "GUBRF.IS",
+        "country": "Turkey",
+        "rank": 171
+    },
+    {
+        "name": "Koza Gold",
+        "code": "KOZAL.IS",
+        "country": "Turkey",
+        "rank": 172
+    },
+    {
+        "name": "Vak\u0131fBank",
+        "code": "VAKBN.IS",
+        "country": "Turkey",
+        "rank": 173
+    },
+    {
+        "name": "Tofa\u015f T\u00fcrk Otomobil Fabrikas\u0131",
+        "code": "TOASO.IS",
+        "country": "Turkey",
+        "rank": 174
+    },
+    {
+        "name": "B\u0130M Birle\u015fik Ma\u011fazalar",
+        "code": "BIMAS.IS",
+        "country": "Turkey",
+        "rank": 175
+    },
+    {
+        "name": "Turkcell",
+        "code": "TKC",
+        "country": "Turkey",
+        "rank": 176
+    },
+    {
+        "name": "Ar\u00e7elik",
+        "code": "ARCLK.IS",
+        "country": "Turkey",
+        "rank": 177
+    },
+    {
+        "name": "Halkbank",
+        "code": "HALKB.IS",
+        "country": "Turkey",
+        "rank": 178
+    },
+    {
+        "name": "Aksa Energy",
+        "code": "AKSEN.IS",
+        "country": "Turkey",
+        "rank": 179
+    },
+    {
+        "name": "Coca-Cola \u0130\u00e7ecek",
+        "code": "CCOLA.IS",
+        "country": "Turkey",
+        "rank": 180
+    },
+    {
+        "name": "Pegasus Airlines",
+        "code": "PGSUS.IS",
+        "country": "Turkey",
+        "rank": 181
+    },
+    {
+        "name": "Enerjisa Enerji",
+        "code": "ENJSA.IS",
+        "country": "Turkey",
+        "rank": 182
+    },
+    {
+        "name": "Efes Beverage Group",
+        "code": "AEFES.IS",
+        "country": "Turkey",
+        "rank": 183
+    },
+    {
+        "name": "T\u00fcrkiye Kalk\u0131nma",
+        "code": "KLNMA.IS",
+        "country": "Turkey",
+        "rank": 184
+    },
+    {
+        "name": "TAV Airports Holding",
+        "code": "TAVHL.IS",
+        "country": "Turkey",
+        "rank": 185
+    },
+    {
+        "name": "OYAK \u00c7imento",
+        "code": "OYAKC.IS",
+        "country": "Turkey",
+        "rank": 186
+    },
+    {
+        "name": "QNB Finansleasing",
+        "code": "QNBFL.IS",
+        "country": "Turkey",
+        "rank": 187
+    },
+    {
+        "name": "\u0130\u015fbir Holding",
+        "code": "ISBIR.IS",
+        "country": "Turkey",
+        "rank": 188
+    },
+    {
+        "name": "Cimbeton",
+        "code": "CMBTN.IS",
+        "country": "Turkey",
+        "rank": 189
+    },
+    {
+        "name": "S\u00f6ktas Tekstil",
+        "code": "SKTAS.IS",
+        "country": "Turkey",
+        "rank": 190
+    },
+    {
+        "name": "Sasa Polyester",
+        "code": "SASA.IS",
+        "country": "Turkey",
+        "rank": 191
+    },
+    {
+        "name": "Ko\u00e7 Holding",
+        "code": "KCHOL.IS",
+        "country": "Turkey",
+        "rank": 192
+    },
+    {
+        "name": "ENKA",
+        "code": "ENKAI.IS",
+        "country": "Turkey",
+        "rank": 193
+    },
+    {
+        "name": "Turkish Airlines",
+        "code": "THYAO.IS",
+        "country": "Turkey",
+        "rank": 194
+    },
+    {
+        "name": "Ford Otosan",
+        "code": "FROTO.IS",
+        "country": "Turkey",
+        "rank": 195
+    },
+    {
+        "name": "QNB Finansbank",
+        "code": "QNBFB.IS",
+        "country": "Turkey",
+        "rank": 196
+    },
+    {
+        "name": "T\u00fcrkiye Petrol Rafinerileri",
+        "code": "TUPRS.IS",
+        "country": "Turkey",
+        "rank": 197
+    },
+    {
+        "name": "Aselsan",
+        "code": "ASELS.IS",
+        "country": "Turkey",
+        "rank": 198
+    },
+    {
+        "name": "Erdemir",
+        "code": "EREGL.IS",
+        "country": "Turkey",
+        "rank": 199
+    },
+    {
+        "name": "\u015ei\u015fecam",
+        "code": "SISE.IS",
+        "country": "Turkey",
+        "rank": 200
+    },
+    {
+        "name": "T\u00fcrkiye Is Bankasi",
+        "code": "ISCTR.IS",
+        "country": "Turkey",
+        "rank": 201
+    },
+    {
+        "name": "GarantiBank",
+        "code": "GARAN.IS",
+        "country": "Turkey",
+        "rank": 202
+    },
+    {
+        "name": "Akbank",
+        "code": "AKBNK.IS",
+        "country": "Turkey",
+        "rank": 203
+    },
+    {
+        "name": "Yap\u0131 Kredi",
+        "code": "YKBNK.IS",
+        "country": "Turkey",
+        "rank": 204
+    },
+    {
+        "name": "\u0130sdemir",
+        "code": "ISDMR.IS",
+        "country": "Turkey",
+        "rank": 205
+    },
+    {
+        "name": "Hekta\u015f",
+        "code": "HEKTS.IS",
+        "country": "Turkey",
+        "rank": 206
+    },
+    {
+        "name": "Sabanc\u0131 Holding",
+        "code": "SAHOL.IS",
+        "country": "Turkey",
+        "rank": 207
+    },
+    {
+        "name": "T\u00fcrk Telekom",
+        "code": "TTKOM.IS",
+        "country": "Turkey",
+        "rank": 208
+    },
+    {
+        "name": "G\u00dcBRETA\u015e",
+        "code": "GUBRF.IS",
+        "country": "Turkey",
+        "rank": 209
+    },
+    {
+        "name": "Koza Gold",
+        "code": "KOZAL.IS",
+        "country": "Turkey",
+        "rank": 210
+    },
+    {
+        "name": "Vak\u0131fBank",
+        "code": "VAKBN.IS",
+        "country": "Turkey",
+        "rank": 211
+    },
+    {
+        "name": "Tofa\u015f T\u00fcrk Otomobil Fabrikas\u0131",
+        "code": "TOASO.IS",
+        "country": "Turkey",
+        "rank": 212
+    },
+    {
+        "name": "B\u0130M Birle\u015fik Ma\u011fazalar",
+        "code": "BIMAS.IS",
+        "country": "Turkey",
+        "rank": 213
+    },
+    {
+        "name": "Turkcell",
+        "code": "TKC",
+        "country": "Turkey",
+        "rank": 214
+    },
+    {
+        "name": "Ar\u00e7elik",
+        "code": "ARCLK.IS",
+        "country": "Turkey",
+        "rank": 215
+    },
+    {
+        "name": "Halkbank",
+        "code": "HALKB.IS",
+        "country": "Turkey",
+        "rank": 216
+    },
+    {
+        "name": "Aksa Energy",
+        "code": "AKSEN.IS",
+        "country": "Turkey",
+        "rank": 217
+    },
+    {
+        "name": "Coca-Cola \u0130\u00e7ecek",
+        "code": "CCOLA.IS",
+        "country": "Turkey",
+        "rank": 218
+    },
+    {
+        "name": "Pegasus Airlines",
+        "code": "PGSUS.IS",
+        "country": "Turkey",
+        "rank": 219
+    },
+    {
+        "name": "Enerjisa Enerji",
+        "code": "ENJSA.IS",
+        "country": "Turkey",
+        "rank": 220
+    },
+    {
+        "name": "Efes Beverage Group",
+        "code": "AEFES.IS",
+        "country": "Turkey",
+        "rank": 221
+    },
+    {
+        "name": "T\u00fcrkiye Kalk\u0131nma",
+        "code": "KLNMA.IS",
+        "country": "Turkey",
+        "rank": 222
+    },
+    {
+        "name": "TAV Airports Holding",
+        "code": "TAVHL.IS",
+        "country": "Turkey",
+        "rank": 223
+    },
+    {
+        "name": "OYAK \u00c7imento",
+        "code": "OYAKC.IS",
+        "country": "Turkey",
+        "rank": 224
+    },
+    {
+        "name": "QNB Finansleasing",
+        "code": "QNBFL.IS",
+        "country": "Turkey",
+        "rank": 225
+    },
+    {
+        "name": "\u0130\u015fbir Holding",
+        "code": "ISBIR.IS",
+        "country": "Turkey",
+        "rank": 226
+    },
+    {
+        "name": "Cimbeton",
+        "code": "CMBTN.IS",
+        "country": "Turkey",
+        "rank": 227
+    },
+    {
+        "name": "S\u00f6ktas Tekstil",
+        "code": "SKTAS.IS",
+        "country": "Turkey",
+        "rank": 228
+    },
+    {
+        "name": "Sasa Polyester",
+        "code": "SASA.IS",
+        "country": "Turkey",
+        "rank": 229
+    },
+    {
+        "name": "Ko\u00e7 Holding",
+        "code": "KCHOL.IS",
+        "country": "Turkey",
+        "rank": 230
+    },
+    {
+        "name": "ENKA",
+        "code": "ENKAI.IS",
+        "country": "Turkey",
+        "rank": 231
+    },
+    {
+        "name": "Turkish Airlines",
+        "code": "THYAO.IS",
+        "country": "Turkey",
+        "rank": 232
+    },
+    {
+        "name": "Ford Otosan",
+        "code": "FROTO.IS",
+        "country": "Turkey",
+        "rank": 233
+    },
+    {
+        "name": "QNB Finansbank",
+        "code": "QNBFB.IS",
+        "country": "Turkey",
+        "rank": 234
+    },
+    {
+        "name": "T\u00fcrkiye Petrol Rafinerileri",
+        "code": "TUPRS.IS",
+        "country": "Turkey",
+        "rank": 235
+    },
+    {
+        "name": "Aselsan",
+        "code": "ASELS.IS",
+        "country": "Turkey",
+        "rank": 236
+    },
+    {
+        "name": "Erdemir",
+        "code": "EREGL.IS",
+        "country": "Turkey",
+        "rank": 237
+    },
+    {
+        "name": "\u015ei\u015fecam",
+        "code": "SISE.IS",
+        "country": "Turkey",
+        "rank": 238
+    },
+    {
+        "name": "T\u00fcrkiye Is Bankasi",
+        "code": "ISCTR.IS",
+        "country": "Turkey",
+        "rank": 239
+    },
+    {
+        "name": "GarantiBank",
+        "code": "GARAN.IS",
+        "country": "Turkey",
+        "rank": 240
+    },
+    {
+        "name": "Akbank",
+        "code": "AKBNK.IS",
+        "country": "Turkey",
+        "rank": 241
+    },
+    {
+        "name": "Yap\u0131 Kredi",
+        "code": "YKBNK.IS",
+        "country": "Turkey",
+        "rank": 242
+    },
+    {
+        "name": "\u0130sdemir",
+        "code": "ISDMR.IS",
+        "country": "Turkey",
+        "rank": 243
+    },
+    {
+        "name": "Hekta\u015f",
+        "code": "HEKTS.IS",
+        "country": "Turkey",
+        "rank": 244
+    },
+    {
+        "name": "Sabanc\u0131 Holding",
+        "code": "SAHOL.IS",
+        "country": "Turkey",
+        "rank": 245
+    },
+    {
+        "name": "T\u00fcrk Telekom",
+        "code": "TTKOM.IS",
+        "country": "Turkey",
+        "rank": 246
+    },
+    {
+        "name": "G\u00dcBRETA\u015e",
+        "code": "GUBRF.IS",
+        "country": "Turkey",
+        "rank": 247
+    },
+    {
+        "name": "Koza Gold",
+        "code": "KOZAL.IS",
+        "country": "Turkey",
+        "rank": 248
+    },
+    {
+        "name": "Vak\u0131fBank",
+        "code": "VAKBN.IS",
+        "country": "Turkey",
+        "rank": 249
+    },
+    {
+        "name": "Tofa\u015f T\u00fcrk Otomobil Fabrikas\u0131",
+        "code": "TOASO.IS",
+        "country": "Turkey",
+        "rank": 250
+    },
+    {
+        "name": "B\u0130M Birle\u015fik Ma\u011fazalar",
+        "code": "BIMAS.IS",
+        "country": "Turkey",
+        "rank": 251
+    },
+    {
+        "name": "Turkcell",
+        "code": "TKC",
+        "country": "Turkey",
+        "rank": 252
+    },
+    {
+        "name": "Ar\u00e7elik",
+        "code": "ARCLK.IS",
+        "country": "Turkey",
+        "rank": 253
+    },
+    {
+        "name": "Halkbank",
+        "code": "HALKB.IS",
+        "country": "Turkey",
+        "rank": 254
+    },
+    {
+        "name": "Aksa Energy",
+        "code": "AKSEN.IS",
+        "country": "Turkey",
+        "rank": 255
+    },
+    {
+        "name": "Coca-Cola \u0130\u00e7ecek",
+        "code": "CCOLA.IS",
+        "country": "Turkey",
+        "rank": 256
+    },
+    {
+        "name": "Pegasus Airlines",
+        "code": "PGSUS.IS",
+        "country": "Turkey",
+        "rank": 257
+    },
+    {
+        "name": "Enerjisa Enerji",
+        "code": "ENJSA.IS",
+        "country": "Turkey",
+        "rank": 258
+    },
+    {
+        "name": "Efes Beverage Group",
+        "code": "AEFES.IS",
+        "country": "Turkey",
+        "rank": 259
+    },
+    {
+        "name": "T\u00fcrkiye Kalk\u0131nma",
+        "code": "KLNMA.IS",
+        "country": "Turkey",
+        "rank": 260
+    },
+    {
+        "name": "TAV Airports Holding",
+        "code": "TAVHL.IS",
+        "country": "Turkey",
+        "rank": 261
+    },
+    {
+        "name": "OYAK \u00c7imento",
+        "code": "OYAKC.IS",
+        "country": "Turkey",
+        "rank": 262
+    },
+    {
+        "name": "QNB Finansleasing",
+        "code": "QNBFL.IS",
+        "country": "Turkey",
+        "rank": 263
+    },
+    {
+        "name": "\u0130\u015fbir Holding",
+        "code": "ISBIR.IS",
+        "country": "Turkey",
+        "rank": 264
+    },
+    {
+        "name": "Cimbeton",
+        "code": "CMBTN.IS",
+        "country": "Turkey",
+        "rank": 265
+    },
+    {
+        "name": "S\u00f6ktas Tekstil",
+        "code": "SKTAS.IS",
+        "country": "Turkey",
+        "rank": 266
+    },
+    {
+        "name": "Sasa Polyester",
+        "code": "SASA.IS",
+        "country": "Turkey",
+        "rank": 267
+    },
+    {
+        "name": "Ko\u00e7 Holding",
+        "code": "KCHOL.IS",
+        "country": "Turkey",
+        "rank": 268
+    },
+    {
+        "name": "ENKA",
+        "code": "ENKAI.IS",
+        "country": "Turkey",
+        "rank": 269
+    },
+    {
+        "name": "Turkish Airlines",
+        "code": "THYAO.IS",
+        "country": "Turkey",
+        "rank": 270
+    },
+    {
+        "name": "Ford Otosan",
+        "code": "FROTO.IS",
+        "country": "Turkey",
+        "rank": 271
+    },
+    {
+        "name": "QNB Finansbank",
+        "code": "QNBFB.IS",
+        "country": "Turkey",
+        "rank": 272
+    },
+    {
+        "name": "T\u00fcrkiye Petrol Rafinerileri",
+        "code": "TUPRS.IS",
+        "country": "Turkey",
+        "rank": 273
+    },
+    {
+        "name": "Aselsan",
+        "code": "ASELS.IS",
+        "country": "Turkey",
+        "rank": 274
+    },
+    {
+        "name": "Erdemir",
+        "code": "EREGL.IS",
+        "country": "Turkey",
+        "rank": 275
+    },
+    {
+        "name": "\u015ei\u015fecam",
+        "code": "SISE.IS",
+        "country": "Turkey",
+        "rank": 276
+    },
+    {
+        "name": "T\u00fcrkiye Is Bankasi",
+        "code": "ISCTR.IS",
+        "country": "Turkey",
+        "rank": 277
+    },
+    {
+        "name": "GarantiBank",
+        "code": "GARAN.IS",
+        "country": "Turkey",
+        "rank": 278
+    },
+    {
+        "name": "Akbank",
+        "code": "AKBNK.IS",
+        "country": "Turkey",
+        "rank": 279
+    },
+    {
+        "name": "Yap\u0131 Kredi",
+        "code": "YKBNK.IS",
+        "country": "Turkey",
+        "rank": 280
+    },
+    {
+        "name": "\u0130sdemir",
+        "code": "ISDMR.IS",
+        "country": "Turkey",
+        "rank": 281
+    },
+    {
+        "name": "Hekta\u015f",
+        "code": "HEKTS.IS",
+        "country": "Turkey",
+        "rank": 282
+    },
+    {
+        "name": "Sabanc\u0131 Holding",
+        "code": "SAHOL.IS",
+        "country": "Turkey",
+        "rank": 283
+    },
+    {
+        "name": "T\u00fcrk Telekom",
+        "code": "TTKOM.IS",
+        "country": "Turkey",
+        "rank": 284
+    },
+    {
+        "name": "G\u00dcBRETA\u015e",
+        "code": "GUBRF.IS",
+        "country": "Turkey",
+        "rank": 285
+    },
+    {
+        "name": "Koza Gold",
+        "code": "KOZAL.IS",
+        "country": "Turkey",
+        "rank": 286
+    },
+    {
+        "name": "Vak\u0131fBank",
+        "code": "VAKBN.IS",
+        "country": "Turkey",
+        "rank": 287
+    },
+    {
+        "name": "Tofa\u015f T\u00fcrk Otomobil Fabrikas\u0131",
+        "code": "TOASO.IS",
+        "country": "Turkey",
+        "rank": 288
+    },
+    {
+        "name": "B\u0130M Birle\u015fik Ma\u011fazalar",
+        "code": "BIMAS.IS",
+        "country": "Turkey",
+        "rank": 289
+    },
+    {
+        "name": "Turkcell",
+        "code": "TKC",
+        "country": "Turkey",
+        "rank": 290
+    },
+    {
+        "name": "Ar\u00e7elik",
+        "code": "ARCLK.IS",
+        "country": "Turkey",
+        "rank": 291
+    },
+    {
+        "name": "Halkbank",
+        "code": "HALKB.IS",
+        "country": "Turkey",
+        "rank": 292
+    },
+    {
+        "name": "Aksa Energy",
+        "code": "AKSEN.IS",
+        "country": "Turkey",
+        "rank": 293
+    },
+    {
+        "name": "Coca-Cola \u0130\u00e7ecek",
+        "code": "CCOLA.IS",
+        "country": "Turkey",
+        "rank": 294
+    },
+    {
+        "name": "Pegasus Airlines",
+        "code": "PGSUS.IS",
+        "country": "Turkey",
+        "rank": 295
+    },
+    {
+        "name": "Enerjisa Enerji",
+        "code": "ENJSA.IS",
+        "country": "Turkey",
+        "rank": 296
+    },
+    {
+        "name": "Efes Beverage Group",
+        "code": "AEFES.IS",
+        "country": "Turkey",
+        "rank": 297
+    },
+    {
+        "name": "T\u00fcrkiye Kalk\u0131nma",
+        "code": "KLNMA.IS",
+        "country": "Turkey",
+        "rank": 298
+    },
+    {
+        "name": "TAV Airports Holding",
+        "code": "TAVHL.IS",
+        "country": "Turkey",
+        "rank": 299
+    },
+    {
+        "name": "OYAK \u00c7imento",
+        "code": "OYAKC.IS",
+        "country": "Turkey",
+        "rank": 300
+    },
+    {
+        "name": "QNB Finansleasing",
+        "code": "QNBFL.IS",
+        "country": "Turkey",
+        "rank": 301
+    },
+    {
+        "name": "\u0130\u015fbir Holding",
+        "code": "ISBIR.IS",
+        "country": "Turkey",
+        "rank": 302
+    },
+    {
+        "name": "Cimbeton",
+        "code": "CMBTN.IS",
+        "country": "Turkey",
+        "rank": 303
+    },
+    {
+        "name": "S\u00f6ktas Tekstil",
+        "code": "SKTAS.IS",
+        "country": "Turkey",
+        "rank": 304
+    },
+    {
+        "name": "Sasa Polyester",
+        "code": "SASA.IS",
+        "country": "Turkey",
+        "rank": 305
+    },
+    {
+        "name": "Ko\u00e7 Holding",
+        "code": "KCHOL.IS",
+        "country": "Turkey",
+        "rank": 306
+    },
+    {
+        "name": "ENKA",
+        "code": "ENKAI.IS",
+        "country": "Turkey",
+        "rank": 307
+    },
+    {
+        "name": "Turkish Airlines",
+        "code": "THYAO.IS",
+        "country": "Turkey",
+        "rank": 308
+    },
+    {
+        "name": "Ford Otosan",
+        "code": "FROTO.IS",
+        "country": "Turkey",
+        "rank": 309
+    },
+    {
+        "name": "QNB Finansbank",
+        "code": "QNBFB.IS",
+        "country": "Turkey",
+        "rank": 310
+    },
+    {
+        "name": "T\u00fcrkiye Petrol Rafinerileri",
+        "code": "TUPRS.IS",
+        "country": "Turkey",
+        "rank": 311
+    },
+    {
+        "name": "Aselsan",
+        "code": "ASELS.IS",
+        "country": "Turkey",
+        "rank": 312
+    },
+    {
+        "name": "Erdemir",
+        "code": "EREGL.IS",
+        "country": "Turkey",
+        "rank": 313
+    },
+    {
+        "name": "\u015ei\u015fecam",
+        "code": "SISE.IS",
+        "country": "Turkey",
+        "rank": 314
+    },
+    {
+        "name": "T\u00fcrkiye Is Bankasi",
+        "code": "ISCTR.IS",
+        "country": "Turkey",
+        "rank": 315
+    },
+    {
+        "name": "GarantiBank",
+        "code": "GARAN.IS",
+        "country": "Turkey",
+        "rank": 316
+    },
+    {
+        "name": "Akbank",
+        "code": "AKBNK.IS",
+        "country": "Turkey",
+        "rank": 317
+    },
+    {
+        "name": "Yap\u0131 Kredi",
+        "code": "YKBNK.IS",
+        "country": "Turkey",
+        "rank": 318
+    },
+    {
+        "name": "\u0130sdemir",
+        "code": "ISDMR.IS",
+        "country": "Turkey",
+        "rank": 319
+    },
+    {
+        "name": "Hekta\u015f",
+        "code": "HEKTS.IS",
+        "country": "Turkey",
+        "rank": 320
+    },
+    {
+        "name": "Sabanc\u0131 Holding",
+        "code": "SAHOL.IS",
+        "country": "Turkey",
+        "rank": 321
+    },
+    {
+        "name": "T\u00fcrk Telekom",
+        "code": "TTKOM.IS",
+        "country": "Turkey",
+        "rank": 322
+    },
+    {
+        "name": "G\u00dcBRETA\u015e",
+        "code": "GUBRF.IS",
+        "country": "Turkey",
+        "rank": 323
+    },
+    {
+        "name": "Koza Gold",
+        "code": "KOZAL.IS",
+        "country": "Turkey",
+        "rank": 324
+    },
+    {
+        "name": "Vak\u0131fBank",
+        "code": "VAKBN.IS",
+        "country": "Turkey",
+        "rank": 325
+    },
+    {
+        "name": "Tofa\u015f T\u00fcrk Otomobil Fabrikas\u0131",
+        "code": "TOASO.IS",
+        "country": "Turkey",
+        "rank": 326
+    },
+    {
+        "name": "B\u0130M Birle\u015fik Ma\u011fazalar",
+        "code": "BIMAS.IS",
+        "country": "Turkey",
+        "rank": 327
+    },
+    {
+        "name": "Turkcell",
+        "code": "TKC",
+        "country": "Turkey",
+        "rank": 328
+    },
+    {
+        "name": "Ar\u00e7elik",
+        "code": "ARCLK.IS",
+        "country": "Turkey",
+        "rank": 329
+    },
+    {
+        "name": "Halkbank",
+        "code": "HALKB.IS",
+        "country": "Turkey",
+        "rank": 330
+    },
+    {
+        "name": "Aksa Energy",
+        "code": "AKSEN.IS",
+        "country": "Turkey",
+        "rank": 331
+    },
+    {
+        "name": "Coca-Cola \u0130\u00e7ecek",
+        "code": "CCOLA.IS",
+        "country": "Turkey",
+        "rank": 332
+    },
+    {
+        "name": "Pegasus Airlines",
+        "code": "PGSUS.IS",
+        "country": "Turkey",
+        "rank": 333
+    },
+    {
+        "name": "Enerjisa Enerji",
+        "code": "ENJSA.IS",
+        "country": "Turkey",
+        "rank": 334
+    },
+    {
+        "name": "Efes Beverage Group",
+        "code": "AEFES.IS",
+        "country": "Turkey",
+        "rank": 335
+    },
+    {
+        "name": "T\u00fcrkiye Kalk\u0131nma",
+        "code": "KLNMA.IS",
+        "country": "Turkey",
+        "rank": 336
+    },
+    {
+        "name": "TAV Airports Holding",
+        "code": "TAVHL.IS",
+        "country": "Turkey",
+        "rank": 337
+    },
+    {
+        "name": "OYAK \u00c7imento",
+        "code": "OYAKC.IS",
+        "country": "Turkey",
+        "rank": 338
+    },
+    {
+        "name": "QNB Finansleasing",
+        "code": "QNBFL.IS",
+        "country": "Turkey",
+        "rank": 339
+    },
+    {
+        "name": "\u0130\u015fbir Holding",
+        "code": "ISBIR.IS",
+        "country": "Turkey",
+        "rank": 340
+    },
+    {
+        "name": "Cimbeton",
+        "code": "CMBTN.IS",
+        "country": "Turkey",
+        "rank": 341
+    },
+    {
+        "name": "S\u00f6ktas Tekstil",
+        "code": "SKTAS.IS",
+        "country": "Turkey",
+        "rank": 342
+    }
+]

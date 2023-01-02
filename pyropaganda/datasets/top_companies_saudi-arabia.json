@@ -1,0 +1,1784 @@
+[
+    {
+        "name": "Saudi Aramco",
+        "code": "2222.SR",
+        "country": "S. Arabia",
+        "rank": 1
+    },
+    {
+        "name": "Al Rajhi Bank",
+        "code": "1120.SR",
+        "country": "S. Arabia",
+        "rank": 2
+    },
+    {
+        "name": "SABIC",
+        "code": "2010.SR",
+        "country": "S. Arabia",
+        "rank": 3
+    },
+    {
+        "name": "The Saudi National Bank",
+        "code": "1180.SR",
+        "country": "S. Arabia",
+        "rank": 4
+    },
+    {
+        "name": "Saudi Telecom Company",
+        "code": "7010.SR",
+        "country": "S. Arabia",
+        "rank": 5
+    },
+    {
+        "name": "Maaden",
+        "code": "1211.SR",
+        "country": "S. Arabia",
+        "rank": 6
+    },
+    {
+        "name": "Saudi Electricity",
+        "code": "5110.SR",
+        "country": "S. Arabia",
+        "rank": 7
+    },
+    {
+        "name": "Riyad Bank",
+        "code": "1010.SR",
+        "country": "S. Arabia",
+        "rank": 8
+    },
+    {
+        "name": "The Saudi British Bank ",
+        "code": "1060.SR",
+        "country": "S. Arabia",
+        "rank": 9
+    },
+    {
+        "name": "Saudi Arabian Fertilizer Company",
+        "code": "2020.SR",
+        "country": "S. Arabia",
+        "rank": 10
+    },
+    {
+        "name": "Alinma Bank",
+        "code": "1150.SR",
+        "country": "S. Arabia",
+        "rank": 11
+    },
+    {
+        "name": "Almarai",
+        "code": "2280.SR",
+        "country": "S. Arabia",
+        "rank": 12
+    },
+    {
+        "name": "Arab National Bank",
+        "code": "1080.SR",
+        "country": "S. Arabia",
+        "rank": 13
+    },
+    {
+        "name": "Banque Saudi Fransi",
+        "code": "1050.SR",
+        "country": "S. Arabia",
+        "rank": 14
+    },
+    {
+        "name": "Bank Albilad",
+        "code": "1140.SR",
+        "country": "S. Arabia",
+        "rank": 15
+    },
+    {
+        "name": "Arabian Internet and Communications Services",
+        "code": "7202.SR",
+        "country": "S. Arabia",
+        "rank": 16
+    },
+    {
+        "name": "Kingdom Holding",
+        "code": "4280.SR",
+        "country": "S. Arabia",
+        "rank": 17
+    },
+    {
+        "name": "Elm Company",
+        "code": "7203.SR",
+        "country": "S. Arabia",
+        "rank": 18
+    },
+    {
+        "name": "Etihad Etisalat (Mobily)",
+        "code": "7020.SR",
+        "country": "S. Arabia",
+        "rank": 19
+    },
+    {
+        "name": "Saudi International Petrochemical Company (Sipchem)",
+        "code": "2310.SR",
+        "country": "S. Arabia",
+        "rank": 20
+    },
+    {
+        "name": "Yanbu National Petrochemical",
+        "code": "2290.SR",
+        "country": "S. Arabia",
+        "rank": 21
+    },
+    {
+        "name": "Saudi Kayan Petrochemical Company",
+        "code": "2350.SR",
+        "country": "S. Arabia",
+        "rank": 22
+    },
+    {
+        "name": "Jabal Omar Development",
+        "code": "4250.SR",
+        "country": "S. Arabia",
+        "rank": 23
+    },
+    {
+        "name": "Jarir",
+        "code": "4190.SR",
+        "country": "S. Arabia",
+        "rank": 24
+    },
+    {
+        "name": "Petro Rabigh",
+        "code": "2380.SR",
+        "country": "S. Arabia",
+        "rank": 25
+    },
+    {
+        "name": "Saudi Investment Bank",
+        "code": "1030.SR",
+        "country": "S. Arabia",
+        "rank": 26
+    },
+    {
+        "name": "Bank AlJazira",
+        "code": "1020.SR",
+        "country": "S. Arabia",
+        "rank": 27
+    },
+    {
+        "name": "Savola Group",
+        "code": "2050.SR",
+        "country": "S. Arabia",
+        "rank": 28
+    },
+    {
+        "name": "National Shipping Company of Saudi Arabia (Bahri)",
+        "code": "4030.SR",
+        "country": "S. Arabia",
+        "rank": 29
+    },
+    {
+        "name": "Makkah Construction & Development",
+        "code": "4100.SR",
+        "country": "S. Arabia",
+        "rank": 30
+    },
+    {
+        "name": "Zain Saudi Arabia",
+        "code": "7030.SR",
+        "country": "S. Arabia",
+        "rank": 31
+    },
+    {
+        "name": "Alamar Foods Company",
+        "code": "6014.SR",
+        "country": "S. Arabia",
+        "rank": 32
+    },
+    {
+        "name": "Al Moammar Information Systems",
+        "code": "7200.SR",
+        "country": "S. Arabia",
+        "rank": 33
+    },
+    {
+        "name": "Saudi Aramco",
+        "code": "2222.SR",
+        "country": "S. Arabia",
+        "rank": 34
+    },
+    {
+        "name": "Al Rajhi Bank",
+        "code": "1120.SR",
+        "country": "S. Arabia",
+        "rank": 35
+    },
+    {
+        "name": "SABIC",
+        "code": "2010.SR",
+        "country": "S. Arabia",
+        "rank": 36
+    },
+    {
+        "name": "The Saudi National Bank",
+        "code": "1180.SR",
+        "country": "S. Arabia",
+        "rank": 37
+    },
+    {
+        "name": "Saudi Telecom Company",
+        "code": "7010.SR",
+        "country": "S. Arabia",
+        "rank": 38
+    },
+    {
+        "name": "Maaden",
+        "code": "1211.SR",
+        "country": "S. Arabia",
+        "rank": 39
+    },
+    {
+        "name": "Saudi Electricity",
+        "code": "5110.SR",
+        "country": "S. Arabia",
+        "rank": 40
+    },
+    {
+        "name": "Riyad Bank",
+        "code": "1010.SR",
+        "country": "S. Arabia",
+        "rank": 41
+    },
+    {
+        "name": "The Saudi British Bank ",
+        "code": "1060.SR",
+        "country": "S. Arabia",
+        "rank": 42
+    },
+    {
+        "name": "Saudi Arabian Fertilizer Company",
+        "code": "2020.SR",
+        "country": "S. Arabia",
+        "rank": 43
+    },
+    {
+        "name": "Alinma Bank",
+        "code": "1150.SR",
+        "country": "S. Arabia",
+        "rank": 44
+    },
+    {
+        "name": "Almarai",
+        "code": "2280.SR",
+        "country": "S. Arabia",
+        "rank": 45
+    },
+    {
+        "name": "Arab National Bank",
+        "code": "1080.SR",
+        "country": "S. Arabia",
+        "rank": 46
+    },
+    {
+        "name": "Banque Saudi Fransi",
+        "code": "1050.SR",
+        "country": "S. Arabia",
+        "rank": 47
+    },
+    {
+        "name": "Bank Albilad",
+        "code": "1140.SR",
+        "country": "S. Arabia",
+        "rank": 48
+    },
+    {
+        "name": "Arabian Internet and Communications Services",
+        "code": "7202.SR",
+        "country": "S. Arabia",
+        "rank": 49
+    },
+    {
+        "name": "Kingdom Holding",
+        "code": "4280.SR",
+        "country": "S. Arabia",
+        "rank": 50
+    },
+    {
+        "name": "Elm Company",
+        "code": "7203.SR",
+        "country": "S. Arabia",
+        "rank": 51
+    },
+    {
+        "name": "Etihad Etisalat (Mobily)",
+        "code": "7020.SR",
+        "country": "S. Arabia",
+        "rank": 52
+    },
+    {
+        "name": "Saudi International Petrochemical Company (Sipchem)",
+        "code": "2310.SR",
+        "country": "S. Arabia",
+        "rank": 53
+    },
+    {
+        "name": "Yanbu National Petrochemical",
+        "code": "2290.SR",
+        "country": "S. Arabia",
+        "rank": 54
+    },
+    {
+        "name": "Saudi Kayan Petrochemical Company",
+        "code": "2350.SR",
+        "country": "S. Arabia",
+        "rank": 55
+    },
+    {
+        "name": "Jabal Omar Development",
+        "code": "4250.SR",
+        "country": "S. Arabia",
+        "rank": 56
+    },
+    {
+        "name": "Jarir",
+        "code": "4190.SR",
+        "country": "S. Arabia",
+        "rank": 57
+    },
+    {
+        "name": "Petro Rabigh",
+        "code": "2380.SR",
+        "country": "S. Arabia",
+        "rank": 58
+    },
+    {
+        "name": "Saudi Investment Bank",
+        "code": "1030.SR",
+        "country": "S. Arabia",
+        "rank": 59
+    },
+    {
+        "name": "Bank AlJazira",
+        "code": "1020.SR",
+        "country": "S. Arabia",
+        "rank": 60
+    },
+    {
+        "name": "Savola Group",
+        "code": "2050.SR",
+        "country": "S. Arabia",
+        "rank": 61
+    },
+    {
+        "name": "National Shipping Company of Saudi Arabia (Bahri)",
+        "code": "4030.SR",
+        "country": "S. Arabia",
+        "rank": 62
+    },
+    {
+        "name": "Makkah Construction & Development",
+        "code": "4100.SR",
+        "country": "S. Arabia",
+        "rank": 63
+    },
+    {
+        "name": "Zain Saudi Arabia",
+        "code": "7030.SR",
+        "country": "S. Arabia",
+        "rank": 64
+    },
+    {
+        "name": "Alamar Foods Company",
+        "code": "6014.SR",
+        "country": "S. Arabia",
+        "rank": 65
+    },
+    {
+        "name": "Al Moammar Information Systems",
+        "code": "7200.SR",
+        "country": "S. Arabia",
+        "rank": 66
+    },
+    {
+        "name": "Saudi Aramco",
+        "code": "2222.SR",
+        "country": "S. Arabia",
+        "rank": 67
+    },
+    {
+        "name": "Al Rajhi Bank",
+        "code": "1120.SR",
+        "country": "S. Arabia",
+        "rank": 68
+    },
+    {
+        "name": "SABIC",
+        "code": "2010.SR",
+        "country": "S. Arabia",
+        "rank": 69
+    },
+    {
+        "name": "The Saudi National Bank",
+        "code": "1180.SR",
+        "country": "S. Arabia",
+        "rank": 70
+    },
+    {
+        "name": "Saudi Telecom Company",
+        "code": "7010.SR",
+        "country": "S. Arabia",
+        "rank": 71
+    },
+    {
+        "name": "Maaden",
+        "code": "1211.SR",
+        "country": "S. Arabia",
+        "rank": 72
+    },
+    {
+        "name": "Saudi Electricity",
+        "code": "5110.SR",
+        "country": "S. Arabia",
+        "rank": 73
+    },
+    {
+        "name": "Riyad Bank",
+        "code": "1010.SR",
+        "country": "S. Arabia",
+        "rank": 74
+    },
+    {
+        "name": "The Saudi British Bank ",
+        "code": "1060.SR",
+        "country": "S. Arabia",
+        "rank": 75
+    },
+    {
+        "name": "Saudi Arabian Fertilizer Company",
+        "code": "2020.SR",
+        "country": "S. Arabia",
+        "rank": 76
+    },
+    {
+        "name": "Alinma Bank",
+        "code": "1150.SR",
+        "country": "S. Arabia",
+        "rank": 77
+    },
+    {
+        "name": "Almarai",
+        "code": "2280.SR",
+        "country": "S. Arabia",
+        "rank": 78
+    },
+    {
+        "name": "Arab National Bank",
+        "code": "1080.SR",
+        "country": "S. Arabia",
+        "rank": 79
+    },
+    {
+        "name": "Banque Saudi Fransi",
+        "code": "1050.SR",
+        "country": "S. Arabia",
+        "rank": 80
+    },
+    {
+        "name": "Bank Albilad",
+        "code": "1140.SR",
+        "country": "S. Arabia",
+        "rank": 81
+    },
+    {
+        "name": "Arabian Internet and Communications Services",
+        "code": "7202.SR",
+        "country": "S. Arabia",
+        "rank": 82
+    },
+    {
+        "name": "Kingdom Holding",
+        "code": "4280.SR",
+        "country": "S. Arabia",
+        "rank": 83
+    },
+    {
+        "name": "Elm Company",
+        "code": "7203.SR",
+        "country": "S. Arabia",
+        "rank": 84
+    },
+    {
+        "name": "Etihad Etisalat (Mobily)",
+        "code": "7020.SR",
+        "country": "S. Arabia",
+        "rank": 85
+    },
+    {
+        "name": "Saudi International Petrochemical Company (Sipchem)",
+        "code": "2310.SR",
+        "country": "S. Arabia",
+        "rank": 86
+    },
+    {
+        "name": "Yanbu National Petrochemical",
+        "code": "2290.SR",
+        "country": "S. Arabia",
+        "rank": 87
+    },
+    {
+        "name": "Saudi Kayan Petrochemical Company",
+        "code": "2350.SR",
+        "country": "S. Arabia",
+        "rank": 88
+    },
+    {
+        "name": "Jabal Omar Development",
+        "code": "4250.SR",
+        "country": "S. Arabia",
+        "rank": 89
+    },
+    {
+        "name": "Jarir",
+        "code": "4190.SR",
+        "country": "S. Arabia",
+        "rank": 90
+    },
+    {
+        "name": "Petro Rabigh",
+        "code": "2380.SR",
+        "country": "S. Arabia",
+        "rank": 91
+    },
+    {
+        "name": "Saudi Investment Bank",
+        "code": "1030.SR",
+        "country": "S. Arabia",
+        "rank": 92
+    },
+    {
+        "name": "Bank AlJazira",
+        "code": "1020.SR",
+        "country": "S. Arabia",
+        "rank": 93
+    },
+    {
+        "name": "Savola Group",
+        "code": "2050.SR",
+        "country": "S. Arabia",
+        "rank": 94
+    },
+    {
+        "name": "National Shipping Company of Saudi Arabia (Bahri)",
+        "code": "4030.SR",
+        "country": "S. Arabia",
+        "rank": 95
+    },
+    {
+        "name": "Makkah Construction & Development",
+        "code": "4100.SR",
+        "country": "S. Arabia",
+        "rank": 96
+    },
+    {
+        "name": "Zain Saudi Arabia",
+        "code": "7030.SR",
+        "country": "S. Arabia",
+        "rank": 97
+    },
+    {
+        "name": "Alamar Foods Company",
+        "code": "6014.SR",
+        "country": "S. Arabia",
+        "rank": 98
+    },
+    {
+        "name": "Al Moammar Information Systems",
+        "code": "7200.SR",
+        "country": "S. Arabia",
+        "rank": 99
+    },
+    {
+        "name": "Saudi Aramco",
+        "code": "2222.SR",
+        "country": "S. Arabia",
+        "rank": 100
+    },
+    {
+        "name": "Al Rajhi Bank",
+        "code": "1120.SR",
+        "country": "S. Arabia",
+        "rank": 101
+    },
+    {
+        "name": "SABIC",
+        "code": "2010.SR",
+        "country": "S. Arabia",
+        "rank": 102
+    },
+    {
+        "name": "The Saudi National Bank",
+        "code": "1180.SR",
+        "country": "S. Arabia",
+        "rank": 103
+    },
+    {
+        "name": "Saudi Telecom Company",
+        "code": "7010.SR",
+        "country": "S. Arabia",
+        "rank": 104
+    },
+    {
+        "name": "Maaden",
+        "code": "1211.SR",
+        "country": "S. Arabia",
+        "rank": 105
+    },
+    {
+        "name": "Saudi Electricity",
+        "code": "5110.SR",
+        "country": "S. Arabia",
+        "rank": 106
+    },
+    {
+        "name": "Riyad Bank",
+        "code": "1010.SR",
+        "country": "S. Arabia",
+        "rank": 107
+    },
+    {
+        "name": "The Saudi British Bank ",
+        "code": "1060.SR",
+        "country": "S. Arabia",
+        "rank": 108
+    },
+    {
+        "name": "Saudi Arabian Fertilizer Company",
+        "code": "2020.SR",
+        "country": "S. Arabia",
+        "rank": 109
+    },
+    {
+        "name": "Alinma Bank",
+        "code": "1150.SR",
+        "country": "S. Arabia",
+        "rank": 110
+    },
+    {
+        "name": "Almarai",
+        "code": "2280.SR",
+        "country": "S. Arabia",
+        "rank": 111
+    },
+    {
+        "name": "Arab National Bank",
+        "code": "1080.SR",
+        "country": "S. Arabia",
+        "rank": 112
+    },
+    {
+        "name": "Banque Saudi Fransi",
+        "code": "1050.SR",
+        "country": "S. Arabia",
+        "rank": 113
+    },
+    {
+        "name": "Bank Albilad",
+        "code": "1140.SR",
+        "country": "S. Arabia",
+        "rank": 114
+    },
+    {
+        "name": "Arabian Internet and Communications Services",
+        "code": "7202.SR",
+        "country": "S. Arabia",
+        "rank": 115
+    },
+    {
+        "name": "Kingdom Holding",
+        "code": "4280.SR",
+        "country": "S. Arabia",
+        "rank": 116
+    },
+    {
+        "name": "Elm Company",
+        "code": "7203.SR",
+        "country": "S. Arabia",
+        "rank": 117
+    },
+    {
+        "name": "Etihad Etisalat (Mobily)",
+        "code": "7020.SR",
+        "country": "S. Arabia",
+        "rank": 118
+    },
+    {
+        "name": "Saudi International Petrochemical Company (Sipchem)",
+        "code": "2310.SR",
+        "country": "S. Arabia",
+        "rank": 119
+    },
+    {
+        "name": "Yanbu National Petrochemical",
+        "code": "2290.SR",
+        "country": "S. Arabia",
+        "rank": 120
+    },
+    {
+        "name": "Saudi Kayan Petrochemical Company",
+        "code": "2350.SR",
+        "country": "S. Arabia",
+        "rank": 121
+    },
+    {
+        "name": "Jabal Omar Development",
+        "code": "4250.SR",
+        "country": "S. Arabia",
+        "rank": 122
+    },
+    {
+        "name": "Jarir",
+        "code": "4190.SR",
+        "country": "S. Arabia",
+        "rank": 123
+    },
+    {
+        "name": "Petro Rabigh",
+        "code": "2380.SR",
+        "country": "S. Arabia",
+        "rank": 124
+    },
+    {
+        "name": "Saudi Investment Bank",
+        "code": "1030.SR",
+        "country": "S. Arabia",
+        "rank": 125
+    },
+    {
+        "name": "Bank AlJazira",
+        "code": "1020.SR",
+        "country": "S. Arabia",
+        "rank": 126
+    },
+    {
+        "name": "Savola Group",
+        "code": "2050.SR",
+        "country": "S. Arabia",
+        "rank": 127
+    },
+    {
+        "name": "National Shipping Company of Saudi Arabia (Bahri)",
+        "code": "4030.SR",
+        "country": "S. Arabia",
+        "rank": 128
+    },
+    {
+        "name": "Makkah Construction & Development",
+        "code": "4100.SR",
+        "country": "S. Arabia",
+        "rank": 129
+    },
+    {
+        "name": "Zain Saudi Arabia",
+        "code": "7030.SR",
+        "country": "S. Arabia",
+        "rank": 130
+    },
+    {
+        "name": "Alamar Foods Company",
+        "code": "6014.SR",
+        "country": "S. Arabia",
+        "rank": 131
+    },
+    {
+        "name": "Al Moammar Information Systems",
+        "code": "7200.SR",
+        "country": "S. Arabia",
+        "rank": 132
+    },
+    {
+        "name": "Saudi Aramco",
+        "code": "2222.SR",
+        "country": "S. Arabia",
+        "rank": 133
+    },
+    {
+        "name": "Al Rajhi Bank",
+        "code": "1120.SR",
+        "country": "S. Arabia",
+        "rank": 134
+    },
+    {
+        "name": "SABIC",
+        "code": "2010.SR",
+        "country": "S. Arabia",
+        "rank": 135
+    },
+    {
+        "name": "The Saudi National Bank",
+        "code": "1180.SR",
+        "country": "S. Arabia",
+        "rank": 136
+    },
+    {
+        "name": "Saudi Telecom Company",
+        "code": "7010.SR",
+        "country": "S. Arabia",
+        "rank": 137
+    },
+    {
+        "name": "Maaden",
+        "code": "1211.SR",
+        "country": "S. Arabia",
+        "rank": 138
+    },
+    {
+        "name": "Saudi Electricity",
+        "code": "5110.SR",
+        "country": "S. Arabia",
+        "rank": 139
+    },
+    {
+        "name": "Riyad Bank",
+        "code": "1010.SR",
+        "country": "S. Arabia",
+        "rank": 140
+    },
+    {
+        "name": "The Saudi British Bank ",
+        "code": "1060.SR",
+        "country": "S. Arabia",
+        "rank": 141
+    },
+    {
+        "name": "Saudi Arabian Fertilizer Company",
+        "code": "2020.SR",
+        "country": "S. Arabia",
+        "rank": 142
+    },
+    {
+        "name": "Alinma Bank",
+        "code": "1150.SR",
+        "country": "S. Arabia",
+        "rank": 143
+    },
+    {
+        "name": "Almarai",
+        "code": "2280.SR",
+        "country": "S. Arabia",
+        "rank": 144
+    },
+    {
+        "name": "Arab National Bank",
+        "code": "1080.SR",
+        "country": "S. Arabia",
+        "rank": 145
+    },
+    {
+        "name": "Banque Saudi Fransi",
+        "code": "1050.SR",
+        "country": "S. Arabia",
+        "rank": 146
+    },
+    {
+        "name": "Bank Albilad",
+        "code": "1140.SR",
+        "country": "S. Arabia",
+        "rank": 147
+    },
+    {
+        "name": "Arabian Internet and Communications Services",
+        "code": "7202.SR",
+        "country": "S. Arabia",
+        "rank": 148
+    },
+    {
+        "name": "Kingdom Holding",
+        "code": "4280.SR",
+        "country": "S. Arabia",
+        "rank": 149
+    },
+    {
+        "name": "Elm Company",
+        "code": "7203.SR",
+        "country": "S. Arabia",
+        "rank": 150
+    },
+    {
+        "name": "Etihad Etisalat (Mobily)",
+        "code": "7020.SR",
+        "country": "S. Arabia",
+        "rank": 151
+    },
+    {
+        "name": "Saudi International Petrochemical Company (Sipchem)",
+        "code": "2310.SR",
+        "country": "S. Arabia",
+        "rank": 152
+    },
+    {
+        "name": "Yanbu National Petrochemical",
+        "code": "2290.SR",
+        "country": "S. Arabia",
+        "rank": 153
+    },
+    {
+        "name": "Saudi Kayan Petrochemical Company",
+        "code": "2350.SR",
+        "country": "S. Arabia",
+        "rank": 154
+    },
+    {
+        "name": "Jabal Omar Development",
+        "code": "4250.SR",
+        "country": "S. Arabia",
+        "rank": 155
+    },
+    {
+        "name": "Jarir",
+        "code": "4190.SR",
+        "country": "S. Arabia",
+        "rank": 156
+    },
+    {
+        "name": "Petro Rabigh",
+        "code": "2380.SR",
+        "country": "S. Arabia",
+        "rank": 157
+    },
+    {
+        "name": "Saudi Investment Bank",
+        "code": "1030.SR",
+        "country": "S. Arabia",
+        "rank": 158
+    },
+    {
+        "name": "Bank AlJazira",
+        "code": "1020.SR",
+        "country": "S. Arabia",
+        "rank": 159
+    },
+    {
+        "name": "Savola Group",
+        "code": "2050.SR",
+        "country": "S. Arabia",
+        "rank": 160
+    },
+    {
+        "name": "National Shipping Company of Saudi Arabia (Bahri)",
+        "code": "4030.SR",
+        "country": "S. Arabia",
+        "rank": 161
+    },
+    {
+        "name": "Makkah Construction & Development",
+        "code": "4100.SR",
+        "country": "S. Arabia",
+        "rank": 162
+    },
+    {
+        "name": "Zain Saudi Arabia",
+        "code": "7030.SR",
+        "country": "S. Arabia",
+        "rank": 163
+    },
+    {
+        "name": "Alamar Foods Company",
+        "code": "6014.SR",
+        "country": "S. Arabia",
+        "rank": 164
+    },
+    {
+        "name": "Al Moammar Information Systems",
+        "code": "7200.SR",
+        "country": "S. Arabia",
+        "rank": 165
+    },
+    {
+        "name": "Saudi Aramco",
+        "code": "2222.SR",
+        "country": "S. Arabia",
+        "rank": 166
+    },
+    {
+        "name": "Al Rajhi Bank",
+        "code": "1120.SR",
+        "country": "S. Arabia",
+        "rank": 167
+    },
+    {
+        "name": "SABIC",
+        "code": "2010.SR",
+        "country": "S. Arabia",
+        "rank": 168
+    },
+    {
+        "name": "The Saudi National Bank",
+        "code": "1180.SR",
+        "country": "S. Arabia",
+        "rank": 169
+    },
+    {
+        "name": "Saudi Telecom Company",
+        "code": "7010.SR",
+        "country": "S. Arabia",
+        "rank": 170
+    },
+    {
+        "name": "Maaden",
+        "code": "1211.SR",
+        "country": "S. Arabia",
+        "rank": 171
+    },
+    {
+        "name": "Saudi Electricity",
+        "code": "5110.SR",
+        "country": "S. Arabia",
+        "rank": 172
+    },
+    {
+        "name": "Riyad Bank",
+        "code": "1010.SR",
+        "country": "S. Arabia",
+        "rank": 173
+    },
+    {
+        "name": "The Saudi British Bank ",
+        "code": "1060.SR",
+        "country": "S. Arabia",
+        "rank": 174
+    },
+    {
+        "name": "Saudi Arabian Fertilizer Company",
+        "code": "2020.SR",
+        "country": "S. Arabia",
+        "rank": 175
+    },
+    {
+        "name": "Alinma Bank",
+        "code": "1150.SR",
+        "country": "S. Arabia",
+        "rank": 176
+    },
+    {
+        "name": "Almarai",
+        "code": "2280.SR",
+        "country": "S. Arabia",
+        "rank": 177
+    },
+    {
+        "name": "Arab National Bank",
+        "code": "1080.SR",
+        "country": "S. Arabia",
+        "rank": 178
+    },
+    {
+        "name": "Banque Saudi Fransi",
+        "code": "1050.SR",
+        "country": "S. Arabia",
+        "rank": 179
+    },
+    {
+        "name": "Bank Albilad",
+        "code": "1140.SR",
+        "country": "S. Arabia",
+        "rank": 180
+    },
+    {
+        "name": "Arabian Internet and Communications Services",
+        "code": "7202.SR",
+        "country": "S. Arabia",
+        "rank": 181
+    },
+    {
+        "name": "Kingdom Holding",
+        "code": "4280.SR",
+        "country": "S. Arabia",
+        "rank": 182
+    },
+    {
+        "name": "Elm Company",
+        "code": "7203.SR",
+        "country": "S. Arabia",
+        "rank": 183
+    },
+    {
+        "name": "Etihad Etisalat (Mobily)",
+        "code": "7020.SR",
+        "country": "S. Arabia",
+        "rank": 184
+    },
+    {
+        "name": "Saudi International Petrochemical Company (Sipchem)",
+        "code": "2310.SR",
+        "country": "S. Arabia",
+        "rank": 185
+    },
+    {
+        "name": "Yanbu National Petrochemical",
+        "code": "2290.SR",
+        "country": "S. Arabia",
+        "rank": 186
+    },
+    {
+        "name": "Saudi Kayan Petrochemical Company",
+        "code": "2350.SR",
+        "country": "S. Arabia",
+        "rank": 187
+    },
+    {
+        "name": "Jabal Omar Development",
+        "code": "4250.SR",
+        "country": "S. Arabia",
+        "rank": 188
+    },
+    {
+        "name": "Jarir",
+        "code": "4190.SR",
+        "country": "S. Arabia",
+        "rank": 189
+    },
+    {
+        "name": "Petro Rabigh",
+        "code": "2380.SR",
+        "country": "S. Arabia",
+        "rank": 190
+    },
+    {
+        "name": "Saudi Investment Bank",
+        "code": "1030.SR",
+        "country": "S. Arabia",
+        "rank": 191
+    },
+    {
+        "name": "Bank AlJazira",
+        "code": "1020.SR",
+        "country": "S. Arabia",
+        "rank": 192
+    },
+    {
+        "name": "Savola Group",
+        "code": "2050.SR",
+        "country": "S. Arabia",
+        "rank": 193
+    },
+    {
+        "name": "National Shipping Company of Saudi Arabia (Bahri)",
+        "code": "4030.SR",
+        "country": "S. Arabia",
+        "rank": 194
+    },
+    {
+        "name": "Makkah Construction & Development",
+        "code": "4100.SR",
+        "country": "S. Arabia",
+        "rank": 195
+    },
+    {
+        "name": "Zain Saudi Arabia",
+        "code": "7030.SR",
+        "country": "S. Arabia",
+        "rank": 196
+    },
+    {
+        "name": "Alamar Foods Company",
+        "code": "6014.SR",
+        "country": "S. Arabia",
+        "rank": 197
+    },
+    {
+        "name": "Al Moammar Information Systems",
+        "code": "7200.SR",
+        "country": "S. Arabia",
+        "rank": 198
+    },
+    {
+        "name": "Saudi Aramco",
+        "code": "2222.SR",
+        "country": "S. Arabia",
+        "rank": 199
+    },
+    {
+        "name": "Al Rajhi Bank",
+        "code": "1120.SR",
+        "country": "S. Arabia",
+        "rank": 200
+    },
+    {
+        "name": "SABIC",
+        "code": "2010.SR",
+        "country": "S. Arabia",
+        "rank": 201
+    },
+    {
+        "name": "The Saudi National Bank",
+        "code": "1180.SR",
+        "country": "S. Arabia",
+        "rank": 202
+    },
+    {
+        "name": "Saudi Telecom Company",
+        "code": "7010.SR",
+        "country": "S. Arabia",
+        "rank": 203
+    },
+    {
+        "name": "Maaden",
+        "code": "1211.SR",
+        "country": "S. Arabia",
+        "rank": 204
+    },
+    {
+        "name": "Saudi Electricity",
+        "code": "5110.SR",
+        "country": "S. Arabia",
+        "rank": 205
+    },
+    {
+        "name": "Riyad Bank",
+        "code": "1010.SR",
+        "country": "S. Arabia",
+        "rank": 206
+    },
+    {
+        "name": "The Saudi British Bank ",
+        "code": "1060.SR",
+        "country": "S. Arabia",
+        "rank": 207
+    },
+    {
+        "name": "Saudi Arabian Fertilizer Company",
+        "code": "2020.SR",
+        "country": "S. Arabia",
+        "rank": 208
+    },
+    {
+        "name": "Alinma Bank",
+        "code": "1150.SR",
+        "country": "S. Arabia",
+        "rank": 209
+    },
+    {
+        "name": "Almarai",
+        "code": "2280.SR",
+        "country": "S. Arabia",
+        "rank": 210
+    },
+    {
+        "name": "Arab National Bank",
+        "code": "1080.SR",
+        "country": "S. Arabia",
+        "rank": 211
+    },
+    {
+        "name": "Banque Saudi Fransi",
+        "code": "1050.SR",
+        "country": "S. Arabia",
+        "rank": 212
+    },
+    {
+        "name": "Bank Albilad",
+        "code": "1140.SR",
+        "country": "S. Arabia",
+        "rank": 213
+    },
+    {
+        "name": "Arabian Internet and Communications Services",
+        "code": "7202.SR",
+        "country": "S. Arabia",
+        "rank": 214
+    },
+    {
+        "name": "Kingdom Holding",
+        "code": "4280.SR",
+        "country": "S. Arabia",
+        "rank": 215
+    },
+    {
+        "name": "Elm Company",
+        "code": "7203.SR",
+        "country": "S. Arabia",
+        "rank": 216
+    },
+    {
+        "name": "Etihad Etisalat (Mobily)",
+        "code": "7020.SR",
+        "country": "S. Arabia",
+        "rank": 217
+    },
+    {
+        "name": "Saudi International Petrochemical Company (Sipchem)",
+        "code": "2310.SR",
+        "country": "S. Arabia",
+        "rank": 218
+    },
+    {
+        "name": "Yanbu National Petrochemical",
+        "code": "2290.SR",
+        "country": "S. Arabia",
+        "rank": 219
+    },
+    {
+        "name": "Saudi Kayan Petrochemical Company",
+        "code": "2350.SR",
+        "country": "S. Arabia",
+        "rank": 220
+    },
+    {
+        "name": "Jabal Omar Development",
+        "code": "4250.SR",
+        "country": "S. Arabia",
+        "rank": 221
+    },
+    {
+        "name": "Jarir",
+        "code": "4190.SR",
+        "country": "S. Arabia",
+        "rank": 222
+    },
+    {
+        "name": "Petro Rabigh",
+        "code": "2380.SR",
+        "country": "S. Arabia",
+        "rank": 223
+    },
+    {
+        "name": "Saudi Investment Bank",
+        "code": "1030.SR",
+        "country": "S. Arabia",
+        "rank": 224
+    },
+    {
+        "name": "Bank AlJazira",
+        "code": "1020.SR",
+        "country": "S. Arabia",
+        "rank": 225
+    },
+    {
+        "name": "Savola Group",
+        "code": "2050.SR",
+        "country": "S. Arabia",
+        "rank": 226
+    },
+    {
+        "name": "National Shipping Company of Saudi Arabia (Bahri)",
+        "code": "4030.SR",
+        "country": "S. Arabia",
+        "rank": 227
+    },
+    {
+        "name": "Makkah Construction & Development",
+        "code": "4100.SR",
+        "country": "S. Arabia",
+        "rank": 228
+    },
+    {
+        "name": "Zain Saudi Arabia",
+        "code": "7030.SR",
+        "country": "S. Arabia",
+        "rank": 229
+    },
+    {
+        "name": "Alamar Foods Company",
+        "code": "6014.SR",
+        "country": "S. Arabia",
+        "rank": 230
+    },
+    {
+        "name": "Al Moammar Information Systems",
+        "code": "7200.SR",
+        "country": "S. Arabia",
+        "rank": 231
+    },
+    {
+        "name": "Saudi Aramco",
+        "code": "2222.SR",
+        "country": "S. Arabia",
+        "rank": 232
+    },
+    {
+        "name": "Al Rajhi Bank",
+        "code": "1120.SR",
+        "country": "S. Arabia",
+        "rank": 233
+    },
+    {
+        "name": "SABIC",
+        "code": "2010.SR",
+        "country": "S. Arabia",
+        "rank": 234
+    },
+    {
+        "name": "The Saudi National Bank",
+        "code": "1180.SR",
+        "country": "S. Arabia",
+        "rank": 235
+    },
+    {
+        "name": "Saudi Telecom Company",
+        "code": "7010.SR",
+        "country": "S. Arabia",
+        "rank": 236
+    },
+    {
+        "name": "Maaden",
+        "code": "1211.SR",
+        "country": "S. Arabia",
+        "rank": 237
+    },
+    {
+        "name": "Saudi Electricity",
+        "code": "5110.SR",
+        "country": "S. Arabia",
+        "rank": 238
+    },
+    {
+        "name": "Riyad Bank",
+        "code": "1010.SR",
+        "country": "S. Arabia",
+        "rank": 239
+    },
+    {
+        "name": "The Saudi British Bank ",
+        "code": "1060.SR",
+        "country": "S. Arabia",
+        "rank": 240
+    },
+    {
+        "name": "Saudi Arabian Fertilizer Company",
+        "code": "2020.SR",
+        "country": "S. Arabia",
+        "rank": 241
+    },
+    {
+        "name": "Alinma Bank",
+        "code": "1150.SR",
+        "country": "S. Arabia",
+        "rank": 242
+    },
+    {
+        "name": "Almarai",
+        "code": "2280.SR",
+        "country": "S. Arabia",
+        "rank": 243
+    },
+    {
+        "name": "Arab National Bank",
+        "code": "1080.SR",
+        "country": "S. Arabia",
+        "rank": 244
+    },
+    {
+        "name": "Banque Saudi Fransi",
+        "code": "1050.SR",
+        "country": "S. Arabia",
+        "rank": 245
+    },
+    {
+        "name": "Bank Albilad",
+        "code": "1140.SR",
+        "country": "S. Arabia",
+        "rank": 246
+    },
+    {
+        "name": "Arabian Internet and Communications Services",
+        "code": "7202.SR",
+        "country": "S. Arabia",
+        "rank": 247
+    },
+    {
+        "name": "Kingdom Holding",
+        "code": "4280.SR",
+        "country": "S. Arabia",
+        "rank": 248
+    },
+    {
+        "name": "Elm Company",
+        "code": "7203.SR",
+        "country": "S. Arabia",
+        "rank": 249
+    },
+    {
+        "name": "Etihad Etisalat (Mobily)",
+        "code": "7020.SR",
+        "country": "S. Arabia",
+        "rank": 250
+    },
+    {
+        "name": "Saudi International Petrochemical Company (Sipchem)",
+        "code": "2310.SR",
+        "country": "S. Arabia",
+        "rank": 251
+    },
+    {
+        "name": "Yanbu National Petrochemical",
+        "code": "2290.SR",
+        "country": "S. Arabia",
+        "rank": 252
+    },
+    {
+        "name": "Saudi Kayan Petrochemical Company",
+        "code": "2350.SR",
+        "country": "S. Arabia",
+        "rank": 253
+    },
+    {
+        "name": "Jabal Omar Development",
+        "code": "4250.SR",
+        "country": "S. Arabia",
+        "rank": 254
+    },
+    {
+        "name": "Jarir",
+        "code": "4190.SR",
+        "country": "S. Arabia",
+        "rank": 255
+    },
+    {
+        "name": "Petro Rabigh",
+        "code": "2380.SR",
+        "country": "S. Arabia",
+        "rank": 256
+    },
+    {
+        "name": "Saudi Investment Bank",
+        "code": "1030.SR",
+        "country": "S. Arabia",
+        "rank": 257
+    },
+    {
+        "name": "Bank AlJazira",
+        "code": "1020.SR",
+        "country": "S. Arabia",
+        "rank": 258
+    },
+    {
+        "name": "Savola Group",
+        "code": "2050.SR",
+        "country": "S. Arabia",
+        "rank": 259
+    },
+    {
+        "name": "National Shipping Company of Saudi Arabia (Bahri)",
+        "code": "4030.SR",
+        "country": "S. Arabia",
+        "rank": 260
+    },
+    {
+        "name": "Makkah Construction & Development",
+        "code": "4100.SR",
+        "country": "S. Arabia",
+        "rank": 261
+    },
+    {
+        "name": "Zain Saudi Arabia",
+        "code": "7030.SR",
+        "country": "S. Arabia",
+        "rank": 262
+    },
+    {
+        "name": "Alamar Foods Company",
+        "code": "6014.SR",
+        "country": "S. Arabia",
+        "rank": 263
+    },
+    {
+        "name": "Al Moammar Information Systems",
+        "code": "7200.SR",
+        "country": "S. Arabia",
+        "rank": 264
+    },
+    {
+        "name": "Saudi Aramco",
+        "code": "2222.SR",
+        "country": "S. Arabia",
+        "rank": 265
+    },
+    {
+        "name": "Al Rajhi Bank",
+        "code": "1120.SR",
+        "country": "S. Arabia",
+        "rank": 266
+    },
+    {
+        "name": "SABIC",
+        "code": "2010.SR",
+        "country": "S. Arabia",
+        "rank": 267
+    },
+    {
+        "name": "The Saudi National Bank",
+        "code": "1180.SR",
+        "country": "S. Arabia",
+        "rank": 268
+    },
+    {
+        "name": "Saudi Telecom Company",
+        "code": "7010.SR",
+        "country": "S. Arabia",
+        "rank": 269
+    },
+    {
+        "name": "Maaden",
+        "code": "1211.SR",
+        "country": "S. Arabia",
+        "rank": 270
+    },
+    {
+        "name": "Saudi Electricity",
+        "code": "5110.SR",
+        "country": "S. Arabia",
+        "rank": 271
+    },
+    {
+        "name": "Riyad Bank",
+        "code": "1010.SR",
+        "country": "S. Arabia",
+        "rank": 272
+    },
+    {
+        "name": "The Saudi British Bank ",
+        "code": "1060.SR",
+        "country": "S. Arabia",
+        "rank": 273
+    },
+    {
+        "name": "Saudi Arabian Fertilizer Company",
+        "code": "2020.SR",
+        "country": "S. Arabia",
+        "rank": 274
+    },
+    {
+        "name": "Alinma Bank",
+        "code": "1150.SR",
+        "country": "S. Arabia",
+        "rank": 275
+    },
+    {
+        "name": "Almarai",
+        "code": "2280.SR",
+        "country": "S. Arabia",
+        "rank": 276
+    },
+    {
+        "name": "Arab National Bank",
+        "code": "1080.SR",
+        "country": "S. Arabia",
+        "rank": 277
+    },
+    {
+        "name": "Banque Saudi Fransi",
+        "code": "1050.SR",
+        "country": "S. Arabia",
+        "rank": 278
+    },
+    {
+        "name": "Bank Albilad",
+        "code": "1140.SR",
+        "country": "S. Arabia",
+        "rank": 279
+    },
+    {
+        "name": "Arabian Internet and Communications Services",
+        "code": "7202.SR",
+        "country": "S. Arabia",
+        "rank": 280
+    },
+    {
+        "name": "Kingdom Holding",
+        "code": "4280.SR",
+        "country": "S. Arabia",
+        "rank": 281
+    },
+    {
+        "name": "Elm Company",
+        "code": "7203.SR",
+        "country": "S. Arabia",
+        "rank": 282
+    },
+    {
+        "name": "Etihad Etisalat (Mobily)",
+        "code": "7020.SR",
+        "country": "S. Arabia",
+        "rank": 283
+    },
+    {
+        "name": "Saudi International Petrochemical Company (Sipchem)",
+        "code": "2310.SR",
+        "country": "S. Arabia",
+        "rank": 284
+    },
+    {
+        "name": "Yanbu National Petrochemical",
+        "code": "2290.SR",
+        "country": "S. Arabia",
+        "rank": 285
+    },
+    {
+        "name": "Saudi Kayan Petrochemical Company",
+        "code": "2350.SR",
+        "country": "S. Arabia",
+        "rank": 286
+    },
+    {
+        "name": "Jabal Omar Development",
+        "code": "4250.SR",
+        "country": "S. Arabia",
+        "rank": 287
+    },
+    {
+        "name": "Jarir",
+        "code": "4190.SR",
+        "country": "S. Arabia",
+        "rank": 288
+    },
+    {
+        "name": "Petro Rabigh",
+        "code": "2380.SR",
+        "country": "S. Arabia",
+        "rank": 289
+    },
+    {
+        "name": "Saudi Investment Bank",
+        "code": "1030.SR",
+        "country": "S. Arabia",
+        "rank": 290
+    },
+    {
+        "name": "Bank AlJazira",
+        "code": "1020.SR",
+        "country": "S. Arabia",
+        "rank": 291
+    },
+    {
+        "name": "Savola Group",
+        "code": "2050.SR",
+        "country": "S. Arabia",
+        "rank": 292
+    },
+    {
+        "name": "National Shipping Company of Saudi Arabia (Bahri)",
+        "code": "4030.SR",
+        "country": "S. Arabia",
+        "rank": 293
+    },
+    {
+        "name": "Makkah Construction & Development",
+        "code": "4100.SR",
+        "country": "S. Arabia",
+        "rank": 294
+    },
+    {
+        "name": "Zain Saudi Arabia",
+        "code": "7030.SR",
+        "country": "S. Arabia",
+        "rank": 295
+    },
+    {
+        "name": "Alamar Foods Company",
+        "code": "6014.SR",
+        "country": "S. Arabia",
+        "rank": 296
+    },
+    {
+        "name": "Al Moammar Information Systems",
+        "code": "7200.SR",
+        "country": "S. Arabia",
+        "rank": 297
+    }
+]
