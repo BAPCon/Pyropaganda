@@ -1,12 +1,10 @@
 import newspaper
 import os
-from . import rss
 
 publishers = []
 class News:
     def __init__(self) -> None:
-        global rss
-        self.rss_feeds = rss.countries
+        pass
 
     def fetch(self, link):
         article = newspaper.Article(link)

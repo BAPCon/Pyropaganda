@@ -18,7 +18,7 @@ class Telegram:
     
     def get_channel_posts(self, channel_username, limit=10):
         channel_entity=self.client.get_entity(channel_username)
-        print(json.dumps(channel_entity.__dict__, indent=4))
+        #print(json.dumps(channel_entity.__dict__, indent=4))
         posts = self.client(GetHistoryRequest(
             peer=channel_entity,
             limit=limit,

@@ -1,47 +1,62 @@
 import pyropaganda
-import xmltodict
-import requests
-import newspaper
 import json
-import nltk
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+#pyropaganda.check_feeds()
+import pyautogui
+import requests
 from bs4 import BeautifulSoup
-import spacy
-from spacy import displacy
-from spacy import tokenizer
-nlp = spacy.load('en_core_web_sm')
- 
-
-feeds = ['https://www.rt.com/rss/russia/',
-            'https://www.rt.com/rss/news/'
-        ]
-articles = []
-
-for feed in feeds:
-    for article in xmltodict.parse(requests.get(feed).text).get('rss').get('channel').get('item'):
-        
-        articlenp = newspaper.Article(article.get('link'))
-        articlenp.download()
-        articlenp.parse()
-        text = articlenp.text
-        doc = nlp(text)
-        sentences = list(doc.sents)
-        ents = [(e.text, e.start_char, e.end_char, e.label_) for e in doc.ents]
-        
-        articles.append({
-            'title': article.get('title'),
-            'link': article.get('link'),
-            'keywords': ents
-        })
-
-        f = open('ukraine_articles.json',"w")
-        f.write(json.dumps(articles, indent=4))
-        f.close()
+import random
+import time
+import threading
+from pynput.mouse import Listener
 
 
-        
+on_move_exec = ""
+on_click_exec = """def on_move(x, y):
+    global on_move_exec
+    exec(on_move_exec)
+
+def on_click(x, y, button, pressed):
+    #print(x, y, button, pressed)
+    global on_click_exec
+    exec(on_click_exec)
+
+
+def on_scroll(x, y, dx, dy):
+    pass
+
+def run_mouse():
+    with Listener(on_move=on_move, on_click=on_click, on_scroll=on_scroll) as listener:
+        listener.join()
+
+
+t = threading.Thread(target=run_mouse)
+t.start()"""
+
+
+t = threading.Thread(target=pyropaganda.browser.organic_move_loop)
+t.start()
 
 
 
 
-    
+pyropaganda.browser.start()
 
+pyropaganda.browser.maximize_window()
+print('loading!')
+#pyropaganda.browser.login_youtube()
+pyropaganda.browser.opensite('https://www.youtube.com/watch?v=KhJzEEBqBq4')
+try:
+    video = pyropaganda.browser.build_video()
+except Exception as e:
+    print(e)
+print('Done loading!')
+exec(open('run.txt','r').read())
+while True:
+    print('runnning loop!')
+    try:
+        res = input('Enter command:/n')
+        exec(exec(open('run.txt','r').read()))
+    except:
+        pass

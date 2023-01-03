@@ -10,16 +10,30 @@
             "travel",
             "opinion",
             "tech"
-        ]
+        ],
+        "feeds": {
+            "random_selection_size": 20,
+            "cluster_threshold": 0.40,
+            "per_feed": 10,
+            "use_summaries": false,
+            "save_frequency_minutes": 15
+        }
     },
     "browser": {
         "check_drivers": true,
-        "start_immediately": false
+        "start_immediately": false,
+        "max_ms_delay": 400,
+        "avg_ms_delay": 100,
+        "youtube_account": {
+            "email": "computersandcash@gmail.com",
+            "password": "tacodog44"
+        }
     },
     "telegram": {
         "api_id": "28939291",
         "api_hash": "ecf0450add142bfd581f537cde42a853",
         "phone_number": "15615963611",
-        "start_immediately": true
+        "start_immediately": true,
+        "polling_frequency": 120
     }
 }

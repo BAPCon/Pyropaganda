@@ -1,0 +1,73 @@
+try:
+    #time.sleep(3)
+    #pyropaganda.browser.login_youtube()
+    #pyropaganda.browser.opensite('https://www.youtube.com/watch?v=KhJzEEBqBq4')
+    #time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    time.sleep(2)
+    pyropaganda.browser.scroll_down()
+    #video = pyropaganda.browser.build_video()
+    #print(video.play())
+
+    suggested = pyropaganda.browser.driver.find_elements(By.CSS_SELECTOR, 'a')
+    links = []
+    for sa in suggested:
+        try:
+            if sa.get_attribute('class').count('yt-simple-endpoint') > 0:
+                if sa.get_attribute('href').count('watch') > 0:
+                    links.append({
+                        "element": sa,
+                        "link": sa.get_attribute('href')
+                })
+        except: pass
+    print(links)
+    #ytd-compact-video-renderer
+except Exception as e:
+    print(e)
+
